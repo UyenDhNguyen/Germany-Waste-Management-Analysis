@@ -1,0 +1,925 @@
+Year,Sector Code,Economic Sector,EAV Code,Waste Description,Number Of Companies,Amount Of Waste Generated (1000t)
+2010,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-01,waste from the extraction of mineral resources,,
+2010,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-02,"Waste from agriculture, forestry, etc.",24.0,16.4
+2010,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-03,"Waste from woodworking, etc.",,
+2010,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-04,"Waste from the leather, fur and textile industries",,
+2010,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-05,"Waste from petroleum refining, natural gas purification",,
+2010,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-06,Waste from inorganic chemical processes,,
+2010,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-07,Waste from organic chemical processes,3.0,0.0
+2010,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-08,"Waste from MFSU from coatings, adhesives, etc.",,
+2010,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-09,Waste from the photographic industry,,
+2010,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-10,Waste from thermal processes,,
+2010,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-11,Waste from chemical surface treatment,,
+2010,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-12,Waste from mechanical shaping processes,,
+2010,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-13,Oil waste and liquid fuel waste,18.0,0.2
+2010,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-14,"Waste from organic solvents, coolants",5.0,0.0
+2010,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-15,"Packaging waste, absorbents, wipes",43.0,13.4
+2010,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-16,Waste not included elsewhere in the inventory,16.0,0.3
+2010,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-17,Construction and demolition waste,21.0,1.3
+2010,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-18,Waste from medical supplies,,
+2010,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-19,Waste from waste treatment plants e.g.,,
+2010,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-20,Municipal waste (household waste and similar waste),52.0,8.0
+2010,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-99,Hazardous waste,,
+2010,WZ08-01-03,"Agriculture And Forestry, Fisheries",,In total,55.0,39.6
+2010,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-01,Waste from the extraction of mineral resources,11.0,152.7
+2010,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-02,"Waste from agriculture, forestry, etc.",13.0,0.2
+2010,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-03,"Waste from wood processing, etc.",,
+2010,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-04,"Waste from the leather, fur and textile industries",,
+2010,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-05,"Waste from petroleum refining, natural gas purification",5.0,2.7
+2010,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-06,Waste from inorganic chemical processes,18.0,4.6
+2010,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-07,Waste from organic chemical processes,19.0,0.9
+2010,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-08,"Waste from MFSU from coatings, adhesives, etc.",20.0,1.8
+2010,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-09,Waste from the photographic industry,9.0,0.0
+2010,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-10,Waste from thermal processes,5.0,190.4
+2010,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-11,Waste from chemical surface treatment,7.0,0.4
+2010,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-12,Waste from mechanical shaping processes,24.0,5.2
+2010,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-13,waste oil and liquid fuel waste,49.0,8.4
+2010,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-14,"Waste from organic solvents, coolants",22.0,0.0
+2010,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-15,"Packaging waste, absorbents, wipes",60.0,118.0
+2010,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-16,Waste not included elsewhere in the inventory,48.0,17.9
+2010,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-17,Construction and demolition waste,46.0,822.4
+2010,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-18,Waste from medical care,,
+2010,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-19,Waste from waste treatment plants e.g.,19.0,186.3
+2010,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-20,Municipal waste (household waste and similar waste),63.0,57.8
+2010,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-99,Hazardous waste,,
+2010,WZ08-05-02,Mining And Quarrying Of Stone And Earth,,In total,64.0,1569.7
+2010,WZ08-10-01,Food Industry And Tobacco Processing,EAV-01,Waste from the extraction of mineral resources,,
+2010,WZ08-10-01,Food Industry And Tobacco Processing,EAV-02,"Waste from agriculture, forestry, etc.",1031.0,5536.7
+2010,WZ08-10-01,Food Industry And Tobacco Processing,EAV-03,"Waste from woodworking, etc.",13.0,0.4
+2010,WZ08-10-01,Food Industry And Tobacco Processing,EAV-04,"Waste from the leather, fur and textile industries",3.0,0.5
+2010,WZ08-10-01,Food Industry And Tobacco Processing,EAV-05,"Waste from petroleum refining, natural gas purification",15.0,0.0
+2010,WZ08-10-01,Food Industry And Tobacco Processing,EAV-06,Waste from inorganic chemical processes,74.0,4.8
+2010,WZ08-10-01,Food Industry And Tobacco Processing,EAV-07,Waste from organic chemical processes,121.0,17.2
+2010,WZ08-10-01,Food Industry And Tobacco Processing,EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",134.0,0.1
+2010,WZ08-10-01,Food Industry And Tobacco Processing,EAV-09,Waste from the photographic industry,5.0,0.0
+2010,WZ08-10-01,Food Industry And Tobacco Processing,EAV-10,Waste from thermal processes,46.0,42.7
+2010,WZ08-10-01,Food Industry And Tobacco Processing,EAV-11,Waste from chemical surface treatment,13.0,0.0
+2010,WZ08-10-01,Food Industry And Tobacco Processing,EAV-12,Waste from mechanical shaping processes,91.0,2.4
+2010,WZ08-10-01,Food Industry And Tobacco Processing,EAV-13,Oil waste and liquid fuel waste,519.0,6.9
+2010,WZ08-10-01,Food Industry And Tobacco Processing,EAV-14,"Waste from organic solvents, coolants",141.0,0.2
+2010,WZ08-10-01,Food Industry And Tobacco Processing,EAV-15,"Packaging waste, absorbents, wipes",1240.0,527.8
+2010,WZ08-10-01,Food Industry And Tobacco Processing,EAV-16,Waste not included elsewhere in the inventory,426.0,11.4
+2010,WZ08-10-01,Food Industry And Tobacco Processing,EAV-17,construction and demolition waste,601.0,128.2
+2010,WZ08-10-01,Food Industry And Tobacco Processing,EAV-18,Waste from medical care,7.0,0.7
+2010,WZ08-10-01,Food Industry And Tobacco Processing,EAV-19,Waste from waste treatment plants e.g.,224.0,251.0
+2010,WZ08-10-01,Food Industry And Tobacco Processing,EAV-20,Municipal waste (household waste and similar waste),1379.0,432.0
+2010,WZ08-10-01,Food Industry And Tobacco Processing,EAV-99,Hazardous waste,,
+2010,WZ08-10-01,Food Industry And Tobacco Processing,,In total,1439.0,6963.2
+2010,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-01,Waste from the extraction of mineral resources,,
+2010,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-02,"Waste from agriculture, forestry, etc.",13.0,0.1
+2010,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-03,"Waste from wood processing, etc.",5.0,0.1
+2010,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-04,"Waste from the leather, fur and textile industries",332.0,103.9
+2010,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-05,"Waste from petroleum refining, natural gas purification",,
+2010,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-06,Waste from inorganic chemical processes,22.0,0.1
+2010,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-07,Waste from organic chemical processes,92.0,10.1
+2010,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",113.0,2.8
+2010,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-09,Waste from the photographic industry,3.0,0.0
+2010,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-10,Waste from thermal processes,11.0,2.5
+2010,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-11,Waste from chemical surface treatment,7.0,0.0
+2010,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-12,Waste from mechanical shaping processes,47.0,0.6
+2010,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-13,Oil waste and liquid fuel waste,155.0,1.2
+2010,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-14,"Waste from organic solvents, coolants",42.0,0.1
+2010,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-15,"Packaging waste, absorbent masses, wipes",559.0,53.0
+2010,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-16,Waste not included elsewhere in the inventory,119.0,0.7
+2010,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-17,construction and demolition waste,205.0,8.4
+2010,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-18,Waste from medical supplies,,
+2010,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-19,Waste from waste treatment plants e.g.,54.0,13.1
+2010,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-20,Municipal waste (household waste and similar waste),626.0,36.0
+2010,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-99,Hazardous waste,,
+2010,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",,In total,645.0,232.8
+2010,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-01,Waste from the extraction of mineral resources,,
+2010,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-02,"Waste from agriculture, forestry, etc.",9.0,0.2
+2010,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-03,"Waste from woodworking, etc.",242.0,3272.2
+2010,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-04,"Waste from the leather, fur and textile industries",,
+2010,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-05,"Waste from petroleum refining, natural gas purification",,
+2010,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-06,Waste from inorganic chemical processes,14.0,0.1
+2010,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-07,Waste from organic chemical processes,34.0,1.0
+2010,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-08,"Waste from MFSU from coatings, adhesives, etc.",126.0,5.4
+2010,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-09,Waste from the photographic industry,,
+2010,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-10,Waste from thermal processes,149.0,178.8
+2010,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-11,Waste from chemical surface treatment,6.0,0.0
+2010,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-12,Waste from mechanical shaping processes,61.0,3.6
+2010,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-13,waste oil and liquid fuel waste,122.0,1.8
+2010,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-14,"Waste from organic solvents, coolants",27.0,1.1
+2010,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-15,"Packaging waste, absorbents, wipes",312.0,43.6
+2010,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-16,Waste not included elsewhere in the inventory,82.0,1.1
+2010,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-17,Construction and demolition waste,181.0,35.8
+2010,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-18,Waste from medical care,,
+2010,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-19,Waste from waste treatment plants e.g.,36.0,47.9
+2010,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-20,Municipal waste (household waste and similar waste),385.0,42.7
+2010,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-99,Hazardous waste,,
+2010,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",,In total,401.0,3635.4
+2010,WZ08-17-03,Paper And Printing Trades,EAV-01,Waste from the extraction of mineral resources,,
+2010,WZ08-17-03,Paper And Printing Trades,EAV-02,"Waste from agriculture, forestry, etc.",66.0,2.0
+2010,WZ08-17-03,Paper And Printing Trades,EAV-03,"Waste from wood processing, etc.",492.0,5629.6
+2010,WZ08-17-03,Paper And Printing Trades,EAV-04,"Waste from the leather, fur and textile industries",13.0,16.4
+2010,WZ08-17-03,Paper And Printing Trades,EAV-05,"Waste from petroleum refining, natural gas purification",,
+2010,WZ08-17-03,Paper And Printing Trades,EAV-06,Waste from inorganic chemical processes,69.0,4.9
+2010,WZ08-17-03,Paper And Printing Trades,EAV-07,Waste from organic chemical processes,263.0,36.0
+2010,WZ08-17-03,Paper And Printing Trades,EAV-08,"Waste from MFSU from coatings, adhesives, etc.",794.0,49.1
+2010,WZ08-17-03,Paper And Printing Trades,EAV-09,Waste from the photographic industry,439.0,17.7
+2010,WZ08-17-03,Paper And Printing Trades,EAV-10,Waste from thermal processes,39.0,450.7
+2010,WZ08-17-03,Paper And Printing Trades,EAV-11,Waste from chemical surface treatment,69.0,2.2
+2010,WZ08-17-03,Paper And Printing Trades,EAV-12,Waste from mechanical shaping processes,152.0,12.0
+2010,WZ08-17-03,Paper And Printing Trades,EAV-13,waste oil and liquid fuel waste,504.0,20.9
+2010,WZ08-17-03,Paper And Printing Trades,EAV-14,"Waste from organic solvents, coolants",337.0,4.8
+2010,WZ08-17-03,Paper And Printing Trades,EAV-15,"Packaging waste, absorbents, wipes",1069.0,559.8
+2010,WZ08-17-03,Paper And Printing Trades,EAV-16,Waste not included elsewhere in the inventory,358.0,12.0
+2010,WZ08-17-03,Paper And Printing Trades,EAV-17,construction and demolition waste,491.0,77.6
+2010,WZ08-17-03,Paper And Printing Trades,EAV-18,Waste from medical care,3.0,0.0
+2010,WZ08-17-03,Paper And Printing Trades,EAV-19,Waste from waste treatment plants e.g.,174.0,216.3
+2010,WZ08-17-03,Paper And Printing Trades,EAV-20,Municipal waste (household waste and similar waste),1245.0,885.8
+2010,WZ08-17-03,Paper And Printing Trades,EAV-99,Hazardous waste,,
+2010,WZ08-17-03,Paper And Printing Trades,,In total,1267.0,7998.0
+2010,WZ08-19,Coking Plant And Petroleum Processing,EAV-01,waste from the extraction of mineral resources,,
+2010,WZ08-19,Coking Plant And Petroleum Processing,EAV-02,"Waste from agriculture, forestry, etc.",7.0,0.3
+2010,WZ08-19,Coking Plant And Petroleum Processing,EAV-03,"Waste from woodworking, etc.",,
+2010,WZ08-19,Coking Plant And Petroleum Processing,EAV-04,"Waste from the leather, fur and textile industries",,
+2010,WZ08-19,Coking Plant And Petroleum Processing,EAV-05,"Waste from petroleum refining, natural gas purification",25.0,28.9
+2010,WZ08-19,Coking Plant And Petroleum Processing,EAV-06,Waste from inorganic chemical processes,18.0,32.4
+2010,WZ08-19,Coking Plant And Petroleum Processing,EAV-07,Waste from organic chemical processes,28.0,8.0
+2010,WZ08-19,Coking Plant And Petroleum Processing,EAV-08,"Waste from MFSU from coatings, adhesives, etc.",12.0,0.0
+2010,WZ08-19,Coking Plant And Petroleum Processing,EAV-09,Waste from the photographic industry,,
+2010,WZ08-19,Coking Plant And Petroleum Processing,EAV-10,Waste from thermal processes,9.0,31.5
+2010,WZ08-19,Coking Plant And Petroleum Processing,EAV-11,Waste from chemical surface treatment,5.0,0.1
+2010,WZ08-19,Coking Plant And Petroleum Processing,EAV-12,Waste from mechanical shaping processes,24.0,4.8
+2010,WZ08-19,Coking Plant And Petroleum Processing,EAV-13,Oil waste and liquid fuel waste,35.0,20.2
+2010,WZ08-19,Coking Plant And Petroleum Processing,EAV-14,"Waste from organic solvents, coolants",16.0,1.4
+2010,WZ08-19,Coking Plant And Petroleum Processing,EAV-15,"Packaging waste, absorbents, wipes",48.0,5.6
+2010,WZ08-19,Coking Plant And Petroleum Processing,EAV-16,Waste not included elsewhere in the inventory,39.0,19.2
+2010,WZ08-19,Coking Plant And Petroleum Processing,EAV-17,construction and demolition waste,34.0,79.6
+2010,WZ08-19,Coking Plant And Petroleum Processing,EAV-18,Waste from medical care,4.0,0.0
+2010,WZ08-19,Coking Plant And Petroleum Processing,EAV-19,"Waste from waste treatment plants, etc.",17.0,22.1
+2010,WZ08-19,Coking Plant And Petroleum Processing,EAV-20,Municipal waste (household waste and similar waste),47.0,8.8
+2010,WZ08-19,Coking Plant And Petroleum Processing,EAV-99,Hazardous waste,,
+2010,WZ08-19,Coking Plant And Petroleum Processing,,In total,48.0,263.0
+2010,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-01,waste from the extraction of mineral resources,23.0,1399.1
+2010,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-02,"Waste from agriculture, forestry, etc.",256.0,288.5
+2010,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-03,"Waste from wood processing, etc.",74.0,35.2
+2010,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-04,"Waste from the leather, fur and textile industries",36.0,12.1
+2010,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-05,"Waste from petroleum refining, natural gas purification",31.0,11.6
+2010,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-06,Waste from inorganic chemical processes,456.0,490.1
+2010,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-07,Waste from organic chemical processes,1711.0,1811.1
+2010,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",900.0,96.0
+2010,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-09,Waste from the photographic industry,36.0,2.1
+2010,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-10,Waste from thermal processes,147.0,144.3
+2010,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-11,Waste from chemical surface treatment,217.0,47.5
+2010,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-12,Waste from mechanical shaping processes,945.0,86.8
+2010,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-13,waste oil and liquid fuel waste,1344.0,38.0
+2010,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-14,"Waste from organic solvents, coolants",579.0,18.7
+2010,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-15,"Packaging waste, absorbent masses, wipes",2670.0,476.9
+2010,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-16,Waste not included elsewhere in the inventory,1225.0,137.9
+2010,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-17,Construction and demolition waste,1388.0,960.3
+2010,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-18,Waste from medical care,125.0,47.2
+2010,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-19,Waste from waste treatment plants e.g.,396.0,1139.7
+2010,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-20,Municipal waste (household waste and similar waste),2860.0,351.0
+2010,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-99,Hazardous waste,,
+2010,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",,In total,2963.0,7594.2
+2010,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-01,waste from the extraction of mineral resources,41.0,263.6
+2010,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-02,"Waste from agriculture, forestry, etc.",49.0,0.5
+2010,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-03,"Waste from woodworking, etc.",62.0,7.5
+2010,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-04,"Waste from the leather, fur and textile industries",5.0,0.8
+2010,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-05,"Waste from petroleum refining, natural gas purification",6.0,1.4
+2010,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-06,Waste from inorganic chemical processes,99.0,5.5
+2010,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-07,Waste from organic chemical processes,139.0,6.4
+2010,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",242.0,15.4
+2010,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-09,Waste from the photographic industry,8.0,0.0
+2010,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-10,Waste from thermal processes,512.0,985.3
+2010,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-11,Waste from chemical surface treatment,43.0,1.3
+2010,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-12,Waste from mechanical shaping processes,215.0,12.7
+2010,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-13,Oil waste and liquid fuel waste,490.0,16.0
+2010,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-14,"Waste from organic solvents, coolants",139.0,0.5
+2010,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-15,"Packaging waste, absorbents, wipes",805.0,76.8
+2010,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-16,Waste not included elsewhere in the inventory,379.0,33.7
+2010,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-17,Construction and demolition waste,614.0,439.0
+2010,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-18,Waste from medical care,,
+2010,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-19,"Waste from waste treatment plants, etc.",110.0,64.6
+2010,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-20,Municipal waste (household waste and similar waste),928.0,95.4
+2010,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-99,Hazardous waste,,
+2010,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",,In total,956.0,2026.3
+2010,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-01,waste from the extraction of mineral resources,4.0,2.2
+2010,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-02,"Waste from agriculture, forestry, etc.",104.0,1.8
+2010,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-03,"Waste from wood processing, etc.",54.0,3.1
+2010,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-04,"Waste from the leather, fur and textile industries",3.0,0.6
+2010,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-05,"Waste from petroleum refining, natural gas purification",22.0,4.2
+2010,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-06,Waste from inorganic chemical processes,368.0,118.0
+2010,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-07,Waste from organic chemical processes,363.0,20.9
+2010,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",652.0,14.1
+2010,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-09,Waste from the photographic industry,54.0,0.2
+2010,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-10,Waste from thermal processes,427.0,6854.7
+2010,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-11,Waste from chemical surface treatment,597.0,449.8
+2010,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-12,Waste from mechanical shaping processes,1538.0,1775.9
+2010,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-13,waste oil and liquid fuel waste,1270.0,66.1
+2010,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-14,"Waste from organic solvents, coolants",485.0,7.4
+2010,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-15,"Packaging waste, absorbents, wipes",1744.0,243.5
+2010,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-16,Waste not included elsewhere in the inventory,878.0,355.4
+2010,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-17,construction and demolition waste,1065.0,1180.6
+2010,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-18,Waste from medical care,12.0,0.0
+2010,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-19,"Waste from waste treatment plants, etc.",332.0,128.4
+2010,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-20,Municipal waste (household waste and similar waste),1829.0,230.8
+2010,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-99,Hazardous waste,,
+2010,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",,In total,1877.0,11457.7
+2010,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-01,waste from the extraction of mineral resources,13.0,0.7
+2010,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-02,"Waste from agriculture, forestry, etc.",587.0,19.4
+2010,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-03,"Waste from wood processing, etc.",133.0,15.1
+2010,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-04,"Waste from the leather, fur and textile industries",38.0,18.8
+2010,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-05,"Waste from petroleum refining, natural gas purification",21.0,0.4
+2010,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-06,Waste from inorganic chemical processes,653.0,44.4
+2010,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-07,Waste from organic chemical processes,1248.0,83.4
+2010,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",2409.0,80.6
+2010,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-09,Waste from the photographic industry,142.0,0.3
+2010,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-10,Waste from thermal processes,377.0,297.5
+2010,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-11,Waste from chemical surface treatment,962.0,74.2
+2010,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-12,Waste from mechanical shaping processes,3627.0,3679.9
+2010,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-13,Oil waste and liquid fuel waste,2816.0,81.9
+2010,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-14,"Waste from organic solvents, coolants",1422.0,11.0
+2010,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-15,"Packaging waste, absorbent masses, wipes",4820.0,627.8
+2010,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-16,Waste not included elsewhere in the inventory,2687.0,309.6
+2010,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-17,Construction and demolition waste,2678.0,1145.8
+2010,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-18,Waste from medical care,44.0,0.5
+2010,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-19,Waste from waste treatment plants e.g.,586.0,92.6
+2010,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-20,Municipal waste (household waste and similar waste),5297.0,707.5
+2010,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-99,Hazardous waste,,
+2010,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",,In total,5399.0,7291.3
+2010,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-01,Waste from the extraction of mineral resources,3.0,0.0
+2010,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-02,"Waste from agriculture, forestry, etc.",32.0,0.4
+2010,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-03,"Waste from woodworking, etc.",297.0,263.0
+2010,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-04,"Waste from the leather, fur and textile industries",42.0,3.6
+2010,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-05,"Waste from petroleum refining, natural gas purification",,
+2010,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-06,Waste from inorganic chemical processes,71.0,2.4
+2010,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-07,Waste from organic chemical processes,213.0,21.1
+2010,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",361.0,7.4
+2010,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-09,Waste from the photographic industry,17.0,0.0
+2010,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-10,Waste from thermal processes,186.0,5.8
+2010,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-11,Waste from chemical surface treatment,124.0,3.8
+2010,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-12,Waste from mechanical shaping processes,387.0,51.9
+2010,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-13,Oil waste and liquid fuel waste,279.0,42.8
+2010,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-14,"Waste from organic solvents, coolants",167.0,0.8
+2010,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-15,"Packaging waste, absorbent masses, wipes",906.0,64.5
+2010,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-16,Waste not included elsewhere in the inventory,250.0,2.1
+2010,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-17,construction and demolition waste,357.0,23.3
+2010,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-18,Waste from medical care,16.0,0.1
+2010,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-19,"Waste from waste treatment plants, etc.",75.0,2.8
+2010,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-20,Municipal waste (household waste and similar waste),1059.0,77.8
+2010,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-99,Hazardous waste,,
+2010,WZ08-31-02,Manufacture Of Furniture And Other Goods,,In total,1082.0,573.6
+2010,WZ08-35-01,"Energy Supply, Water Supply",EAV-01,waste from the extraction of mineral resources,3.0,0.4
+2010,WZ08-35-01,"Energy Supply, Water Supply",EAV-02,"Waste from agriculture, forestry, etc.",91.0,2.6
+2010,WZ08-35-01,"Energy Supply, Water Supply",EAV-03,"Waste from wood processing, etc.",6.0,0.1
+2010,WZ08-35-01,"Energy Supply, Water Supply",EAV-04,"Waste from the leather, fur and textile industries",,
+2010,WZ08-35-01,"Energy Supply, Water Supply",EAV-05,"Waste from petroleum refining, natural gas purification",21.0,0.2
+2010,WZ08-35-01,"Energy Supply, Water Supply",EAV-06,Waste from inorganic chemical processes,54.0,8.3
+2010,WZ08-35-01,"Energy Supply, Water Supply",EAV-07,Waste from organic chemical processes,68.0,2.9
+2010,WZ08-35-01,"Energy Supply, Water Supply",EAV-08,"Waste from MFSU from coatings, adhesives, etc.",137.0,0.1
+2010,WZ08-35-01,"Energy Supply, Water Supply",EAV-09,Waste from the photographic industry,19.0,0.0
+2010,WZ08-35-01,"Energy Supply, Water Supply",EAV-10,Waste from thermal processes,51.0,6397.2
+2010,WZ08-35-01,"Energy Supply, Water Supply",EAV-11,Waste from chemical surface treatment,24.0,0.2
+2010,WZ08-35-01,"Energy Supply, Water Supply",EAV-12,Waste from mechanical shaping processes,86.0,7.0
+2010,WZ08-35-01,"Energy Supply, Water Supply",EAV-13,waste oil and liquid fuel waste,216.0,16.9
+2010,WZ08-35-01,"Energy Supply, Water Supply",EAV-14,"Waste from organic solvents, coolants",68.0,0.1
+2010,WZ08-35-01,"Energy Supply, Water Supply",EAV-15,"Packaging waste, absorbents, wipes",269.0,15.0
+2010,WZ08-35-01,"Energy Supply, Water Supply",EAV-16,Waste not included elsewhere in the inventory,234.0,25.4
+2010,WZ08-35-01,"Energy Supply, Water Supply",EAV-17,Construction and demolition waste,242.0,1232.5
+2010,WZ08-35-01,"Energy Supply, Water Supply",EAV-18,Waste from medical supplies,14.0,0.0
+2010,WZ08-35-01,"Energy Supply, Water Supply",EAV-19,Waste from waste treatment plants e.g.,124.0,791.8
+2010,WZ08-35-01,"Energy Supply, Water Supply",EAV-20,Municipal waste (household waste and similar waste),303.0,65.8
+2010,WZ08-35-01,"Energy Supply, Water Supply",EAV-99,Hazardous waste,,
+2010,WZ08-35-01,"Energy Supply, Water Supply",,In total,306.0,8566.5
+2010,WZ08-45-04,Services,EAV-01,waste from the extraction of mineral resources,8.0,0.8
+2010,WZ08-45-04,Services,EAV-02,"Waste from agriculture, forestry, etc.",933.0,86.9
+2010,WZ08-45-04,Services,EAV-03,"Waste from woodworking, etc.",67.0,1.8
+2010,WZ08-45-04,Services,EAV-04,"Waste from the leather, fur and textile industries",,
+2010,WZ08-45-04,Services,EAV-05,"Waste from petroleum refining, natural gas purification",,
+2010,WZ08-45-04,Services,EAV-06,Waste from inorganic chemical processes,219.0,0.5
+2010,WZ08-45-04,Services,EAV-07,Waste from organic chemical processes,442.0,6.4
+2010,WZ08-45-04,Services,EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",501.0,2.6
+2010,WZ08-45-04,Services,EAV-09,Waste from the photographic industry,472.0,2.3
+2010,WZ08-45-04,Services,EAV-10,Waste from thermal processes,39.0,2.8
+2010,WZ08-45-04,Services,EAV-11,Waste from chemical surface treatment,104.0,0.7
+2010,WZ08-45-04,Services,EAV-12,Waste from mechanical shaping processes,204.0,10.8
+2010,WZ08-45-04,Services,EAV-13,waste oil and liquid fuel waste,657.0,30.1
+2010,WZ08-45-04,Services,EAV-14,"Waste from organic solvents, coolants",257.0,6.4
+2010,WZ08-45-04,Services,EAV-15,"Packaging waste, absorbent masses, wipes",2389.0,665.2
+2010,WZ08-45-04,Services,EAV-16,Waste not included elsewhere in the inventory,1222.0,48.0
+2010,WZ08-45-04,Services,EAV-17,construction and demolition waste,1230.0,4527.3
+2010,WZ08-45-04,Services,EAV-18,Waste from medical care,832.0,202.4
+2010,WZ08-45-04,Services,EAV-19,"Waste from waste treatment plants, etc.",291.0,80.3
+2010,WZ08-45-04,Services,EAV-20,Municipal waste (household waste and similar waste),3063.0,1440.8
+2010,WZ08-45-04,Services,EAV-99,Hazardous waste,,
+2010,WZ08-45-04,Services,,In total,3080.0,7117.4
+2014,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-01,waste from the extraction of mineral resources,,
+2014,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-02,"Waste from agriculture, forestry, etc.",132.0,140.3
+2014,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-03,"Waste from wood processing, etc.",,
+2014,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-04,"Waste from the leather, fur and textile industries",,
+2014,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-05,"Waste from petroleum refining, natural gas purification",,
+2014,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-06,Waste from inorganic chemical processes,7.0,0.0
+2014,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-07,Waste from organic chemical processes,10.0,0.1
+2014,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",8.0,0.7
+2014,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-09,Waste from the photographic industry,,
+2014,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-10,Waste from thermal processes,7.0,0.2
+2014,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-11,Waste from chemical surface treatment,,
+2014,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-12,Waste from mechanical shaping processes,3.0,0.1
+2014,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-13,Oil waste and liquid fuel waste,96.0,7.0
+2014,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-14,"Waste from organic solvents, coolants",16.0,0.0
+2014,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-15,"Packaging waste, absorbents, wipes",250.0,11.7
+2014,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-16,Waste not included elsewhere in the inventory,85.0,0.8
+2014,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-17,Construction and demolition waste,93.0,5.1
+2014,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-18,Waste from medical supplies,4.0,0.5
+2014,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-19,"Waste from waste treatment plants, etc.",17.0,40.7
+2014,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-20,Municipal waste (household waste and similar waste),281.0,29.8
+2014,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-99,Hazardous waste,,
+2014,WZ08-01-03,"Agriculture And Forestry, Fisheries",,In total,300.0,237.2
+2014,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-01,Waste from the extraction of mineral resources,9.0,34.9
+2014,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-02,"Waste from agriculture, forestry, etc.",15.0,0.2
+2014,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-03,"Waste from woodworking, etc.",,
+2014,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-04,"Waste from the leather, fur and textile industries",,
+2014,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-05,"Waste from petroleum refining, natural gas purification",3.0,0.4
+2014,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-06,Waste from inorganic chemical processes,17.0,6.4
+2014,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-07,Waste from organic chemical processes,14.0,0.1
+2014,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",21.0,0.1
+2014,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-09,Waste from the photographic industry,4.0,0.0
+2014,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-10,Waste from thermal processes,6.0,122.4
+2014,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-11,Waste from chemical surface treatment,5.0,0.2
+2014,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-12,Waste from mechanical shaping processes,19.0,5.7
+2014,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-13,Oil waste and liquid fuel waste,45.0,6.4
+2014,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-14,"Waste from organic solvents, coolants",14.0,0.0
+2014,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-15,"Packaging waste, absorbent masses, wipes",56.0,3.5
+2014,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-16,Waste not included elsewhere in the inventory,41.0,1.4
+2014,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-17,construction and demolition waste,48.0,905.3
+2014,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-18,Waste from medical care,,
+2014,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-19,Waste from waste treatment plants e.g.,15.0,11.5
+2014,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-20,Municipal waste (household waste and similar waste),61.0,16.4
+2014,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-99,Hazardous waste,,
+2014,WZ08-05-02,Mining And Quarrying Of Stone And Earth,,In total,64.0,1115.2
+2014,WZ08-10-01,Food Industry And Tobacco Processing,EAV-01,Waste from the extraction of mineral resources,,
+2014,WZ08-10-01,Food Industry And Tobacco Processing,EAV-02,"Waste from agriculture, forestry, etc.",1021.0,4813.7
+2014,WZ08-10-01,Food Industry And Tobacco Processing,EAV-03,"Waste from woodworking, etc.",7.0,0.7
+2014,WZ08-10-01,Food Industry And Tobacco Processing,EAV-04,"Waste from the leather, fur and textile industries",3.0,0.2
+2014,WZ08-10-01,Food Industry And Tobacco Processing,EAV-05,"Waste from petroleum refining, natural gas purification",14.0,0.1
+2014,WZ08-10-01,Food Industry And Tobacco Processing,EAV-06,Waste from inorganic chemical processes,92.0,4.5
+2014,WZ08-10-01,Food Industry And Tobacco Processing,EAV-07,Waste from organic chemical processes,120.0,16.5
+2014,WZ08-10-01,Food Industry And Tobacco Processing,EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",132.0,0.1
+2014,WZ08-10-01,Food Industry And Tobacco Processing,EAV-09,Waste from the photographic industry,4.0,0.0
+2014,WZ08-10-01,Food Industry And Tobacco Processing,EAV-10,Waste from thermal processes,48.0,54.4
+2014,WZ08-10-01,Food Industry And Tobacco Processing,EAV-11,Waste from chemical surface treatment,27.0,0.1
+2014,WZ08-10-01,Food Industry And Tobacco Processing,EAV-12,Waste from mechanical shaping processes,84.0,2.3
+2014,WZ08-10-01,Food Industry And Tobacco Processing,EAV-13,waste oil and liquid fuel waste,470.0,7.2
+2014,WZ08-10-01,Food Industry And Tobacco Processing,EAV-14,"Waste from organic solvents, coolants",123.0,0.2
+2014,WZ08-10-01,Food Industry And Tobacco Processing,EAV-15,"Packaging waste, absorbents, wipes",1366.0,555.2
+2014,WZ08-10-01,Food Industry And Tobacco Processing,EAV-16,Waste not included elsewhere in the inventory,394.0,5.3
+2014,WZ08-10-01,Food Industry And Tobacco Processing,EAV-17,construction and demolition waste,582.0,165.2
+2014,WZ08-10-01,Food Industry And Tobacco Processing,EAV-18,Waste from medical care,9.0,0.0
+2014,WZ08-10-01,Food Industry And Tobacco Processing,EAV-19,"Waste from waste treatment plants, etc.",195.0,64.2
+2014,WZ08-10-01,Food Industry And Tobacco Processing,EAV-20,Municipal waste (household waste and similar waste),1395.0,433.8
+2014,WZ08-10-01,Food Industry And Tobacco Processing,EAV-99,Hazardous waste,,
+2014,WZ08-10-01,Food Industry And Tobacco Processing,,In total,1481.0,6123.7
+2014,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-01,waste from the extraction of mineral resources,,
+2014,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-02,"Waste from agriculture, forestry, etc.",8.0,0.2
+2014,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-03,"Waste from woodworking, etc.",8.0,0.1
+2014,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-04,"Waste from the leather, fur and textile industries",264.0,111.9
+2014,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-05,"Waste from petroleum refining, natural gas purification",,
+2014,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-06,Waste from inorganic chemical processes,25.0,0.1
+2014,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-07,Waste from organic chemical processes,92.0,7.7
+2014,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",124.0,5.0
+2014,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-09,Waste from the photographic industry,,
+2014,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-10,Waste from thermal processes,14.0,3.7
+2014,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-11,Waste from chemical surface treatment,8.0,0.0
+2014,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-12,Waste from mechanical shaping processes,52.0,0.6
+2014,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-13,waste oil and liquid fuel waste,134.0,0.5
+2014,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-14,"Waste from organic solvents, coolants",41.0,0.1
+2014,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-15,"Packaging waste, absorbents, wipes",512.0,80.1
+2014,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-16,Waste not included elsewhere in the inventory,120.0,1.4
+2014,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-17,Construction and demolition waste,183.0,6.6
+2014,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-18,Waste from medical care,,
+2014,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-19,Waste from waste treatment plants e.g.,47.0,7.5
+2014,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-20,Municipal waste (household waste and similar waste),514.0,35.6
+2014,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-99,Hazardous waste,,
+2014,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",,In total,556.0,261.3
+2014,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-01,Waste from the extraction of mineral resources,,
+2014,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-02,"Waste from agriculture, forestry, etc.",11.0,0.1
+2014,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-03,"Waste from wood processing, etc.",195.0,2918.7
+2014,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-04,"Waste from the leather, fur and textile industries",,
+2014,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-05,"Waste from petroleum refining, natural gas purification",,
+2014,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-06,Waste from inorganic chemical processes,10.0,0.1
+2014,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-07,Waste from organic chemical processes,33.0,6.6
+2014,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-08,"Waste from MFSU from coatings, adhesives, etc.",124.0,6.8
+2014,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-09,Waste from the photographic industry,,
+2014,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-10,Waste from thermal processes,147.0,183.3
+2014,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-11,Waste from chemical surface treatment,10.0,0.2
+2014,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-12,Waste from mechanical shaping processes,48.0,3.2
+2014,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-13,waste oil and liquid fuel waste,103.0,2.0
+2014,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-14,"Waste from organic solvents, coolants",23.0,0.1
+2014,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-15,"Packaging waste, absorbent masses, wipes",300.0,26.2
+2014,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-16,Waste not included elsewhere in the inventory,77.0,2.2
+2014,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-17,construction and demolition waste,173.0,40.0
+2014,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-18,Waste from medical supplies,,
+2014,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-19,Waste from waste treatment plants e.g.,38.0,52.3
+2014,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-20,Municipal waste (household waste and similar waste),345.0,27.5
+2014,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-99,Hazardous waste,,
+2014,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",,In total,364.0,3269.3
+2014,WZ08-17-03,Paper And Printing Trades,EAV-01,waste from the extraction of mineral resources,3.0,0.1
+2014,WZ08-17-03,Paper And Printing Trades,EAV-02,"Waste from agriculture, forestry, etc.",50.0,2.4
+2014,WZ08-17-03,Paper And Printing Trades,EAV-03,"Waste from wood processing, etc.",407.0,4951.2
+2014,WZ08-17-03,Paper And Printing Trades,EAV-04,"Waste from the leather, fur and textile industries",10.0,12.1
+2014,WZ08-17-03,Paper And Printing Trades,EAV-05,"Waste from petroleum refining, natural gas purification",,
+2014,WZ08-17-03,Paper And Printing Trades,EAV-06,Waste from inorganic chemical processes,68.0,4.9
+2014,WZ08-17-03,Paper And Printing Trades,EAV-07,Waste from organic chemical processes,219.0,28.5
+2014,WZ08-17-03,Paper And Printing Trades,EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",665.0,45.3
+2014,WZ08-17-03,Paper And Printing Trades,EAV-09,Waste from the photographic industry,333.0,4.5
+2014,WZ08-17-03,Paper And Printing Trades,EAV-10,Waste from thermal processes,38.0,423.6
+2014,WZ08-17-03,Paper And Printing Trades,EAV-11,Waste from chemical surface treatment,66.0,1.7
+2014,WZ08-17-03,Paper And Printing Trades,EAV-12,Waste from mechanical shaping processes,144.0,6.5
+2014,WZ08-17-03,Paper And Printing Trades,EAV-13,waste oil and liquid fuel waste,414.0,4.6
+2014,WZ08-17-03,Paper And Printing Trades,EAV-14,"Waste from organic solvents, coolants",284.0,3.7
+2014,WZ08-17-03,Paper And Printing Trades,EAV-15,"Packaging waste, absorbent masses, wipes",980.0,579.1
+2014,WZ08-17-03,Paper And Printing Trades,EAV-16,Waste not included elsewhere in the inventory,319.0,5.7
+2014,WZ08-17-03,Paper And Printing Trades,EAV-17,construction and demolition waste,467.0,110.1
+2014,WZ08-17-03,Paper And Printing Trades,EAV-18,Waste from medical supplies,,
+2014,WZ08-17-03,Paper And Printing Trades,EAV-19,"Waste from waste treatment plants, etc.",147.0,125.3
+2014,WZ08-17-03,Paper And Printing Trades,EAV-20,Municipal waste (household waste and similar waste),1071.0,829.3
+2014,WZ08-17-03,Paper And Printing Trades,EAV-99,Hazardous waste,,
+2014,WZ08-17-03,Paper And Printing Trades,,In total,1124.0,7138.5
+2014,WZ08-19,Coking Plant And Petroleum Processing,EAV-01,Waste from the extraction of mineral resources,,
+2014,WZ08-19,Coking Plant And Petroleum Processing,EAV-02,"Waste from agriculture, forestry, etc.",4.0,0.0
+2014,WZ08-19,Coking Plant And Petroleum Processing,EAV-03,"Waste from woodworking, etc.",,
+2014,WZ08-19,Coking Plant And Petroleum Processing,EAV-04,"Waste from the leather, fur and textile industries",,
+2014,WZ08-19,Coking Plant And Petroleum Processing,EAV-05,"Waste from petroleum refining, natural gas purification",21.0,31.1
+2014,WZ08-19,Coking Plant And Petroleum Processing,EAV-06,Waste from inorganic chemical processes,16.0,35.3
+2014,WZ08-19,Coking Plant And Petroleum Processing,EAV-07,Waste from organic chemical processes,27.0,6.3
+2014,WZ08-19,Coking Plant And Petroleum Processing,EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",12.0,0.0
+2014,WZ08-19,Coking Plant And Petroleum Processing,EAV-09,Waste from the photographic industry,3.0,0.0
+2014,WZ08-19,Coking Plant And Petroleum Processing,EAV-10,Waste from thermal processes,7.0,34.9
+2014,WZ08-19,Coking Plant And Petroleum Processing,EAV-11,Waste from chemical surface treatment,3.0,0.4
+2014,WZ08-19,Coking Plant And Petroleum Processing,EAV-12,Waste from mechanical shaping processes,26.0,6.2
+2014,WZ08-19,Coking Plant And Petroleum Processing,EAV-13,Oil waste and liquid fuel waste,34.0,16.3
+2014,WZ08-19,Coking Plant And Petroleum Processing,EAV-14,"Waste from organic solvents, coolants",15.0,0.3
+2014,WZ08-19,Coking Plant And Petroleum Processing,EAV-15,"Packaging waste, absorbent masses, wipes",43.0,5.7
+2014,WZ08-19,Coking Plant And Petroleum Processing,EAV-16,Waste not included elsewhere in the inventory,34.0,18.1
+2014,WZ08-19,Coking Plant And Petroleum Processing,EAV-17,Construction and demolition waste,32.0,86.1
+2014,WZ08-19,Coking Plant And Petroleum Processing,EAV-18,Waste from medical care,,
+2014,WZ08-19,Coking Plant And Petroleum Processing,EAV-19,Waste from waste treatment plants e.g.,17.0,62.6
+2014,WZ08-19,Coking Plant And Petroleum Processing,EAV-20,Municipal waste (household waste and similar waste),43.0,8.4
+2014,WZ08-19,Coking Plant And Petroleum Processing,EAV-99,Hazardous waste,,
+2014,WZ08-19,Coking Plant And Petroleum Processing,,In total,47.0,311.6
+2014,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-01,waste from the extraction of mineral resources,31.0,1802.8
+2014,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-02,"Waste from agriculture, forestry, etc.",233.0,195.3
+2014,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-03,"Waste from wood processing, etc.",60.0,24.3
+2014,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-04,"Waste from the leather, fur and textile industries",32.0,11.0
+2014,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-05,"Waste from petroleum refining, natural gas purification",26.0,10.0
+2014,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-06,Waste from inorganic chemical processes,471.0,448.2
+2014,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-07,Waste from organic chemical processes,1719.0,1710.9
+2014,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",927.0,92.9
+2014,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-09,Waste from the photographic industry,30.0,1.1
+2014,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-10,Waste from thermal processes,138.0,373.3
+2014,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-11,Waste from chemical surface treatment,194.0,50.3
+2014,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-12,Waste from mechanical shaping processes,941.0,64.9
+2014,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-13,Oil waste and liquid fuel waste,1277.0,35.4
+2014,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-14,"Waste from organic solvents, coolants",545.0,14.3
+2014,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-15,"Packaging waste, absorbents, wipes",2722.0,458.7
+2014,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-16,Waste not included elsewhere in the inventory,1261.0,134.0
+2014,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-17,Construction and demolition waste,1418.0,1300.5
+2014,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-18,Waste from medical care,137.0,10.9
+2014,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-19,"Waste from waste treatment plants, etc.",399.0,894.2
+2014,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-20,Municipal waste (household waste and similar waste),2761.0,403.0
+2014,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-99,Hazardous waste,,
+2014,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",,In total,2947.0,8036.2
+2014,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-01,Waste from the extraction of mineral resources,35.0,91.4
+2014,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-02,"Waste from agriculture, forestry, etc.",40.0,0.4
+2014,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-03,"Waste from wood processing, etc.",56.0,9.7
+2014,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-04,"Waste from the leather, fur and textile industries",,
+2014,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-05,"Waste from petroleum refining, natural gas purification",8.0,0.9
+2014,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-06,Waste from inorganic chemical processes,95.0,6.8
+2014,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-07,Waste from organic chemical processes,133.0,8.6
+2014,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",262.0,17.5
+2014,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-09,Waste from the photographic industry,6.0,0.0
+2014,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-10,Waste from thermal processes,528.0,1188.1
+2014,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-11,Waste from chemical surface treatment,50.0,1.7
+2014,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-12,Waste from mechanical shaping processes,210.0,10.7
+2014,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-13,Oil waste and liquid fuel waste,437.0,19.8
+2014,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-14,"Waste from organic solvents, coolants",135.0,1.0
+2014,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-15,"Packaging waste, absorbent masses, wipes",842.0,87.9
+2014,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-16,Waste not included elsewhere in the inventory,354.0,26.8
+2014,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-17,construction and demolition waste,564.0,456.8
+2014,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-18,Waste from medical supplies,,
+2014,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-19,"Waste from waste treatment plants, etc.",99.0,105.9
+2014,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-20,Municipal waste (household waste and similar waste),897.0,107.2
+2014,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-99,Hazardous waste,,
+2014,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",,In total,944.0,2142.2
+2014,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-01,Waste from the extraction of mineral resources,6.0,3.0
+2014,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-02,"Waste from agriculture, forestry, etc.",111.0,2.1
+2014,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-03,"Waste from woodworking, etc.",39.0,3.7
+2014,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-04,"Waste from the leather, fur and textile industries",3.0,0.1
+2014,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-05,"Waste from petroleum refining, natural gas purification",18.0,3.3
+2014,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-06,Waste from inorganic chemical processes,362.0,79.2
+2014,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-07,Waste from organic chemical processes,392.0,16.1
+2014,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-08,"Waste from MFSU from coatings, adhesives, etc.",659.0,15.7
+2014,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-09,Waste from the photographic industry,54.0,0.2
+2014,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-10,Waste from thermal processes,402.0,7203.3
+2014,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-11,Waste from chemical surface treatment,593.0,459.6
+2014,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-12,Waste from mechanical shaping processes,1521.0,2012.2
+2014,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-13,waste oil and liquid fuel waste,1157.0,60.8
+2014,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-14,"Waste from organic solvents, coolants",423.0,6.5
+2014,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-15,"Packaging waste, absorbent masses, wipes",1823.0,213.9
+2014,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-16,Waste not included elsewhere in the inventory,883.0,575.1
+2014,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-17,Construction and demolition waste,1067.0,1032.6
+2014,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-18,Waste from medical care,10.0,0.0
+2014,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-19,"Waste from waste treatment plants, etc.",310.0,255.5
+2014,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-20,Municipal waste (household waste and similar waste),1784.0,277.0
+2014,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-99,Hazardous waste,,
+2014,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",,In total,1922.0,12219.9
+2014,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-01,Waste from the extraction of mineral resources,19.0,4.1
+2014,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-02,"Waste from agriculture, forestry, etc.",551.0,20.2
+2014,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-03,"Waste from woodworking, etc.",108.0,17.0
+2014,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-04,"Waste from the leather, fur and textile industries",32.0,7.2
+2014,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-05,"Waste from petroleum refining, natural gas purification",15.0,0.2
+2014,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-06,Waste from inorganic chemical processes,617.0,52.4
+2014,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-07,Waste from organic chemical processes,1221.0,73.5
+2014,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-08,"Waste from MFSU from coatings, adhesives, etc.",2285.0,76.3
+2014,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-09,Waste from the photographic industry,120.0,0.3
+2014,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-10,Waste from thermal processes,347.0,329.0
+2014,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-11,Waste from chemical surface treatment,884.0,76.8
+2014,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-12,Waste from mechanical shaping processes,3460.0,3869.1
+2014,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-13,waste oil and liquid fuel waste,2510.0,78.6
+2014,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-14,"Waste from organic solvents, coolants",1316.0,13.4
+2014,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-15,"Packaging waste, absorbents, wipes",4956.0,729.5
+2014,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-16,Waste not included elsewhere in the inventory,2535.0,448.1
+2014,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-17,Construction and demolition waste,2681.0,1488.5
+2014,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-18,Waste from medical supplies,46.0,0.1
+2014,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-19,"Waste from waste treatment plants, etc.",588.0,112.0
+2014,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-20,Municipal waste (household waste and similar waste),5141.0,763.8
+2014,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-99,Hazardous waste,,
+2014,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",,In total,5387.0,8160.2
+2014,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-01,waste from the extraction of mineral resources,,
+2014,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-02,"Waste from agriculture, forestry, etc.",35.0,0.8
+2014,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-03,"Waste from woodworking, etc.",245.0,308.7
+2014,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-04,"Waste from the leather, fur and textile industries",29.0,3.1
+2014,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-05,"Waste from petroleum refining, natural gas purification",3.0,0.0
+2014,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-06,Waste from inorganic chemical processes,85.0,10.4
+2014,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-07,Waste from organic chemical processes,186.0,34.8
+2014,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-08,"Waste from MFSU from coatings, adhesives, etc.",338.0,6.7
+2014,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-09,Waste from the photographic industry,15.0,0.0
+2014,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-10,Waste from thermal processes,173.0,4.1
+2014,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-11,Waste from chemical surface treatment,118.0,9.7
+2014,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-12,Waste from mechanical shaping processes,370.0,42.3
+2014,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-13,Oil waste and liquid fuel waste,221.0,2.0
+2014,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-14,"Waste from organic solvents, coolants",155.0,0.9
+2014,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-15,"Packaging waste, absorbent masses, wipes",925.0,85.4
+2014,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-16,Waste not included elsewhere in the inventory,224.0,6.0
+2014,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-17,Construction and demolition waste,366.0,28.9
+2014,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-18,Waste from medical care,23.0,0.8
+2014,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-19,Waste from waste treatment plants e.g.,71.0,6.6
+2014,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-20,Municipal waste (household waste and similar waste),988.0,134.1
+2014,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-99,Hazardous waste,,
+2014,WZ08-31-02,Manufacture Of Furniture And Other Goods,,In total,1059.0,685.1
+2014,WZ08-35-01,"Energy Supply, Water Supply",EAV-01,Waste from the extraction of mineral resources,6.0,0.3
+2014,WZ08-35-01,"Energy Supply, Water Supply",EAV-02,"Waste from agriculture, forestry, etc.",103.0,2.8
+2014,WZ08-35-01,"Energy Supply, Water Supply",EAV-03,"Waste from woodworking, etc.",11.0,0.1
+2014,WZ08-35-01,"Energy Supply, Water Supply",EAV-04,"Waste from the leather, fur and textile industries",,
+2014,WZ08-35-01,"Energy Supply, Water Supply",EAV-05,"Waste from petroleum refining, natural gas purification",16.0,0.1
+2014,WZ08-35-01,"Energy Supply, Water Supply",EAV-06,Waste from inorganic chemical processes,54.0,8.2
+2014,WZ08-35-01,"Energy Supply, Water Supply",EAV-07,Waste from organic chemical processes,77.0,1.2
+2014,WZ08-35-01,"Energy Supply, Water Supply",EAV-08,"Waste from MFSU from coatings, adhesives, etc.",137.0,0.1
+2014,WZ08-35-01,"Energy Supply, Water Supply",EAV-09,Waste from the photographic industry,,
+2014,WZ08-35-01,"Energy Supply, Water Supply",EAV-10,Waste from thermal processes,72.0,11543.4
+2014,WZ08-35-01,"Energy Supply, Water Supply",EAV-11,Waste from chemical surface treatment,22.0,0.2
+2014,WZ08-35-01,"Energy Supply, Water Supply",EAV-12,Waste from mechanical shaping processes,96.0,7.4
+2014,WZ08-35-01,"Energy Supply, Water Supply",EAV-13,waste oil and liquid fuel waste,251.0,13.5
+2014,WZ08-35-01,"Energy Supply, Water Supply",EAV-14,"Waste from organic solvents, coolants",57.0,0.1
+2014,WZ08-35-01,"Energy Supply, Water Supply",EAV-15,"Packaging waste, absorbents, wipes",384.0,23.0
+2014,WZ08-35-01,"Energy Supply, Water Supply",EAV-16,Waste not included elsewhere in the inventory,294.0,28.9
+2014,WZ08-35-01,"Energy Supply, Water Supply",EAV-17,construction and demolition waste,318.0,1207.0
+2014,WZ08-35-01,"Energy Supply, Water Supply",EAV-18,Waste from medical care,16.0,0.0
+2014,WZ08-35-01,"Energy Supply, Water Supply",EAV-19,Waste from waste treatment plants e.g.,169.0,820.5
+2014,WZ08-35-01,"Energy Supply, Water Supply",EAV-20,Municipal waste (household waste and similar waste),453.0,76.6
+2014,WZ08-35-01,"Energy Supply, Water Supply",EAV-99,Hazardous waste,,
+2014,WZ08-35-01,"Energy Supply, Water Supply",,In total,460.0,13733.3
+2014,WZ08-45-04,Services,EAV-01,waste from the extraction of mineral resources,6.0,0.1
+2014,WZ08-45-04,Services,EAV-02,"Waste from agriculture, forestry, etc.",774.0,68.5
+2014,WZ08-45-04,Services,EAV-03,"Waste from woodworking, etc.",54.0,1.1
+2014,WZ08-45-04,Services,EAV-04,"Waste from the leather, fur and textile industries",7.0,0.0
+2014,WZ08-45-04,Services,EAV-05,"Waste from petroleum refining, natural gas purification",5.0,6.0
+2014,WZ08-45-04,Services,EAV-06,Waste from inorganic chemical processes,250.0,3.7
+2014,WZ08-45-04,Services,EAV-07,Waste from organic chemical processes,434.0,19.0
+2014,WZ08-45-04,Services,EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",525.0,3.4
+2014,WZ08-45-04,Services,EAV-09,Waste from the photographic industry,317.0,2.0
+2014,WZ08-45-04,Services,EAV-10,Waste from thermal processes,49.0,63.6
+2014,WZ08-45-04,Services,EAV-11,Waste from chemical surface treatment,123.0,1.9
+2014,WZ08-45-04,Services,EAV-12,Waste from mechanical shaping processes,218.0,14.2
+2014,WZ08-45-04,Services,EAV-13,waste oil and liquid fuel waste,583.0,19.6
+2014,WZ08-45-04,Services,EAV-14,"Waste from organic solvents, coolants",267.0,1.5
+2014,WZ08-45-04,Services,EAV-15,"Packaging waste, absorbents, wipes",2577.0,679.4
+2014,WZ08-45-04,Services,EAV-16,Waste not included elsewhere in the inventory,1137.0,43.4
+2014,WZ08-45-04,Services,EAV-17,Construction and demolition waste,1229.0,1761.0
+2014,WZ08-45-04,Services,EAV-18,Waste from medical care,815.0,232.6
+2014,WZ08-45-04,Services,EAV-19,Waste from waste treatment plants e.g.,289.0,88.3
+2014,WZ08-45-04,Services,EAV-20,Municipal waste (household waste and similar waste),3184.0,1428.0
+2014,WZ08-45-04,Services,EAV-99,Hazardous waste,,
+2014,WZ08-45-04,Services,,In total,3222.0,4437.5
+2018,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-01,Waste from the extraction of mineral resources,,
+2018,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-02,"Waste from agriculture, forestry, etc.",197.0,377.9
+2018,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-03,"Waste from wood processing, etc.",3.0,0.0
+2018,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-04,"Waste from the leather, fur and textile industries",,
+2018,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-05,"Waste from petroleum refining, natural gas purification",3.0,0.0
+2018,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-06,Waste from inorganic chemical processes,4.0,0.0
+2018,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-07,Waste from organic chemical processes,6.0,0.1
+2018,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-08,"Waste from MFSU from coatings, adhesives, etc.",6.0,0.0
+2018,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-09,Waste from the photographic industry,,
+2018,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-10,Waste from thermal processes,4.0,0.1
+2018,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-11,Waste from chemical surface treatment,,
+2018,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-12,Waste from mechanical shaping processes,3.0,0.1
+2018,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-13,waste oil and liquid fuel waste,109.0,1.0
+2018,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-14,"Waste from organic solvents, coolants",12.0,0.0
+2018,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-15,"Packaging waste, absorbents, wipes",321.0,16.4
+2018,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-16,Waste not included elsewhere in the inventory,118.0,1.0
+2018,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-17,Construction and demolition waste,113.0,8.8
+2018,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-18,Waste from medical supplies,5.0,0.2
+2018,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-19,Waste from waste treatment plants e.g.,16.0,0.4
+2018,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-20,Municipal waste (household waste and similar waste),342.0,17.9
+2018,WZ08-01-03,"Agriculture And Forestry, Fisheries",EAV-99,Hazardous waste,,
+2018,WZ08-01-03,"Agriculture And Forestry, Fisheries",,In total,366.0,423.9
+2018,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-01,Waste from the extraction of mineral resources,,
+2018,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-02,"Waste from agriculture, forestry, etc.",8.0,0.2
+2018,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-03,"Waste from wood processing, etc.",,
+2018,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-04,"Waste from the leather, fur and textile industries",,
+2018,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-05,"Waste from petroleum refining, natural gas purification",,
+2018,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-06,Waste from inorganic chemical processes,10.0,0.3
+2018,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-07,Waste from organic chemical processes,10.0,0.1
+2018,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",17.0,0.0
+2018,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-09,Waste from the photographic industry,,
+2018,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-10,Waste from thermal processes,8.0,9.3
+2018,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-11,Waste from chemical surface treatment,6.0,0.0
+2018,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-12,Waste from mechanical shaping processes,14.0,0.5
+2018,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-13,waste oil and liquid fuel waste,37.0,3.1
+2018,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-14,"Waste from organic solvents, coolants",9.0,0.0
+2018,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-15,"Packaging waste, absorbents, wipes",45.0,2.9
+2018,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-16,Waste not included elsewhere in the inventory,32.0,13.6
+2018,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-17,Construction and demolition waste,35.0,414.4
+2018,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-18,Waste from medical supplies,,
+2018,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-19,Waste from waste treatment plants e.g.,14.0,9.0
+2018,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-20,Municipal waste (household waste and similar waste),49.0,7.5
+2018,WZ08-05-02,Mining And Quarrying Of Stone And Earth,EAV-99,Hazardous waste,,
+2018,WZ08-05-02,Mining And Quarrying Of Stone And Earth,,In total,49.0,463.3
+2018,WZ08-10-01,Food Industry And Tobacco Processing,EAV-01,waste from the extraction of mineral resources,,
+2018,WZ08-10-01,Food Industry And Tobacco Processing,EAV-02,"Waste from agriculture, forestry, etc.",1086.0,5015.5
+2018,WZ08-10-01,Food Industry And Tobacco Processing,EAV-03,"Waste from wood processing, etc.",5.0,0.1
+2018,WZ08-10-01,Food Industry And Tobacco Processing,EAV-04,"Waste from the leather, fur and textile industries",,
+2018,WZ08-10-01,Food Industry And Tobacco Processing,EAV-05,"Waste from petroleum refining, natural gas purification",11.0,0.0
+2018,WZ08-10-01,Food Industry And Tobacco Processing,EAV-06,Waste from inorganic chemical processes,102.0,27.1
+2018,WZ08-10-01,Food Industry And Tobacco Processing,EAV-07,Waste from organic chemical processes,135.0,25.0
+2018,WZ08-10-01,Food Industry And Tobacco Processing,EAV-08,"Waste from MFSU from coatings, adhesives, etc.",142.0,0.2
+2018,WZ08-10-01,Food Industry And Tobacco Processing,EAV-09,Waste from the photographic industry,,
+2018,WZ08-10-01,Food Industry And Tobacco Processing,EAV-10,Waste from thermal processes,43.0,82.3
+2018,WZ08-10-01,Food Industry And Tobacco Processing,EAV-11,Waste from chemical surface treatment,26.0,0.1
+2018,WZ08-10-01,Food Industry And Tobacco Processing,EAV-12,Waste from mechanical shaping processes,113.0,2.1
+2018,WZ08-10-01,Food Industry And Tobacco Processing,EAV-13,Oil waste and liquid fuel waste,519.0,5.3
+2018,WZ08-10-01,Food Industry And Tobacco Processing,EAV-14,"Waste from organic solvents, coolants",128.0,0.1
+2018,WZ08-10-01,Food Industry And Tobacco Processing,EAV-15,"Packaging waste, absorbents, wipes",1342.0,543.8
+2018,WZ08-10-01,Food Industry And Tobacco Processing,EAV-16,Waste not included elsewhere in the inventory,438.0,3.1
+2018,WZ08-10-01,Food Industry And Tobacco Processing,EAV-17,Construction and demolition waste,642.0,127.5
+2018,WZ08-10-01,Food Industry And Tobacco Processing,EAV-18,Waste from medical supplies,12.0,0.1
+2018,WZ08-10-01,Food Industry And Tobacco Processing,EAV-19,Waste from waste treatment plants e.g.,263.0,102.3
+2018,WZ08-10-01,Food Industry And Tobacco Processing,EAV-20,Municipal waste (household waste and similar waste),1379.0,383.3
+2018,WZ08-10-01,Food Industry And Tobacco Processing,EAV-99,Hazardous waste,,
+2018,WZ08-10-01,Food Industry And Tobacco Processing,,In total,1451.0,6318.3
+2018,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-01,waste from the extraction of mineral resources,,
+2018,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-02,"Waste from agriculture, forestry, etc.",8.0,0.3
+2018,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-03,"Waste from woodworking, etc.",7.0,0.1
+2018,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-04,"Waste from the leather, fur and textile industries",248.0,94.4
+2018,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-05,"Waste from petroleum refining, natural gas purification",,
+2018,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-06,Waste from inorganic chemical processes,28.0,0.1
+2018,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-07,Waste from organic chemical processes,91.0,11.8
+2018,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-08,"Waste from MFSU from coatings, adhesives, etc.",96.0,3.7
+2018,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-09,Waste from the photographic industry,,
+2018,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-10,Waste from thermal processes,10.0,2.4
+2018,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-11,Waste from chemical surface treatment,14.0,0.3
+2018,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-12,Waste from mechanical shaping processes,52.0,0.6
+2018,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-13,waste oil and liquid fuel waste,128.0,2.4
+2018,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-14,"Waste from organic solvents, coolants",39.0,0.4
+2018,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-15,"Packaging waste, absorbents, wipes",468.0,55.0
+2018,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-16,Waste not included elsewhere in the inventory,122.0,1.9
+2018,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-17,construction and demolition waste,200.0,7.2
+2018,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-18,Waste from medical supplies,,
+2018,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-19,"Waste from waste treatment plants, etc.",49.0,11.3
+2018,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-20,Municipal waste (household waste and similar waste),467.0,37.8
+2018,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",EAV-99,Hazardous waste,,
+2018,WZ08-13-03,"Textile And Clothing Industry, Leather Industry",,In total,503.0,229.7
+2018,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-01,waste from the extraction of mineral resources,,
+2018,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-02,"Waste from agriculture, forestry, etc.",12.0,0.1
+2018,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-03,"Waste from wood processing, etc.",198.0,3202.5
+2018,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-04,"Waste from the leather, fur and textile industries",,
+2018,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-05,"Waste from petroleum refining, natural gas purification",,
+2018,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-06,Waste from inorganic chemical processes,15.0,0.1
+2018,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-07,Waste from organic chemical processes,50.0,2.4
+2018,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",132.0,7.4
+2018,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-09,Waste from the photographic industry,,
+2018,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-10,Waste from thermal processes,143.0,157.9
+2018,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-11,Waste from chemical surface treatment,10.0,0.1
+2018,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-12,Waste from mechanical shaping processes,54.0,1.8
+2018,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-13,Oil waste and liquid fuel waste,101.0,2.8
+2018,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-14,"Waste from organic solvents, coolants",23.0,0.1
+2018,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-15,"Packaging waste, absorbents, wipes",307.0,36.1
+2018,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-16,Waste not included elsewhere in the inventory,95.0,3.8
+2018,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-17,construction and demolition waste,183.0,52.6
+2018,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-18,Waste from medical supplies,,
+2018,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-19,Waste from waste treatment plants e.g.,40.0,79.8
+2018,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-20,Municipal waste (household waste and similar waste),329.0,34.8
+2018,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",EAV-99,Hazardous waste,,
+2018,WZ08-16,"H.V. Wood, Wicker, Basket And Cork Goods (Without Furniture)",,In total,348.0,3582.6
+2018,WZ08-17-03,Paper And Printing Trades,EAV-01,waste from the extraction of mineral resources,,
+2018,WZ08-17-03,Paper And Printing Trades,EAV-02,"Waste from agriculture, forestry, etc.",49.0,1.0
+2018,WZ08-17-03,Paper And Printing Trades,EAV-03,"Waste from woodworking, etc.",303.0,4423.8
+2018,WZ08-17-03,Paper And Printing Trades,EAV-04,"Waste from the leather, fur and textile industries",10.0,7.5
+2018,WZ08-17-03,Paper And Printing Trades,EAV-05,"Waste from petroleum refining, natural gas purification",,
+2018,WZ08-17-03,Paper And Printing Trades,EAV-06,Waste from inorganic chemical processes,63.0,3.5
+2018,WZ08-17-03,Paper And Printing Trades,EAV-07,Waste from organic chemical processes,185.0,21.4
+2018,WZ08-17-03,Paper And Printing Trades,EAV-08,"Waste from MFSU from coatings, adhesives, etc.",638.0,55.0
+2018,WZ08-17-03,Paper And Printing Trades,EAV-09,Waste from the photographic industry,277.0,18.9
+2018,WZ08-17-03,Paper And Printing Trades,EAV-10,Waste from thermal processes,31.0,242.3
+2018,WZ08-17-03,Paper And Printing Trades,EAV-11,Waste from chemical surface treatment,52.0,0.7
+2018,WZ08-17-03,Paper And Printing Trades,EAV-12,Waste from mechanical shaping processes,123.0,6.8
+2018,WZ08-17-03,Paper And Printing Trades,EAV-13,Oil waste and liquid fuel waste,368.0,3.6
+2018,WZ08-17-03,Paper And Printing Trades,EAV-14,"Waste from organic solvents, coolants",239.0,9.2
+2018,WZ08-17-03,Paper And Printing Trades,EAV-15,"Packaging waste, absorbent masses, wipes",943.0,574.5
+2018,WZ08-17-03,Paper And Printing Trades,EAV-16,Waste not included elsewhere in the inventory,330.0,9.2
+2018,WZ08-17-03,Paper And Printing Trades,EAV-17,construction and demolition waste,509.0,101.6
+2018,WZ08-17-03,Paper And Printing Trades,EAV-18,Waste from medical care,3.0,0.0
+2018,WZ08-17-03,Paper And Printing Trades,EAV-19,Waste from waste treatment plants e.g.,158.0,113.7
+2018,WZ08-17-03,Paper And Printing Trades,EAV-20,Municipal waste (household waste and similar waste),1005.0,959.5
+2018,WZ08-17-03,Paper And Printing Trades,EAV-99,Hazardous waste,,
+2018,WZ08-17-03,Paper And Printing Trades,,In total,1039.0,6552.3
+2018,WZ08-19,Coking Plant And Petroleum Processing,EAV-01,waste from the extraction of mineral resources,,
+2018,WZ08-19,Coking Plant And Petroleum Processing,EAV-02,"Waste from agriculture, forestry, etc.",8.0,0.2
+2018,WZ08-19,Coking Plant And Petroleum Processing,EAV-03,"Waste from wood processing, etc.",,
+2018,WZ08-19,Coking Plant And Petroleum Processing,EAV-04,"Waste from the leather, fur and textile industries",,
+2018,WZ08-19,Coking Plant And Petroleum Processing,EAV-05,"Waste from petroleum refining, natural gas purification",22.0,40.8
+2018,WZ08-19,Coking Plant And Petroleum Processing,EAV-06,Waste from inorganic chemical processes,15.0,40.7
+2018,WZ08-19,Coking Plant And Petroleum Processing,EAV-07,Waste from organic chemical processes,26.0,12.2
+2018,WZ08-19,Coking Plant And Petroleum Processing,EAV-08,"Waste from MFSU from coatings, adhesives, etc.",11.0,0.1
+2018,WZ08-19,Coking Plant And Petroleum Processing,EAV-09,Waste from the photographic industry,,
+2018,WZ08-19,Coking Plant And Petroleum Processing,EAV-10,Waste from thermal processes,10.0,166.0
+2018,WZ08-19,Coking Plant And Petroleum Processing,EAV-11,Waste from chemical surface treatment,6.0,0.1
+2018,WZ08-19,Coking Plant And Petroleum Processing,EAV-12,Waste from mechanical shaping processes,26.0,5.8
+2018,WZ08-19,Coking Plant And Petroleum Processing,EAV-13,waste oil and liquid fuel waste,38.0,19.2
+2018,WZ08-19,Coking Plant And Petroleum Processing,EAV-14,"Waste from organic solvents, coolants",15.0,0.4
+2018,WZ08-19,Coking Plant And Petroleum Processing,EAV-15,"Packaging waste, absorbent masses, wipes",48.0,5.5
+2018,WZ08-19,Coking Plant And Petroleum Processing,EAV-16,Waste not included elsewhere in the inventory,39.0,26.0
+2018,WZ08-19,Coking Plant And Petroleum Processing,EAV-17,Construction and demolition waste,38.0,133.6
+2018,WZ08-19,Coking Plant And Petroleum Processing,EAV-18,Waste from medical supplies,4.0,0.0
+2018,WZ08-19,Coking Plant And Petroleum Processing,EAV-19,"Waste from waste treatment plants, etc.",21.0,25.9
+2018,WZ08-19,Coking Plant And Petroleum Processing,EAV-20,Municipal waste (household waste and similar waste),47.0,10.0
+2018,WZ08-19,Coking Plant And Petroleum Processing,EAV-99,Hazardous waste,,
+2018,WZ08-19,Coking Plant And Petroleum Processing,,In total,50.0,486.5
+2018,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-01,Waste from the extraction of mineral resources,27.0,927.0
+2018,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-02,"Waste from agriculture, forestry, etc.",233.0,429.3
+2018,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-03,"Waste from woodworking, etc.",69.0,23.7
+2018,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-04,"Waste from the leather, fur and textile industries",34.0,8.7
+2018,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-05,"Waste from petroleum refining, natural gas purification",21.0,17.0
+2018,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-06,Waste from inorganic chemical processes,455.0,400.7
+2018,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-07,Waste from organic chemical processes,1739.0,1516.4
+2018,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",945.0,103.6
+2018,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-09,Waste from the photographic industry,17.0,1.6
+2018,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-10,Waste from thermal processes,150.0,381.4
+2018,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-11,Waste from chemical surface treatment,234.0,34.6
+2018,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-12,Waste from mechanical shaping processes,930.0,92.8
+2018,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-13,Oil waste and liquid fuel waste,1278.0,49.2
+2018,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-14,"Waste from organic solvents, coolants",557.0,13.3
+2018,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-15,"Packaging waste, absorbents, wipes",2820.0,594.9
+2018,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-16,Waste not included elsewhere in the inventory,1386.0,193.8
+2018,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-17,construction and demolition waste,1654.0,1347.8
+2018,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-18,Waste from medical supplies,147.0,12.7
+2018,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-19,"Waste from waste treatment plants, etc.",451.0,1055.1
+2018,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-20,Municipal waste (household waste and similar waste),2823.0,525.8
+2018,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",EAV-99,Hazardous waste,,
+2018,WZ08-20-03,"Chem. And Pharma. Products, Rubber, Plastic Products",,In total,2987.0,7729.4
+2018,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-01,waste from the extraction of mineral resources,23.0,52.1
+2018,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-02,"Waste from agriculture, forestry, etc.",35.0,0.4
+2018,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-03,"Waste from woodworking, etc.",70.0,12.8
+2018,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-04,"Waste from the leather, fur and textile industries",,
+2018,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-05,"Waste from petroleum refining, natural gas purification",8.0,0.8
+2018,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-06,Waste from inorganic chemical processes,97.0,5.0
+2018,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-07,Waste from organic chemical processes,153.0,7.1
+2018,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",269.0,85.8
+2018,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-09,Waste from the photographic industry,4.0,0.0
+2018,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-10,Waste from thermal processes,535.0,2805.8
+2018,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-11,Waste from chemical surface treatment,59.0,1.5
+2018,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-12,Waste from mechanical shaping processes,214.0,14.2
+2018,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-13,Oil waste and liquid fuel waste,441.0,15.6
+2018,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-14,"Waste from organic solvents, coolants",128.0,0.4
+2018,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-15,"Packaging waste, absorbents, wipes",844.0,137.5
+2018,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-16,Waste not included elsewhere in the inventory,381.0,45.6
+2018,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-17,Construction and demolition waste,600.0,334.8
+2018,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-18,Waste from medical care,,
+2018,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-19,"Waste from waste treatment plants, etc.",124.0,144.0
+2018,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-20,Municipal waste (household waste and similar waste),892.0,105.4
+2018,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",EAV-99,Hazardous waste,,
+2018,WZ08-23,"H.V.Glass, Goods, Ceramics, Processing. Of Stones And Earth",,In total,940.0,3768.9
+2018,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-01,Waste from the extraction of mineral resources,5.0,2.3
+2018,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-02,"Waste from agriculture, forestry, etc.",122.0,4.8
+2018,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-03,"Waste from wood processing, etc.",36.0,2.4
+2018,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-04,"Waste from the leather, fur and textile industries",3.0,0.2
+2018,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-05,"Waste from petroleum refining, natural gas purification",13.0,3.8
+2018,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-06,Waste from inorganic chemical processes,334.0,72.2
+2018,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-07,Waste from organic chemical processes,381.0,15.4
+2018,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-08,"Waste from MFSU from coatings, adhesives, etc.",689.0,16.9
+2018,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-09,Waste from the photographic industry,35.0,0.1
+2018,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-10,Waste from thermal processes,387.0,6868.6
+2018,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-11,Waste from chemical surface treatment,570.0,481.8
+2018,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-12,Waste from mechanical shaping processes,1540.0,2170.5
+2018,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-13,waste oil and liquid fuel waste,1149.0,54.7
+2018,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-14,"Waste from organic solvents, coolants",423.0,7.0
+2018,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-15,"Packaging waste, absorbent masses, wipes",1835.0,225.7
+2018,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-16,Waste not included elsewhere in the inventory,944.0,517.7
+2018,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-17,construction and demolition waste,1190.0,1156.7
+2018,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-18,Waste from medical supplies,15.0,0.0
+2018,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-19,"Waste from waste treatment plants, etc.",332.0,188.3
+2018,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-20,Municipal waste (household waste and similar waste),1792.0,481.3
+2018,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",EAV-99,Hazardous waste,,
+2018,WZ08-24-03,"Metal Production And Processing, Manufacturing V.Metal Ore.",,In total,1912.0,12270.4
+2018,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-01,Waste from the extraction of mineral resources,10.0,0.2
+2018,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-02,"Waste from agriculture, forestry, etc.",529.0,23.5
+2018,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-03,"Waste from woodworking, etc.",84.0,15.9
+2018,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-04,"Waste from the leather, fur and textile industries",20.0,5.6
+2018,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-05,"Waste from petroleum refining, natural gas purification",9.0,0.0
+2018,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-06,Waste from inorganic chemical processes,566.0,42.5
+2018,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-07,Waste from organic chemical processes,1146.0,72.1
+2018,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-08,"Waste from MFSU from coatings, adhesives, etc.",2339.0,195.1
+2018,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-09,Waste from the photographic industry,82.0,0.5
+2018,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-10,Waste from thermal processes,333.0,287.1
+2018,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-11,Waste from chemical surface treatment,844.0,89.0
+2018,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-12,Waste from mechanical shaping processes,3397.0,3648.2
+2018,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-13,waste oil and liquid fuel waste,2449.0,72.9
+2018,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-14,"Waste from organic solvents, coolants",1317.0,17.3
+2018,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-15,"Packaging waste, absorbent masses, wipes",5086.0,846.2
+2018,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-16,Waste not included elsewhere in the inventory,2687.0,367.2
+2018,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-17,construction and demolition waste,3019.0,1269.6
+2018,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-18,Waste from medical supplies,46.0,0.1
+2018,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-19,Waste from waste treatment plants e.g.,608.0,152.3
+2018,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-20,Municipal waste (household waste and similar waste),5191.0,1270.2
+2018,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",EAV-99,Hazardous waste,,
+2018,WZ08-26-03,"Dv Devices, Electrical And Optical Manufacturing, Vehicle Construction, Etc.",,In total,5402.0,8375.5
+2018,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-01,waste from the extraction of mineral resources,4.0,1.3
+2018,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-02,"Waste from agriculture, forestry, etc.",25.0,5.1
+2018,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-03,"Waste from woodworking, etc.",238.0,232.1
+2018,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-04,"Waste from the leather, fur and textile industries",21.0,1.6
+2018,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-05,"Waste from petroleum refining, natural gas purification",,
+2018,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-06,Waste from inorganic chemical processes,79.0,1.3
+2018,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-07,Waste from organic chemical processes,182.0,32.4
+2018,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",298.0,5.6
+2018,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-09,Waste from the photographic industry,11.0,0.0
+2018,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-10,Waste from thermal processes,142.0,3.4
+2018,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-11,Waste from chemical surface treatment,116.0,3.6
+2018,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-12,Waste from mechanical shaping processes,354.0,38.6
+2018,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-13,waste oil and liquid fuel waste,200.0,1.3
+2018,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-14,"Waste from organic solvents, coolants",162.0,0.6
+2018,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-15,"Packaging waste, absorbent masses, wipes",906.0,87.9
+2018,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-16,Waste not included elsewhere in the inventory,250.0,3.0
+2018,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-17,Construction and demolition waste,360.0,28.7
+2018,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-18,Waste from medical care,32.0,1.6
+2018,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-19,"Waste from waste treatment plants, etc.",71.0,6.3
+2018,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-20,Municipal waste (household waste and similar waste),949.0,93.0
+2018,WZ08-31-02,Manufacture Of Furniture And Other Goods,EAV-99,Hazardous waste,,
+2018,WZ08-31-02,Manufacture Of Furniture And Other Goods,,In total,995.0,547.5
+2018,WZ08-35-01,"Energy Supply, Water Supply",EAV-01,waste from the extraction of mineral resources,8.0,0.8
+2018,WZ08-35-01,"Energy Supply, Water Supply",EAV-02,"Waste from agriculture, forestry, etc.",100.0,11.6
+2018,WZ08-35-01,"Energy Supply, Water Supply",EAV-03,"Waste from wood processing, etc.",5.0,1.4
+2018,WZ08-35-01,"Energy Supply, Water Supply",EAV-04,"Waste from the leather, fur and textile industries",,
+2018,WZ08-35-01,"Energy Supply, Water Supply",EAV-05,"Waste from petroleum refining, natural gas purification",8.0,0.0
+2018,WZ08-35-01,"Energy Supply, Water Supply",EAV-06,Waste from inorganic chemical processes,57.0,0.3
+2018,WZ08-35-01,"Energy Supply, Water Supply",EAV-07,Waste from organic chemical processes,90.0,2.6
+2018,WZ08-35-01,"Energy Supply, Water Supply",EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",154.0,0.1
+2018,WZ08-35-01,"Energy Supply, Water Supply",EAV-09,Waste from the photographic industry,6.0,0.0
+2018,WZ08-35-01,"Energy Supply, Water Supply",EAV-10,Waste from thermal processes,69.0,11485.7
+2018,WZ08-35-01,"Energy Supply, Water Supply",EAV-11,Waste from chemical surface treatment,27.0,0.0
+2018,WZ08-35-01,"Energy Supply, Water Supply",EAV-12,Waste from mechanical shaping processes,98.0,3.6
+2018,WZ08-35-01,"Energy Supply, Water Supply",EAV-13,waste oil and liquid fuel waste,278.0,11.3
+2018,WZ08-35-01,"Energy Supply, Water Supply",EAV-14,"Waste from organic solvents, coolants",62.0,0.1
+2018,WZ08-35-01,"Energy Supply, Water Supply",EAV-15,"Packaging waste, absorbent masses, wipes",462.0,19.8
+2018,WZ08-35-01,"Energy Supply, Water Supply",EAV-16,Waste not included elsewhere in the inventory,342.0,27.1
+2018,WZ08-35-01,"Energy Supply, Water Supply",EAV-17,construction and demolition waste,355.0,1116.1
+2018,WZ08-35-01,"Energy Supply, Water Supply",EAV-18,Waste from medical care,11.0,0.0
+2018,WZ08-35-01,"Energy Supply, Water Supply",EAV-19,Waste from waste treatment plants e.g.,176.0,809.8
+2018,WZ08-35-01,"Energy Supply, Water Supply",EAV-20,Municipal waste (household waste and similar waste),513.0,64.4
+2018,WZ08-35-01,"Energy Supply, Water Supply",EAV-99,Hazardous waste,,
+2018,WZ08-35-01,"Energy Supply, Water Supply",,In total,526.0,13554.5
+2018,WZ08-45-04,Services,EAV-01,waste from the extraction of mineral resources,7.0,0.1
+2018,WZ08-45-04,Services,EAV-02,"Waste from agriculture, forestry, etc.",723.0,95.4
+2018,WZ08-45-04,Services,EAV-03,"Waste from woodworking, etc.",57.0,1.1
+2018,WZ08-45-04,Services,EAV-04,"Waste from the leather, fur and textile industries",10.0,0.1
+2018,WZ08-45-04,Services,EAV-05,"Waste from petroleum refining, natural gas purification",,
+2018,WZ08-45-04,Services,EAV-06,Waste from inorganic chemical processes,232.0,40.2
+2018,WZ08-45-04,Services,EAV-07,Waste from organic chemical processes,436.0,108.4
+2018,WZ08-45-04,Services,EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",472.0,2.0
+2018,WZ08-45-04,Services,EAV-09,Waste from the photographic industry,181.0,0.6
+2018,WZ08-45-04,Services,EAV-10,Waste from thermal processes,41.0,0.9
+2018,WZ08-45-04,Services,EAV-11,Waste from chemical surface treatment,99.0,1.4
+2018,WZ08-45-04,Services,EAV-12,Waste from mechanical shaping processes,276.0,8.2
+2018,WZ08-45-04,Services,EAV-13,Oil waste and liquid fuel waste,554.0,17.8
+2018,WZ08-45-04,Services,EAV-14,"Waste from organic solvents, coolants",263.0,1.4
+2018,WZ08-45-04,Services,EAV-15,"Packaging waste, absorbent masses, wipes",2852.0,769.4
+2018,WZ08-45-04,Services,EAV-16,Waste not included elsewhere in the inventory,1149.0,46.7
+2018,WZ08-45-04,Services,EAV-17,construction and demolition waste,1371.0,1001.1
+2018,WZ08-45-04,Services,EAV-18,Waste from medical supplies,844.0,265.3
+2018,WZ08-45-04,Services,EAV-19,Waste from waste treatment plants e.g.,269.0,67.9
+2018,WZ08-45-04,Services,EAV-20,Municipal waste (household waste and similar waste),3332.0,1185.3
+2018,WZ08-45-04,Services,EAV-99,Hazardous waste,,
+2018,WZ08-45-04,Services,,In total,3377.0,3613.5

@@ -1,0 +1,1041 @@
+Year,EAV Code,Waste Source,Number Of Construction Rubble Processing Plants,Input Of Construction Rubble Processing Plants (1000t),Number Of Construction Rubble Processing Plants With Output,Output Of Construction Rubble Processing Plants (1000t)
+2006,EAV-01,Waste from the extraction of mineral resources,,,,
+2006,EAV-010413-U,Waste from stonemasonry and sawing work (excluding 010407),,,,
+2006,EAV-02,"Waste from agriculture, forestry, etc.",,,,
+2006,EAV-020401-U,Sugar production: beet soil,,,,
+2006,EAV-03,"Waste from wood processing, etc.",,,,
+2006,EAV-030310-U,"Fiber waste, fiber, filler and coating sludges",,,,
+2006,EAV-05,"Waste from petroleum refining, natural gas purification",,,,
+2006,EAV-050117-U,Petroleum refining: bitumen,,,,
+2006,EAV-06,Waste from inorganic chemical processes,,,,
+2006,EAV-060899-U,"Silicon, silicon compounds: wastes not otherwise specified",,,,
+2006,EAV-10,Waste from thermal processes,34.0,483.4,,
+2006,EAV-100101-U,"rust and. Boiler ash, slag, boiler (oh.100104)",3.0,27.6,,
+2006,EAV-100117-U,Filter dust from co-incineration of waste (oh.100116),,,,
+2006,EAV-100201-U,"Iron, steel ind.: Waste from slag processing",4.0,139.1,,
+2006,EAV-100202-U,Iron and steel ind.: Unprocessed slag,6.0,24.5,,
+2006,EAV-100501-U,"Zinc metallurgy: slag (primary, secondary smelting)",,,,
+2006,EAV-100503-G,Zinc Metallurgy: Filter Dust,,,,
+2006,EAV-100903-U,"Iron,steel: furnace slag",11.0,128.9,,
+2006,EAV-100906-U,Casting molds and sand before casting (oh.100905),,,,
+2006,EAV-100908-U,Casting molds and sand after casting (without 100907),5.0,136.5,,
+2006,EAV-101008-U,Casting molds and sands after casting (without 101007),,,,
+2006,EAV-101112-U,Glass waste (without 101111),,,,
+2006,EAV-101201-U,Ceramic products: raw mixtures before firing,,,,
+2006,EAV-101203-U,Ceramic products: particles and dust,,,,
+2006,EAV-101208-U,"Waste from ceramic products, bricks, etc.",4.0,0.2,,
+2006,EAV-101210-U,Solid waste from exhaust gas treatment (oh. 101209),,,,
+2006,EAV-101304-U,"Waste from calcination, hydration from quicklime",,,,
+2006,EAV-101311-U,"Waste from composite materials (excluding 101309, 101310)",4.0,6.5,,
+2006,EAV-101314-U,Concrete waste and concrete slurry,3.0,12.2,,
+2006,EAV-12,Waste from mechanical shaping processes,4.0,4.9,,
+2006,EAV-120101-U,Iron filings and turnings,,,,
+2006,EAV-120103-U,Non-ferrous metal filings and turnings,,,,
+2006,EAV-120105-U,plastic shavings and turnings,,,,
+2006,EAV-120117-U,Abrasive waste (without 120116),3.0,1.9,,
+2006,EAV-13,waste oil and liquid fuel waste,,,3.0,0.0
+2006,EAV-130205-G,"Non-chlorinated machines, gears and. lubricating oils",,,,
+2006,EAV-130208-G,"Other machine, gear and lubricating oils",,,,
+2006,EAV-130501-G,Solid waste from grit chambers and oil/water separators,,,,
+2006,EAV-15,"Packaging waste, absorbents, wipes",6.0,9.8,8.0,1.6
+2006,EAV-150101-U,Paper and cardboard packaging,3.0,1.0,3.0,0.7
+2006,EAV-150102-U,Plastic packaging,,,,
+2006,EAV-150103-U,wooden packaging,,,,
+2006,EAV-15010600-U,Mixed packaging cannot be differentiated,5.0,8.3,5.0,0.9
+2006,EAV-150107-U,Glass packaging,,,,
+2006,EAV-150202-G,"Absorbent and filter materials, wipes",,,,
+2006,EAV-150203-U,Absorption and filter materials (without 150202),,,,
+2006,EAV-16,Waste not included elsewhere in the inventory,11.0,40.1,5.0,0.2
+2006,EAV-160103-U,old tires,,,5.0,0.2
+2006,EAV-160119-U,Old vehicles: plastics,,,,
+2006,EAV-161104-U,Fireproof material made of metallurgical material. percent (oh.161103),8.0,36.7,,
+2006,EAV-161106-U,Fireproof material a. non-metallurgical process (oh.161105),6.0,3.3,,
+2006,EAV-17,Construction and demolition waste,2034.0,59293.5,80.0,685.8
+2006,EAV-170101-U,Concrete,1509.0,21012.5,21.0,217.9
+2006,EAV-170102-U,brick,968.0,5792.0,13.0,100.0
+2006,EAV-170103-U,tiles and ceramics,466.0,1243.5,4.0,49.1
+2006,EAV-170106-G,"Mixtures of o. separate fractions v. Concrete, etc.",6.0,18.8,,
+2006,EAV-170107-U,"Mixtures of concrete, bricks, etc. (oh.170106)",961.0,13828.0,11.0,126.9
+2006,EAV-170201-U,Holz,34.0,51.9,10.0,5.6
+2006,EAV-170202-U,Glas,11.0,17.7,,
+2006,EAV-170203-U,plastic,7.0,2.4,,
+2006,EAV-170204-G,"Glass, plastic and wood containing dangerous substances",13.0,7.0,5.0,10.3
+2006,EAV-170301-G,Bitumen mixtures containing coal tar,42.0,530.7,4.0,5.2
+2006,EAV-170302-U,Bitumen mixtures (without 170301),1008.0,7912.6,7.0,4.2
+2006,EAV-170303-G,Coal tar and tarry products,12.0,107.0,8.0,1.0
+2006,EAV-170402-U,Aluminium,,,,
+2006,EAV-170403-U,Nappy,,,,
+2006,EAV-170405-U,iron and Steel,9.0,0.9,8.0,1.0
+2006,EAV-170407-U,Mixed metals,4.0,0.5,,
+2006,EAV-170411-U,Cable (without 170410),,,,
+2006,EAV-170503-G,Soil and stones containing hazardous substances,4.0,16.5,,
+2006,EAV-170504-U,soil and stones (without 170503),680.0,7250.4,16.0,100.9
+2006,EAV-170506-U,Dredged material (without 170505),4.0,36.5,,
+2006,EAV-170507-G,Track ballast containing dangerous substances,8.0,85.4,,
+2006,EAV-170508-U,Track ballast (without 170507),49.0,916.8,,
+2006,EAV-170601-G,Insulation material containing asbestos,,,,
+2006,EAV-170603-G,other insulation material,5.0,0.7,6.0,0.9
+2006,EAV-170604-U,Insulating material (without 170601 and 170603),8.0,46.4,4.0,0.4
+2006,EAV-170605-G,Building materials containing asbestos,10.0,0.3,10.0,0.4
+2006,EAV-170802-U,Gypsum-based building materials (excluding 170801),46.0,17.3,5.0,4.4
+2006,EAV-170903-G,Other construction and demolition waste,,,,
+2006,EAV-170904-U,Mixed construction and demolition work. (oh.170901-170903),68.0,383.2,34.0,33.1
+2006,EAV-19,"Waste from waste treatment plants, etc.",31.0,476.0,2015.0,59601.1
+2006,EAV-190111-G,"Combustion, pyrolysis: rust, boiler ash, slag",,,,
+2006,EAV-190112-U,Grate and boiler ash as well as slag (oh.190111),3.0,94.5,,
+2006,EAV-190113-G,"Combustion, pyrolysis: filter dust with dangerous St.",,,,
+2006,EAV-190114-U,Filter dust (without 190113),,,,
+2006,EAV-190118-U,Pyrolysis waste (without 190117),,,,
+2006,EAV-19029950-U,Products resulting from waste treatment,,,7.0,502.0
+2006,EAV-190503-U,Out of specification compost,,,,
+2006,EAV-190801-U,Sieving and rake residues,,,,
+2006,EAV-190802-U,Sand trap residue,,,,
+2006,EAV-190903-U,Slurries from decarbonization,,,,
+2006,EAV-19120100-U,"Mechanical waste treatment: paper, cardboard not different.",,,132.0,12.0
+2006,EAV-191202-U,Mechanical waste treatment: ferrous metals,,,711.0,262.9
+2006,EAV-191203-U,Mechanical waste treatment: non-ferrous metals,,,110.0,4.4
+2006,EAV-191204-U,Mechanical waste treatment: plastic and rubber,,,208.0,18.3
+2006,EAV-19120500-U,Mechanical waste treatment: Glass not differentiable,,,4.0,1.2
+2006,EAV-19120505-U,Mechanical waste treatment: mixed glass,,,,
+2006,EAV-191206-G,Mechanical waste treatment: wood with hazardous substances,,,8.0,0.4
+2006,EAV-191207-U,Wood (without 191206),3.0,0.4,368.0,122.8
+2006,EAV-191208-U,Mechanical waste treatment: textiles,,,,
+2006,EAV-19120900-U,"Mechanical waste treatment: minerals (sand, stones)",21.0,295.4,21.0,434.8
+2006,EAV-19120901-U,Products for use in road and road building,,,1632.0,36308.6
+2006,EAV-19120902-U,Products for use in other earthworks,,,1030.0,14179.2
+2006,EAV-19120903-U,products f.d. Use in concrete mixing plants,,,89.0,788.5
+2006,EAV-19120904-U,products for use in asphalt mixing plants,,,233.0,4052.3
+2006,EAV-19120905-U,products for other uses,,,252.0,2334.9
+2006,EAV-19120906-U,Hot mix for road and path construction,,,9.0,51.5
+2006,EAV-191210-U,Combustible waste (fuel from waste),,,3.0,0.3
+2006,EAV-191211-G,Other waste (including material mixtures),,,6.0,8.4
+2006,EAV-191212-U,Other waste (without 191211),6.0,72.9,286.0,509.8
+2006,EAV-191302-U,Solid waste from soil remediation (oh.191301),,,,
+2006,EAV-20,Municipal waste (household waste and similar waste),26.0,79.5,7.0,10.0
+2006,EAV-200101-U,paper and cardboard,,,,
+2006,EAV-200102-U,Glas,,,,
+2006,EAV-200135-G,"Used electrical devices (oh.200121,200123)",,,,
+2006,EAV-200137-G,Wood containing dangerous substances,,,,
+2006,EAV-200138-U,Wood (without 200137),3.0,3.2,,
+2006,EAV-200140-U,metals,,,,
+2006,EAV-200201-U,Biodegradable waste,6.0,3.0,3.0,0.3
+2006,EAV-200202-U,Soil and stones,10.0,56.5,,
+2006,EAV-200203-U,Other non-biodegradable waste,,,,
+2006,EAV-20030100-U,Mixed municipal waste cannot be differentiated,3.0,2.7,,
+2006,EAV-20030101-U,"Household waste, commercial waste similar to household waste",,,,
+2006,EAV-200303-U,street sweepings,6.0,13.5,,
+2006,EAV-200306-U,Waste from sewer cleaning,,,,
+2006,EAV-200307-U,Bulky waste,3.0,0.6,,
+2006,EAV-200399-U,Municipal waste n.e.c.,,,,
+2006,EAV-99,Hazardous waste,80.0,791.9,37.0,26.7
+2006,EAV-990000-G,Total hazardous waste,80.0,791.9,37.0,26.7
+2008,EAV-01,Waste from the extraction of mineral resources,,,,
+2008,EAV-010413-U,Waste from stonemasonry and sawing work (without 010407),,,,
+2008,EAV-02,"Waste from agriculture, forestry, etc.",,,,
+2008,EAV-020401-U,Sugar production: beet soil,,,,
+2008,EAV-03,"Waste from woodworking, etc.",,,,
+2008,EAV-030310-U,"Fiber waste, fiber, filler and coating sludge",,,,
+2008,EAV-05,"Waste from petroleum refining, natural gas purification",,,,
+2008,EAV-050117-U,Petroleum refining: bitumen,,,,
+2008,EAV-06,Waste from inorganic chemical processes,,,,
+2008,EAV-060899-U,"Silicon, silicon compounds: wastes not otherwise specified",,,,
+2008,EAV-10,Waste from thermal processes,36.0,258.5,3.0,29.0
+2008,EAV-100101-U,"rust and. Boiler ash, slag, boiler stone (oh.100104)",6.0,48.0,,
+2008,EAV-100117-U,Filter dust from co-incineration of waste (oh.100116),,,,
+2008,EAV-100201-U,Iron and steel industry: waste from slag processing,,,,
+2008,EAV-100202-U,Iron and steel ind.: Unprocessed slag,5.0,19.8,,
+2008,EAV-100501-U,"Zinc metallurgy: slag (primary, secondary smelting)",,,,
+2008,EAV-100503-G,Zinc Metallurgy: Filter Dust,,,,
+2008,EAV-100903-U,"Iron,steel: furnace slag",9.0,85.0,,
+2008,EAV-100906-U,Casting molds and sand before casting (oh.100905),,,,
+2008,EAV-100908-U,Casting molds and sand after casting (without 100907),3.0,70.0,,
+2008,EAV-101008-U,Casting molds and sands after casting (without 101007),,,,
+2008,EAV-101112-U,Glass waste (without 101111),,,,
+2008,EAV-101201-U,Ceramic products: raw mixtures before firing,,,,
+2008,EAV-101203-U,Ceramic products: particles and dust,,,,
+2008,EAV-101208-U,"Waste from ceramic products, bricks, etc.",3.0,0.1,,
+2008,EAV-101210-U,Solid waste from exhaust gas treatment (oh. 101209),,,,
+2008,EAV-101304-U,"Waste from calcination, hydration from quicklime",,,,
+2008,EAV-101311-U,"Waste from composite materials (excluding 101309, 101310)",3.0,2.1,,
+2008,EAV-101314-U,Concrete waste and concrete sludge,9.0,4.8,,
+2008,EAV-12,Waste from mechanical shaping processes,,,,
+2008,EAV-120101-U,Iron filings and turnings,,,,
+2008,EAV-120103-U,Non-ferrous metal filings and turnings,,,,
+2008,EAV-120105-U,Plastic chips and turnings,,,,
+2008,EAV-120117-U,Abrasive waste (without 120116),,,,
+2008,EAV-13,Oil waste and liquid fuel waste,,,4.0,0.0
+2008,EAV-130205-G,"Non-chlorinated machines, gears and. lubricating oils",,,4.0,0.0
+2008,EAV-130208-G,"Other machine, gear and lubricating oils",,,,
+2008,EAV-130501-G,Solid waste from grit chambers and oil/water separators,,,,
+2008,EAV-15,"Packaging waste, absorbent masses, wipes",6.0,4.0,10.0,1.1
+2008,EAV-150101-U,Paper and cardboard packaging,,,,
+2008,EAV-150102-U,Plastic packaging,,,,
+2008,EAV-150103-U,Wooden packaging,,,,
+2008,EAV-15010600-U,Mixed packaging cannot be differentiated,4.0,1.8,3.0,0.3
+2008,EAV-150107-U,Glass packaging,,,,
+2008,EAV-150202-G,"Absorbent and filter materials, wipes",,,,
+2008,EAV-150203-U,Absorption and filter materials (without 150202),,,,
+2008,EAV-16,Waste not included elsewhere in the inventory,12.0,27.2,,
+2008,EAV-160103-U,scrap tires,,,,
+2008,EAV-160119-U,Old vehicles: plastics,,,,
+2008,EAV-161104-U,Fireproof material made of metallurgical material. percent (oh.161103),10.0,25.7,,
+2008,EAV-161106-U,Refractory material a. non-metallurgical process (oh.161105),4.0,1.5,,
+2008,EAV-17,construction and demolition waste,2051.0,63345.7,106.0,1089.1
+2008,EAV-170101-U,Concrete,1562.0,21725.5,3.0,64.4
+2008,EAV-170102-U,brick,957.0,5682.8,3.0,47.8
+2008,EAV-170103-U,tiles and ceramics,473.0,1135.9,,
+2008,EAV-170106-G,"Mixtures of o. separate fractions v. Concrete, etc.",8.0,14.0,,
+2008,EAV-170107-U,"Mixtures of concrete, bricks, etc. (oh.170106)",1047.0,15793.0,10.0,81.3
+2008,EAV-170201-U,Holz,37.0,37.9,13.0,6.5
+2008,EAV-170202-U,Glas,8.0,0.5,,
+2008,EAV-170203-U,plastic,,,,
+2008,EAV-170204-G,"Glass, plastic and wood with hazardous substances",7.0,19.0,3.0,0.0
+2008,EAV-170301-G,Bitumen mixtures containing coal tar,61.0,724.2,39.0,349.2
+2008,EAV-170302-U,Bitumen mixtures (without 170301),1059.0,8745.3,7.0,28.5
+2008,EAV-170303-G,Coal tar and tarry products,19.0,33.8,8.0,16.6
+2008,EAV-170402-U,Aluminium,,,,
+2008,EAV-170403-U,Nappy,,,,
+2008,EAV-170405-U,iron and Steel,7.0,0.7,9.0,1.9
+2008,EAV-170407-U,Mixed metals,,,,
+2008,EAV-170411-U,Cable (without 170410),,,,
+2008,EAV-170503-G,Soil and stones containing hazardous substances,3.0,68.4,,
+2008,EAV-170504-U,soil and stones (without 170503),701.0,7815.4,25.0,447.2
+2008,EAV-170506-U,Dredged material (without 170505),5.0,17.0,,
+2008,EAV-170507-G,Track ballast containing dangerous substances,6.0,200.4,,
+2008,EAV-170508-U,Track ballast (without 170507),53.0,1045.3,,
+2008,EAV-170601-G,Insulation material containing asbestos,,,,
+2008,EAV-170603-G,other insulation material,,,3.0,0.1
+2008,EAV-170604-U,Insulating material (without 170601 and 170603),,,,
+2008,EAV-170605-G,Building materials containing asbestos,6.0,0.3,7.0,0.2
+2008,EAV-170802-U,Gypsum-based building materials (excluding 170801),62.0,36.1,9.0,8.1
+2008,EAV-170903-G,Other construction and demolition waste,,,,
+2008,EAV-170904-U,Mixed construction and demolition work. (oh.170901-170903),71.0,235.6,37.0,17.8
+2008,EAV-19,"Waste from waste treatment plants, etc.",45.0,323.5,2048.0,62267.9
+2008,EAV-190111-G,"Combustion, pyrolysis: grate, boiler ashes, slag",,,,
+2008,EAV-190112-U,Grate and boiler ash as well as slag (oh.190111),20.0,176.2,,
+2008,EAV-190113-G,"Combustion.,Pyrolysis: Filter dust with haz. St.",,,,
+2008,EAV-190114-U,Filter dust (without 190113),,,,
+2008,EAV-190118-U,Pyrolysis waste (without 190117),,,,
+2008,EAV-19029950-U,Products resulting from waste treatment,,,6.0,188.8
+2008,EAV-190503-U,Out of specification compost,,,,
+2008,EAV-190801-U,Sieving and rake residues,,,,
+2008,EAV-190802-U,sand trap residues,,,,
+2008,EAV-190903-U,Slurries from decarbonization,,,,
+2008,EAV-19120100-U,"Mechanical waste treatment: paper, cardboard not different.",,,128.0,5.9
+2008,EAV-191202-U,Mechanical waste treatment: ferrous metals,,,774.0,204.8
+2008,EAV-191203-U,Mechanical waste treatment: non-ferrous metals,,,144.0,9.3
+2008,EAV-191204-U,Mechanical waste treatment: plastic and rubber,,,213.0,13.9
+2008,EAV-19120500-U,Mechanical waste treatment: Glass cannot be differentiated,,,,
+2008,EAV-19120505-U,Mechanical waste treatment: mixed glass,,,,
+2008,EAV-191206-G,Mechanical waste treatment: wood with hazardous substances,,,9.0,39.6
+2008,EAV-191207-U,Wood (without 191206),,,403.0,530.5
+2008,EAV-191208-U,Mechanical waste treatment: textiles,,,,
+2008,EAV-19120900-U,"Mechanical waste treatment: minerals (sand, stones)",16.0,86.0,22.0,709.1
+2008,EAV-19120901-U,Products for use in road and road building,,,1643.0,37169.4
+2008,EAV-19120902-U,Products for use in other earthworks,,,1068.0,14477.2
+2008,EAV-19120903-U,products f.d. Use in concrete mixing plants,,,81.0,849.6
+2008,EAV-19120904-U,Products for use in asphalt mixing plants,,,280.0,4416.1
+2008,EAV-19120905-U,products for other uses,,,244.0,2321.2
+2008,EAV-19120906-U,Hot mix for road and path construction,,,,
+2008,EAV-191210-U,Combustible waste (fuel from waste),,,,
+2008,EAV-191211-G,Other waste (including mixed materials),,,,
+2008,EAV-191212-U,Other waste (excluding 191211),8.0,26.5,307.0,1282.9
+2008,EAV-191302-U,Solid waste from soil remediation (oh.191301),,,,
+2008,EAV-20,Municipal waste (household waste and similar waste),30.0,69.6,9.0,1.3
+2008,EAV-200101-U,paper and cardboard,,,,
+2008,EAV-200102-U,Glas,,,,
+2008,EAV-200135-G,"Used electrical devices (oh.200121,200123)",,,,
+2008,EAV-200137-G,Wood containing dangerous substances,,,,
+2008,EAV-200138-U,Wood (without 200137),3.0,5.1,,
+2008,EAV-200140-U,metals,,,,
+2008,EAV-200201-U,Biodegradable waste,12.0,7.7,,
+2008,EAV-200202-U,soil and stones,7.0,33.4,,
+2008,EAV-200203-U,Other non-biodegradable waste,,,,
+2008,EAV-20030100-U,Mixed municipal waste cannot be differentiated,,,,
+2008,EAV-20030101-U,"Household waste, commercial waste similar to household waste",,,,
+2008,EAV-200303-U,street sweepings,9.0,17.1,,
+2008,EAV-200306-U,Waste from sewer cleaning,,,,
+2008,EAV-200307-U,Bulky waste,,,,
+2008,EAV-200399-U,Municipal waste n.e.c.,,,,
+2008,EAV-99,Hazardous waste,89.0,1082.0,63.0,416.3
+2008,EAV-990000-G,Total hazardous waste,89.0,1082.0,63.0,416.3
+2010,EAV-01,waste from the extraction of mineral resources,,,,
+2010,EAV-010413-U,Waste from stonemasonry and sawing work (excluding 010407),,,,
+2010,EAV-02,"Waste from agriculture, forestry, etc.",,,,
+2010,EAV-020401-U,Sugar production: beet soil,,,,
+2010,EAV-03,"Waste from woodworking, etc.",,,,
+2010,EAV-030310-U,"Fiber waste, fiber, filler and coating sludges",,,,
+2010,EAV-05,"Waste from petroleum refining, natural gas purification",,,,
+2010,EAV-050117-U,Petroleum refining: bitumen,,,,
+2010,EAV-06,Waste from inorganic chemical processes,,,,
+2010,EAV-060899-U,"Silicon, silicon compounds: wastes not otherwise specified",,,,
+2010,EAV-10,Waste from thermal processes,22.0,184.5,,
+2010,EAV-100101-U,"rust and. Boiler ash, slag, boiler stone (oh.100104)",4.0,35.0,,
+2010,EAV-100117-U,Filter dust from co-incineration of waste (oh.100116),,,,
+2010,EAV-100201-U,Iron and steel industry: waste from slag processing,,,,
+2010,EAV-100202-U,Iron and steel ind.: Unprocessed slag,8.0,58.1,,
+2010,EAV-100501-U,"Zinc metallurgy: slags (first, second melting)",,,,
+2010,EAV-100503-G,Zinc Metallurgy: Filter Dust,,,,
+2010,EAV-100903-U,"Iron,steel: furnace slag",7.0,11.5,,
+2010,EAV-100906-U,Casting molds and sand before casting (oh.100905),,,,
+2010,EAV-100908-U,Casting molds and sand after casting (without 100907),4.0,36.4,,
+2010,EAV-101008-U,Casting molds and sands after casting (without 101007),3.0,12.2,,
+2010,EAV-101112-U,Glass waste (without 101111),,,,
+2010,EAV-101201-U,Ceramic products: raw mixtures before firing,,,,
+2010,EAV-101203-U,Ceramic products: particles and dust,,,,
+2010,EAV-101208-U,"Waste from ceramic products, bricks, etc.",,,,
+2010,EAV-101210-U,Solid waste from exhaust gas treatment (oh. 101209),,,,
+2010,EAV-101304-U,"Waste from calcination, hydration from quicklime",,,,
+2010,EAV-101311-U,"Waste from composite materials (excluding 101309, 101310)",3.0,4.1,,
+2010,EAV-101314-U,Concrete waste and concrete slurry,4.0,3.0,,
+2010,EAV-12,Waste from mechanical shaping processes,,,,
+2010,EAV-120101-U,Iron filings and turnings,,,,
+2010,EAV-120103-U,Non-ferrous metal filings and turnings,,,,
+2010,EAV-120105-U,Plastic chips and turnings,,,,
+2010,EAV-120117-U,Abrasive waste (without 120116),,,,
+2010,EAV-13,waste oil and liquid fuel waste,,,4.0,0.0
+2010,EAV-130205-G,"Non-chlorinated machines, gears and. lubricating oils",,,4.0,0.0
+2010,EAV-130208-G,"Other machine, gear and lubricating oils",,,,
+2010,EAV-130501-G,Solid waste from grit chambers and oil/water separators,,,,
+2010,EAV-15,"Packaging waste, absorbent masses, wipes",9.0,3.4,6.0,0.1
+2010,EAV-150101-U,Paper and cardboard packaging,,,,
+2010,EAV-150102-U,Plastic packaging,,,,
+2010,EAV-150103-U,wooden packaging,,,,
+2010,EAV-15010600-U,Mixed packaging cannot be differentiated,8.0,3.2,,
+2010,EAV-150107-U,Glass packaging,,,,
+2010,EAV-150202-G,"Absorbent and filter materials, wipes",,,4.0,0.0
+2010,EAV-150203-U,Absorption and filter materials (without 150202),,,,
+2010,EAV-16,Waste not included elsewhere in the inventory,3.0,4.9,,
+2010,EAV-160103-U,scrap tires,,,,
+2010,EAV-160119-U,Old vehicles: plastics,,,,
+2010,EAV-161104-U,Refractory mat. from metallurg. percent (oh.161103),,,,
+2010,EAV-161106-U,Refractory material a. non-metallurgical process (oh.161105),,,,
+2010,EAV-17,construction and demolition waste,2070.0,62089.1,190.0,1564.0
+2010,EAV-170101-U,Concrete,1590.0,21955.1,12.0,119.5
+2010,EAV-170102-U,brick,992.0,4625.3,8.0,34.4
+2010,EAV-170103-U,tiles and ceramics,475.0,941.7,,
+2010,EAV-170106-G,"Mixtures of o. separate fractions v. Concrete, etc.",5.0,14.3,3.0,0.8
+2010,EAV-170107-U,"Mixtures of concrete, bricks, etc. (oh.170106)",1077.0,14049.6,13.0,62.7
+2010,EAV-170201-U,Holz,46.0,62.9,11.0,5.0
+2010,EAV-170202-U,Glas,6.0,0.2,3.0,0.1
+2010,EAV-170203-U,plastic,4.0,0.2,,
+2010,EAV-170204-G,"Glass, plastic and wood with hazardous substances",13.0,9.8,6.0,0.1
+2010,EAV-170301-G,Bitumen mixtures containing coal tar,141.0,1054.8,107.0,691.5
+2010,EAV-170302-U,Bitumen mixtures (without 170301),1093.0,9229.7,16.0,34.0
+2010,EAV-170303-G,Coal tar and tar-containing products,23.0,2.4,13.0,1.2
+2010,EAV-170402-U,Aluminium,,,,
+2010,EAV-170403-U,Nappy,,,,
+2010,EAV-170405-U,iron and Steel,12.0,5.2,9.0,3.5
+2010,EAV-170407-U,mixed metals,5.0,1.7,5.0,1.4
+2010,EAV-170411-U,Cable (without 170410),,,,
+2010,EAV-170503-G,Soil and stones containing hazardous substances,5.0,13.2,,
+2010,EAV-170504-U,Soil and stones (without 170503),792.0,8241.4,32.0,557.2
+2010,EAV-170506-U,dredged material (without 170505),8.0,85.2,,
+2010,EAV-170507-G,Track ballast containing dangerous substances,7.0,89.7,,
+2010,EAV-170508-U,Track ballast (without 170507),67.0,1424.5,3.0,27.0
+2010,EAV-170601-G,Insulation material containing asbestos,,,,
+2010,EAV-170603-G,other insulation material,12.0,0.1,10.0,0.2
+2010,EAV-170604-U,Insulating material (without 170601 and 170603),5.0,0.3,,
+2010,EAV-170605-G,Building materials containing asbestos,21.0,1.8,14.0,1.0
+2010,EAV-170802-U,Gypsum-based building materials (excluding 170801),70.0,45.7,10.0,0.7
+2010,EAV-170903-G,Other construction and demolition waste,,,,
+2010,EAV-170904-U,Mixed construction and demolition waste (oh.170901-170903),67.0,233.9,26.0,18.8
+2010,EAV-19,"Waste from waste treatment plants, etc.",27.0,140.8,2061.0,58827.5
+2010,EAV-190111-G,"Combustion, pyrolysis: rust, boiler ash, slag",,,,
+2010,EAV-190112-U,Grate and boiler ash as well as slag (oh.190111),,,,
+2010,EAV-190113-G,"Combustion.,Pyrolysis: Filter dust with haz. St.",,,,
+2010,EAV-190114-U,Filter dust (without 190113),,,,
+2010,EAV-190118-U,Pyrolysis waste (without 190117),,,,
+2010,EAV-19029950-U,Products resulting from waste treatment,,,12.0,918.1
+2010,EAV-190503-U,Out of specification compost,,,,
+2010,EAV-190801-U,Sieving and rake residues,,,,
+2010,EAV-190802-U,sand trap residues,4.0,1.7,,
+2010,EAV-190903-U,Slurries from decarbonization,,,,
+2010,EAV-19120100-U,"Mechanical waste treatment: paper, cardboard not different.",,,138.0,36.1
+2010,EAV-191202-U,Mechanical waste treatment: ferrous metals,,,793.0,198.4
+2010,EAV-191203-U,Mechanical waste treatment: non-ferrous metals,,,138.0,5.6
+2010,EAV-191204-U,Mechanical waste treatment: plastic and rubber,,,156.0,8.5
+2010,EAV-19120500-U,Mechanical waste treatment: Glass not differentiable,,,,
+2010,EAV-19120505-U,Mechanical waste treatment: mixed glass,,,,
+2010,EAV-191206-G,Mechanical waste treatment: wood with hazardous fabrics,,,15.0,37.7
+2010,EAV-191207-U,Wood (without 191206),,,354.0,101.6
+2010,EAV-191208-U,Mechanical waste treatment: textiles,,,,
+2010,EAV-19120900-U,"Mechanical waste treatment: minerals (sand, stones)",15.0,57.4,40.0,106.3
+2010,EAV-19120901-U,Products for use in road and road building,,,1655.0,35142.0
+2010,EAV-19120902-U,Products for use in other earthworks,,,1145.0,14553.4
+2010,EAV-19120903-U,products f.d. Use in concrete mixing plants,,,85.0,480.0
+2010,EAV-19120904-U,products for use in asphalt mixing plants,,,275.0,4714.6
+2010,EAV-19120905-U,products for other uses,,,257.0,2238.4
+2010,EAV-19120906-U,Hot mix for road and path construction,,,,
+2010,EAV-191210-U,Combustible waste (fuels from waste),,,3.0,36.2
+2010,EAV-191211-G,Other waste (including material mixtures),,,4.0,10.9
+2010,EAV-191212-U,Other waste (excluding 191211),7.0,8.3,362.0,236.7
+2010,EAV-191302-U,Solid waste from soil remediation (oh.191301),,,,
+2010,EAV-20,Municipal waste (household waste and similar waste),43.0,103.1,12.0,37.4
+2010,EAV-200101-U,paper and cardboard,3.0,21.1,,
+2010,EAV-200102-U,Glas,,,,
+2010,EAV-200135-G,"Used electrical devices (oh.200121,200123)",,,,
+2010,EAV-200137-G,Wood containing dangerous substances,,,,
+2010,EAV-200138-U,Wood (without 200137),,,,
+2010,EAV-200140-U,metals,,,,
+2010,EAV-200201-U,Biodegradable waste,15.0,37.7,9.0,24.2
+2010,EAV-200202-U,soil and stones,10.0,13.8,,
+2010,EAV-200203-U,Other non-biodegradable waste,,,,
+2010,EAV-20030100-U,Mixed municipal waste cannot be differentiated,6.0,17.5,,
+2010,EAV-20030101-U,"Household waste, commercial waste similar to household waste",,,,
+2010,EAV-200303-U,street sweepings,18.0,11.6,,
+2010,EAV-200306-U,Waste from sewer cleaning,,,,
+2010,EAV-200307-U,Bulky waste,3.0,1.2,,
+2010,EAV-200399-U,Municipal waste n.e.c.,,,,
+2010,EAV-99,Hazardous waste,169.0,1186.7,146.0,748.2
+2010,EAV-990000-G,Total hazardous waste,169.0,1186.7,146.0,748.2
+2012,EAV-01,waste from the extraction of mineral resources,3.0,1.1,,
+2012,EAV-010413-U,Waste from stonemasonry and sawing work (without 010407),3.0,1.1,,
+2012,EAV-02,"Waste from agriculture, forestry, etc.",,,,
+2012,EAV-020401-U,Sugar production: beet soil,,,,
+2012,EAV-03,"Waste from woodworking, etc.",,,,
+2012,EAV-030310-U,"Fiber waste, fiber, filler and coating sludge",,,,
+2012,EAV-05,"Waste from petroleum refining, natural gas purification",,,,
+2012,EAV-050117-U,Petroleum refining: bitumen,,,,
+2012,EAV-06,Waste from inorganic chemical processes,,,,
+2012,EAV-060899-U,"Silicon, silicon compounds: wastes not otherwise specified",,,,
+2012,EAV-10,Waste from thermal processes,30.0,160.9,,
+2012,EAV-100101-U,"rust and. Boiler ash, slag, boiler stone (oh.100104)",8.0,24.5,,
+2012,EAV-100117-U,Filter dust from co-incineration of waste (oh.100116),,,,
+2012,EAV-100201-U,"Iron, steel ind.: Waste from slag processing",,,,
+2012,EAV-100202-U,Iron and steel ind.: Unprocessed slag,8.0,20.6,,
+2012,EAV-100501-U,"Zinc metallurgy: slag (primary, secondary smelting)",,,,
+2012,EAV-100503-G,Zinc Metallurgy: Filter Dust,,,,
+2012,EAV-100903-U,"Iron,steel: furnace slag",13.0,57.4,,
+2012,EAV-100906-U,Casting molds and sand before casting (oh.100905),,,,
+2012,EAV-100908-U,Casting molds and sand after casting (without 100907),5.0,18.4,,
+2012,EAV-101008-U,Casting molds and sands after casting (without 101007),4.0,10.4,,
+2012,EAV-101112-U,Glass waste (without 101111),,,,
+2012,EAV-101201-U,Ceramic products: raw mixtures before firing,,,,
+2012,EAV-101203-U,Ceramic products: particles and dust,,,,
+2012,EAV-101208-U,"Waste from ceramic products, bricks, etc.",,,,
+2012,EAV-101210-U,Solid waste from exhaust gas treatment (oh. 101209),,,,
+2012,EAV-101304-U,"Waste from calcination, hydration from quicklime",,,,
+2012,EAV-101311-U,"Composite waste (excluding 101309, 101310)",,,,
+2012,EAV-101314-U,Concrete waste and concrete slurry,4.0,0.9,,
+2012,EAV-12,Waste from mechanical shaping processes,4.0,8.0,,
+2012,EAV-120101-U,Iron filings and turnings,,,,
+2012,EAV-120103-U,Non-ferrous metal filings and turnings,,,,
+2012,EAV-120105-U,plastic shavings and turnings,,,,
+2012,EAV-120117-U,Abrasive waste (without 120116),3.0,5.1,,
+2012,EAV-13,waste oil and liquid fuel waste,,,5.0,0.0
+2012,EAV-130205-G,"Non-chlorinated machines, gears and. lubricating oils",,,5.0,0.0
+2012,EAV-130208-G,"Other machine, gear and lubricating oils",,,,
+2012,EAV-130501-G,Solid waste from grit chambers and oil/water separators,,,,
+2012,EAV-15,"Packaging waste, absorbent masses, wipes",7.0,5.6,7.0,0.0
+2012,EAV-150101-U,Paper and cardboard packaging,,,,
+2012,EAV-150102-U,Plastic packaging,,,,
+2012,EAV-150103-U,Wooden packaging,,,,
+2012,EAV-15010600-U,Mixed packaging cannot be differentiated,4.0,4.7,,
+2012,EAV-150107-U,Glass packaging,,,,
+2012,EAV-150202-G,"Absorbent and filter materials, wipes",,,5.0,0.0
+2012,EAV-150203-U,Absorption and filter materials (without 150202),,,,
+2012,EAV-16,Waste not included elsewhere in the inventory,6.0,3.7,,
+2012,EAV-160103-U,scrap tires,,,,
+2012,EAV-160119-U,Old vehicles: plastics,,,,
+2012,EAV-161104-U,Fireproof material made of metallurgical material. percent (oh.161103),5.0,3.7,,
+2012,EAV-161106-U,Fireproof material a. non-metallurgical process (oh.161105),,,,
+2012,EAV-17,Construction and demolition waste,2171.0,62717.8,179.0,2072.7
+2012,EAV-170101-U,Concrete,1680.0,21603.5,11.0,80.2
+2012,EAV-170102-U,brick,956.0,4151.1,4.0,19.2
+2012,EAV-170103-U,tiles and ceramics,451.0,945.5,,
+2012,EAV-170106-G,"Mixtures of o. separate fractions v. Concrete, etc.",7.0,6.1,,
+2012,EAV-170107-U,"Mixtures of concrete, bricks, etc. (oh.170106)",1155.0,13687.2,20.0,192.4
+2012,EAV-170201-U,Holz,33.0,26.7,11.0,3.2
+2012,EAV-170202-U,Glas,3.0,0.1,,
+2012,EAV-170203-U,plastic,,,,
+2012,EAV-170204-G,"Glass, plastic and wood with hazardous substances",10.0,1.5,3.0,0.2
+2012,EAV-170301-G,Bitumen mixtures containing coal tar,135.0,1031.5,97.0,790.8
+2012,EAV-170302-U,Bitumen mixtures (without 170301),1143.0,10242.9,11.0,79.3
+2012,EAV-170303-G,Coal tar and tarry products,10.0,1.0,7.0,0.3
+2012,EAV-170402-U,Aluminium,,,,
+2012,EAV-170403-U,Nappy,,,,
+2012,EAV-170405-U,iron and Steel,,,8.0,1.6
+2012,EAV-170407-U,mixed metals,3.0,0.8,4.0,1.3
+2012,EAV-170411-U,Cable (without 170410),,,,
+2012,EAV-170503-G,Soil and stones containing hazardous substances,8.0,12.3,,
+2012,EAV-170504-U,Soil and stones (without 170503),755.0,8622.1,39.0,840.1
+2012,EAV-170506-U,dredged material (without 170505),14.0,349.9,,
+2012,EAV-170507-G,Track ballast containing dangerous substances,6.0,81.6,,
+2012,EAV-170508-U,Track ballast (without 170507),102.0,1709.5,3.0,23.8
+2012,EAV-170601-G,Insulation material containing asbestos,,,,
+2012,EAV-170603-G,other insulation material,5.0,0.1,6.0,0.2
+2012,EAV-170604-U,Insulating material (without 170601 and 170603),3.0,0.1,,
+2012,EAV-170605-G,Building materials containing asbestos,10.0,2.3,6.0,0.2
+2012,EAV-170802-U,Gypsum-based building materials (excluding 170801),60.0,28.7,14.0,2.0
+2012,EAV-170903-G,Other construction and demolition waste,,,,
+2012,EAV-170904-U,Mixed construction and demolition work. (oh.170901-170903),79.0,210.7,26.0,33.3
+2012,EAV-19,"Waste from waste treatment plants, etc.",36.0,646.8,2150.0,60368.8
+2012,EAV-190111-G,"Combustion, pyrolysis: grate, boiler ashes, slag",,,,
+2012,EAV-190112-U,Grate and boiler ash as well as slag (oh.190111),9.0,419.8,3.0,177.6
+2012,EAV-190113-G,"Combustion.,Pyrolysis: Filter dust with haz. St.",,,,
+2012,EAV-190114-U,Filter dust (without 190113),,,,
+2012,EAV-190118-U,Pyrolysis waste (without 190117),,,,
+2012,EAV-19029950-U,Products resulting from waste treatment,,,3.0,162.5
+2012,EAV-190503-U,Out of specification compost,,,,
+2012,EAV-190801-U,Sieve and rake residues,,,,
+2012,EAV-190802-U,Sand trap residue,4.0,1.7,,
+2012,EAV-190903-U,Slurries from decarbonization,,,,
+2012,EAV-19120100-U,"Mechanical waste treatment: paper, cardboard not diff.",,,85.0,27.4
+2012,EAV-191202-U,Mechanical waste treatment: ferrous metals,4.0,4.0,769.0,173.6
+2012,EAV-191203-U,Mechanical waste treatment: non-ferrous metals,,,132.0,13.9
+2012,EAV-191204-U,Mechanical waste treatment: plastic and rubber,,,161.0,9.7
+2012,EAV-19120500-U,Mechanical waste treatment: Glass not differentiable,,,,
+2012,EAV-19120505-U,Mechanical waste treatment: mixed glass,,,,
+2012,EAV-191206-G,Mechanical waste treatment: wood with hazardous substances,,,11.0,3.0
+2012,EAV-191207-U,Wood (without 191206),,,307.0,82.9
+2012,EAV-191208-U,Mechanical waste treatment: textiles,,,,
+2012,EAV-19120900-U,"Mechanical waste treatment: minerals (sand, stones)",18.0,216.1,37.0,866.2
+2012,EAV-19120901-U,Products for use in road and road building,,,1703.0,34229.6
+2012,EAV-19120902-U,Products for use in other earthworks,,,1200.0,13447.7
+2012,EAV-19120903-U,Products f.d. Use in concrete mixing plants,,,90.0,570.5
+2012,EAV-19120904-U,products for use in asphalt mixing plants,,,312.0,6526.5
+2012,EAV-19120905-U,products for other uses,,,287.0,3832.9
+2012,EAV-19120906-U,Hot mix for road and path construction,,,,
+2012,EAV-191210-U,Combustible waste (fuels from waste),,,,
+2012,EAV-191211-G,Other waste (including material mixtures),,,,
+2012,EAV-191212-U,Other waste (excluding 191211),7.0,1.6,360.0,241.8
+2012,EAV-191302-U,Solid waste from soil remediation (oh.191301),,,,
+2012,EAV-20,Municipal waste (household waste and similar waste),37.0,88.6,12.0,18.0
+2012,EAV-200101-U,paper and cardboard,,,,
+2012,EAV-200102-U,Glas,,,,
+2012,EAV-200135-G,"Used electrical devices (oh.200121,200123)",,,,
+2012,EAV-200137-G,Wood containing dangerous substances,,,,
+2012,EAV-200138-U,Wood (without 200137),,,,
+2012,EAV-200140-U,metals,,,,
+2012,EAV-200201-U,Biodegradable waste,15.0,12.3,10.0,4.0
+2012,EAV-200202-U,Soil and stones,8.0,15.7,,
+2012,EAV-200203-U,Other non-biodegradable waste,,,,
+2012,EAV-20030100-U,Mixed municipal waste cannot be differentiated,,,,
+2012,EAV-20030101-U,"Household waste, commercial waste similar to household waste",,,,
+2012,EAV-200303-U,street sweepings,16.0,26.6,,
+2012,EAV-200306-U,Waste from sewer cleaning,3.0,1.4,,
+2012,EAV-200307-U,Bulky waste,,,,
+2012,EAV-200399-U,Municipal waste n.e.c.,,,,
+2012,EAV-99,Hazardous waste,155.0,1136.4,120.0,801.0
+2012,EAV-990000-G,Total hazardous waste,155.0,1136.4,120.0,801.0
+2014,EAV-01,Waste from the extraction of mineral resources,,,,
+2014,EAV-010413-U,Waste from stonemasonry and sawing work (without 010407),,,,
+2014,EAV-02,"Waste from agriculture, forestry, etc.",,,,
+2014,EAV-020401-U,Sugar production: beet soil,,,,
+2014,EAV-03,"Waste from wood processing, etc.",,,,
+2014,EAV-030310-U,"Fiber waste, fiber, filler and coating sludges",,,,
+2014,EAV-05,"Waste from petroleum refining, natural gas purification",,,,
+2014,EAV-050117-U,Petroleum refining: bitumen,,,,
+2014,EAV-06,Waste from inorganic chemical processes,,,,
+2014,EAV-060899-U,"Silicon, silicon compounds: wastes not otherwise specified",,,,
+2014,EAV-10,Waste from thermal processes,29.0,193.5,,
+2014,EAV-100101-U,"rust and. Boiler ash, slag, boiler stone (oh.100104)",9.0,32.2,,
+2014,EAV-100117-U,Filter dust from co-incineration of waste (oh.100116),,,,
+2014,EAV-100201-U,"Iron, steel ind.: Waste from slag processing",,,,
+2014,EAV-100202-U,Iron and steel ind.: Unprocessed slag,5.0,11.9,,
+2014,EAV-100501-U,"Zinc metallurgy: slags (first, second melting)",,,,
+2014,EAV-100503-G,Zinc Metallurgy: Filter Dust,,,,
+2014,EAV-100903-U,"Iron,steel: furnace slag",10.0,75.2,,
+2014,EAV-100906-U,Casting molds and sand before casting (oh.100905),,,,
+2014,EAV-100908-U,Casting molds and sand after casting (without 100907),7.0,20.1,,
+2014,EAV-101008-U,Casting molds and sands after casting (without 101007),,,,
+2014,EAV-101112-U,Glass waste (without 101111),,,,
+2014,EAV-101201-U,Ceramic products: raw mixtures before firing,,,,
+2014,EAV-101203-U,Ceramic products: particles and dust,,,,
+2014,EAV-101208-U,"Waste from ceramic products, bricks, etc.",,,,
+2014,EAV-101210-U,Solid waste from exhaust gas treatment (oh. 101209),,,,
+2014,EAV-101304-U,"Waste from calcination, hydration from quicklime",,,,
+2014,EAV-101311-U,"Composite waste (excluding 101309, 101310)",,,,
+2014,EAV-101314-U,Concrete waste and concrete slurry,8.0,3.9,,
+2014,EAV-12,Waste from mechanical shaping processes,5.0,2.8,,
+2014,EAV-120101-U,Iron filings and turnings,,,,
+2014,EAV-120103-U,Non-ferrous metal filings and turnings,,,,
+2014,EAV-120105-U,Plastic chips and turnings,4.0,1.9,,
+2014,EAV-120117-U,Abrasive waste (without 120116),,,,
+2014,EAV-13,waste oil and liquid fuel waste,,,,
+2014,EAV-130205-G,"Non-chlorinated machines, gears and. lubricating oils",,,,
+2014,EAV-130208-G,"Other machine, gear and lubricating oils",,,,
+2014,EAV-130501-G,Solid waste from grit chambers and oil/water separators,,,,
+2014,EAV-15,"Packaging waste, absorbents, wipes",7.0,9.9,5.0,0.7
+2014,EAV-150101-U,Paper and cardboard packaging,4.0,0.2,,
+2014,EAV-150102-U,Plastic packaging,,,,
+2014,EAV-150103-U,wooden packaging,,,,
+2014,EAV-15010600-U,Mixed packaging cannot be differentiated,,,,
+2014,EAV-150107-U,Glass packaging,,,,
+2014,EAV-150202-G,"Absorbent and filter materials, wipes",,,,
+2014,EAV-150203-U,Absorbent and filter materials (without 150202),,,,
+2014,EAV-16,Waste not included elsewhere in the inventory,5.0,8.0,,
+2014,EAV-160103-U,scrap tires,,,,
+2014,EAV-160119-U,Old vehicles: plastics,,,,
+2014,EAV-161104-U,Refractory mat. from metallurg. percent (oh.161103),5.0,3.3,,
+2014,EAV-161106-U,Fireproof material a. non-metallurgical process (oh.161105),,,,
+2014,EAV-17,construction and demolition waste,2164.0,64799.9,217.0,1851.1
+2014,EAV-170101-U,Concrete,1720.0,20461.7,24.0,138.3
+2014,EAV-170102-U,brick,913.0,3904.8,15.0,68.7
+2014,EAV-170103-U,tiles and ceramics,433.0,1184.6,,
+2014,EAV-170106-G,"Mixtures of o. separate fractions v. Concrete, etc.",7.0,7.0,,
+2014,EAV-170107-U,"Mixtures of concrete, bricks, etc. (oh.170106)",1230.0,16891.5,34.0,230.0
+2014,EAV-170201-U,Holz,47.0,36.7,23.0,11.6
+2014,EAV-170202-U,Glas,6.0,0.7,,
+2014,EAV-170203-U,plastic,,,,
+2014,EAV-170204-G,"Glass, plastic and wood with hazardous substances",10.0,1.7,9.0,0.3
+2014,EAV-170301-G,Bitumen mixtures containing coal tar,143.0,1048.4,84.0,461.6
+2014,EAV-170302-U,Bitumen mixtures (without 170301),1089.0,8939.5,22.0,187.0
+2014,EAV-170303-G,Coal tar and tar-containing products,9.0,0.4,8.0,0.5
+2014,EAV-170402-U,Aluminium,,,,
+2014,EAV-170403-U,Nappy,,,,
+2014,EAV-170405-U,iron and Steel,10.0,4.6,16.0,4.5
+2014,EAV-170407-U,mixed metals,,,3.0,2.4
+2014,EAV-170411-U,Cable (without 170410),,,,
+2014,EAV-170503-G,Soil and stones containing hazardous substances,6.0,19.3,,
+2014,EAV-170504-U,Soil and stones (without 170503),770.0,10674.7,46.0,648.1
+2014,EAV-170506-U,Dredged material (without 170505),13.0,115.7,,
+2014,EAV-170507-G,Track ballast containing dangerous substances,5.0,23.9,,
+2014,EAV-170508-U,Track ballast (without 170507),83.0,1282.5,7.0,40.7
+2014,EAV-170601-G,Insulation material containing asbestos,,,,
+2014,EAV-170603-G,other insulation material,8.0,0.1,9.0,0.2
+2014,EAV-170604-U,Insulating material (without 170601 and 170603),,,3.0,0.0
+2014,EAV-170605-G,Building materials containing asbestos,9.0,0.4,6.0,0.3
+2014,EAV-170802-U,Gypsum-based building materials (excluding 170801),56.0,35.1,26.0,14.0
+2014,EAV-170903-G,Other construction and demolition waste,,,,
+2014,EAV-170904-U,Mixed construction and demolition waste (oh.170901-170903),60.0,166.4,52.0,38.7
+2014,EAV-19,Waste from waste treatment plants e.g.,35.0,605.6,2131.0,62056.7
+2014,EAV-190111-G,"Combustion, pyrolysis: rust, boiler ash, slag",,,,
+2014,EAV-190112-U,Grate and boiler ash as well as slag (oh.190111),5.0,448.2,,
+2014,EAV-190113-G,"Combustion.,Pyrolysis: Filter dust with haz. St.",,,,
+2014,EAV-190114-U,Filter dust (without 190113),,,,
+2014,EAV-190118-U,Pyrolysis waste (without 190117),,,,
+2014,EAV-19029950-U,Products resulting from waste treatment,,,,
+2014,EAV-190503-U,Out of specification compost,,,,
+2014,EAV-190801-U,Sieve and rake residues,,,,
+2014,EAV-190802-U,Sand trap residue,3.0,1.7,,
+2014,EAV-190903-U,Slurries from decarbonization,,,,
+2014,EAV-19120100-U,"Mechanical waste treatment: paper, cardboard not diff.",,,91.0,45.4
+2014,EAV-191202-U,Mechanical waste treatment: ferrous metals,,,714.0,178.9
+2014,EAV-191203-U,Mechanical waste treatment: non-ferrous metals,,,113.0,17.3
+2014,EAV-191204-U,Mechanical waste treatment: plastic and rubber,,,110.0,22.1
+2014,EAV-19120500-U,Mechanical waste treatment: Glass not differentiable,,,4.0,3.4
+2014,EAV-19120505-U,Mechanical waste treatment: mixed glass,,,,
+2014,EAV-191206-G,Mechanical waste treatment: wood with hazardous fabrics,,,9.0,1.8
+2014,EAV-191207-U,Wood (without 191206),,,216.0,41.9
+2014,EAV-191208-U,Mechanical waste treatment: textiles,,,,
+2014,EAV-19120900-U,"Mechanical waste treatment: minerals (sand, stones)",18.0,136.1,27.0,727.3
+2014,EAV-19120901-U,Products for use in road and road building,,,1678.0,35534.2
+2014,EAV-19120902-U,Products for use in other earthworks,,,1265.0,16365.6
+2014,EAV-19120903-U,Products f.d. Use in concrete mixing plants,,,65.0,294.7
+2014,EAV-19120904-U,products for use in asphalt mixing plants,,,242.0,5013.6
+2014,EAV-19120905-U,products for other uses,,,256.0,3011.8
+2014,EAV-19120906-U,Hot mix for road and path construction,,,,
+2014,EAV-191210-U,Combustible waste (fuel from waste),,,,
+2014,EAV-191211-G,Other waste (including mixed materials),,,5.0,9.4
+2014,EAV-191212-U,Other waste (excluding 191211),8.0,12.7,258.0,495.4
+2014,EAV-191302-U,Solid waste from soil remediation (oh.191301),,,,
+2014,EAV-20,Municipal waste (household waste and similar waste),50.0,132.3,14.0,25.6
+2014,EAV-200101-U,paper and cardboard,,,,
+2014,EAV-200102-U,Glas,,,,
+2014,EAV-200135-G,"Used electrical devices (oh.200121,200123)",,,,
+2014,EAV-200137-G,Wood containing dangerous substances,,,,
+2014,EAV-200138-U,Wood (without 200137),,,,
+2014,EAV-200140-U,metals,,,,
+2014,EAV-200201-U,Biodegradable waste,17.0,21.3,9.0,8.0
+2014,EAV-200202-U,Soil and stones,19.0,30.8,,
+2014,EAV-200203-U,Other non-biodegradable waste,,,,
+2014,EAV-20030100-U,Mixed municipal waste cannot be differentiated,,,,
+2014,EAV-20030101-U,"Household waste, commercial waste similar to household waste",,,,
+2014,EAV-200303-U,street sweepings,13.0,42.5,,
+2014,EAV-200306-U,Waste from sewer cleaning,,,,
+2014,EAV-200307-U,Bulky waste,4.0,1.4,,
+2014,EAV-200399-U,Municipal waste n.e.c.,,,,
+2014,EAV-99,Hazardous waste,168.0,1101.5,112.0,475.1
+2014,EAV-990000-G,Total hazardous waste,168.0,1101.5,112.0,475.1
+2016,EAV-01,Waste from the extraction of mineral resources,,,,
+2016,EAV-010413-U,Waste from stonemasonry and sawing work (without 010407),,,,
+2016,EAV-02,"Waste from agriculture, forestry, etc.",,,,
+2016,EAV-020401-U,Sugar production: beet soil,,,,
+2016,EAV-03,"Waste from wood processing, etc.",,,,
+2016,EAV-030310-U,"Fiber waste, fiber, filler and coating sludges",,,,
+2016,EAV-05,"Waste from petroleum refining, natural gas purification",,,,
+2016,EAV-050117-U,Petroleum refining: bitumen,,,,
+2016,EAV-06,Waste from inorganic chemical processes,,,,
+2016,EAV-060899-U,"Silicon, silicon compounds: wastes not otherwise specified",,,,
+2016,EAV-10,Waste from thermal processes,36.0,237.3,,
+2016,EAV-100101-U,"rust and. Boiler ash, slag, boiler (oh.100104)",7.0,15.5,,
+2016,EAV-100117-U,Filter dust from co-incineration of waste (oh.100116),,,,
+2016,EAV-100201-U,"Iron, steel ind.: Waste from slag processing",,,,
+2016,EAV-100202-U,Iron and steel ind.: Unprocessed slag,,,,
+2016,EAV-100501-U,"Zinc metallurgy: slag (primary, secondary smelting)",,,,
+2016,EAV-100503-G,Zinc Metallurgy: Filter Dust,,,,
+2016,EAV-100903-U,"Iron,steel: furnace slag",15.0,144.9,,
+2016,EAV-100906-U,Casting molds and sand before casting (oh.100905),,,,
+2016,EAV-100908-U,Casting molds and sand after casting (without 100907),8.0,56.2,,
+2016,EAV-101008-U,Casting molds and sands after casting (without 101007),,,,
+2016,EAV-101112-U,Glass waste (without 101111),,,,
+2016,EAV-101201-U,Ceramic products: raw mixtures before firing,,,,
+2016,EAV-101203-U,Ceramic products: particles and dust,,,,
+2016,EAV-101208-U,"Waste from ceramic products, bricks, etc.",,,,
+2016,EAV-101210-U,Solid waste from exhaust gas treatment (oh. 101209),,,,
+2016,EAV-101304-U,"Waste from calcination, hydration from quicklime",,,,
+2016,EAV-101311-U,"Composite waste (excluding 101309, 101310)",3.0,4.5,,
+2016,EAV-101314-U,Concrete waste and concrete sludge,6.0,1.5,,
+2016,EAV-12,Waste from mechanical shaping processes,,,,
+2016,EAV-120101-U,Iron filings and turnings,,,,
+2016,EAV-120103-U,Non-ferrous metal filings and turnings,,,,
+2016,EAV-120105-U,plastic shavings and turnings,,,,
+2016,EAV-120117-U,Abrasive waste (without 120116),,,,
+2016,EAV-13,Oil waste and liquid fuel waste,,,,
+2016,EAV-130205-G,"Non-chlorinated machines, gears and. lubricating oils",,,,
+2016,EAV-130208-G,"Other machine, gear and lubricating oils",,,,
+2016,EAV-130501-G,Solid waste from grit chambers and oil/water separators,,,,
+2016,EAV-15,"Packaging waste, absorbent masses, wipes",,,,
+2016,EAV-150101-U,Paper and cardboard packaging,,,,
+2016,EAV-150102-U,Plastic packaging,,,,
+2016,EAV-150103-U,wooden packaging,,,,
+2016,EAV-15010600-U,Mixed packaging cannot be differentiated,,,,
+2016,EAV-150107-U,Glass packaging,,,,
+2016,EAV-150202-G,"Absorbent and filter materials, wipes",,,,
+2016,EAV-150203-U,Absorption and filter materials (without 150202),,,,
+2016,EAV-16,Waste not included elsewhere in the inventory,13.0,52.7,,
+2016,EAV-160103-U,scrap tires,,,,
+2016,EAV-160119-U,Old vehicles: plastics,,,,
+2016,EAV-161104-U,Refractory mat. from metallurg. percent (oh.161103),12.0,52.1,,
+2016,EAV-161106-U,Refractory material a. non-metallurgical process (oh.161105),3.0,0.6,,
+2016,EAV-17,Construction and demolition waste,2394.0,68961.9,244.0,3306.7
+2016,EAV-170101-U,Concrete,1887.0,23166.7,67.0,696.8
+2016,EAV-170102-U,brick,925.0,3999.4,36.0,93.2
+2016,EAV-170103-U,tiles and ceramics,336.0,574.2,5.0,15.6
+2016,EAV-170106-G,"Mixtures of o. separate fractions v. Concrete, etc.",5.0,0.7,,
+2016,EAV-170107-U,"Mixtures of concrete, bricks, etc. (oh.170106)",1403.0,17692.5,88.0,631.2
+2016,EAV-170201-U,Holz,46.0,44.1,17.0,3.6
+2016,EAV-170202-U,Glas,6.0,0.9,,
+2016,EAV-170203-U,plastic,,,,
+2016,EAV-170204-G,"Glass, plastic and wood containing dangerous substances",11.0,3.2,7.0,0.5
+2016,EAV-170301-G,Bitumen mixtures containing coal tar,124.0,957.2,68.0,500.9
+2016,EAV-170302-U,Bitumen mixtures (without 170301),1097.0,10805.4,47.0,352.4
+2016,EAV-170303-G,Coal tar and tar-containing products,11.0,46.6,9.0,1.2
+2016,EAV-170402-U,Aluminium,,,,
+2016,EAV-170403-U,Nappy,,,,
+2016,EAV-170405-U,iron and Steel,14.0,2.4,23.0,24.0
+2016,EAV-170407-U,Mixed metals,,,7.0,3.6
+2016,EAV-170411-U,Cable (without 170410),,,,
+2016,EAV-170503-G,Soil and stones containing hazardous substances,3.0,9.0,,
+2016,EAV-170504-U,Soil and stones (without 170503),778.0,9613.5,61.0,747.8
+2016,EAV-170506-U,dredged material (without 170505),21.0,93.2,,
+2016,EAV-170507-G,Track ballast containing dangerous substances,8.0,72.2,,
+2016,EAV-170508-U,Track ballast (without 170507),91.0,1629.8,13.0,169.3
+2016,EAV-170601-G,Insulation material containing asbestos,,,,
+2016,EAV-170603-G,Other insulation material,5.0,0.1,6.0,0.3
+2016,EAV-170604-U,Insulating material (without 170601 and 170603),,,,
+2016,EAV-170605-G,Building materials containing asbestos,7.0,0.4,6.0,0.4
+2016,EAV-170802-U,Gypsum-based building materials (excluding 170801),42.0,29.1,27.0,18.5
+2016,EAV-170903-G,Other construction and demolition waste,,,,
+2016,EAV-170904-U,Mixed construction and demolition waste (oh.170901-170903),58.0,220.6,72.0,47.2
+2016,EAV-19,Waste from waste treatment plants e.g.,37.0,630.4,2332.0,65826.5
+2016,EAV-190111-G,"Combustion, pyrolysis: grate, boiler ashes, slag",,,,
+2016,EAV-190112-U,Grate and boiler ash as well as slag (oh.190111),5.0,438.4,,
+2016,EAV-190113-G,"Combustion, pyrolysis: filter dust with dangerous St.",,,,
+2016,EAV-190114-U,Filter dust (without 190113),,,,
+2016,EAV-190118-U,Pyrolysis waste (without 190117),,,,
+2016,EAV-19029950-U,Products resulting from waste treatment,,,,
+2016,EAV-190503-U,Out of specification compost,,,,
+2016,EAV-190801-U,Sieve and rake residues,,,,
+2016,EAV-190802-U,sand trap residues,3.0,0.4,,
+2016,EAV-190903-U,Slurries from decarbonization,,,,
+2016,EAV-19120100-U,"Mechanical waste treatment: paper, cardboard not diff.",,,71.0,3.0
+2016,EAV-191202-U,Mechanical waste treatment: ferrous metals,,,712.0,217.2
+2016,EAV-191203-U,Mechanical waste treatment: non-ferrous metals,,,101.0,13.9
+2016,EAV-191204-U,Mechanical waste treatment: plastic and rubber,,,84.0,3.6
+2016,EAV-19120500-U,Mechanical waste treatment: Glass cannot be differentiated,,,4.0,0.3
+2016,EAV-19120505-U,Mechanical waste treatment: mixed glass,,,,
+2016,EAV-191206-G,Mechanical waste treatment: wood with hazardous fabrics,,,8.0,2.1
+2016,EAV-191207-U,Wood (without 191206),,,202.0,62.7
+2016,EAV-191208-U,Mechanical waste treatment: textiles,,,,
+2016,EAV-19120900-U,"Mechanical waste treatment: minerals (sand, stones)",26.0,120.9,32.0,934.2
+2016,EAV-19120901-U,Products for use in road and road building,,,1807.0,38121.4
+2016,EAV-19120902-U,Products for use in other earthworks,,,1315.0,15930.7
+2016,EAV-19120903-U,products f.d. Use in concrete mixing plants,,,81.0,452.4
+2016,EAV-19120904-U,Products for use in asphalt mixing plants,,,233.0,5942.4
+2016,EAV-19120905-U,products for other uses,,,270.0,3630.3
+2016,EAV-19120906-U,Hot mix for road and path construction,,,,
+2016,EAV-191210-U,Combustible waste (fuel from waste),,,,
+2016,EAV-191211-G,Other waste (including material mixtures),,,5.0,27.7
+2016,EAV-191212-U,Other waste (without 191211),8.0,10.0,242.0,249.1
+2016,EAV-191302-U,Solid waste from soil remediation (oh.191301),,,,
+2016,EAV-20,Municipal waste (household waste and similar waste),45.0,68.3,10.0,5.4
+2016,EAV-200101-U,paper and cardboard,,,,
+2016,EAV-200102-U,Glas,,,,
+2016,EAV-200135-G,"Used electrical devices (oh.200121,200123)",,,,
+2016,EAV-200137-G,Wood containing dangerous substances,,,,
+2016,EAV-200138-U,Wood (without 200137),,,,
+2016,EAV-200140-U,metals,,,,
+2016,EAV-200201-U,Biodegradable waste,17.0,30.1,9.0,2.8
+2016,EAV-200202-U,Soil and stones,16.0,32.1,,
+2016,EAV-200203-U,Other non-biodegradable waste,,,,
+2016,EAV-20030100-U,Mixed municipal waste cannot be differentiated,,,,
+2016,EAV-20030101-U,"Household waste, commercial waste similar to household waste",,,,
+2016,EAV-200303-U,street sweepings,8.0,3.6,,
+2016,EAV-200306-U,Waste from sewer cleaning,,,,
+2016,EAV-200307-U,Bulky waste,3.0,1.1,,
+2016,EAV-200399-U,Municipal waste n.e.c.,,,,
+2016,EAV-99,Hazardous waste,150.0,1089.4,89.0,533.0
+2016,EAV-990000-G,Total hazardous waste,150.0,1089.4,89.0,533.0
+2018,EAV-01,Waste from the extraction of mineral resources,3.0,0.1,,
+2018,EAV-010413-U,Waste from stonemasonry and sawing work (excluding 010407),3.0,0.1,,
+2018,EAV-02,"Waste from agriculture, forestry, etc.",,,,
+2018,EAV-020401-U,Sugar production: beet soil,,,,
+2018,EAV-03,"Waste from wood processing, etc.",,,,
+2018,EAV-030310-U,"Fiber waste, fiber, filler and coating sludges",,,,
+2018,EAV-05,"Waste from petroleum refining, natural gas purification",,,,
+2018,EAV-050117-U,Petroleum refining: bitumen,,,,
+2018,EAV-06,Waste from inorganic chemical processes,,,,
+2018,EAV-060899-U,"Silicon, silicon compounds: wastes not otherwise specified",,,,
+2018,EAV-10,Waste from thermal processes,37.0,190.4,,
+2018,EAV-100101-U,"rust and. Boiler ash, slag, boiler stone (oh.100104)",9.0,20.4,,
+2018,EAV-100117-U,Filter dust from co-incineration of waste (oh.100116),,,,
+2018,EAV-100201-U,Iron and steel industry: waste from slag processing,,,,
+2018,EAV-100202-U,Iron and steel ind.: Unprocessed slag,,,,
+2018,EAV-100501-U,"Zinc metallurgy: slags (first, second melting)",,,,
+2018,EAV-100503-G,Zinc Metallurgy: Filter Dust,,,,
+2018,EAV-100903-U,"Iron,steel: furnace slag",17.0,61.5,,
+2018,EAV-100906-U,Casting molds and sand before casting (oh.100905),,,,
+2018,EAV-100908-U,Casting molds and sand after casting (without 100907),10.0,63.8,,
+2018,EAV-101008-U,Casting molds and sands after casting (without 101007),,,,
+2018,EAV-101112-U,Glass waste (without 101111),,,,
+2018,EAV-101201-U,Ceramic products: raw mixtures before firing,,,,
+2018,EAV-101203-U,Ceramic products: particles and dust,,,,
+2018,EAV-101208-U,"Waste from ceramic products, bricks, etc.",,,,
+2018,EAV-101210-U,Solid waste from flue gas treatment (excluding 101209),,,,
+2018,EAV-101304-U,"Waste from calcination, hydration from quicklime",,,,
+2018,EAV-101311-U,"Composite waste (excluding 101309, 101310)",3.0,7.2,,
+2018,EAV-101314-U,Concrete waste and concrete sludge,15.0,7.5,,
+2018,EAV-12,Waste from mechanical shaping processes,7.0,2.2,,
+2018,EAV-120101-U,Iron filings and turnings,,,,
+2018,EAV-120103-U,Non-ferrous metal filings and turnings,,,,
+2018,EAV-120105-U,Plastic chips and turnings,,,,
+2018,EAV-120117-U,Abrasive waste (without 120116),7.0,2.2,,
+2018,EAV-13,waste oil and liquid fuel waste,,,,
+2018,EAV-130205-G,"Non-chlorinated machines, gears and. lubricating oils",,,,
+2018,EAV-130208-G,"Other machine, gear and lubricating oils",,,,
+2018,EAV-130501-G,Solid waste from grit chambers and oil/water separators,,,,
+2018,EAV-15,"Packaging waste, absorbents, wipes",7.0,4.2,5.0,0.8
+2018,EAV-150101-U,Paper and cardboard packaging,4.0,0.2,4.0,0.1
+2018,EAV-150102-U,Plastic packaging,,,3.0,0.0
+2018,EAV-150103-U,Wooden packaging,5.0,1.1,,
+2018,EAV-15010600-U,Mixed packaging cannot be differentiated,4.0,3.0,,
+2018,EAV-150107-U,Glass packaging,,,,
+2018,EAV-150202-G,"Absorbent and filter materials, wipes",,,,
+2018,EAV-150203-U,Absorbent and filter materials (without 150202),,,,
+2018,EAV-16,Waste not included elsewhere in the inventory,12.0,86.0,,
+2018,EAV-160103-U,old tires,,,,
+2018,EAV-160119-U,Old vehicles: plastics,,,,
+2018,EAV-161104-U,Fireproof material made of metallurgical material. percent (oh.161103),10.0,81.5,,
+2018,EAV-161106-U,Refractory material a. non-metallurgical process (oh.161105),6.0,4.5,,
+2018,EAV-17,Construction and demolition waste,2552.0,70154.6,297.0,4684.6
+2018,EAV-170101-U,Concrete,2012.0,23169.0,86.0,1056.2
+2018,EAV-170102-U,brick,972.0,4219.0,56.0,134.0
+2018,EAV-170103-U,tiles and ceramics,336.0,464.7,,
+2018,EAV-170106-G,"Mixtures of o. separate fractions v. Concrete, etc.",5.0,23.2,,
+2018,EAV-170107-U,"Mixtures of concrete, bricks, etc. (oh.170106)",1508.0,18726.5,105.0,545.9
+2018,EAV-170201-U,Holz,37.0,22.0,23.0,11.2
+2018,EAV-170202-U,Glas,7.0,0.8,3.0,0.4
+2018,EAV-170203-U,plastic,,,,
+2018,EAV-170204-G,"Glass, plastic and wood with hazardous substances",9.0,2.0,7.0,0.8
+2018,EAV-170301-G,Bitumen mixtures containing coal tar,138.0,1325.0,126.0,543.5
+2018,EAV-170302-U,Bitumen mixtures (without 170301),1110.0,8429.4,53.0,516.6
+2018,EAV-170303-G,Coal tar and tarry products,8.0,30.4,8.0,0.6
+2018,EAV-170402-U,Aluminium,,,,
+2018,EAV-170403-U,Nappy,,,,
+2018,EAV-170405-U,iron and Steel,8.0,0.6,21.0,3.9
+2018,EAV-170407-U,Mixed metals,3.0,0.4,8.0,1.6
+2018,EAV-170411-U,Cable (without 170410),,,,
+2018,EAV-170503-G,Soil and stones containing hazardous substances,9.0,127.8,,
+2018,EAV-170504-U,soil and stones (without 170503),855.0,11660.6,80.0,1648.0
+2018,EAV-170506-U,Dredged material (without 170505),19.0,85.5,,
+2018,EAV-170507-G,Track ballast containing dangerous substances,7.0,53.6,,
+2018,EAV-170508-U,Track ballast (without 170507),80.0,1545.5,10.0,170.5
+2018,EAV-170601-G,Insulation material containing asbestos,,,,
+2018,EAV-170603-G,Other insulation material,8.0,2.1,8.0,2.3
+2018,EAV-170604-U,Insulating material (without 170601 and 170603),4.0,0.2,,
+2018,EAV-170605-G,Building materials containing asbestos,6.0,0.9,7.0,0.5
+2018,EAV-170802-U,Gypsum-based building materials (excluding 170801),53.0,30.2,24.0,19.1
+2018,EAV-170903-G,Other construction and demolition waste,,,,
+2018,EAV-170904-U,Mixed construction and demolition work. (oh.170901-170903),68.0,235.4,46.0,25.3
+2018,EAV-19,Waste from waste treatment plants e.g.,48.0,712.8,2503.0,64236.0
+2018,EAV-190111-G,"Combustion, pyrolysis: rust, boiler ash, slag",,,,
+2018,EAV-190112-U,Grate and boiler ash as well as slag (oh.190111),10.0,430.0,,
+2018,EAV-190113-G,"Combustion.,Pyrolysis: Filter dust with haz. St.",,,,
+2018,EAV-190114-U,Filter dust (without 190113),,,,
+2018,EAV-190118-U,Pyrolysis waste (without 190117),,,,
+2018,EAV-19029950-U,Products resulting from waste treatment,,,,
+2018,EAV-190503-U,Out of specification compost,,,,
+2018,EAV-190801-U,Sieve and rake residues,,,,
+2018,EAV-190802-U,sand trap residues,5.0,1.8,,
+2018,EAV-190903-U,Slurries from decarbonization,,,,
+2018,EAV-19120100-U,"Mechanical waste treatment: paper, cardboard not different.",,,97.0,66.0
+2018,EAV-191202-U,Mechanical waste treatment: ferrous metals,4.0,0.3,833.0,212.5
+2018,EAV-191203-U,Mechanical waste treatment: non-ferrous metals,,,97.0,11.4
+2018,EAV-191204-U,Mechanical waste treatment: plastic and rubber,,,161.0,3.5
+2018,EAV-19120500-U,Mechanical waste treatment: Glass cannot be differentiated,,,4.0,0.4
+2018,EAV-19120505-U,Mechanical waste treatment: mixed glass,,,,
+2018,EAV-191206-G,Mechanical waste treatment: wood with hazardous fabrics,,,6.0,0.9
+2018,EAV-191207-U,Wood (without 191206),,,300.0,67.6
+2018,EAV-191208-U,Mechanical waste treatment: textiles,,,,
+2018,EAV-19120900-U,"Mechanical waste treatment: minerals (sand, stones)",35.0,214.4,64.0,1367.3
+2018,EAV-19120901-U,Products for use in road and road building,,,1881.0,37554.3
+2018,EAV-19120902-U,Products for use in other earthworks,,,1309.0,16341.2
+2018,EAV-19120903-U,products f.d. Use in concrete mixing plants,,,91.0,528.3
+2018,EAV-19120904-U,products for use in asphalt mixing plants,,,227.0,4377.2
+2018,EAV-19120905-U,products for other uses,,,177.0,2686.1
+2018,EAV-19120906-U,Hot mix for road and path construction,,,,
+2018,EAV-191210-U,Combustible waste (fuel from waste),,,,
+2018,EAV-191211-G,Other waste (including material mixtures),,,3.0,19.2
+2018,EAV-191212-U,Other waste (without 191211),9.0,11.6,230.0,738.7
+2018,EAV-191302-U,Solid waste from soil remediation (oh.191301),,,,
+2018,EAV-20,Municipal waste (household waste and similar waste),40.0,86.9,16.0,38.6
+2018,EAV-200101-U,paper and cardboard,3.0,3.8,,
+2018,EAV-200102-U,Glas,,,,
+2018,EAV-200135-G,"Used electrical devices (oh.200121,200123)",,,,
+2018,EAV-200137-G,Wood containing dangerous substances,,,,
+2018,EAV-200138-U,Wood (without 200137),5.0,4.2,,
+2018,EAV-200140-U,metals,,,,
+2018,EAV-200201-U,Biodegradable waste,11.0,17.2,10.0,11.7
+2018,EAV-200202-U,soil and stones,8.0,10.5,,
+2018,EAV-200203-U,Other non-biodegradable waste,,,,
+2018,EAV-20030100-U,Mixed municipal waste cannot be differentiated,,,6.0,12.6
+2018,EAV-20030101-U,"Household waste, commercial waste similar to household waste",,,,
+2018,EAV-200303-U,street sweepings,21.0,43.3,,
+2018,EAV-200306-U,Waste from sewer cleaning,7.0,1.6,,
+2018,EAV-200307-U,Bulky waste,6.0,6.3,,
+2018,EAV-200399-U,Municipal waste n.e.c.,,,,
+2018,EAV-99,Hazardous waste,163.0,1564.9,149.0,567.8
+2018,EAV-990000-G,Total hazardous waste,163.0,1564.9,149.0,567.8
+2020,EAV-01,Waste from the extraction of mineral resources,5.0,1.2,,
+2020,EAV-010413-U,Waste from stonemasonry and sawing work (excluding 010407),5.0,1.2,,
+2020,EAV-02,"Waste from agriculture, forestry, etc.",,,,
+2020,EAV-020401-U,Sugar production: beet soil,,,,
+2020,EAV-03,"Waste from woodworking, etc.",,,,
+2020,EAV-030310-U,"Fiber waste, fiber, filler and coating sludge",,,,
+2020,EAV-05,"Waste from petroleum refining, natural gas purification",,,,
+2020,EAV-050117-U,Petroleum refining: bitumen,,,,
+2020,EAV-06,Waste from inorganic chemical processes,,,,
+2020,EAV-060899-U,"Silicon, silicon compounds: wastes not otherwise specified",,,,
+2020,EAV-10,Waste from thermal processes,39.0,186.6,,
+2020,EAV-100101-U,"rust and. Boiler ash, slag, boiler (oh.100104)",8.0,39.4,,
+2020,EAV-100117-U,Filter dust from co-incineration of waste (oh.100116),,,,
+2020,EAV-100201-U,"Iron, steel ind.: Waste from slag processing",,,,
+2020,EAV-100202-U,Iron and steel ind.: Unprocessed slag,,,,
+2020,EAV-100501-U,"Zinc metallurgy: slag (primary, secondary smelting)",,,,
+2020,EAV-100503-G,Zinc Metallurgy: Filter Dust,,,,
+2020,EAV-100903-U,"Iron,steel: furnace slag",10.0,73.0,,
+2020,EAV-100906-U,Casting molds and sand before casting (oh.100905),,,,
+2020,EAV-100908-U,Casting molds and sand after casting (without 100907),6.0,30.9,,
+2020,EAV-101008-U,Casting molds and sands after casting (without 101007),,,,
+2020,EAV-101112-U,Glass waste (without 101111),,,,
+2020,EAV-101201-U,Ceramic products: raw mixtures before firing,,,,
+2020,EAV-101203-U,Ceramic products: particles and dust,,,,
+2020,EAV-101208-U,"Waste from ceramic products, bricks, etc.",,,,
+2020,EAV-101210-U,Solid waste from flue gas treatment (excluding 101209),,,,
+2020,EAV-101304-U,"Waste from calcination, hydration from quicklime",,,,
+2020,EAV-101311-U,"Waste from composite materials (excluding 101309, 101310)",,,,
+2020,EAV-101314-U,Concrete waste and concrete slurry,22.0,31.4,,
+2020,EAV-12,Waste from mechanical shaping processes,5.0,3.0,,
+2020,EAV-120101-U,Iron filings and turnings,,,,
+2020,EAV-120103-U,Non-ferrous metal filings and turnings,,,,
+2020,EAV-120105-U,plastic shavings and turnings,,,,
+2020,EAV-120117-U,Abrasive waste (without 120116),5.0,3.0,,
+2020,EAV-13,Oil waste and liquid fuel waste,,,,
+2020,EAV-130205-G,"Non-chlorinated machines, gears and. lubricating oils",,,,
+2020,EAV-130208-G,"Other machine, gear and lubricating oils",,,,
+2020,EAV-130501-G,Solid waste from grit chambers and oil/water separators,,,,
+2020,EAV-15,"Packaging waste, absorbents, wipes",4.0,6.8,,
+2020,EAV-150101-U,Paper and cardboard packaging,,,,
+2020,EAV-150102-U,Plastic packaging,,,,
+2020,EAV-150103-U,Wooden packaging,,,,
+2020,EAV-15010600-U,Mixed packaging cannot be differentiated,3.0,0.9,,
+2020,EAV-150107-U,Glass packaging,,,,
+2020,EAV-150202-G,"Absorbent and filter materials, wipes",,,,
+2020,EAV-150203-U,Absorbent and filter materials (without 150202),,,,
+2020,EAV-16,Waste not included elsewhere in the inventory,10.0,104.1,,
+2020,EAV-160103-U,old tires,,,,
+2020,EAV-160119-U,Old vehicles: plastics,,,,
+2020,EAV-161104-U,Refractory mat. from metallurg. percent (oh.161103),7.0,87.8,,
+2020,EAV-161106-U,Fireproof material a. non-metallurgical process (oh.161105),7.0,16.4,,
+2020,EAV-17,construction and demolition waste,2631.0,73766.1,275.0,3297.8
+2020,EAV-170101-U,Concrete,2119.0,24057.0,45.0,558.1
+2020,EAV-170102-U,brick,1020.0,3811.6,22.0,83.2
+2020,EAV-170103-U,tiles and ceramics,342.0,321.9,,
+2020,EAV-170106-G,"Mixtures of o. separate fractions v. Concrete, etc.",7.0,21.7,,
+2020,EAV-170107-U,"Mixtures of concrete, bricks, etc. (oh.170106)",1598.0,19063.7,66.0,347.6
+2020,EAV-170201-U,Holz,42.0,28.9,25.0,3.2
+2020,EAV-170202-U,Glas,5.0,0.4,,
+2020,EAV-170203-U,plastic,,,,
+2020,EAV-170204-G,"Glass, plastic and wood with hazardous substances",5.0,1.4,3.0,0.8
+2020,EAV-170301-G,Bitumen mixtures containing coal tar,148.0,914.5,92.0,525.6
+2020,EAV-170302-U,Bitumen mixtures (without 170301),1210.0,11508.0,53.0,316.2
+2020,EAV-170303-G,Coal tar and tarry products,7.0,29.2,4.0,0.7
+2020,EAV-170402-U,Aluminium,,,,
+2020,EAV-170403-U,Nappy,,,,
+2020,EAV-170405-U,iron and Steel,8.0,2.9,27.0,5.2
+2020,EAV-170407-U,mixed metals,,,8.0,2.5
+2020,EAV-170411-U,Cable (without 170410),,,,
+2020,EAV-170503-G,Soil and stones containing hazardous substances,12.0,62.9,,
+2020,EAV-170504-U,soil and stones (without 170503),915.0,11984.1,78.0,1254.9
+2020,EAV-170506-U,dredged material (without 170505),16.0,67.0,,
+2020,EAV-170507-G,Track ballast containing dangerous substances,,,,
+2020,EAV-170508-U,Track ballast (without 170507),99.0,1597.1,14.0,153.9
+2020,EAV-170601-G,Insulation material containing asbestos,,,,
+2020,EAV-170603-G,Other insulation material,7.0,1.8,4.0,1.8
+2020,EAV-170604-U,Insulating material (without 170601 and 170603),4.0,0.0,,
+2020,EAV-170605-G,Building materials containing asbestos,5.0,0.4,4.0,0.4
+2020,EAV-170802-U,Gypsum-based building materials (excluding 170801),45.0,35.7,21.0,25.8
+2020,EAV-170903-G,Other construction and demolition waste,,,,
+2020,EAV-170904-U,Mixed construction and demolition work. (oh.170901-170903),61.0,231.6,50.0,12.1
+2020,EAV-19,"Waste from waste treatment plants, etc.",55.0,1001.7,2586.0,70424.8
+2020,EAV-190111-G,"Combustion, pyrolysis: rust, boiler ash, slag",,,,
+2020,EAV-190112-U,Grate and boiler ash as well as slag (oh.190111),10.0,581.1,,
+2020,EAV-190113-G,"Combustion, pyrolysis: filter dust with dangerous St.",,,,
+2020,EAV-190114-U,Filter dust (without 190113),,,,
+2020,EAV-190118-U,Pyrolysis waste (without 190117),,,,
+2020,EAV-19029950-U,Products resulting from waste treatment,,,,
+2020,EAV-190503-U,Out of specification compost,,,,
+2020,EAV-190801-U,Sieve and rake residues,,,,
+2020,EAV-190802-U,Sand trap residue,4.0,6.7,,
+2020,EAV-190903-U,Slurries from decarbonization,,,,
+2020,EAV-19120100-U,"Mechanical waste treatment: paper, cardboard not diff.",,,91.0,4.1
+2020,EAV-191202-U,Mechanical waste treatment: ferrous metals,,,852.0,210.4
+2020,EAV-191203-U,Mechanical waste treatment: non-ferrous metals,,,98.0,10.4
+2020,EAV-191204-U,Mechanical waste treatment: plastic and rubber,,,166.0,15.2
+2020,EAV-19120500-U,Mechanical waste treatment: Glass not differentiable,,,,
+2020,EAV-19120505-U,Mechanical waste treatment: mixed glass,,,,
+2020,EAV-191206-G,Mechanical waste treatment: wood with hazardous fabrics,,,6.0,1.0
+2020,EAV-191207-U,Wood (without 191206),,,335.0,84.7
+2020,EAV-191208-U,Mechanical waste treatment: textiles,,,,
+2020,EAV-19120900-U,"Mechanical waste treatment: minerals (sand, stones)",43.0,291.2,113.0,2587.9
+2020,EAV-19120901-U,Products for use in road and road building,,,1929.0,38727.5
+2020,EAV-19120902-U,Products for use in other earthworks,,,1439.0,17684.3
+2020,EAV-19120903-U,Products f.d. Use in concrete mixing plants,,,128.0,901.3
+2020,EAV-19120904-U,Products for use in asphalt mixing plants,,,209.0,7066.9
+2020,EAV-19120905-U,products for other uses,,,140.0,2216.8
+2020,EAV-19120906-U,Hot mix for road and path construction,,,,
+2020,EAV-191210-U,Combustible waste (fuel from waste),,,,
+2020,EAV-191211-G,Other waste (including material mixtures),,,,
+2020,EAV-191212-U,Other waste (without 191211),11.0,10.1,205.0,528.8
+2020,EAV-191302-U,Solid waste from soil remediation (oh.191301),,,4.0,38.7
+2020,EAV-20,Municipal waste (household waste and similar waste),49.0,184.4,28.0,62.6
+2020,EAV-200101-U,paper and cardboard,,,,
+2020,EAV-200102-U,Glas,,,,
+2020,EAV-200135-G,"Used electrical devices (oh.200121,200123)",,,,
+2020,EAV-200137-G,Wood containing dangerous substances,,,,
+2020,EAV-200138-U,Wood (without 200137),,,,
+2020,EAV-200140-U,metals,,,,
+2020,EAV-200201-U,Biodegradable waste,22.0,49.0,22.0,35.0
+2020,EAV-200202-U,soil and stones,10.0,53.4,,
+2020,EAV-200203-U,Other non-biodegradable waste,,,,
+2020,EAV-20030100-U,Mixed municipal waste cannot be differentiated,,,3.0,14.3
+2020,EAV-20030101-U,"Household waste, commercial waste similar to household waste",,,,
+2020,EAV-200303-U,street sweepings,17.0,35.5,,
+2020,EAV-200306-U,Waste from sewer cleaning,7.0,4.9,,
+2020,EAV-200307-U,Bulky waste,3.0,4.8,,
+2020,EAV-200399-U,Municipal waste n.e.c.,,,,
+2020,EAV-99,Hazardous waste,165.0,1059.1,104.0,553.1
+2020,EAV-990000-G,Total hazardous waste,165.0,1059.1,104.0,553.1

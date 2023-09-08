@@ -1,0 +1,1531 @@
+Year,State,Waste Type,Amount Of Household Waste (1000t),Amount Of Household Waste Per Inhabitant (kg)
+2004,Baden-Württemberg,Household And Bulky Waste,1605.6,150.0
+2004,Baden-Württemberg,Organic Waste Collected Separately,1220.5,114.0
+2004,Baden-Württemberg,Recyclable Materials Collected Separately,1645.3,154.0
+2004,Baden-Württemberg,Waste Electrical Appliances,,
+2004,Baden-Württemberg,Other Waste,9.4,1.0
+2004,Bayern,Household And Bulky Waste,2039.5,164.0
+2004,Bayern,Organic Waste Collected Separately,1677.3,135.0
+2004,Bayern,Recyclable Materials Collected Separately,1854.1,149.0
+2004,Bayern,Waste Electrical Appliances,,
+2004,Bayern,Other Waste,59.1,5.0
+2004,Berlin,Household And Bulky Waste,975.0,288.0
+2004,Berlin,Organic Waste Collected Separately,99.2,29.0
+2004,Berlin,Recyclable Materials Collected Separately,390.2,115.0
+2004,Berlin,Waste Electrical Appliances,,
+2004,Berlin,Other Waste,1.5,0.0
+2004,Brandenburg,Household And Bulky Waste,558.2,217.0
+2004,Brandenburg,Organic Waste Collected Separately,72.1,28.0
+2004,Brandenburg,Recyclable Materials Collected Separately,345.4,135.0
+2004,Brandenburg,Waste Electrical Appliances,,
+2004,Brandenburg,Other Waste,6.6,3.0
+2004,Bremen,Household And Bulky Waste,167.0,252.0
+2004,Bremen,Organic Waste Collected Separately,57.0,86.0
+2004,Bremen,Recyclable Materials Collected Separately,95.0,143.0
+2004,Bremen,Waste Electrical Appliances,,
+2004,Bremen,Other Waste,0.2,0.0
+2004,Hamburg,Household And Bulky Waste,639.7,369.0
+2004,Hamburg,Organic Waste Collected Separately,37.3,21.0
+2004,Hamburg,Recyclable Materials Collected Separately,170.2,98.0
+2004,Hamburg,Waste Electrical Appliances,,
+2004,Hamburg,Other Waste,1.9,1.0
+2004,Hesse,Household And Bulky Waste,1278.7,210.0
+2004,Hesse,Organic Waste Collected Separately,727.8,119.0
+2004,Hesse,Recyclable Materials Collected Separately,810.1,133.0
+2004,Hesse,Waste Electrical Appliances,,
+2004,Hesse,Other Waste,3.3,1.0
+2004,Mecklenburg-Vorpommern,Household And Bulky Waste,407.1,237.0
+2004,Mecklenburg-Vorpommern,Organic Waste Collected Separately,69.7,41.0
+2004,Mecklenburg-Vorpommern,Recyclable Materials Collected Separately,253.6,147.0
+2004,Mecklenburg-Vorpommern,Waste Electrical Appliances,,
+2004,Mecklenburg-Vorpommern,Other Waste,1.4,1.0
+2004,Lower Saxony,Household And Bulky Waste,1658.1,207.0
+2004,Lower Saxony,Organic Waste Collected Separately,1105.2,138.0
+2004,Lower Saxony,Recyclable Materials Collected Separately,1160.5,145.0
+2004,Lower Saxony,Waste Electrical Appliances,,
+2004,Lower Saxony,Other Waste,10.1,1.0
+2004,North Rhine-Westphalia,Household And Bulky Waste,4136.7,229.0
+2004,North Rhine-Westphalia,Organic Waste Collected Separately,1841.3,102.0
+2004,North Rhine-Westphalia,Recyclable Materials Collected Separately,2399.7,133.0
+2004,North Rhine-Westphalia,Waste Electrical Appliances,,
+2004,North Rhine-Westphalia,Other Waste,98.1,5.0
+2004,Rhineland-Palatinate,Household And Bulky Waste,804.1,198.0
+2004,Rhineland-Palatinate,Organic Waste Collected Separately,532.5,131.0
+2004,Rhineland-Palatinate,Recyclable Materials Collected Separately,643.2,158.0
+2004,Rhineland-Palatinate,Waste Electrical Appliances,,
+2004,Rhineland-Palatinate,Other Waste,21.5,5.0
+2004,Saarland,Household And Bulky Waste,268.8,254.0
+2004,Saarland,Organic Waste Collected Separately,160.3,152.0
+2004,Saarland,Recyclable Materials Collected Separately,126.4,120.0
+2004,Saarland,Waste Electrical Appliances,,
+2004,Saarland,Other Waste,0.5,0.0
+2004,Saxony,Household And Bulky Waste,696.0,162.0
+2004,Saxony,Organic Waste Collected Separately,203.3,47.0
+2004,Saxony,Recyclable Materials Collected Separately,588.7,137.0
+2004,Saxony,Waste Electrical Appliances,,
+2004,Saxony,Other Waste,2.6,1.0
+2004,Saxony-Anhalt,Household And Bulky Waste,625.3,251.0
+2004,Saxony-Anhalt,Organic Waste Collected Separately,183.3,73.0
+2004,Saxony-Anhalt,Recyclable Materials Collected Separately,338.4,136.0
+2004,Saxony-Anhalt,Waste Electrical Appliances,,
+2004,Saxony-Anhalt,Other Waste,20.8,8.0
+2004,Schleswig-Holstein,Household And Bulky Waste,688.5,243.0
+2004,Schleswig-Holstein,Organic Waste Collected Separately,280.5,99.0
+2004,Schleswig-Holstein,Recyclable Materials Collected Separately,413.7,146.0
+2004,Schleswig-Holstein,Waste Electrical Appliances,,
+2004,Schleswig-Holstein,Other Waste,1.9,1.0
+2004,Thuringia,Household And Bulky Waste,497.5,211.0
+2004,Thuringia,Organic Waste Collected Separately,143.8,61.0
+2004,Thuringia,Recyclable Materials Collected Separately,336.3,143.0
+2004,Thuringia,Waste Electrical Appliances,,
+2004,Thuringia,Other Waste,14.7,6.0
+2004,In Total,Household And Bulky Waste,17045.8,207.0
+2004,In Total,Organic Waste Collected Separately,8411.4,102.0
+2004,In Total,Recyclable Materials Collected Separately,11570.6,140.0
+2004,In Total,Waste Electrical Appliances,302.6,4.0
+2004,In Total,Other Waste,253.5,3.0
+2005,Baden-Württemberg,Household And Bulky Waste,1568.3,146.0
+2005,Baden-Württemberg,Organic Waste Collected Separately,1239.3,115.0
+2005,Baden-Württemberg,Recyclable Materials Collected Separately,1702.7,159.0
+2005,Baden-Württemberg,Waste Electrical Appliances,,
+2005,Baden-Württemberg,Other Waste,8.8,1.0
+2005,Bayern,Household And Bulky Waste,2037.5,163.0
+2005,Bayern,Organic Waste Collected Separately,1597.1,128.0
+2005,Bayern,Recyclable Materials Collected Separately,1926.1,154.0
+2005,Bayern,Waste Electrical Appliances,,
+2005,Bayern,Other Waste,54.1,4.0
+2005,Berlin,Household And Bulky Waste,978.9,288.0
+2005,Berlin,Organic Waste Collected Separately,113.8,34.0
+2005,Berlin,Recyclable Materials Collected Separately,406.7,120.0
+2005,Berlin,Waste Electrical Appliances,,
+2005,Berlin,Other Waste,1.5,0.0
+2005,Brandenburg,Household And Bulky Waste,562.5,220.0
+2005,Brandenburg,Organic Waste Collected Separately,72.5,28.0
+2005,Brandenburg,Recyclable Materials Collected Separately,352.7,138.0
+2005,Brandenburg,Waste Electrical Appliances,,
+2005,Brandenburg,Other Waste,4.1,2.0
+2005,Bremen,Household And Bulky Waste,164.1,247.0
+2005,Bremen,Organic Waste Collected Separately,58.0,88.0
+2005,Bremen,Recyclable Materials Collected Separately,88.1,133.0
+2005,Bremen,Waste Electrical Appliances,,
+2005,Bremen,Other Waste,0.3,0.0
+2005,Hamburg,Household And Bulky Waste,629.8,361.0
+2005,Hamburg,Organic Waste Collected Separately,36.2,21.0
+2005,Hamburg,Recyclable Materials Collected Separately,163.8,94.0
+2005,Hamburg,Waste Electrical Appliances,,
+2005,Hamburg,Other Waste,1.9,1.0
+2005,Hesse,Household And Bulky Waste,1266.4,208.0
+2005,Hesse,Organic Waste Collected Separately,705.4,116.0
+2005,Hesse,Recyclable Materials Collected Separately,808.6,133.0
+2005,Hesse,Waste Electrical Appliances,,
+2005,Hesse,Other Waste,3.3,1.0
+2005,Mecklenburg-Vorpommern,Household And Bulky Waste,400.6,235.0
+2005,Mecklenburg-Vorpommern,Organic Waste Collected Separately,70.9,42.0
+2005,Mecklenburg-Vorpommern,Recyclable Materials Collected Separately,245.6,144.0
+2005,Mecklenburg-Vorpommern,Waste Electrical Appliances,,
+2005,Mecklenburg-Vorpommern,Other Waste,0.9,1.0
+2005,Lower Saxony,Household And Bulky Waste,1590.7,199.0
+2005,Lower Saxony,Organic Waste Collected Separately,1121.6,140.0
+2005,Lower Saxony,Recyclable Materials Collected Separately,1202.1,150.0
+2005,Lower Saxony,Waste Electrical Appliances,,
+2005,Lower Saxony,Other Waste,4.5,1.0
+2005,North Rhine-Westphalia,Household And Bulky Waste,4108.4,228.0
+2005,North Rhine-Westphalia,Organic Waste Collected Separately,1844.1,102.0
+2005,North Rhine-Westphalia,Recyclable Materials Collected Separately,2350.1,130.0
+2005,North Rhine-Westphalia,Waste Electrical Appliances,,
+2005,North Rhine-Westphalia,Other Waste,38.3,2.0
+2005,Rhineland-Palatinate,Household And Bulky Waste,808.9,199.0
+2005,Rhineland-Palatinate,Organic Waste Collected Separately,523.2,129.0
+2005,Rhineland-Palatinate,Recyclable Materials Collected Separately,654.8,161.0
+2005,Rhineland-Palatinate,Waste Electrical Appliances,,
+2005,Rhineland-Palatinate,Other Waste,17.9,4.0
+2005,Saarland,Household And Bulky Waste,268.2,255.0
+2005,Saarland,Organic Waste Collected Separately,141.2,134.0
+2005,Saarland,Recyclable Materials Collected Separately,127.1,121.0
+2005,Saarland,Waste Electrical Appliances,,
+2005,Saarland,Other Waste,0.6,1.0
+2005,Saxony,Household And Bulky Waste,682.0,160.0
+2005,Saxony,Organic Waste Collected Separately,217.0,51.0
+2005,Saxony,Recyclable Materials Collected Separately,561.4,131.0
+2005,Saxony,Waste Electrical Appliances,,
+2005,Saxony,Other Waste,3.5,1.0
+2005,Saxony-Anhalt,Household And Bulky Waste,582.7,236.0
+2005,Saxony-Anhalt,Organic Waste Collected Separately,183.1,74.0
+2005,Saxony-Anhalt,Recyclable Materials Collected Separately,333.3,135.0
+2005,Saxony-Anhalt,Waste Electrical Appliances,,
+2005,Saxony-Anhalt,Other Waste,10.3,4.0
+2005,Schleswig-Holstein,Household And Bulky Waste,656.5,232.0
+2005,Schleswig-Holstein,Organic Waste Collected Separately,269.5,95.0
+2005,Schleswig-Holstein,Recyclable Materials Collected Separately,408.2,144.0
+2005,Schleswig-Holstein,Waste Electrical Appliances,,
+2005,Schleswig-Holstein,Other Waste,1.8,1.0
+2005,Thuringia,Household And Bulky Waste,471.7,202.0
+2005,Thuringia,Organic Waste Collected Separately,144.3,62.0
+2005,Thuringia,Recyclable Materials Collected Separately,334.4,143.0
+2005,Thuringia,Waste Electrical Appliances,,
+2005,Thuringia,Other Waste,10.5,4.0
+2005,In Total,Household And Bulky Waste,16777.4,204.0
+2005,In Total,Organic Waste Collected Separately,8337.1,101.0
+2005,In Total,Recyclable Materials Collected Separately,11665.7,142.0
+2005,In Total,Waste Electrical Appliances,306.8,4.0
+2005,In Total,Other Waste,162.3,2.0
+2006,Baden-Württemberg,Household And Bulky Waste,1584.0,148.0
+2006,Baden-Württemberg,Organic Waste Collected Separately,1232.4,115.0
+2006,Baden-Württemberg,Recyclable Materials Collected Separately,1751.5,163.0
+2006,Baden-Württemberg,Waste Electrical Appliances,,
+2006,Baden-Württemberg,Other Waste,8.6,1.0
+2006,Bayern,Household And Bulky Waste,2066.0,165.0
+2006,Bayern,Organic Waste Collected Separately,1630.2,130.0
+2006,Bayern,Recyclable Materials Collected Separately,1976.8,158.0
+2006,Bayern,Waste Electrical Appliances,,
+2006,Bayern,Other Waste,58.1,5.0
+2006,Berlin,Household And Bulky Waste,944.1,277.0
+2006,Berlin,Organic Waste Collected Separately,119.0,35.0
+2006,Berlin,Recyclable Materials Collected Separately,414.2,122.0
+2006,Berlin,Waste Electrical Appliances,,
+2006,Berlin,Other Waste,2.2,1.0
+2006,Brandenburg,Household And Bulky Waste,569.2,223.0
+2006,Brandenburg,Organic Waste Collected Separately,56.9,22.0
+2006,Brandenburg,Recyclable Materials Collected Separately,356.6,140.0
+2006,Brandenburg,Waste Electrical Appliances,,
+2006,Brandenburg,Other Waste,2.2,1.0
+2006,Bremen,Household And Bulky Waste,165.9,250.0
+2006,Bremen,Organic Waste Collected Separately,57.0,86.0
+2006,Bremen,Recyclable Materials Collected Separately,86.4,130.0
+2006,Bremen,Waste Electrical Appliances,,
+2006,Bremen,Other Waste,0.2,0.0
+2006,Hamburg,Household And Bulky Waste,612.7,349.0
+2006,Hamburg,Organic Waste Collected Separately,35.7,20.0
+2006,Hamburg,Recyclable Materials Collected Separately,167.6,96.0
+2006,Hamburg,Waste Electrical Appliances,,
+2006,Hamburg,Other Waste,2.1,1.0
+2006,Hesse,Household And Bulky Waste,1288.3,212.0
+2006,Hesse,Organic Waste Collected Separately,722.3,119.0
+2006,Hesse,Recyclable Materials Collected Separately,863.1,142.0
+2006,Hesse,Waste Electrical Appliances,,
+2006,Hesse,Other Waste,3.1,1.0
+2006,Mecklenburg-Vorpommern,Household And Bulky Waste,392.0,231.0
+2006,Mecklenburg-Vorpommern,Organic Waste Collected Separately,74.1,44.0
+2006,Mecklenburg-Vorpommern,Recyclable Materials Collected Separately,248.2,147.0
+2006,Mecklenburg-Vorpommern,Waste Electrical Appliances,,
+2006,Mecklenburg-Vorpommern,Other Waste,0.8,1.0
+2006,Lower Saxony,Household And Bulky Waste,1588.8,199.0
+2006,Lower Saxony,Organic Waste Collected Separately,1146.0,144.0
+2006,Lower Saxony,Recyclable Materials Collected Separately,1235.2,155.0
+2006,Lower Saxony,Waste Electrical Appliances,,
+2006,Lower Saxony,Other Waste,7.4,1.0
+2006,North Rhine-Westphalia,Household And Bulky Waste,4091.4,227.0
+2006,North Rhine-Westphalia,Organic Waste Collected Separately,1864.2,103.0
+2006,North Rhine-Westphalia,Recyclable Materials Collected Separately,2496.9,138.0
+2006,North Rhine-Westphalia,Waste Electrical Appliances,,
+2006,North Rhine-Westphalia,Other Waste,25.7,1.0
+2006,Rhineland-Palatinate,Household And Bulky Waste,800.5,198.0
+2006,Rhineland-Palatinate,Organic Waste Collected Separately,535.7,132.0
+2006,Rhineland-Palatinate,Recyclable Materials Collected Separately,677.1,167.0
+2006,Rhineland-Palatinate,Waste Electrical Appliances,,
+2006,Rhineland-Palatinate,Other Waste,17.7,4.0
+2006,Saarland,Household And Bulky Waste,258.1,247.0
+2006,Saarland,Organic Waste Collected Separately,134.6,129.0
+2006,Saarland,Recyclable Materials Collected Separately,132.9,127.0
+2006,Saarland,Waste Electrical Appliances,,
+2006,Saarland,Other Waste,0.5,1.0
+2006,Saxony,Household And Bulky Waste,662.4,156.0
+2006,Saxony,Organic Waste Collected Separately,208.2,49.0
+2006,Saxony,Recyclable Materials Collected Separately,557.1,131.0
+2006,Saxony,Waste Electrical Appliances,,
+2006,Saxony,Other Waste,16.3,4.0
+2006,Saxony-Anhalt,Household And Bulky Waste,535.7,219.0
+2006,Saxony-Anhalt,Organic Waste Collected Separately,207.7,85.0
+2006,Saxony-Anhalt,Recyclable Materials Collected Separately,324.6,133.0
+2006,Saxony-Anhalt,Waste Electrical Appliances,,
+2006,Saxony-Anhalt,Other Waste,7.1,3.0
+2006,Schleswig-Holstein,Household And Bulky Waste,654.5,231.0
+2006,Schleswig-Holstein,Organic Waste Collected Separately,279.7,99.0
+2006,Schleswig-Holstein,Recyclable Materials Collected Separately,427.5,151.0
+2006,Schleswig-Holstein,Waste Electrical Appliances,,
+2006,Schleswig-Holstein,Other Waste,2.4,1.0
+2006,Thuringia,Household And Bulky Waste,473.2,205.0
+2006,Thuringia,Organic Waste Collected Separately,146.0,63.0
+2006,Thuringia,Recyclable Materials Collected Separately,321.4,139.0
+2006,Thuringia,Waste Electrical Appliances,,
+2006,Thuringia,Other Waste,8.7,4.0
+2006,In Total,Household And Bulky Waste,16686.9,203.0
+2006,In Total,Organic Waste Collected Separately,8449.8,103.0
+2006,In Total,Recyclable Materials Collected Separately,12037.1,146.0
+2006,In Total,Waste Electrical Appliances,,
+2006,In Total,Other Waste,162.9,2.0
+2007,Baden-Württemberg,Household And Bulky Waste,1540.5,143.0
+2007,Baden-Württemberg,Organic Waste Collected Separately,1285.7,120.0
+2007,Baden-Württemberg,Recyclable Materials Collected Separately,1768.0,164.0
+2007,Baden-Württemberg,Waste Electrical Appliances,,
+2007,Baden-Württemberg,Other Waste,6.9,1.0
+2007,Bayern,Household And Bulky Waste,2043.8,163.0
+2007,Bayern,Organic Waste Collected Separately,1651.6,132.0
+2007,Bayern,Recyclable Materials Collected Separately,1982.0,158.0
+2007,Bayern,Waste Electrical Appliances,,
+2007,Bayern,Other Waste,65.3,5.0
+2007,Berlin,Household And Bulky Waste,927.6,272.0
+2007,Berlin,Organic Waste Collected Separately,121.3,36.0
+2007,Berlin,Recyclable Materials Collected Separately,420.9,123.0
+2007,Berlin,Waste Electrical Appliances,,
+2007,Berlin,Other Waste,2.3,1.0
+2007,Brandenburg,Household And Bulky Waste,557.9,220.0
+2007,Brandenburg,Organic Waste Collected Separately,85.3,34.0
+2007,Brandenburg,Recyclable Materials Collected Separately,355.7,140.0
+2007,Brandenburg,Waste Electrical Appliances,,
+2007,Brandenburg,Other Waste,2.2,1.0
+2007,Bremen,Household And Bulky Waste,163.7,247.0
+2007,Bremen,Organic Waste Collected Separately,59.4,90.0
+2007,Bremen,Recyclable Materials Collected Separately,86.4,130.0
+2007,Bremen,Waste Electrical Appliances,,
+2007,Bremen,Other Waste,0.2,0.0
+2007,Hamburg,Household And Bulky Waste,618.4,349.0
+2007,Hamburg,Organic Waste Collected Separately,37.8,21.0
+2007,Hamburg,Recyclable Materials Collected Separately,177.4,100.0
+2007,Hamburg,Waste Electrical Appliances,,
+2007,Hamburg,Other Waste,2.1,1.0
+2007,Hesse,Household And Bulky Waste,1260.2,208.0
+2007,Hesse,Organic Waste Collected Separately,742.6,122.0
+2007,Hesse,Recyclable Materials Collected Separately,836.1,138.0
+2007,Hesse,Waste Electrical Appliances,,
+2007,Hesse,Other Waste,3.4,1.0
+2007,Mecklenburg-Vorpommern,Household And Bulky Waste,391.7,233.0
+2007,Mecklenburg-Vorpommern,Organic Waste Collected Separately,81.0,48.0
+2007,Mecklenburg-Vorpommern,Recyclable Materials Collected Separately,246.7,147.0
+2007,Mecklenburg-Vorpommern,Waste Electrical Appliances,,
+2007,Mecklenburg-Vorpommern,Other Waste,0.9,1.0
+2007,Lower Saxony,Household And Bulky Waste,1579.4,198.0
+2007,Lower Saxony,Organic Waste Collected Separately,1208.3,152.0
+2007,Lower Saxony,Recyclable Materials Collected Separately,1238.1,155.0
+2007,Lower Saxony,Waste Electrical Appliances,,
+2007,Lower Saxony,Other Waste,7.0,1.0
+2007,North Rhine-Westphalia,Household And Bulky Waste,4069.8,226.0
+2007,North Rhine-Westphalia,Organic Waste Collected Separately,1955.6,109.0
+2007,North Rhine-Westphalia,Recyclable Materials Collected Separately,2477.6,138.0
+2007,North Rhine-Westphalia,Waste Electrical Appliances,,
+2007,North Rhine-Westphalia,Other Waste,30.4,2.0
+2007,Rhineland-Palatinate,Household And Bulky Waste,782.3,193.0
+2007,Rhineland-Palatinate,Organic Waste Collected Separately,548.6,136.0
+2007,Rhineland-Palatinate,Recyclable Materials Collected Separately,677.1,167.0
+2007,Rhineland-Palatinate,Waste Electrical Appliances,,
+2007,Rhineland-Palatinate,Other Waste,20.0,5.0
+2007,Saarland,Household And Bulky Waste,250.0,241.0
+2007,Saarland,Organic Waste Collected Separately,134.3,130.0
+2007,Saarland,Recyclable Materials Collected Separately,139.9,135.0
+2007,Saarland,Waste Electrical Appliances,,
+2007,Saarland,Other Waste,0.7,1.0
+2007,Saxony,Household And Bulky Waste,654.5,155.0
+2007,Saxony,Organic Waste Collected Separately,217.4,52.0
+2007,Saxony,Recyclable Materials Collected Separately,531.9,126.0
+2007,Saxony,Waste Electrical Appliances,,
+2007,Saxony,Other Waste,3.3,1.0
+2007,Saxony-Anhalt,Household And Bulky Waste,525.6,218.0
+2007,Saxony-Anhalt,Organic Waste Collected Separately,220.1,91.0
+2007,Saxony-Anhalt,Recyclable Materials Collected Separately,301.3,125.0
+2007,Saxony-Anhalt,Waste Electrical Appliances,,
+2007,Saxony-Anhalt,Other Waste,7.0,3.0
+2007,Schleswig-Holstein,Household And Bulky Waste,648.1,228.0
+2007,Schleswig-Holstein,Organic Waste Collected Separately,278.0,98.0
+2007,Schleswig-Holstein,Recyclable Materials Collected Separately,428.0,151.0
+2007,Schleswig-Holstein,Waste Electrical Appliances,,
+2007,Schleswig-Holstein,Other Waste,2.4,1.0
+2007,Thuringia,Household And Bulky Waste,428.1,187.0
+2007,Thuringia,Organic Waste Collected Separately,153.1,67.0
+2007,Thuringia,Recyclable Materials Collected Separately,306.1,134.0
+2007,Thuringia,Waste Electrical Appliances,,
+2007,Thuringia,Other Waste,8.0,4.0
+2007,In Total,Household And Bulky Waste,16441.6,200.0
+2007,In Total,Organic Waste Collected Separately,8780.2,107.0
+2007,In Total,Recyclable Materials Collected Separately,11973.3,146.0
+2007,In Total,Waste Electrical Appliances,,
+2007,In Total,Other Waste,162.0,2.0
+2008,Baden-Württemberg,Household And Bulky Waste,1536.7,143.0
+2008,Baden-Württemberg,Organic Waste Collected Separately,1286.2,120.0
+2008,Baden-Württemberg,Recyclable Materials Collected Separately,1754.0,163.0
+2008,Baden-Württemberg,Waste Electrical Appliances,,
+2008,Baden-Württemberg,Other Waste,6.9,1.0
+2008,Bayern,Household And Bulky Waste,2037.6,163.0
+2008,Bayern,Organic Waste Collected Separately,1715.5,137.0
+2008,Bayern,Recyclable Materials Collected Separately,1958.3,156.0
+2008,Bayern,Waste Electrical Appliances,,
+2008,Bayern,Other Waste,64.0,5.0
+2008,Berlin,Household And Bulky Waste,897.8,262.0
+2008,Berlin,Organic Waste Collected Separately,110.2,32.0
+2008,Berlin,Recyclable Materials Collected Separately,411.2,120.0
+2008,Berlin,Waste Electrical Appliances,,
+2008,Berlin,Other Waste,1.9,1.0
+2008,Brandenburg,Household And Bulky Waste,503.7,200.0
+2008,Brandenburg,Organic Waste Collected Separately,80.6,32.0
+2008,Brandenburg,Recyclable Materials Collected Separately,347.8,138.0
+2008,Brandenburg,Waste Electrical Appliances,,
+2008,Brandenburg,Other Waste,1.4,1.0
+2008,Bremen,Household And Bulky Waste,161.0,243.0
+2008,Bremen,Organic Waste Collected Separately,58.1,88.0
+2008,Bremen,Recyclable Materials Collected Separately,84.5,128.0
+2008,Bremen,Waste Electrical Appliances,,
+2008,Bremen,Other Waste,0.2,0.0
+2008,Hamburg,Household And Bulky Waste,600.3,339.0
+2008,Hamburg,Organic Waste Collected Separately,35.0,20.0
+2008,Hamburg,Recyclable Materials Collected Separately,180.9,102.0
+2008,Hamburg,Waste Electrical Appliances,,
+2008,Hamburg,Other Waste,2.2,1.0
+2008,Hesse,Household And Bulky Waste,1235.2,204.0
+2008,Hesse,Organic Waste Collected Separately,742.2,122.0
+2008,Hesse,Recyclable Materials Collected Separately,831.1,137.0
+2008,Hesse,Waste Electrical Appliances,,
+2008,Hesse,Other Waste,2.9,0.0
+2008,Mecklenburg-Vorpommern,Household And Bulky Waste,379.2,228.0
+2008,Mecklenburg-Vorpommern,Organic Waste Collected Separately,79.0,47.0
+2008,Mecklenburg-Vorpommern,Recyclable Materials Collected Separately,232.0,139.0
+2008,Mecklenburg-Vorpommern,Waste Electrical Appliances,,
+2008,Mecklenburg-Vorpommern,Other Waste,0.9,1.0
+2008,Lower Saxony,Household And Bulky Waste,1538.2,194.0
+2008,Lower Saxony,Organic Waste Collected Separately,1208.1,152.0
+2008,Lower Saxony,Recyclable Materials Collected Separately,1222.5,154.0
+2008,Lower Saxony,Waste Electrical Appliances,,
+2008,Lower Saxony,Other Waste,11.2,1.0
+2008,North Rhine-Westphalia,Household And Bulky Waste,4001.7,223.0
+2008,North Rhine-Westphalia,Organic Waste Collected Separately,1900.7,106.0
+2008,North Rhine-Westphalia,Recyclable Materials Collected Separately,2361.1,132.0
+2008,North Rhine-Westphalia,Waste Electrical Appliances,,
+2008,North Rhine-Westphalia,Other Waste,33.5,2.0
+2008,Rhineland-Palatinate,Household And Bulky Waste,769.5,191.0
+2008,Rhineland-Palatinate,Organic Waste Collected Separately,555.6,138.0
+2008,Rhineland-Palatinate,Recyclable Materials Collected Separately,675.8,168.0
+2008,Rhineland-Palatinate,Waste Electrical Appliances,,
+2008,Rhineland-Palatinate,Other Waste,17.4,4.0
+2008,Saarland,Household And Bulky Waste,246.9,240.0
+2008,Saarland,Organic Waste Collected Separately,136.6,133.0
+2008,Saarland,Recyclable Materials Collected Separately,128.6,125.0
+2008,Saarland,Waste Electrical Appliances,,
+2008,Saarland,Other Waste,0.8,1.0
+2008,Saxony,Household And Bulky Waste,641.0,153.0
+2008,Saxony,Organic Waste Collected Separately,206.9,49.0
+2008,Saxony,Recyclable Materials Collected Separately,500.4,119.0
+2008,Saxony,Waste Electrical Appliances,,
+2008,Saxony,Other Waste,3.7,1.0
+2008,Saxony-Anhalt,Household And Bulky Waste,496.6,208.0
+2008,Saxony-Anhalt,Organic Waste Collected Separately,219.2,92.0
+2008,Saxony-Anhalt,Recyclable Materials Collected Separately,309.7,130.0
+2008,Saxony-Anhalt,Waste Electrical Appliances,,
+2008,Saxony-Anhalt,Other Waste,5.3,2.0
+2008,Schleswig-Holstein,Household And Bulky Waste,637.1,225.0
+2008,Schleswig-Holstein,Organic Waste Collected Separately,258.1,91.0
+2008,Schleswig-Holstein,Recyclable Materials Collected Separately,431.9,152.0
+2008,Schleswig-Holstein,Waste Electrical Appliances,,
+2008,Schleswig-Holstein,Other Waste,2.5,1.0
+2008,Thuringia,Household And Bulky Waste,414.0,183.0
+2008,Thuringia,Organic Waste Collected Separately,151.0,67.0
+2008,Thuringia,Recyclable Materials Collected Separately,291.1,128.0
+2008,Thuringia,Waste Electrical Appliances,,
+2008,Thuringia,Other Waste,7.6,3.0
+2008,In Total,Household And Bulky Waste,16096.5,196.0
+2008,In Total,Organic Waste Collected Separately,8743.0,107.0
+2008,In Total,Recyclable Materials Collected Separately,11721.0,143.0
+2008,In Total,Waste Electrical Appliances,,
+2008,In Total,Other Waste,162.3,2.0
+2009,Baden-Württemberg,Household And Bulky Waste,1566.6,146.0
+2009,Baden-Württemberg,Organic Waste Collected Separately,1351.9,126.0
+2009,Baden-Württemberg,Recyclable Materials Collected Separately,1754.8,163.0
+2009,Baden-Württemberg,Waste Electrical Appliances,,
+2009,Baden-Württemberg,Other Waste,7.6,1.0
+2009,Bayern,Household And Bulky Waste,2056.8,164.0
+2009,Bayern,Organic Waste Collected Separately,1772.2,142.0
+2009,Bayern,Recyclable Materials Collected Separately,1967.2,157.0
+2009,Bayern,Waste Electrical Appliances,,
+2009,Bayern,Other Waste,67.4,5.0
+2009,Berlin,Household And Bulky Waste,911.4,265.0
+2009,Berlin,Organic Waste Collected Separately,126.4,37.0
+2009,Berlin,Recyclable Materials Collected Separately,401.8,117.0
+2009,Berlin,Waste Electrical Appliances,,
+2009,Berlin,Other Waste,1.9,1.0
+2009,Brandenburg,Household And Bulky Waste,532.5,212.0
+2009,Brandenburg,Organic Waste Collected Separately,98.3,39.0
+2009,Brandenburg,Recyclable Materials Collected Separately,343.0,137.0
+2009,Brandenburg,Waste Electrical Appliances,,
+2009,Brandenburg,Other Waste,2.0,1.0
+2009,Bremen,Household And Bulky Waste,161.6,244.0
+2009,Bremen,Organic Waste Collected Separately,59.4,90.0
+2009,Bremen,Recyclable Materials Collected Separately,81.6,123.0
+2009,Bremen,Waste Electrical Appliances,,
+2009,Bremen,Other Waste,0.2,0.0
+2009,Hamburg,Household And Bulky Waste,586.2,330.0
+2009,Hamburg,Organic Waste Collected Separately,36.1,20.0
+2009,Hamburg,Recyclable Materials Collected Separately,178.2,100.0
+2009,Hamburg,Waste Electrical Appliances,,
+2009,Hamburg,Other Waste,2.5,1.0
+2009,Hesse,Household And Bulky Waste,1252.8,207.0
+2009,Hesse,Organic Waste Collected Separately,788.9,130.0
+2009,Hesse,Recyclable Materials Collected Separately,848.4,140.0
+2009,Hesse,Waste Electrical Appliances,,
+2009,Hesse,Other Waste,22.1,4.0
+2009,Mecklenburg-Vorpommern,Household And Bulky Waste,381.2,231.0
+2009,Mecklenburg-Vorpommern,Organic Waste Collected Separately,86.8,53.0
+2009,Mecklenburg-Vorpommern,Recyclable Materials Collected Separately,221.5,134.0
+2009,Mecklenburg-Vorpommern,Waste Electrical Appliances,,
+2009,Mecklenburg-Vorpommern,Other Waste,0.9,1.0
+2009,Lower Saxony,Household And Bulky Waste,1525.4,192.0
+2009,Lower Saxony,Organic Waste Collected Separately,1191.1,150.0
+2009,Lower Saxony,Recyclable Materials Collected Separately,1226.4,155.0
+2009,Lower Saxony,Waste Electrical Appliances,,
+2009,Lower Saxony,Other Waste,9.9,1.0
+2009,North Rhine-Westphalia,Household And Bulky Waste,4040.2,226.0
+2009,North Rhine-Westphalia,Organic Waste Collected Separately,1955.6,109.0
+2009,North Rhine-Westphalia,Recyclable Materials Collected Separately,2330.2,130.0
+2009,North Rhine-Westphalia,Waste Electrical Appliances,,
+2009,North Rhine-Westphalia,Other Waste,43.1,2.0
+2009,Rhineland-Palatinate,Household And Bulky Waste,775.0,193.0
+2009,Rhineland-Palatinate,Organic Waste Collected Separately,590.5,147.0
+2009,Rhineland-Palatinate,Recyclable Materials Collected Separately,686.5,171.0
+2009,Rhineland-Palatinate,Waste Electrical Appliances,,
+2009,Rhineland-Palatinate,Other Waste,20.1,5.0
+2009,Saarland,Household And Bulky Waste,245.5,240.0
+2009,Saarland,Organic Waste Collected Separately,140.8,138.0
+2009,Saarland,Recyclable Materials Collected Separately,119.7,117.0
+2009,Saarland,Waste Electrical Appliances,,
+2009,Saarland,Other Waste,0.6,1.0
+2009,Saxony,Household And Bulky Waste,642.3,154.0
+2009,Saxony,Organic Waste Collected Separately,222.9,53.0
+2009,Saxony,Recyclable Materials Collected Separately,500.1,120.0
+2009,Saxony,Waste Electrical Appliances,,
+2009,Saxony,Other Waste,3.3,1.0
+2009,Saxony-Anhalt,Household And Bulky Waste,494.6,210.0
+2009,Saxony-Anhalt,Organic Waste Collected Separately,240.5,102.0
+2009,Saxony-Anhalt,Recyclable Materials Collected Separately,307.6,131.0
+2009,Saxony-Anhalt,Waste Electrical Appliances,,
+2009,Saxony-Anhalt,Other Waste,4.0,2.0
+2009,Schleswig-Holstein,Household And Bulky Waste,642.0,227.0
+2009,Schleswig-Holstein,Organic Waste Collected Separately,268.4,95.0
+2009,Schleswig-Holstein,Recyclable Materials Collected Separately,430.4,152.0
+2009,Schleswig-Holstein,Waste Electrical Appliances,,
+2009,Schleswig-Holstein,Other Waste,2.5,1.0
+2009,Thuringia,Household And Bulky Waste,424.0,188.0
+2009,Thuringia,Organic Waste Collected Separately,166.6,74.0
+2009,Thuringia,Recyclable Materials Collected Separately,292.8,130.0
+2009,Thuringia,Waste Electrical Appliances,,
+2009,Thuringia,Other Waste,7.6,3.0
+2009,In Total,Household And Bulky Waste,16238.0,199.0
+2009,In Total,Organic Waste Collected Separately,9096.5,111.0
+2009,In Total,Recyclable Materials Collected Separately,11690.1,143.0
+2009,In Total,Waste Electrical Appliances,,
+2009,In Total,Other Waste,195.6,2.0
+2010,Baden-Württemberg,Household And Bulky Waste,1556.7,145.0
+2010,Baden-Württemberg,Organic Waste Collected Separately,1294.9,120.0
+2010,Baden-Württemberg,Recyclable Materials Collected Separately,1753.1,163.0
+2010,Baden-Württemberg,Waste Electrical Appliances,,
+2010,Baden-Württemberg,Other Waste,7.2,1.0
+2010,Bayern,Household And Bulky Waste,2050.4,164.0
+2010,Bayern,Organic Waste Collected Separately,1733.7,138.0
+2010,Bayern,Recyclable Materials Collected Separately,1976.2,158.0
+2010,Bayern,Waste Electrical Appliances,,
+2010,Bayern,Other Waste,84.6,7.0
+2010,Berlin,Household And Bulky Waste,893.0,258.0
+2010,Berlin,Organic Waste Collected Separately,114.6,33.0
+2010,Berlin,Recyclable Materials Collected Separately,399.3,115.0
+2010,Berlin,Waste Electrical Appliances,,
+2010,Berlin,Other Waste,2.6,1.0
+2010,Brandenburg,Household And Bulky Waste,533.3,213.0
+2010,Brandenburg,Organic Waste Collected Separately,99.9,40.0
+2010,Brandenburg,Recyclable Materials Collected Separately,346.5,138.0
+2010,Brandenburg,Waste Electrical Appliances,,
+2010,Brandenburg,Other Waste,2.1,1.0
+2010,Bremen,Household And Bulky Waste,158.3,240.0
+2010,Bremen,Organic Waste Collected Separately,56.6,86.0
+2010,Bremen,Recyclable Materials Collected Separately,80.4,122.0
+2010,Bremen,Waste Electrical Appliances,,
+2010,Bremen,Other Waste,0.2,0.0
+2010,Hamburg,Household And Bulky Waste,566.9,317.0
+2010,Hamburg,Organic Waste Collected Separately,37.2,21.0
+2010,Hamburg,Recyclable Materials Collected Separately,180.7,101.0
+2010,Hamburg,Waste Electrical Appliances,,
+2010,Hamburg,Other Waste,2.6,1.0
+2010,Hesse,Household And Bulky Waste,1246.3,205.0
+2010,Hesse,Organic Waste Collected Separately,779.1,128.0
+2010,Hesse,Recyclable Materials Collected Separately,840.1,138.0
+2010,Hesse,Waste Electrical Appliances,,
+2010,Hesse,Other Waste,3.2,1.0
+2010,Mecklenburg-Vorpommern,Household And Bulky Waste,378.1,230.0
+2010,Mecklenburg-Vorpommern,Organic Waste Collected Separately,81.9,50.0
+2010,Mecklenburg-Vorpommern,Recyclable Materials Collected Separately,222.4,135.0
+2010,Mecklenburg-Vorpommern,Waste Electrical Appliances,,
+2010,Mecklenburg-Vorpommern,Other Waste,1.0,1.0
+2010,Lower Saxony,Household And Bulky Waste,1509.5,191.0
+2010,Lower Saxony,Organic Waste Collected Separately,1143.4,144.0
+2010,Lower Saxony,Recyclable Materials Collected Separately,1234.2,156.0
+2010,Lower Saxony,Waste Electrical Appliances,,
+2010,Lower Saxony,Other Waste,8.2,1.0
+2010,North Rhine-Westphalia,Household And Bulky Waste,3998.7,224.0
+2010,North Rhine-Westphalia,Organic Waste Collected Separately,1866.0,105.0
+2010,North Rhine-Westphalia,Recyclable Materials Collected Separately,2360.1,132.0
+2010,North Rhine-Westphalia,Waste Electrical Appliances,,
+2010,North Rhine-Westphalia,Other Waste,43.8,2.0
+2010,Rhineland-Palatinate,Household And Bulky Waste,777.3,194.0
+2010,Rhineland-Palatinate,Organic Waste Collected Separately,582.8,146.0
+2010,Rhineland-Palatinate,Recyclable Materials Collected Separately,683.6,171.0
+2010,Rhineland-Palatinate,Waste Electrical Appliances,,
+2010,Rhineland-Palatinate,Other Waste,17.1,4.0
+2010,Saarland,Household And Bulky Waste,245.9,242.0
+2010,Saarland,Organic Waste Collected Separately,135.6,133.0
+2010,Saarland,Recyclable Materials Collected Separately,116.4,114.0
+2010,Saarland,Waste Electrical Appliances,,
+2010,Saarland,Other Waste,0.5,1.0
+2010,Saxony,Household And Bulky Waste,631.8,152.0
+2010,Saxony,Organic Waste Collected Separately,213.7,51.0
+2010,Saxony,Recyclable Materials Collected Separately,494.4,119.0
+2010,Saxony,Waste Electrical Appliances,,
+2010,Saxony,Other Waste,3.1,1.0
+2010,Saxony-Anhalt,Household And Bulky Waste,495.7,212.0
+2010,Saxony-Anhalt,Organic Waste Collected Separately,224.7,96.0
+2010,Saxony-Anhalt,Recyclable Materials Collected Separately,311.0,133.0
+2010,Saxony-Anhalt,Waste Electrical Appliances,,
+2010,Saxony-Anhalt,Other Waste,2.9,1.0
+2010,Schleswig-Holstein,Household And Bulky Waste,633.1,223.0
+2010,Schleswig-Holstein,Organic Waste Collected Separately,255.6,90.0
+2010,Schleswig-Holstein,Recyclable Materials Collected Separately,434.0,153.0
+2010,Schleswig-Holstein,Waste Electrical Appliances,,
+2010,Schleswig-Holstein,Other Waste,2.5,1.0
+2010,Thuringia,Household And Bulky Waste,413.2,185.0
+2010,Thuringia,Organic Waste Collected Separately,160.0,72.0
+2010,Thuringia,Recyclable Materials Collected Separately,292.2,131.0
+2010,Thuringia,Waste Electrical Appliances,,
+2010,Thuringia,Other Waste,7.5,3.0
+2010,In Total,Household And Bulky Waste,16088.1,197.0
+2010,In Total,Organic Waste Collected Separately,8779.6,107.0
+2010,In Total,Recyclable Materials Collected Separately,11724.7,143.0
+2010,In Total,Waste Electrical Appliances,,
+2010,In Total,Other Waste,189.0,2.0
+2011,Baden-Württemberg,Household And Bulky Waste,1555.0,148.0
+2011,Baden-Württemberg,Organic Waste Collected Separately,1372.5,131.0
+2011,Baden-Württemberg,Recyclable Materials Collected Separately,1779.3,169.0
+2011,Baden-Württemberg,Waste Electrical Appliances,,
+2011,Baden-Württemberg,Other Waste,7.5,1.0
+2011,Bayern,Household And Bulky Waste,2080.4,167.0
+2011,Bayern,Organic Waste Collected Separately,1781.6,143.0
+2011,Bayern,Recyclable Materials Collected Separately,2040.9,164.0
+2011,Bayern,Waste Electrical Appliances,,
+2011,Bayern,Other Waste,6.7,1.0
+2011,Berlin,Household And Bulky Waste,880.1,265.0
+2011,Berlin,Organic Waste Collected Separately,127.0,38.0
+2011,Berlin,Recyclable Materials Collected Separately,416.5,125.0
+2011,Berlin,Waste Electrical Appliances,,
+2011,Berlin,Other Waste,2.5,1.0
+2011,Brandenburg,Household And Bulky Waste,534.4,218.0
+2011,Brandenburg,Organic Waste Collected Separately,109.5,45.0
+2011,Brandenburg,Recyclable Materials Collected Separately,347.5,142.0
+2011,Brandenburg,Waste Electrical Appliances,,
+2011,Brandenburg,Other Waste,2.3,1.0
+2011,Bremen,Household And Bulky Waste,159.6,245.0
+2011,Bremen,Organic Waste Collected Separately,57.0,87.0
+2011,Bremen,Recyclable Materials Collected Separately,81.3,125.0
+2011,Bremen,Waste Electrical Appliances,,
+2011,Bremen,Other Waste,0.2,0.0
+2011,Hamburg,Household And Bulky Waste,551.8,321.0
+2011,Hamburg,Organic Waste Collected Separately,55.1,32.0
+2011,Hamburg,Recyclable Materials Collected Separately,193.3,113.0
+2011,Hamburg,Waste Electrical Appliances,,
+2011,Hamburg,Other Waste,2.7,2.0
+2011,Hesse,Household And Bulky Waste,1227.0,205.0
+2011,Hesse,Organic Waste Collected Separately,768.2,128.0
+2011,Hesse,Recyclable Materials Collected Separately,855.2,143.0
+2011,Hesse,Waste Electrical Appliances,,
+2011,Hesse,Other Waste,3.1,1.0
+2011,Mecklenburg-Vorpommern,Household And Bulky Waste,380.1,237.0
+2011,Mecklenburg-Vorpommern,Organic Waste Collected Separately,94.1,59.0
+2011,Mecklenburg-Vorpommern,Recyclable Materials Collected Separately,222.8,139.0
+2011,Mecklenburg-Vorpommern,Waste Electrical Appliances,,
+2011,Mecklenburg-Vorpommern,Other Waste,1.0,1.0
+2011,Lower Saxony,Household And Bulky Waste,1518.4,195.0
+2011,Lower Saxony,Organic Waste Collected Separately,1192.4,153.0
+2011,Lower Saxony,Recyclable Materials Collected Separately,1280.3,165.0
+2011,Lower Saxony,Waste Electrical Appliances,,
+2011,Lower Saxony,Other Waste,7.0,1.0
+2011,North Rhine-Westphalia,Household And Bulky Waste,3975.0,227.0
+2011,North Rhine-Westphalia,Organic Waste Collected Separately,1900.4,108.0
+2011,North Rhine-Westphalia,Recyclable Materials Collected Separately,2417.9,138.0
+2011,North Rhine-Westphalia,Waste Electrical Appliances,,
+2011,North Rhine-Westphalia,Other Waste,29.4,2.0
+2011,Rhineland-Palatinate,Household And Bulky Waste,766.9,192.0
+2011,Rhineland-Palatinate,Organic Waste Collected Separately,587.8,147.0
+2011,Rhineland-Palatinate,Recyclable Materials Collected Separately,699.2,175.0
+2011,Rhineland-Palatinate,Waste Electrical Appliances,,
+2011,Rhineland-Palatinate,Other Waste,17.0,4.0
+2011,Saarland,Household And Bulky Waste,189.6,190.0
+2011,Saarland,Organic Waste Collected Separately,140.6,141.0
+2011,Saarland,Recyclable Materials Collected Separately,133.3,134.0
+2011,Saarland,Waste Electrical Appliances,,
+2011,Saarland,Other Waste,0.5,1.0
+2011,Saxony,Household And Bulky Waste,633.9,156.0
+2011,Saxony,Organic Waste Collected Separately,220.8,54.0
+2011,Saxony,Recyclable Materials Collected Separately,502.6,124.0
+2011,Saxony,Waste Electrical Appliances,,
+2011,Saxony,Other Waste,3.8,1.0
+2011,Saxony-Anhalt,Household And Bulky Waste,481.3,211.0
+2011,Saxony-Anhalt,Organic Waste Collected Separately,240.8,106.0
+2011,Saxony-Anhalt,Recyclable Materials Collected Separately,307.7,135.0
+2011,Saxony-Anhalt,Waste Electrical Appliances,,
+2011,Saxony-Anhalt,Other Waste,3.1,1.0
+2011,Schleswig-Holstein,Household And Bulky Waste,654.7,234.0
+2011,Schleswig-Holstein,Organic Waste Collected Separately,266.1,95.0
+2011,Schleswig-Holstein,Recyclable Materials Collected Separately,441.7,158.0
+2011,Schleswig-Holstein,Waste Electrical Appliances,,
+2011,Schleswig-Holstein,Other Waste,2.9,1.0
+2011,Thuringia,Household And Bulky Waste,415.7,191.0
+2011,Thuringia,Organic Waste Collected Separately,169.2,78.0
+2011,Thuringia,Recyclable Materials Collected Separately,292.0,134.0
+2011,Thuringia,Waste Electrical Appliances,,
+2011,Thuringia,Other Waste,8.1,4.0
+2011,In Total,Household And Bulky Waste,16003.8,199.0
+2011,In Total,Organic Waste Collected Separately,9083.2,113.0
+2011,In Total,Recyclable Materials Collected Separately,12011.3,150.0
+2011,In Total,Waste Electrical Appliances,,
+2011,In Total,Other Waste,97.7,1.0
+2012,Baden-Württemberg,Household And Bulky Waste,1533.2,145.0
+2012,Baden-Württemberg,Organic Waste Collected Separately,1385.9,131.0
+2012,Baden-Württemberg,Recyclable Materials Collected Separately,1776.2,168.0
+2012,Baden-Württemberg,Waste Electrical Appliances,,
+2012,Baden-Württemberg,Other Waste,8.0,1.0
+2012,Bayern,Household And Bulky Waste,2060.0,165.0
+2012,Bayern,Organic Waste Collected Separately,1808.2,144.0
+2012,Bayern,Recyclable Materials Collected Separately,1987.5,159.0
+2012,Bayern,Waste Electrical Appliances,,
+2012,Bayern,Other Waste,38.2,3.0
+2012,Berlin,Household And Bulky Waste,861.5,255.0
+2012,Berlin,Organic Waste Collected Separately,126.5,37.0
+2012,Berlin,Recyclable Materials Collected Separately,402.6,119.0
+2012,Berlin,Waste Electrical Appliances,,
+2012,Berlin,Other Waste,2.4,1.0
+2012,Brandenburg,Household And Bulky Waste,520.9,213.0
+2012,Brandenburg,Organic Waste Collected Separately,107.2,44.0
+2012,Brandenburg,Recyclable Materials Collected Separately,333.2,136.0
+2012,Brandenburg,Waste Electrical Appliances,,
+2012,Brandenburg,Other Waste,2.3,1.0
+2012,Bremen,Household And Bulky Waste,150.0,229.0
+2012,Bremen,Organic Waste Collected Separately,57.8,88.0
+2012,Bremen,Recyclable Materials Collected Separately,79.3,121.0
+2012,Bremen,Waste Electrical Appliances,,
+2012,Bremen,Other Waste,0.2,0.0
+2012,Hamburg,Household And Bulky Waste,519.7,300.0
+2012,Hamburg,Organic Waste Collected Separately,67.9,39.0
+2012,Hamburg,Recyclable Materials Collected Separately,196.8,113.0
+2012,Hamburg,Waste Electrical Appliances,,
+2012,Hamburg,Other Waste,2.4,1.0
+2012,Hesse,Household And Bulky Waste,1193.3,198.0
+2012,Hesse,Organic Waste Collected Separately,764.7,127.0
+2012,Hesse,Recyclable Materials Collected Separately,844.0,140.0
+2012,Hesse,Waste Electrical Appliances,,
+2012,Hesse,Other Waste,3.7,1.0
+2012,Mecklenburg-Vorpommern,Household And Bulky Waste,373.6,233.0
+2012,Mecklenburg-Vorpommern,Organic Waste Collected Separately,88.1,55.0
+2012,Mecklenburg-Vorpommern,Recyclable Materials Collected Separately,213.7,134.0
+2012,Mecklenburg-Vorpommern,Waste Electrical Appliances,,
+2012,Mecklenburg-Vorpommern,Other Waste,1.0,1.0
+2012,Lower Saxony,Household And Bulky Waste,1486.7,191.0
+2012,Lower Saxony,Organic Waste Collected Separately,1173.9,151.0
+2012,Lower Saxony,Recyclable Materials Collected Separately,1278.9,164.0
+2012,Lower Saxony,Waste Electrical Appliances,,
+2012,Lower Saxony,Other Waste,10.5,1.0
+2012,North Rhine-Westphalia,Household And Bulky Waste,3830.4,218.0
+2012,North Rhine-Westphalia,Organic Waste Collected Separately,1907.0,109.0
+2012,North Rhine-Westphalia,Recyclable Materials Collected Separately,2491.1,142.0
+2012,North Rhine-Westphalia,Waste Electrical Appliances,,
+2012,North Rhine-Westphalia,Other Waste,29.4,2.0
+2012,Rhineland-Palatinate,Household And Bulky Waste,747.7,187.0
+2012,Rhineland-Palatinate,Organic Waste Collected Separately,587.6,147.0
+2012,Rhineland-Palatinate,Recyclable Materials Collected Separately,688.9,173.0
+2012,Rhineland-Palatinate,Waste Electrical Appliances,,
+2012,Rhineland-Palatinate,Other Waste,20.1,5.0
+2012,Saarland,Household And Bulky Waste,186.6,188.0
+2012,Saarland,Organic Waste Collected Separately,137.7,138.0
+2012,Saarland,Recyclable Materials Collected Separately,133.7,134.0
+2012,Saarland,Waste Electrical Appliances,,
+2012,Saarland,Other Waste,0.6,1.0
+2012,Saxony,Household And Bulky Waste,606.7,150.0
+2012,Saxony,Organic Waste Collected Separately,201.3,50.0
+2012,Saxony,Recyclable Materials Collected Separately,485.5,120.0
+2012,Saxony,Waste Electrical Appliances,,
+2012,Saxony,Other Waste,3.6,1.0
+2012,Saxony-Anhalt,Household And Bulky Waste,459.7,203.0
+2012,Saxony-Anhalt,Organic Waste Collected Separately,244.3,108.0
+2012,Saxony-Anhalt,Recyclable Materials Collected Separately,296.0,131.0
+2012,Saxony-Anhalt,Waste Electrical Appliances,,
+2012,Saxony-Anhalt,Other Waste,2.6,1.0
+2012,Schleswig-Holstein,Household And Bulky Waste,645.2,230.0
+2012,Schleswig-Holstein,Organic Waste Collected Separately,268.7,96.0
+2012,Schleswig-Holstein,Recyclable Materials Collected Separately,430.0,153.0
+2012,Schleswig-Holstein,Waste Electrical Appliances,,
+2012,Schleswig-Holstein,Other Waste,3.0,1.0
+2012,Thuringia,Household And Bulky Waste,398.1,183.0
+2012,Thuringia,Organic Waste Collected Separately,168.9,78.0
+2012,Thuringia,Recyclable Materials Collected Separately,280.7,129.0
+2012,Thuringia,Waste Electrical Appliances,,
+2012,Thuringia,Other Waste,7.2,3.0
+2012,In Total,Household And Bulky Waste,15573.1,193.0
+2012,In Total,Organic Waste Collected Separately,9095.5,113.0
+2012,In Total,Recyclable Materials Collected Separately,11917.9,148.0
+2012,In Total,Waste Electrical Appliances,,
+2012,In Total,Other Waste,135.3,2.0
+2013,Baden-Württemberg,Household And Bulky Waste,1525.3,143.0
+2013,Baden-Württemberg,Organic Waste Collected Separately,1379.0,130.0
+2013,Baden-Württemberg,Recyclable Materials Collected Separately,1788.1,168.0
+2013,Baden-Württemberg,Waste Electrical Appliances,,
+2013,Baden-Württemberg,Other Waste,8.0,1.0
+2013,Bayern,Household And Bulky Waste,2090.3,166.0
+2013,Bayern,Organic Waste Collected Separately,1792.7,142.0
+2013,Bayern,Recyclable Materials Collected Separately,2001.7,159.0
+2013,Bayern,Waste Electrical Appliances,,
+2013,Bayern,Other Waste,56.4,4.0
+2013,Berlin,Household And Bulky Waste,866.9,253.0
+2013,Berlin,Organic Waste Collected Separately,134.5,39.0
+2013,Berlin,Recyclable Materials Collected Separately,385.6,113.0
+2013,Berlin,Waste Electrical Appliances,,
+2013,Berlin,Other Waste,2.6,1.0
+2013,Brandenburg,Household And Bulky Waste,514.9,210.0
+2013,Brandenburg,Organic Waste Collected Separately,113.8,46.0
+2013,Brandenburg,Recyclable Materials Collected Separately,330.0,135.0
+2013,Brandenburg,Waste Electrical Appliances,,
+2013,Brandenburg,Other Waste,4.5,2.0
+2013,Bremen,Household And Bulky Waste,151.5,231.0
+2013,Bremen,Organic Waste Collected Separately,55.6,85.0
+2013,Bremen,Recyclable Materials Collected Separately,79.6,121.0
+2013,Bremen,Waste Electrical Appliances,,
+2013,Bremen,Other Waste,0.2,0.0
+2013,Hamburg,Household And Bulky Waste,506.5,290.0
+2013,Hamburg,Organic Waste Collected Separately,71.6,41.0
+2013,Hamburg,Recyclable Materials Collected Separately,209.4,120.0
+2013,Hamburg,Waste Electrical Appliances,,
+2013,Hamburg,Other Waste,2.5,1.0
+2013,Hesse,Household And Bulky Waste,1182.0,196.0
+2013,Hesse,Organic Waste Collected Separately,762.1,126.0
+2013,Hesse,Recyclable Materials Collected Separately,841.8,139.0
+2013,Hesse,Waste Electrical Appliances,,
+2013,Hesse,Other Waste,3.1,1.0
+2013,Mecklenburg-Vorpommern,Household And Bulky Waste,369.3,231.0
+2013,Mecklenburg-Vorpommern,Organic Waste Collected Separately,94.5,59.0
+2013,Mecklenburg-Vorpommern,Recyclable Materials Collected Separately,217.4,136.0
+2013,Mecklenburg-Vorpommern,Waste Electrical Appliances,,
+2013,Mecklenburg-Vorpommern,Other Waste,1.0,1.0
+2013,Lower Saxony,Household And Bulky Waste,1474.8,189.0
+2013,Lower Saxony,Organic Waste Collected Separately,1142.3,147.0
+2013,Lower Saxony,Recyclable Materials Collected Separately,1278.5,164.0
+2013,Lower Saxony,Waste Electrical Appliances,,
+2013,Lower Saxony,Other Waste,11.5,1.0
+2013,North Rhine-Westphalia,Household And Bulky Waste,3749.0,213.0
+2013,North Rhine-Westphalia,Organic Waste Collected Separately,1888.2,107.0
+2013,North Rhine-Westphalia,Recyclable Materials Collected Separately,2469.7,141.0
+2013,North Rhine-Westphalia,Waste Electrical Appliances,,
+2013,North Rhine-Westphalia,Other Waste,21.2,1.0
+2013,Rhineland-Palatinate,Household And Bulky Waste,742.9,186.0
+2013,Rhineland-Palatinate,Organic Waste Collected Separately,588.7,147.0
+2013,Rhineland-Palatinate,Recyclable Materials Collected Separately,688.1,172.0
+2013,Rhineland-Palatinate,Waste Electrical Appliances,,
+2013,Rhineland-Palatinate,Other Waste,22.4,6.0
+2013,Saarland,Household And Bulky Waste,186.2,188.0
+2013,Saarland,Organic Waste Collected Separately,141.6,143.0
+2013,Saarland,Recyclable Materials Collected Separately,159.3,161.0
+2013,Saarland,Waste Electrical Appliances,,
+2013,Saarland,Other Waste,0.6,1.0
+2013,Saxony,Household And Bulky Waste,608.6,150.0
+2013,Saxony,Organic Waste Collected Separately,195.5,48.0
+2013,Saxony,Recyclable Materials Collected Separately,491.9,122.0
+2013,Saxony,Waste Electrical Appliances,,
+2013,Saxony,Other Waste,4.1,1.0
+2013,Saxony-Anhalt,Household And Bulky Waste,462.8,206.0
+2013,Saxony-Anhalt,Organic Waste Collected Separately,241.9,108.0
+2013,Saxony-Anhalt,Recyclable Materials Collected Separately,302.0,135.0
+2013,Saxony-Anhalt,Waste Electrical Appliances,,
+2013,Saxony-Anhalt,Other Waste,2.9,1.0
+2013,Schleswig-Holstein,Household And Bulky Waste,629.5,224.0
+2013,Schleswig-Holstein,Organic Waste Collected Separately,268.7,95.0
+2013,Schleswig-Holstein,Recyclable Materials Collected Separately,424.0,151.0
+2013,Schleswig-Holstein,Waste Electrical Appliances,,
+2013,Schleswig-Holstein,Other Waste,3.1,1.0
+2013,Thuringia,Household And Bulky Waste,404.9,187.0
+2013,Thuringia,Organic Waste Collected Separately,185.8,86.0
+2013,Thuringia,Recyclable Materials Collected Separately,283.6,131.0
+2013,Thuringia,Waste Electrical Appliances,,
+2013,Thuringia,Other Waste,7.3,3.0
+2013,In Total,Household And Bulky Waste,15465.4,191.0
+2013,In Total,Organic Waste Collected Separately,9056.4,112.0
+2013,In Total,Recyclable Materials Collected Separately,11950.8,148.0
+2013,In Total,Waste Electrical Appliances,,
+2013,In Total,Other Waste,151.3,2.0
+2014,Baden-Württemberg,Household And Bulky Waste,1526.9,142.0
+2014,Baden-Württemberg,Organic Waste Collected Separately,1481.9,138.0
+2014,Baden-Württemberg,Recyclable Materials Collected Separately,1781.9,166.0
+2014,Baden-Württemberg,Waste Electrical Appliances,,
+2014,Baden-Württemberg,Other Waste,7.8,1.0
+2014,Bayern,Household And Bulky Waste,2097.4,165.0
+2014,Bayern,Organic Waste Collected Separately,1895.4,149.0
+2014,Bayern,Recyclable Materials Collected Separately,2006.1,158.0
+2014,Bayern,Waste Electrical Appliances,,
+2014,Bayern,Other Waste,67.8,5.0
+2014,Berlin,Household And Bulky Waste,868.0,250.0
+2014,Berlin,Organic Waste Collected Separately,79.1,23.0
+2014,Berlin,Recyclable Materials Collected Separately,385.0,111.0
+2014,Berlin,Waste Electrical Appliances,,
+2014,Berlin,Other Waste,2.8,1.0
+2014,Brandenburg,Household And Bulky Waste,513.8,209.0
+2014,Brandenburg,Organic Waste Collected Separately,135.7,55.0
+2014,Brandenburg,Recyclable Materials Collected Separately,332.4,135.0
+2014,Brandenburg,Waste Electrical Appliances,,
+2014,Brandenburg,Other Waste,4.9,2.0
+2014,Bremen,Household And Bulky Waste,149.7,226.0
+2014,Bremen,Organic Waste Collected Separately,58.5,88.0
+2014,Bremen,Recyclable Materials Collected Separately,80.7,122.0
+2014,Bremen,Waste Electrical Appliances,,
+2014,Bremen,Other Waste,0.2,0.0
+2014,Hamburg,Household And Bulky Waste,501.1,284.0
+2014,Hamburg,Organic Waste Collected Separately,79.3,45.0
+2014,Hamburg,Recyclable Materials Collected Separately,211.4,120.0
+2014,Hamburg,Waste Electrical Appliances,,
+2014,Hamburg,Other Waste,2.4,1.0
+2014,Hesse,Household And Bulky Waste,1153.4,189.0
+2014,Hesse,Organic Waste Collected Separately,828.9,136.0
+2014,Hesse,Recyclable Materials Collected Separately,869.1,143.0
+2014,Hesse,Waste Electrical Appliances,,
+2014,Hesse,Other Waste,3.3,1.0
+2014,Mecklenburg-Vorpommern,Household And Bulky Waste,371.0,232.0
+2014,Mecklenburg-Vorpommern,Organic Waste Collected Separately,107.3,67.0
+2014,Mecklenburg-Vorpommern,Recyclable Materials Collected Separately,221.2,138.0
+2014,Mecklenburg-Vorpommern,Waste Electrical Appliances,,
+2014,Mecklenburg-Vorpommern,Other Waste,1.1,1.0
+2014,Lower Saxony,Household And Bulky Waste,1477.6,189.0
+2014,Lower Saxony,Organic Waste Collected Separately,1278.4,163.0
+2014,Lower Saxony,Recyclable Materials Collected Separately,1306.1,167.0
+2014,Lower Saxony,Waste Electrical Appliances,,
+2014,Lower Saxony,Other Waste,12.7,2.0
+2014,North Rhine-Westphalia,Household And Bulky Waste,3809.1,216.0
+2014,North Rhine-Westphalia,Organic Waste Collected Separately,2121.5,120.0
+2014,North Rhine-Westphalia,Recyclable Materials Collected Separately,2502.2,142.0
+2014,North Rhine-Westphalia,Waste Electrical Appliances,,
+2014,North Rhine-Westphalia,Other Waste,22.0,1.0
+2014,Rhineland-Palatinate,Household And Bulky Waste,743.4,185.0
+2014,Rhineland-Palatinate,Organic Waste Collected Separately,642.4,160.0
+2014,Rhineland-Palatinate,Recyclable Materials Collected Separately,694.5,173.0
+2014,Rhineland-Palatinate,Waste Electrical Appliances,,
+2014,Rhineland-Palatinate,Other Waste,22.5,6.0
+2014,Saarland,Household And Bulky Waste,186.9,189.0
+2014,Saarland,Organic Waste Collected Separately,143.6,145.0
+2014,Saarland,Recyclable Materials Collected Separately,158.7,161.0
+2014,Saarland,Waste Electrical Appliances,,
+2014,Saarland,Other Waste,0.6,1.0
+2014,Saxony,Household And Bulky Waste,605.5,149.0
+2014,Saxony,Organic Waste Collected Separately,208.1,51.0
+2014,Saxony,Recyclable Materials Collected Separately,491.7,121.0
+2014,Saxony,Waste Electrical Appliances,,
+2014,Saxony,Other Waste,3.5,1.0
+2014,Saxony-Anhalt,Household And Bulky Waste,456.1,204.0
+2014,Saxony-Anhalt,Organic Waste Collected Separately,271.8,122.0
+2014,Saxony-Anhalt,Recyclable Materials Collected Separately,302.0,135.0
+2014,Saxony-Anhalt,Waste Electrical Appliances,,
+2014,Saxony-Anhalt,Other Waste,2.7,1.0
+2014,Schleswig-Holstein,Household And Bulky Waste,662.8,234.0
+2014,Schleswig-Holstein,Organic Waste Collected Separately,290.6,103.0
+2014,Schleswig-Holstein,Recyclable Materials Collected Separately,422.9,149.0
+2014,Schleswig-Holstein,Waste Electrical Appliances,,
+2014,Schleswig-Holstein,Other Waste,3.0,1.0
+2014,Thuringia,Household And Bulky Waste,395.6,183.0
+2014,Thuringia,Organic Waste Collected Separately,208.8,97.0
+2014,Thuringia,Recyclable Materials Collected Separately,279.7,130.0
+2014,Thuringia,Waste Electrical Appliances,,
+2014,Thuringia,Other Waste,1.3,1.0
+2014,In Total,Household And Bulky Waste,15518.1,191.0
+2014,In Total,Organic Waste Collected Separately,9831.5,121.0
+2014,In Total,Recyclable Materials Collected Separately,12045.5,148.0
+2014,In Total,Waste Electrical Appliances,,
+2014,In Total,Other Waste,158.8,2.0
+2015,Baden-Württemberg,Household And Bulky Waste,1534.8,141.0
+2015,Baden-Württemberg,Organic Waste Collected Separately,1449.2,133.0
+2015,Baden-Württemberg,Recyclable Materials Collected Separately,1790.6,165.0
+2015,Baden-Württemberg,Waste Electrical Appliances,,
+2015,Baden-Württemberg,Other Waste,7.9,1.0
+2015,Bayern,Household And Bulky Waste,2118.4,165.0
+2015,Bayern,Organic Waste Collected Separately,1852.0,144.0
+2015,Bayern,Recyclable Materials Collected Separately,2020.2,157.0
+2015,Bayern,Waste Electrical Appliances,,
+2015,Bayern,Other Waste,66.7,5.0
+2015,Berlin,Household And Bulky Waste,869.5,247.0
+2015,Berlin,Organic Waste Collected Separately,80.5,23.0
+2015,Berlin,Recyclable Materials Collected Separately,386.2,110.0
+2015,Berlin,Waste Electrical Appliances,,
+2015,Berlin,Other Waste,2.4,1.0
+2015,Brandenburg,Household And Bulky Waste,522.1,210.0
+2015,Brandenburg,Organic Waste Collected Separately,141.9,57.0
+2015,Brandenburg,Recyclable Materials Collected Separately,335.5,135.0
+2015,Brandenburg,Waste Electrical Appliances,,
+2015,Brandenburg,Other Waste,5.3,2.0
+2015,Bremen,Household And Bulky Waste,151.2,225.0
+2015,Bremen,Organic Waste Collected Separately,57.3,85.0
+2015,Bremen,Recyclable Materials Collected Separately,81.9,122.0
+2015,Bremen,Waste Electrical Appliances,,
+2015,Bremen,Other Waste,0.2,0.0
+2015,Hamburg,Household And Bulky Waste,497.8,279.0
+2015,Hamburg,Organic Waste Collected Separately,87.0,49.0
+2015,Hamburg,Recyclable Materials Collected Separately,210.6,118.0
+2015,Hamburg,Waste Electrical Appliances,,
+2015,Hamburg,Other Waste,2.5,1.0
+2015,Hesse,Household And Bulky Waste,1110.4,180.0
+2015,Hesse,Organic Waste Collected Separately,801.3,130.0
+2015,Hesse,Recyclable Materials Collected Separately,868.0,141.0
+2015,Hesse,Waste Electrical Appliances,,
+2015,Hesse,Other Waste,3.2,1.0
+2015,Mecklenburg-Vorpommern,Household And Bulky Waste,368.1,228.0
+2015,Mecklenburg-Vorpommern,Organic Waste Collected Separately,103.5,64.0
+2015,Mecklenburg-Vorpommern,Recyclable Materials Collected Separately,211.7,131.0
+2015,Mecklenburg-Vorpommern,Waste Electrical Appliances,,
+2015,Mecklenburg-Vorpommern,Other Waste,1.1,1.0
+2015,Lower Saxony,Household And Bulky Waste,1481.6,187.0
+2015,Lower Saxony,Organic Waste Collected Separately,1261.3,159.0
+2015,Lower Saxony,Recyclable Materials Collected Separately,1310.0,165.0
+2015,Lower Saxony,Waste Electrical Appliances,,
+2015,Lower Saxony,Other Waste,12.6,2.0
+2015,North Rhine-Westphalia,Household And Bulky Waste,3776.5,211.0
+2015,North Rhine-Westphalia,Organic Waste Collected Separately,2014.3,113.0
+2015,North Rhine-Westphalia,Recyclable Materials Collected Separately,2511.6,141.0
+2015,North Rhine-Westphalia,Waste Electrical Appliances,,
+2015,North Rhine-Westphalia,Other Waste,25.7,1.0
+2015,Rhineland-Palatinate,Household And Bulky Waste,733.4,181.0
+2015,Rhineland-Palatinate,Organic Waste Collected Separately,658.8,163.0
+2015,Rhineland-Palatinate,Recyclable Materials Collected Separately,689.3,170.0
+2015,Rhineland-Palatinate,Waste Electrical Appliances,,
+2015,Rhineland-Palatinate,Other Waste,20.1,5.0
+2015,Saarland,Household And Bulky Waste,186.0,187.0
+2015,Saarland,Organic Waste Collected Separately,142.7,143.0
+2015,Saarland,Recyclable Materials Collected Separately,156.1,157.0
+2015,Saarland,Waste Electrical Appliances,,
+2015,Saarland,Other Waste,0.5,0.0
+2015,Saxony,Household And Bulky Waste,605.0,148.0
+2015,Saxony,Organic Waste Collected Separately,214.5,53.0
+2015,Saxony,Recyclable Materials Collected Separately,502.2,123.0
+2015,Saxony,Waste Electrical Appliances,,
+2015,Saxony,Other Waste,3.6,1.0
+2015,Saxony-Anhalt,Household And Bulky Waste,452.3,201.0
+2015,Saxony-Anhalt,Organic Waste Collected Separately,281.3,125.0
+2015,Saxony-Anhalt,Recyclable Materials Collected Separately,301.9,134.0
+2015,Saxony-Anhalt,Waste Electrical Appliances,,
+2015,Saxony-Anhalt,Other Waste,2.1,1.0
+2015,Schleswig-Holstein,Household And Bulky Waste,658.8,230.0
+2015,Schleswig-Holstein,Organic Waste Collected Separately,317.4,111.0
+2015,Schleswig-Holstein,Recyclable Materials Collected Separately,430.1,150.0
+2015,Schleswig-Holstein,Waste Electrical Appliances,,
+2015,Schleswig-Holstein,Other Waste,3.4,1.0
+2015,Thuringia,Household And Bulky Waste,396.1,182.0
+2015,Thuringia,Organic Waste Collected Separately,202.7,93.0
+2015,Thuringia,Recyclable Materials Collected Separately,283.7,131.0
+2015,Thuringia,Waste Electrical Appliances,,
+2015,Thuringia,Other Waste,1.2,1.0
+2015,In Total,Household And Bulky Waste,15461.8,188.0
+2015,In Total,Organic Waste Collected Separately,9665.8,118.0
+2015,In Total,Recyclable Materials Collected Separately,12089.7,147.0
+2015,In Total,Waste Electrical Appliances,,
+2015,In Total,Other Waste,158.4,2.0
+2016,Baden-Württemberg,Household And Bulky Waste,1529.2,140.0
+2016,Baden-Württemberg,Organic Waste Collected Separately,1536.5,140.0
+2016,Baden-Württemberg,Recyclable Materials Collected Separately,1802.8,165.0
+2016,Baden-Württemberg,Waste Electrical Appliances,,
+2016,Baden-Württemberg,Other Waste,8.0,1.0
+2016,Bayern,Household And Bulky Waste,2149.0,166.0
+2016,Bayern,Organic Waste Collected Separately,1983.5,153.0
+2016,Bayern,Recyclable Materials Collected Separately,2053.4,159.0
+2016,Bayern,Waste Electrical Appliances,,
+2016,Bayern,Other Waste,74.1,6.0
+2016,Berlin,Household And Bulky Waste,885.5,248.0
+2016,Berlin,Organic Waste Collected Separately,85.3,24.0
+2016,Berlin,Recyclable Materials Collected Separately,389.2,109.0
+2016,Berlin,Waste Electrical Appliances,,
+2016,Berlin,Other Waste,1.9,1.0
+2016,Brandenburg,Household And Bulky Waste,523.6,210.0
+2016,Brandenburg,Organic Waste Collected Separately,165.8,66.0
+2016,Brandenburg,Recyclable Materials Collected Separately,339.3,136.0
+2016,Brandenburg,Waste Electrical Appliances,,
+2016,Brandenburg,Other Waste,5.4,2.0
+2016,Bremen,Household And Bulky Waste,153.1,226.0
+2016,Bremen,Organic Waste Collected Separately,58.3,86.0
+2016,Bremen,Recyclable Materials Collected Separately,82.7,122.0
+2016,Bremen,Waste Electrical Appliances,,
+2016,Bremen,Other Waste,0.1,0.0
+2016,Hamburg,Household And Bulky Waste,495.6,274.0
+2016,Hamburg,Organic Waste Collected Separately,92.9,51.0
+2016,Hamburg,Recyclable Materials Collected Separately,209.6,116.0
+2016,Hamburg,Waste Electrical Appliances,,
+2016,Hamburg,Other Waste,2.4,1.0
+2016,Hesse,Household And Bulky Waste,1114.3,179.0
+2016,Hesse,Organic Waste Collected Separately,860.2,138.0
+2016,Hesse,Recyclable Materials Collected Separately,875.9,141.0
+2016,Hesse,Waste Electrical Appliances,,
+2016,Hesse,Other Waste,3.7,1.0
+2016,Mecklenburg-Vorpommern,Household And Bulky Waste,364.0,226.0
+2016,Mecklenburg-Vorpommern,Organic Waste Collected Separately,120.1,75.0
+2016,Mecklenburg-Vorpommern,Recyclable Materials Collected Separately,215.4,134.0
+2016,Mecklenburg-Vorpommern,Waste Electrical Appliances,,
+2016,Mecklenburg-Vorpommern,Other Waste,1.0,1.0
+2016,Lower Saxony,Household And Bulky Waste,1494.7,188.0
+2016,Lower Saxony,Organic Waste Collected Separately,1297.0,163.0
+2016,Lower Saxony,Recyclable Materials Collected Separately,1332.1,168.0
+2016,Lower Saxony,Waste Electrical Appliances,,
+2016,Lower Saxony,Other Waste,13.5,2.0
+2016,North Rhine-Westphalia,Household And Bulky Waste,3794.4,212.0
+2016,North Rhine-Westphalia,Organic Waste Collected Separately,2079.4,116.0
+2016,North Rhine-Westphalia,Recyclable Materials Collected Separately,2532.0,142.0
+2016,North Rhine-Westphalia,Waste Electrical Appliances,,
+2016,North Rhine-Westphalia,Other Waste,25.9,1.0
+2016,Rhineland-Palatinate,Household And Bulky Waste,738.4,182.0
+2016,Rhineland-Palatinate,Organic Waste Collected Separately,699.3,172.0
+2016,Rhineland-Palatinate,Recyclable Materials Collected Separately,699.3,172.0
+2016,Rhineland-Palatinate,Waste Electrical Appliances,,
+2016,Rhineland-Palatinate,Other Waste,21.2,5.0
+2016,Saarland,Household And Bulky Waste,187.9,189.0
+2016,Saarland,Organic Waste Collected Separately,135.2,136.0
+2016,Saarland,Recyclable Materials Collected Separately,158.0,158.0
+2016,Saarland,Waste Electrical Appliances,,
+2016,Saarland,Other Waste,0.4,0.0
+2016,Saxony,Household And Bulky Waste,614.1,150.0
+2016,Saxony,Organic Waste Collected Separately,228.6,56.0
+2016,Saxony,Recyclable Materials Collected Separately,501.7,123.0
+2016,Saxony,Waste Electrical Appliances,,
+2016,Saxony,Other Waste,3.7,1.0
+2016,Saxony-Anhalt,Household And Bulky Waste,438.1,196.0
+2016,Saxony-Anhalt,Organic Waste Collected Separately,274.9,123.0
+2016,Saxony-Anhalt,Recyclable Materials Collected Separately,304.5,136.0
+2016,Saxony-Anhalt,Waste Electrical Appliances,,
+2016,Saxony-Anhalt,Other Waste,2.5,1.0
+2016,Schleswig-Holstein,Household And Bulky Waste,660.2,229.0
+2016,Schleswig-Holstein,Organic Waste Collected Separately,339.0,118.0
+2016,Schleswig-Holstein,Recyclable Materials Collected Separately,430.8,149.0
+2016,Schleswig-Holstein,Waste Electrical Appliances,,
+2016,Schleswig-Holstein,Other Waste,3.2,1.0
+2016,Thuringia,Household And Bulky Waste,397.5,184.0
+2016,Thuringia,Organic Waste Collected Separately,227.5,105.0
+2016,Thuringia,Recyclable Materials Collected Separately,284.9,132.0
+2016,Thuringia,Waste Electrical Appliances,,
+2016,Thuringia,Other Waste,1.3,1.0
+2016,In Total,Household And Bulky Waste,15539.7,188.0
+2016,In Total,Organic Waste Collected Separately,10183.4,123.0
+2016,In Total,Recyclable Materials Collected Separately,12211.6,148.0
+2016,In Total,Waste Electrical Appliances,,
+2016,In Total,Other Waste,168.4,2.0
+2017,Baden-Württemberg,Household And Bulky Waste,1522.5,138.0
+2017,Baden-Württemberg,Organic Waste Collected Separately,1546.1,140.0
+2017,Baden-Württemberg,Recyclable Materials Collected Separately,1809.9,164.0
+2017,Baden-Württemberg,Waste Electrical Appliances,,
+2017,Baden-Württemberg,Other Waste,8.3,1.0
+2017,Bayern,Household And Bulky Waste,2159.7,166.0
+2017,Bayern,Organic Waste Collected Separately,1979.7,152.0
+2017,Bayern,Recyclable Materials Collected Separately,2053.4,158.0
+2017,Bayern,Waste Electrical Appliances,,
+2017,Bayern,Other Waste,60.2,5.0
+2017,Berlin,Household And Bulky Waste,894.3,247.0
+2017,Berlin,Organic Waste Collected Separately,90.7,25.0
+2017,Berlin,Recyclable Materials Collected Separately,398.4,110.0
+2017,Berlin,Waste Electrical Appliances,,
+2017,Berlin,Other Waste,2.4,1.0
+2017,Brandenburg,Household And Bulky Waste,533.4,213.0
+2017,Brandenburg,Organic Waste Collected Separately,197.4,79.0
+2017,Brandenburg,Recyclable Materials Collected Separately,347.2,139.0
+2017,Brandenburg,Waste Electrical Appliances,,
+2017,Brandenburg,Other Waste,5.7,2.0
+2017,Bremen,Household And Bulky Waste,153.2,225.0
+2017,Bremen,Organic Waste Collected Separately,58.6,86.0
+2017,Bremen,Recyclable Materials Collected Separately,84.0,123.0
+2017,Bremen,Waste Electrical Appliances,,
+2017,Bremen,Other Waste,0.2,0.0
+2017,Hamburg,Household And Bulky Waste,489.1,267.0
+2017,Hamburg,Organic Waste Collected Separately,97.2,53.0
+2017,Hamburg,Recyclable Materials Collected Separately,214.7,117.0
+2017,Hamburg,Waste Electrical Appliances,,
+2017,Hamburg,Other Waste,4.7,3.0
+2017,Hesse,Household And Bulky Waste,1107.6,177.0
+2017,Hesse,Organic Waste Collected Separately,865.8,139.0
+2017,Hesse,Recyclable Materials Collected Separately,876.9,140.0
+2017,Hesse,Waste Electrical Appliances,,
+2017,Hesse,Other Waste,3.8,1.0
+2017,Mecklenburg-Vorpommern,Household And Bulky Waste,363.2,225.0
+2017,Mecklenburg-Vorpommern,Organic Waste Collected Separately,131.0,81.0
+2017,Mecklenburg-Vorpommern,Recyclable Materials Collected Separately,214.9,133.0
+2017,Mecklenburg-Vorpommern,Waste Electrical Appliances,,
+2017,Mecklenburg-Vorpommern,Other Waste,1.0,1.0
+2017,Lower Saxony,Household And Bulky Waste,1508.0,189.0
+2017,Lower Saxony,Organic Waste Collected Separately,1324.9,166.0
+2017,Lower Saxony,Recyclable Materials Collected Separately,1333.6,167.0
+2017,Lower Saxony,Waste Electrical Appliances,,
+2017,Lower Saxony,Other Waste,16.8,2.0
+2017,North Rhine-Westphalia,Household And Bulky Waste,3795.0,212.0
+2017,North Rhine-Westphalia,Organic Waste Collected Separately,2061.6,115.0
+2017,North Rhine-Westphalia,Recyclable Materials Collected Separately,2509.2,140.0
+2017,North Rhine-Westphalia,Waste Electrical Appliances,,
+2017,North Rhine-Westphalia,Other Waste,26.6,1.0
+2017,Rhineland-Palatinate,Household And Bulky Waste,737.5,181.0
+2017,Rhineland-Palatinate,Organic Waste Collected Separately,704.8,173.0
+2017,Rhineland-Palatinate,Recyclable Materials Collected Separately,684.5,168.0
+2017,Rhineland-Palatinate,Waste Electrical Appliances,,
+2017,Rhineland-Palatinate,Other Waste,21.1,5.0
+2017,Saarland,Household And Bulky Waste,185.8,187.0
+2017,Saarland,Organic Waste Collected Separately,141.4,142.0
+2017,Saarland,Recyclable Materials Collected Separately,157.4,158.0
+2017,Saarland,Waste Electrical Appliances,,
+2017,Saarland,Other Waste,0.4,0.0
+2017,Saxony,Household And Bulky Waste,617.5,151.0
+2017,Saxony,Organic Waste Collected Separately,254.0,62.0
+2017,Saxony,Recyclable Materials Collected Separately,508.4,125.0
+2017,Saxony,Waste Electrical Appliances,,
+2017,Saxony,Other Waste,3.7,1.0
+2017,Saxony-Anhalt,Household And Bulky Waste,436.9,197.0
+2017,Saxony-Anhalt,Organic Waste Collected Separately,276.7,124.0
+2017,Saxony-Anhalt,Recyclable Materials Collected Separately,310.7,140.0
+2017,Saxony-Anhalt,Waste Electrical Appliances,,
+2017,Saxony-Anhalt,Other Waste,2.5,1.0
+2017,Schleswig-Holstein,Household And Bulky Waste,658.4,228.0
+2017,Schleswig-Holstein,Organic Waste Collected Separately,349.2,121.0
+2017,Schleswig-Holstein,Recyclable Materials Collected Separately,444.0,154.0
+2017,Schleswig-Holstein,Waste Electrical Appliances,,
+2017,Schleswig-Holstein,Other Waste,2.8,1.0
+2017,Thuringia,Household And Bulky Waste,396.3,184.0
+2017,Thuringia,Organic Waste Collected Separately,239.0,111.0
+2017,Thuringia,Recyclable Materials Collected Separately,288.5,134.0
+2017,Thuringia,Waste Electrical Appliances,,
+2017,Thuringia,Other Waste,1.4,1.0
+2017,In Total,Household And Bulky Waste,15558.6,188.0
+2017,In Total,Organic Waste Collected Separately,10318.0,125.0
+2017,In Total,Recyclable Materials Collected Separately,12235.6,148.0
+2017,In Total,Waste Electrical Appliances,,
+2017,In Total,Other Waste,161.6,2.0
+2018,Baden-Württemberg,Household And Bulky Waste,1543.5,139.0
+2018,Baden-Württemberg,Organic Waste Collected Separately,1509.3,136.0
+2018,Baden-Württemberg,Recyclable Materials Collected Separately,1808.0,163.0
+2018,Baden-Württemberg,Waste Electrical Appliances,,
+2018,Baden-Württemberg,Other Waste,8.4,1.0
+2018,Bayern,Household And Bulky Waste,2182.3,167.0
+2018,Bayern,Organic Waste Collected Separately,1925.8,147.0
+2018,Bayern,Recyclable Materials Collected Separately,2062.5,158.0
+2018,Bayern,Waste Electrical Appliances,,
+2018,Bayern,Other Waste,59.3,5.0
+2018,Berlin,Household And Bulky Waste,879.7,241.0
+2018,Berlin,Organic Waste Collected Separately,91.5,25.0
+2018,Berlin,Recyclable Materials Collected Separately,385.9,106.0
+2018,Berlin,Waste Electrical Appliances,,
+2018,Berlin,Other Waste,1.3,0.0
+2018,Brandenburg,Household And Bulky Waste,530.5,211.0
+2018,Brandenburg,Organic Waste Collected Separately,172.6,69.0
+2018,Brandenburg,Recyclable Materials Collected Separately,347.4,138.0
+2018,Brandenburg,Waste Electrical Appliances,,
+2018,Brandenburg,Other Waste,6.2,2.0
+2018,Bremen,Household And Bulky Waste,153.1,224.0
+2018,Bremen,Organic Waste Collected Separately,53.2,78.0
+2018,Bremen,Recyclable Materials Collected Separately,81.9,120.0
+2018,Bremen,Waste Electrical Appliances,,
+2018,Bremen,Other Waste,0.2,0.0
+2018,Hamburg,Household And Bulky Waste,482.7,262.0
+2018,Hamburg,Organic Waste Collected Separately,85.6,47.0
+2018,Hamburg,Recyclable Materials Collected Separately,214.6,117.0
+2018,Hamburg,Waste Electrical Appliances,,
+2018,Hamburg,Other Waste,4.8,3.0
+2018,Hesse,Household And Bulky Waste,1107.6,177.0
+2018,Hesse,Organic Waste Collected Separately,801.2,128.0
+2018,Hesse,Recyclable Materials Collected Separately,863.0,138.0
+2018,Hesse,Waste Electrical Appliances,,
+2018,Hesse,Other Waste,11.6,2.0
+2018,Mecklenburg-Vorpommern,Household And Bulky Waste,367.9,229.0
+2018,Mecklenburg-Vorpommern,Organic Waste Collected Separately,124.8,78.0
+2018,Mecklenburg-Vorpommern,Recyclable Materials Collected Separately,210.7,131.0
+2018,Mecklenburg-Vorpommern,Waste Electrical Appliances,,
+2018,Mecklenburg-Vorpommern,Other Waste,1.0,1.0
+2018,Lower Saxony,Household And Bulky Waste,1484.6,186.0
+2018,Lower Saxony,Organic Waste Collected Separately,1271.9,159.0
+2018,Lower Saxony,Recyclable Materials Collected Separately,1311.6,164.0
+2018,Lower Saxony,Waste Electrical Appliances,,
+2018,Lower Saxony,Other Waste,18.7,2.0
+2018,North Rhine-Westphalia,Household And Bulky Waste,3824.7,213.0
+2018,North Rhine-Westphalia,Organic Waste Collected Separately,2007.3,112.0
+2018,North Rhine-Westphalia,Recyclable Materials Collected Separately,2433.4,136.0
+2018,North Rhine-Westphalia,Waste Electrical Appliances,,
+2018,North Rhine-Westphalia,Other Waste,24.8,1.0
+2018,Rhineland-Palatinate,Household And Bulky Waste,723.0,177.0
+2018,Rhineland-Palatinate,Organic Waste Collected Separately,705.4,173.0
+2018,Rhineland-Palatinate,Recyclable Materials Collected Separately,687.9,168.0
+2018,Rhineland-Palatinate,Waste Electrical Appliances,,
+2018,Rhineland-Palatinate,Other Waste,20.9,5.0
+2018,Saarland,Household And Bulky Waste,190.1,192.0
+2018,Saarland,Organic Waste Collected Separately,126.1,127.0
+2018,Saarland,Recyclable Materials Collected Separately,156.8,158.0
+2018,Saarland,Waste Electrical Appliances,,
+2018,Saarland,Other Waste,0.4,0.0
+2018,Saxony,Household And Bulky Waste,611.1,150.0
+2018,Saxony,Organic Waste Collected Separately,242.3,59.0
+2018,Saxony,Recyclable Materials Collected Separately,505.0,124.0
+2018,Saxony,Waste Electrical Appliances,,
+2018,Saxony,Other Waste,3.5,1.0
+2018,Saxony-Anhalt,Household And Bulky Waste,423.3,192.0
+2018,Saxony-Anhalt,Organic Waste Collected Separately,251.3,114.0
+2018,Saxony-Anhalt,Recyclable Materials Collected Separately,307.4,139.0
+2018,Saxony-Anhalt,Waste Electrical Appliances,,
+2018,Saxony-Anhalt,Other Waste,12.3,6.0
+2018,Schleswig-Holstein,Household And Bulky Waste,654.0,226.0
+2018,Schleswig-Holstein,Organic Waste Collected Separately,329.0,114.0
+2018,Schleswig-Holstein,Recyclable Materials Collected Separately,435.2,150.0
+2018,Schleswig-Holstein,Waste Electrical Appliances,,
+2018,Schleswig-Holstein,Other Waste,3.1,1.0
+2018,Thuringia,Household And Bulky Waste,393.1,183.0
+2018,Thuringia,Organic Waste Collected Separately,233.6,109.0
+2018,Thuringia,Recyclable Materials Collected Separately,287.8,134.0
+2018,Thuringia,Waste Electrical Appliances,,
+2018,Thuringia,Other Waste,1.5,1.0
+2018,In Total,Household And Bulky Waste,15551.2,187.0
+2018,In Total,Organic Waste Collected Separately,9930.9,120.0
+2018,In Total,Recyclable Materials Collected Separately,12099.1,146.0
+2018,In Total,Waste Electrical Appliances,,
+2018,In Total,Other Waste,178.1,2.0
+2019,Baden-Württemberg,Household And Bulky Waste,1548.2,139.0
+2019,Baden-Württemberg,Organic Waste Collected Separately,1557.7,140.0
+2019,Baden-Württemberg,Recyclable Materials Collected Separately,1815.5,164.0
+2019,Baden-Württemberg,Waste Electrical Appliances,,
+2019,Baden-Württemberg,Other Waste,8.8,1.0
+2019,Bayern,Household And Bulky Waste,2182.7,166.0
+2019,Bayern,Organic Waste Collected Separately,1946.7,148.0
+2019,Bayern,Recyclable Materials Collected Separately,2100.2,160.0
+2019,Bayern,Waste Electrical Appliances,,
+2019,Bayern,Other Waste,63.5,5.0
+2019,Berlin,Household And Bulky Waste,867.0,236.0
+2019,Berlin,Organic Waste Collected Separately,116.7,32.0
+2019,Berlin,Recyclable Materials Collected Separately,394.4,107.0
+2019,Berlin,Waste Electrical Appliances,,
+2019,Berlin,Other Waste,2.1,1.0
+2019,Brandenburg,Household And Bulky Waste,534.4,212.0
+2019,Brandenburg,Organic Waste Collected Separately,200.9,80.0
+2019,Brandenburg,Recyclable Materials Collected Separately,351.1,139.0
+2019,Brandenburg,Waste Electrical Appliances,,
+2019,Brandenburg,Other Waste,8.3,3.0
+2019,Bremen,Household And Bulky Waste,156.3,230.0
+2019,Bremen,Organic Waste Collected Separately,56.1,82.0
+2019,Bremen,Recyclable Materials Collected Separately,79.9,117.0
+2019,Bremen,Waste Electrical Appliances,,
+2019,Bremen,Other Waste,0.2,0.0
+2019,Hamburg,Household And Bulky Waste,472.0,255.0
+2019,Hamburg,Organic Waste Collected Separately,91.6,50.0
+2019,Hamburg,Recyclable Materials Collected Separately,215.3,117.0
+2019,Hamburg,Waste Electrical Appliances,,
+2019,Hamburg,Other Waste,5.0,3.0
+2019,Hesse,Household And Bulky Waste,1103.3,175.0
+2019,Hesse,Organic Waste Collected Separately,842.9,134.0
+2019,Hesse,Recyclable Materials Collected Separately,856.8,136.0
+2019,Hesse,Waste Electrical Appliances,,
+2019,Hesse,Other Waste,13.6,2.0
+2019,Mecklenburg-Vorpommern,Household And Bulky Waste,367.3,228.0
+2019,Mecklenburg-Vorpommern,Organic Waste Collected Separately,143.3,89.0
+2019,Mecklenburg-Vorpommern,Recyclable Materials Collected Separately,211.5,132.0
+2019,Mecklenburg-Vorpommern,Waste Electrical Appliances,,
+2019,Mecklenburg-Vorpommern,Other Waste,1.1,1.0
+2019,Lower Saxony,Household And Bulky Waste,1494.0,187.0
+2019,Lower Saxony,Organic Waste Collected Separately,1258.6,157.0
+2019,Lower Saxony,Recyclable Materials Collected Separately,1316.0,165.0
+2019,Lower Saxony,Waste Electrical Appliances,,
+2019,Lower Saxony,Other Waste,17.4,2.0
+2019,North Rhine-Westphalia,Household And Bulky Waste,3822.2,213.0
+2019,North Rhine-Westphalia,Organic Waste Collected Separately,2016.7,112.0
+2019,North Rhine-Westphalia,Recyclable Materials Collected Separately,2419.3,135.0
+2019,North Rhine-Westphalia,Waste Electrical Appliances,,
+2019,North Rhine-Westphalia,Other Waste,24.3,1.0
+2019,Rhineland-Palatinate,Household And Bulky Waste,722.0,176.0
+2019,Rhineland-Palatinate,Organic Waste Collected Separately,712.2,174.0
+2019,Rhineland-Palatinate,Recyclable Materials Collected Separately,689.0,168.0
+2019,Rhineland-Palatinate,Waste Electrical Appliances,,
+2019,Rhineland-Palatinate,Other Waste,24.4,6.0
+2019,Saarland,Household And Bulky Waste,188.6,191.0
+2019,Saarland,Organic Waste Collected Separately,125.0,127.0
+2019,Saarland,Recyclable Materials Collected Separately,155.8,158.0
+2019,Saarland,Waste Electrical Appliances,,
+2019,Saarland,Other Waste,0.4,0.0
+2019,Saxony,Household And Bulky Waste,612.4,150.0
+2019,Saxony,Organic Waste Collected Separately,257.7,63.0
+2019,Saxony,Recyclable Materials Collected Separately,506.1,124.0
+2019,Saxony,Waste Electrical Appliances,,
+2019,Saxony,Other Waste,3.6,1.0
+2019,Saxony-Anhalt,Household And Bulky Waste,428.0,195.0
+2019,Saxony-Anhalt,Organic Waste Collected Separately,259.0,118.0
+2019,Saxony-Anhalt,Recyclable Materials Collected Separately,307.5,140.0
+2019,Saxony-Anhalt,Waste Electrical Appliances,,
+2019,Saxony-Anhalt,Other Waste,8.1,4.0
+2019,Schleswig-Holstein,Household And Bulky Waste,660.3,227.0
+2019,Schleswig-Holstein,Organic Waste Collected Separately,349.6,120.0
+2019,Schleswig-Holstein,Recyclable Materials Collected Separately,428.9,148.0
+2019,Schleswig-Holstein,Waste Electrical Appliances,,
+2019,Schleswig-Holstein,Other Waste,3.7,1.0
+2019,Thuringia,Household And Bulky Waste,392.3,184.0
+2019,Thuringia,Organic Waste Collected Separately,233.6,110.0
+2019,Thuringia,Recyclable Materials Collected Separately,288.0,135.0
+2019,Thuringia,Waste Electrical Appliances,,
+2019,Thuringia,Other Waste,1.6,1.0
+2019,In Total,Household And Bulky Waste,15551.0,187.0
+2019,In Total,Organic Waste Collected Separately,10168.4,122.0
+2019,In Total,Recyclable Materials Collected Separately,12135.3,146.0
+2019,In Total,Waste Electrical Appliances,,
+2019,In Total,Other Waste,186.2,2.0
+2020,Baden-Württemberg,Household And Bulky Waste,1616.8,146.0
+2020,Baden-Württemberg,Organic Waste Collected Separately,1595.7,144.0
+2020,Baden-Württemberg,Recyclable Materials Collected Separately,1864.9,168.0
+2020,Baden-Württemberg,Waste Electrical Appliances,,
+2020,Baden-Württemberg,Other Waste,9.6,1.0
+2020,Bayern,Household And Bulky Waste,2266.4,172.0
+2020,Bayern,Organic Waste Collected Separately,2026.7,154.0
+2020,Bayern,Recyclable Materials Collected Separately,2151.9,164.0
+2020,Bayern,Waste Electrical Appliances,,
+2020,Bayern,Other Waste,68.5,5.0
+2020,Berlin,Household And Bulky Waste,885.4,242.0
+2020,Berlin,Organic Waste Collected Separately,132.8,36.0
+2020,Berlin,Recyclable Materials Collected Separately,388.8,106.0
+2020,Berlin,Waste Electrical Appliances,,
+2020,Berlin,Other Waste,1.2,0.0
+2020,Brandenburg,Household And Bulky Waste,558.0,220.0
+2020,Brandenburg,Organic Waste Collected Separately,223.1,88.0
+2020,Brandenburg,Recyclable Materials Collected Separately,362.9,143.0
+2020,Brandenburg,Waste Electrical Appliances,,
+2020,Brandenburg,Other Waste,8.8,3.0
+2020,Bremen,Household And Bulky Waste,160.3,236.0
+2020,Bremen,Organic Waste Collected Separately,56.8,84.0
+2020,Bremen,Recyclable Materials Collected Separately,81.7,120.0
+2020,Bremen,Waste Electrical Appliances,,
+2020,Bremen,Other Waste,0.3,0.0
+2020,Hamburg,Household And Bulky Waste,481.8,260.0
+2020,Hamburg,Organic Waste Collected Separately,102.4,55.0
+2020,Hamburg,Recyclable Materials Collected Separately,224.9,121.0
+2020,Hamburg,Waste Electrical Appliances,,
+2020,Hamburg,Other Waste,5.9,3.0
+2020,Hesse,Household And Bulky Waste,1122.0,178.0
+2020,Hesse,Organic Waste Collected Separately,835.2,133.0
+2020,Hesse,Recyclable Materials Collected Separately,864.3,137.0
+2020,Hesse,Waste Electrical Appliances,,
+2020,Hesse,Other Waste,15.2,2.0
+2020,Mecklenburg-Vorpommern,Household And Bulky Waste,379.6,236.0
+2020,Mecklenburg-Vorpommern,Organic Waste Collected Separately,151.7,94.0
+2020,Mecklenburg-Vorpommern,Recyclable Materials Collected Separately,223.2,139.0
+2020,Mecklenburg-Vorpommern,Waste Electrical Appliances,,
+2020,Mecklenburg-Vorpommern,Other Waste,1.0,1.0
+2020,Lower Saxony,Household And Bulky Waste,1561.4,195.0
+2020,Lower Saxony,Organic Waste Collected Separately,1330.0,166.0
+2020,Lower Saxony,Recyclable Materials Collected Separately,1346.0,168.0
+2020,Lower Saxony,Waste Electrical Appliances,,
+2020,Lower Saxony,Other Waste,21.8,3.0
+2020,North Rhine-Westphalia,Household And Bulky Waste,4007.9,224.0
+2020,North Rhine-Westphalia,Organic Waste Collected Separately,2084.3,116.0
+2020,North Rhine-Westphalia,Recyclable Materials Collected Separately,2489.2,139.0
+2020,North Rhine-Westphalia,Waste Electrical Appliances,,
+2020,North Rhine-Westphalia,Other Waste,29.2,2.0
+2020,Rhineland-Palatinate,Household And Bulky Waste,735.3,179.0
+2020,Rhineland-Palatinate,Organic Waste Collected Separately,777.5,190.0
+2020,Rhineland-Palatinate,Recyclable Materials Collected Separately,692.0,169.0
+2020,Rhineland-Palatinate,Waste Electrical Appliances,,
+2020,Rhineland-Palatinate,Other Waste,25.5,6.0
+2020,Saarland,Household And Bulky Waste,194.0,197.0
+2020,Saarland,Organic Waste Collected Separately,124.0,126.0
+2020,Saarland,Recyclable Materials Collected Separately,156.7,159.0
+2020,Saarland,Waste Electrical Appliances,,
+2020,Saarland,Other Waste,0.6,1.0
+2020,Saxony,Household And Bulky Waste,640.1,158.0
+2020,Saxony,Organic Waste Collected Separately,323.7,80.0
+2020,Saxony,Recyclable Materials Collected Separately,734.0,181.0
+2020,Saxony,Waste Electrical Appliances,,
+2020,Saxony,Other Waste,4.3,1.0
+2020,Saxony-Anhalt,Household And Bulky Waste,442.9,203.0
+2020,Saxony-Anhalt,Organic Waste Collected Separately,266.7,122.0
+2020,Saxony-Anhalt,Recyclable Materials Collected Separately,316.1,145.0
+2020,Saxony-Anhalt,Waste Electrical Appliances,,
+2020,Saxony-Anhalt,Other Waste,7.1,3.0
+2020,Schleswig-Holstein,Household And Bulky Waste,679.2,233.0
+2020,Schleswig-Holstein,Organic Waste Collected Separately,357.4,123.0
+2020,Schleswig-Holstein,Recyclable Materials Collected Separately,439.5,151.0
+2020,Schleswig-Holstein,Waste Electrical Appliances,,
+2020,Schleswig-Holstein,Other Waste,3.4,1.0
+2020,Thuringia,Household And Bulky Waste,404.7,191.0
+2020,Thuringia,Organic Waste Collected Separately,246.1,116.0
+2020,Thuringia,Recyclable Materials Collected Separately,297.5,140.0
+2020,Thuringia,Waste Electrical Appliances,,
+2020,Thuringia,Other Waste,1.6,1.0
+2020,In Total,Household And Bulky Waste,16135.8,194.0
+2020,In Total,Organic Waste Collected Separately,10634.2,128.0
+2020,In Total,Recyclable Materials Collected Separately,12633.6,152.0
+2020,In Total,Waste Electrical Appliances,,
+2020,In Total,Other Waste,204.0,2.0
+2021,Baden-Württemberg,Household And Bulky Waste,1601.4,144.0
+2021,Baden-Württemberg,Organic Waste Collected Separately,1679.1,151.0
+2021,Baden-Württemberg,Recyclable Materials Collected Separately,1799.1,162.0
+2021,Baden-Württemberg,Waste Electrical Appliances,,
+2021,Baden-Württemberg,Other Waste,9.7,1.0
+2021,Bayern,Household And Bulky Waste,2264.6,172.0
+2021,Bayern,Organic Waste Collected Separately,2109.0,160.0
+2021,Bayern,Recyclable Materials Collected Separately,2118.9,161.0
+2021,Bayern,Waste Electrical Appliances,,
+2021,Bayern,Other Waste,68.1,5.0
+2021,Berlin,Household And Bulky Waste,878.8,239.0
+2021,Berlin,Organic Waste Collected Separately,139.4,38.0
+2021,Berlin,Recyclable Materials Collected Separately,387.5,105.0
+2021,Berlin,Waste Electrical Appliances,,
+2021,Berlin,Other Waste,1.2,0.0
+2021,Brandenburg,Household And Bulky Waste,555.7,219.0
+2021,Brandenburg,Organic Waste Collected Separately,242.8,96.0
+2021,Brandenburg,Recyclable Materials Collected Separately,364.8,144.0
+2021,Brandenburg,Waste Electrical Appliances,,
+2021,Brandenburg,Other Waste,10.0,4.0
+2021,Bremen,Household And Bulky Waste,158.7,235.0
+2021,Bremen,Organic Waste Collected Separately,59.4,88.0
+2021,Bremen,Recyclable Materials Collected Separately,80.8,119.0
+2021,Bremen,Waste Electrical Appliances,,
+2021,Bremen,Other Waste,0.2,0.0
+2021,Hamburg,Household And Bulky Waste,473.5,255.0
+2021,Hamburg,Organic Waste Collected Separately,103.6,56.0
+2021,Hamburg,Recyclable Materials Collected Separately,215.2,116.0
+2021,Hamburg,Waste Electrical Appliances,,
+2021,Hamburg,Other Waste,5.1,3.0
+2021,Hesse,Household And Bulky Waste,1094.7,174.0
+2021,Hesse,Organic Waste Collected Separately,909.3,144.0
+2021,Hesse,Recyclable Materials Collected Separately,853.8,136.0
+2021,Hesse,Waste Electrical Appliances,,
+2021,Hesse,Other Waste,15.1,2.0
+2021,Mecklenburg-Vorpommern,Household And Bulky Waste,370.5,230.0
+2021,Mecklenburg-Vorpommern,Organic Waste Collected Separately,155.7,97.0
+2021,Mecklenburg-Vorpommern,Recyclable Materials Collected Separately,221.4,137.0
+2021,Mecklenburg-Vorpommern,Waste Electrical Appliances,,
+2021,Mecklenburg-Vorpommern,Other Waste,1.1,1.0
+2021,Lower Saxony,Household And Bulky Waste,1526.1,190.0
+2021,Lower Saxony,Organic Waste Collected Separately,1391.2,173.0
+2021,Lower Saxony,Recyclable Materials Collected Separately,1337.2,167.0
+2021,Lower Saxony,Waste Electrical Appliances,,
+2021,Lower Saxony,Other Waste,21.6,3.0
+2021,North Rhine-Westphalia,Household And Bulky Waste,4138.6,231.0
+2021,North Rhine-Westphalia,Organic Waste Collected Separately,2194.2,122.0
+2021,North Rhine-Westphalia,Recyclable Materials Collected Separately,2448.4,137.0
+2021,North Rhine-Westphalia,Waste Electrical Appliances,,
+2021,North Rhine-Westphalia,Other Waste,31.5,2.0
+2021,Rhineland-Palatinate,Household And Bulky Waste,925.9,225.0
+2021,Rhineland-Palatinate,Organic Waste Collected Separately,786.6,192.0
+2021,Rhineland-Palatinate,Recyclable Materials Collected Separately,682.3,166.0
+2021,Rhineland-Palatinate,Waste Electrical Appliances,,
+2021,Rhineland-Palatinate,Other Waste,99.0,24.0
+2021,Saarland,Household And Bulky Waste,189.2,193.0
+2021,Saarland,Organic Waste Collected Separately,134.7,137.0
+2021,Saarland,Recyclable Materials Collected Separately,158.4,161.0
+2021,Saarland,Waste Electrical Appliances,,
+2021,Saarland,Other Waste,0.8,1.0
+2021,Saxony,Household And Bulky Waste,645.0,160.0
+2021,Saxony,Organic Waste Collected Separately,349.1,86.0
+2021,Saxony,Recyclable Materials Collected Separately,751.6,186.0
+2021,Saxony,Waste Electrical Appliances,,
+2021,Saxony,Other Waste,4.2,1.0
+2021,Saxony-Anhalt,Household And Bulky Waste,438.8,202.0
+2021,Saxony-Anhalt,Organic Waste Collected Separately,275.1,127.0
+2021,Saxony-Anhalt,Recyclable Materials Collected Separately,319.4,147.0
+2021,Saxony-Anhalt,Waste Electrical Appliances,,
+2021,Saxony-Anhalt,Other Waste,2.2,1.0
+2021,Schleswig-Holstein,Household And Bulky Waste,681.1,233.0
+2021,Schleswig-Holstein,Organic Waste Collected Separately,370.0,127.0
+2021,Schleswig-Holstein,Recyclable Materials Collected Separately,433.6,148.0
+2021,Schleswig-Holstein,Waste Electrical Appliances,,
+2021,Schleswig-Holstein,Other Waste,3.6,1.0
+2021,Thuringia,Household And Bulky Waste,400.8,190.0
+2021,Thuringia,Organic Waste Collected Separately,271.2,129.0
+2021,Thuringia,Recyclable Materials Collected Separately,295.0,140.0
+2021,Thuringia,Waste Electrical Appliances,,
+2021,Thuringia,Other Waste,1.4,1.0
+2021,In Total,Household And Bulky Waste,16343.4,196.0
+2021,In Total,Organic Waste Collected Separately,11170.4,134.0
+2021,In Total,Recyclable Materials Collected Separately,12467.4,150.0
+2021,In Total,Waste Electrical Appliances,,
+2021,In Total,Other Waste,274.8,3.0

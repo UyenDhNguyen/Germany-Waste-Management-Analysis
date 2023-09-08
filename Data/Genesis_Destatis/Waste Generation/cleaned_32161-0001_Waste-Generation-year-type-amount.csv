@@ -1,0 +1,2731 @@
+Year,EAV Code,Waste Description,Number Of Companies,Amount Of Waste Generated (1000t)
+2010,EAV-01,waste from the extraction of mineral resources,,
+2010,EAV-010101-U,Waste from mining v. metal-containing mineral resources,3.0,1.7
+2010,EAV-010102-U,Waste from mining v. non-metal Mineral resources,3.0,13.7
+2010,EAV-010304-G,Acid-forming processing residues a. sul. ore,,
+2010,EAV-010305-G,Other processing residues with hazardous substances,,
+2010,EAV-010306-U,Processing residues (without 010304 and 010305),,
+2010,EAV-010307-G,waste from processing metal-bearing mineral resources,,
+2010,EAV-010308-U,Dusty and powdery waste (without 010307),,
+2010,EAV-010309-U,Red mud from aluminum oxide production (oh.010310),,
+2010,EAV-010399-U,processing from metallh. Mineral resources: waste n.e.c.,,
+2010,EAV-010407-G,Waste from further processing non-metal natural resources,3.0,1.0
+2010,EAV-010408-U,Waste from crushed gravel and rock (excluding 010407),16.0,140.4
+2010,EAV-010409-U,sand and clay waste,15.0,15.9
+2010,EAV-010410-U,Dusty and powdery waste (without 010407),18.0,41.4
+2010,EAV-010411-U,Waste from processing v.potash and rock salt (oh.010407),6.0,10.9
+2010,EAV-010412-U,"reprocessing including waste (oh.010407,010411)",,
+2010,EAV-010413-U,Waste from stonemasonry and sawing work (without 010407),23.0,69.8
+2010,EAV-010499-U,processing v. non-metal Soil waste: waste n.e.c.,7.0,0.3
+2010,EAV-010504-U,Muds and waste from freshwater wells,5.0,42.9
+2010,EAV-010505-G,Oily drilling muds and wastes,8.0,72.2
+2010,EAV-010506-G,Drilling mud and other drilling waste with hazardous substances,3.0,3.1
+2010,EAV-010507-U,"Barite-bearing drillings, waste (oh.010505,010506)",,
+2010,EAV-010508-U,"chloride content. Drilling cuttings, waste (oh.010505,010506)",7.0,15.4
+2010,EAV-010599-U,drilling mud and. other construction waste: waste not otherwise specified,,
+2010,EAV-02,"Waste from agriculture, forestry, etc.",,
+2010,EAV-020101-U,"Agriculture, among other things: sludge from washing and cleaning processes.",15.0,16.8
+2010,EAV-020102-U,Agriculture i.a.: Waste from animal tissue,25.0,64.6
+2010,EAV-020103-U,"Agriculture, among other things: waste from plant tissue",88.0,216.7
+2010,EAV-020104-U,Agriculture and others: plastic waste (without packaging),49.0,147.7
+2010,EAV-020106-U,"Animal excretions, liquid manure/manure/stable manure",61.0,70.8
+2010,EAV-020107-U,Waste from forestry,12.0,0.1
+2010,EAV-020108-G,Agricultural chemical waste,25.0,1.7
+2010,EAV-020109-U,Waste v. Chemistry. f.d. Agriculture(oh.020108),5.0,0.6
+2010,EAV-020110-U,"Agriculture, among others: metal waste",30.0,1.2
+2010,EAV-020199-U,Agriculture and others: waste not otherwise specified,14.0,1.2
+2010,EAV-020201-U,Meat and others: sludges from washing and cleaning processes,55.0,29.7
+2010,EAV-020202-U,"Meat, among other things: waste from animal tissue",217.0,450.0
+2010,EAV-020203-U,Meat and others: For consumption/processing. unsuitable substances,293.0,429.5
+2010,EAV-020204-U,Meat and others: sludge (company waste water tank),2174.0,543.4
+2010,EAV-020299-U,"processing of meat, fish, etc.: waste not otherwise specified",60.0,143.1
+2010,EAV-020301-U,"Fruit and others: sludge from washing, cleaning proc. i.a.",50.0,92.0
+2010,EAV-020302-U,Fruit and others: waste from preservatives,,
+2010,EAV-020303-U,Fruit and others: Waste from extraction with solvents,6.0,1.0
+2010,EAV-020304-U,Fruit and others: For consumption/processing. unsuitable substances,346.0,321.0
+2010,EAV-020305-U,"Fruit, among other things: sludge (in-house waste water tank)",63.0,129.7
+2010,EAV-020399-U,"Processing of fruit, vegetables, etc.: waste not otherwise specified",41.0,83.1
+2010,EAV-020401-U,Sugar production: beet soil,16.0,1274.8
+2010,EAV-020402-U,Sugar manufacturer: Not specific. calcium carbonate sludge,4.0,204.1
+2010,EAV-020403-U,Sugar production: sludge (in-house waste water treatment),,
+2010,EAV-020499-U,Sugar production: waste n.e.c.,,
+2010,EAV-020501-U,Milk processing: For consumption/processing. unsuitable tax,79.0,47.4
+2010,EAV-020502-U,Milk processing: sludge (in-house waste water tank),35.0,86.9
+2010,EAV-020599-U,Milk processing: waste n.e.c.,6.0,0.4
+2010,EAV-020601-U,Bakery and confectionery: For consumption/processing. unsuitable St.,231.0,141.4
+2010,EAV-020602-U,"Baked goods, confectionery: waste from preservatives",,
+2010,EAV-020603-U,"Baked goods, confectionery: sludge (own waste water treatment)",66.0,27.9
+2010,EAV-020699-U,Manufacture of baked goods and confectionery: waste not otherwise specified,45.0,21.2
+2010,EAV-020701-U,"Beverages: Waste from laundry, cleaning, etc.",39.0,58.7
+2010,EAV-020702-U,Beverages: Waste from alcohol distillation,9.0,189.9
+2010,EAV-020703-U,Beverages: Waste from chemical treatment,,
+2010,EAV-020704-U,Beverages: For consumption/processing. unsuitable substances,63.0,590.0
+2010,EAV-020705-U,Beverages: sludge (in-house waste water treatment),44.0,59.6
+2010,EAV-020799-U,Manufacture of beverages: waste n.e.c.,32.0,503.2
+2010,EAV-03,"Waste from wood processing, etc.",,
+2010,EAV-030101-U,Woodworking including: bark and cork waste,44.0,678.9
+2010,EAV-030104-G,"Sawdust, shavings, cuttings, wood, chipboard",57.0,22.3
+2010,EAV-030105-U,"Sawdust, chips, cuttings, wood, chipboard. (oh.030104)",856.0,2896.0
+2010,EAV-030199-U,"Wood processing, etc.: waste not otherwise specified",40.0,8.5
+2010,EAV-030201-G,Halogen-free organic wood preservatives,4.0,0.9
+2010,EAV-030202-G,Organochlorine wood preservatives,,
+2010,EAV-030203-G,Organometallic wood preservatives,,
+2010,EAV-030204-G,Inorganic wood preservatives,,
+2010,EAV-030205-G,Other wood preservatives with dangerous substances,6.0,0.0
+2010,EAV-030299-U,wood preservatives n.e.s.,5.0,0.0
+2010,EAV-030301-U,Paper production includes: bark and wood waste,39.0,291.0
+2010,EAV-030302-U,Sulphite sludge (from the recovery of cooking liquor),,
+2010,EAV-030305-U,Deinking sludge from paper recycling,13.0,1027.7
+2010,EAV-030307-U,Mechanically separated waste (paper waste),110.0,792.3
+2010,EAV-030308-U,Waste from sorting v. Paper for recycling,349.0,748.5
+2010,EAV-030309-U,lime sludge waste,9.0,13.6
+2010,EAV-030310-U,"Fiber waste, fiber, filler and coating sludge",135.0,1785.9
+2010,EAV-030311-U,sludge a. operational waste water treatment (oh.030310),39.0,164.4
+2010,EAV-030399-U,"Paper production, among others: waste not otherwise specified",38.0,798.2
+2010,EAV-04,"Waste from the leather, fur and textile industries",,
+2010,EAV-040101-U,Flesh scrapings and skin scraps,3.0,0.0
+2010,EAV-040102-U,Cremated glued leather,6.0,20.2
+2010,EAV-040103-G,"Degreasing waste, solvent-free, non-liquid phase",,
+2010,EAV-040104-U,Chromium-containing tannery broth,,
+2010,EAV-040105-U,Chromium-free tannery broth,,
+2010,EAV-040106-U,Slurries containing chromium,11.0,20.3
+2010,EAV-040107-U,Chrome-free sludges,,
+2010,EAV-040108-U,Chrome waste from tanned leather,38.0,6.2
+2010,EAV-040109-U,Waste from preparation and finishing,15.0,0.3
+2010,EAV-040199-U,Leather and fur industry: waste n.e.c.,14.0,1.7
+2010,EAV-040209-U,"Waste from composite materials (elastomer, etc.)",107.0,41.6
+2010,EAV-040210-U,Organic substances from natural materials (e.g. fats),10.0,3.8
+2010,EAV-040214-G,Waste from the finish with organ. solvent,7.0,0.0
+2010,EAV-040215-U,Waste from the finish (without 040214),11.0,0.6
+2010,EAV-040216-G,Dyes and pigments containing dangerous substances,4.0,0.0
+2010,EAV-040217-U,Dyes and pigments (without 040216),10.0,0.5
+2010,EAV-040219-G,Textile industry: sludge (company wastewater tank),5.0,0.0
+2010,EAV-040220-U,sludge from on-site Sewage treatment (oh.040219),25.0,2.2
+2010,EAV-040221-U,Waste from untreated textile fibers,63.0,13.1
+2010,EAV-040222-U,Waste from processed textile fibres,298.0,42.9
+2010,EAV-040299-U,Textile industry: waste n.e.c.,26.0,2.2
+2010,EAV-05,"Waste from petroleum refining, natural gas purification",,
+2010,EAV-050102-G,Petroleum refining: desalination sludges,,
+2010,EAV-050103-G,Petroleum refining: bottom sludge from tanks,56.0,13.5
+2010,EAV-050104-G,Petroleum refining: Acid alkyl sludges,,
+2010,EAV-050105-G,Petroleum Refining: Oil Spills,,
+2010,EAV-050106-G,Petroleum refining: oil holding.sludges a.operation process.,41.0,13.3
+2010,EAV-050107-G,Petroleum refining: acid tars,,
+2010,EAV-050108-G,Petroleum refining: Other teas,6.0,0.2
+2010,EAV-050109-G,Petroleum refining: sludge (company wastewater tank),11.0,4.7
+2010,EAV-050110-U,Sludge a. operationally appropriate Waste water tank (oh.050109),5.0,4.4
+2010,EAV-050111-G,Petroleum refinery: Removal from pure fuel. with bases,,
+2010,EAV-050112-G,Petroleum refining: Acidic oils,,
+2010,EAV-050113-U,Petroleum refining: sludges from boiler feed water treatment.,,
+2010,EAV-050114-U,Petroleum refining: waste from cooling columns,,
+2010,EAV-050115-G,Petroleum Refining: Used filter clays,17.0,0.6
+2010,EAV-050116-U,Petroleum refining: sulfur h. Waste from oil desulfurization,8.0,0.3
+2010,EAV-050117-U,Petroleum refining: bitumen,,
+2010,EAV-050199-U,Petroleum refining: wastes n.e.c.,,
+2010,EAV-050601-G,Coal pyrolysis: acid tars,,
+2010,EAV-050603-G,Kohlepyrolyse: Andere Teere,37.0,7.3
+2010,EAV-050604-U,Coal pyrolysis: waste from cooling columns,,
+2010,EAV-050699-U,Coal pyrolysis: wastes n.e.c.,3.0,0.0
+2010,EAV-050701-G,"Natural gas cleaning, transport: mercury h. waste",,
+2010,EAV-050702-U,"Natural gas cleaning, transport:Sulphurous waste",9.0,0.6
+2010,EAV-050799-U,"Natural gas purification, transport: waste n.e.c.",,
+2010,EAV-06,Waste from inorganic chemical processes,,
+2010,EAV-060101-G,sulfuric acid and sulphurous acid,194.0,113.5
+2010,EAV-060102-G,hydrochloric acid,51.0,13.5
+2010,EAV-060103-G,Hydrofluoric acid,9.0,0.2
+2010,EAV-060104-G,Phosphoric acid and phosphorous acid,30.0,0.5
+2010,EAV-060105-G,Nitric acid and nitrous acid,35.0,1.5
+2010,EAV-060106-G,Other acids,588.0,10.1
+2010,EAV-060199-U,Acids: wastes n.e.c.,17.0,0.1
+2010,EAV-060201-G,Calciumhydroxid,13.0,0.6
+2010,EAV-060203-G,Ammoniumhydroxid,33.0,6.7
+2010,EAV-060204-G,Sodium and potassium hydroxide,65.0,9.1
+2010,EAV-060205-G,Other Bases,505.0,13.3
+2010,EAV-060299-U,Bases: wastes n.e.c.,16.0,2.3
+2010,EAV-060311-G,Solid salts and solutions containing cyanide,21.0,0.7
+2010,EAV-060313-G,Solid salts and solutions containing heavy metals,115.0,6.4
+2010,EAV-060314-U,Solid salts and solutions (without 060311 and 060313),233.0,157.0
+2010,EAV-060315-G,Metal oxides containing heavy metals,21.0,7.2
+2010,EAV-060316-U,Metal oxides (without 060315),49.0,37.5
+2010,EAV-060399-U,"Salts, salt solutions, metal oxides: wastes n.e.c.",7.0,0.2
+2010,EAV-060403-G,Waste containing arsenic,11.0,0.6
+2010,EAV-060404-G,Waste containing mercury,579.0,4.9
+2010,EAV-060405-G,Waste containing other heavy metals,76.0,43.0
+2010,EAV-060499-U,Waste containing metal n.e.c.,5.0,0.1
+2010,EAV-060502-G,Sludge from on-site wastewater treatment,69.0,48.6
+2010,EAV-060503-U,Sludge from company-owned Waste water tank (oh.060502),135.0,103.2
+2010,EAV-060602-G,Waste containing dangerous sulfides,6.0,0.2
+2010,EAV-060603-U,Waste containing sulfide (without 060602),4.0,0.5
+2010,EAV-060699-U,Sulphur-containing chemicals: wastes n.e.s.,,
+2010,EAV-060701-G,Asbestos-containing waste from electrolysis,,
+2010,EAV-060702-G,Activated carbon from chlorine production,3.0,0.1
+2010,EAV-060703-G,Barium sulfate sludge containing mercury,,
+2010,EAV-060704-G,"Solutions and acids, e.g. contact acid",3.0,0.6
+2010,EAV-060799-U,Halogens: wastes not otherwise specified,5.0,0.1
+2010,EAV-060802-G,Hazardous waste containing chlorosilanes,3.0,2.3
+2010,EAV-060899-U,"Silicon, silicon compounds: wastes not otherwise specified",19.0,18.2
+2010,EAV-060902-U,Phosphorous slag,,
+2010,EAV-060903-G,Calcium-based reaction wastes,,
+2010,EAV-060904-U,Calcium-based reaction waste (without 060903),,
+2010,EAV-060999-U,Chemicals containing phosphorus: wastes not otherwise specified,,
+2010,EAV-061002-G,Nitrogen.Chemistry.: Waste with hazardous fabrics,6.0,0.4
+2010,EAV-061099-U,Nitrogen-containing chemicals: wastes n.e.c.,,
+2010,EAV-061101-U,Calcium-based reaction wastes a. titanium dioxide,,
+2010,EAV-061199-U,"Inorganic pigments, colourants: waste not otherwise specified",4.0,1.5
+2010,EAV-061301-G,"Inorganic pesticides, wood preservatives",12.0,0.1
+2010,EAV-061302-G,Used activated carbon (without 060702),133.0,2.0
+2010,EAV-061303-U,carbon black,36.0,3.8
+2010,EAV-061304-G,Waste from asbestos processing,4.0,0.0
+2010,EAV-061305-G,Oven and chimney soot,,
+2010,EAV-061399-U,Inorganic chemical processes: wastes not otherwise specified,,
+2010,EAV-07,Waste from organic chemical processes,,
+2010,EAV-070101-G,"Organic basic chemistry: aqueous washing liquid, mother liquors",179.0,34.4
+2010,EAV-070103-G,"Organic basic chemicals: halogen organic solvents, washing bottle",280.0,48.8
+2010,EAV-070104-G,"Org.Basic chemistry: solvents, washing liquids",1003.0,145.0
+2010,EAV-070107-G,"Org.basic chemistry: halogen reaction, distillation residue.",43.0,56.6
+2010,EAV-070108-G,Org.Basic chemistry: reaction and distillation residues.,139.0,101.9
+2010,EAV-070109-G,"Org.Basic chemistry: Halog.filter cake, absorbent mat.",19.0,0.5
+2010,EAV-070110-G,"Org.Grundchemik.: And. Filter cake, absorbent mat.",42.0,4.1
+2010,EAV-070111-G,Org. basic chemistry: sludge (company waste water tank),40.0,8.7
+2010,EAV-070112-U,Sludge from company-owned Waste water tank (oh.070111),15.0,4.1
+2010,EAV-070199-U,Bulk organic chemicals: wastes not otherwise specified,27.0,3.9
+2010,EAV-070201-G,"Plastics: Aqueous washes, mother liquors",63.0,128.6
+2010,EAV-070203-G,"Plastics: halogen organic solvents, washing liquid.",50.0,3.0
+2010,EAV-070204-G,"Plastics: organic. Solvents, washing liquids",168.0,36.2
+2010,EAV-070207-G,"Plastics: Halog. Reaction, distillation residues",43.0,6.3
+2010,EAV-070208-G,Plastics: reaction and distillation residues,791.0,131.0
+2010,EAV-070209-G,"Plastics: Halog. Filter cake, absorbent mat.",10.0,0.2
+2010,EAV-070210-G,"Plastics: And. Filter cake, absorbent materials",44.0,4.8
+2010,EAV-070211-G,Plastics: sludge (company wastewater tank),20.0,1.3
+2010,EAV-070212-U,Sludge from company-owned Sewage treatment (oh.070211),41.0,21.8
+2010,EAV-070213-U,Plastic waste,1299.0,327.9
+2010,EAV-070214-G,Plastics: waste from additives with hazardous substances.,62.0,2.8
+2010,EAV-070215-U,Waste additives (excluding 070214),33.0,2.4
+2010,EAV-070216-G,Plastics: Dangerous. Waste containing silicones,7.0,0.7
+2010,EAV-070217-U,Waste containing silicon (without 070216),18.0,0.6
+2010,EAV-070299-U,"Plastics, fibers, synthetic rubber: waste not otherwise specified",239.0,164.7
+2010,EAV-070301-G,"Organic dyes: aqueous wash liquor, mother liquors",33.0,3.0
+2010,EAV-070303-G,"Organic dyes: Halogenorg. Solvents, detergents",31.0,0.2
+2010,EAV-070304-G,"Organic dyes: solvents, washing liquids",418.0,47.7
+2010,EAV-070307-G,Organic dyes: halogen. Reaction and distillation reset.,8.0,1.1
+2010,EAV-070308-G,Organic dyes: reaction and distillation residues,22.0,4.0
+2010,EAV-070309-G,"Organic dyes: Halog. Filter cake, absorbent mat.",4.0,0.2
+2010,EAV-070310-G,"Organic dyes: Other filter cakes, absorbent mat.",11.0,1.2
+2010,EAV-070311-G,Org. dyes: sludge (in-house waste water tank),3.0,0.2
+2010,EAV-070312-U,sludge from on-site Sewage treatment (oh.070311),12.0,1.8
+2010,EAV-070399-U,"Organic dyes, pigments: wastes not otherwise specified",,
+2010,EAV-070401-G,"Plant protection products: Aqueous wash liquor, mother liquor.",14.0,17.5
+2010,EAV-070403-G,"Plant protection with: halogen organic solvents, washing fl.",10.0,52.1
+2010,EAV-070404-G,"Pesticides: Organ. solvent, washbottle",19.0,30.7
+2010,EAV-070407-G,Plant protection with: halogen reaction and distillation residue,8.0,21.7
+2010,EAV-070408-G,"Pesticides: reaction, distillation residue",7.0,5.1
+2010,EAV-070409-G,"Pesticides: halogen filter cake, absorbent mat",5.0,0.2
+2010,EAV-070410-G,"Pesticides: filter cake, absorbent mat.",8.0,0.5
+2010,EAV-070411-G,Plant protection agent: sludge (own waste water treatment),3.0,0.2
+2010,EAV-070412-U,Sludge from company-owned Sewage treatment (oh.070411),,
+2010,EAV-070413-G,Pesticides: solid waste with dangerous goods,7.0,0.9
+2010,EAV-070499-U,"Pesticides, etc.: Waste not otherwise specified",,
+2010,EAV-070501-G,"Pharmaceuticals: Aqueous detergents, mother liquors",44.0,62.7
+2010,EAV-070503-G,"Pharmaceuticals: halogen organic solvents, wash fl.",59.0,34.6
+2010,EAV-070504-G,"Pharmaceuticals: organ. solvent, washing liquid",91.0,76.2
+2010,EAV-070507-G,"Pharmaceuticals: halogen reaction, distillation residue.",11.0,2.4
+2010,EAV-070508-G,Pharmaceuticals: reaction and distillation residues,42.0,4.2
+2010,EAV-070509-G,"Pharmaceuticals: Halogen filter cake, absorbent mat.",6.0,0.4
+2010,EAV-070510-G,"Pharmaceuticals: filter cakes, absorbent materials",21.0,1.6
+2010,EAV-070511-G,Pharmaceuticals: sludge (in-house waste water treatment),5.0,0.2
+2010,EAV-070512-U,sludge from on-site Sewage treatment (oh.070511),11.0,3.6
+2010,EAV-070513-G,Pharmaceuticals: Solid waste with hazardous fabrics,30.0,1.3
+2010,EAV-070514-U,Solid waste (excluding 070513),41.0,16.1
+2010,EAV-070599-U,Pharmaceuticals: wastes not otherwise specified,74.0,14.9
+2010,EAV-070601-G,"Greases, soaps: aqueous detergents, mother liquors",133.0,42.5
+2010,EAV-070603-G,"Fats, soaps: halogen organic solvents, washing fl.",51.0,0.3
+2010,EAV-070604-G,"Fats, soaps: organ. Solvents, washing liquids.",199.0,9.9
+2010,EAV-070607-G,"Fats, soaps: halogen reaction and distillation residue.",3.0,0.4
+2010,EAV-070608-G,"Fats, soaps: reaction, distillation residues",380.0,34.2
+2010,EAV-070609-G,"Fats, soaps: halogen filter cake, absorbent mat.",4.0,0.3
+2010,EAV-070610-G,"Fats, soaps: filter cakes, absorbent materials",25.0,2.8
+2010,EAV-070611-G,"Fats, soaps: sludge (in-house waste water treatment)",6.0,0.2
+2010,EAV-070612-U,sludge from on-site Waste water tank (oh.070611),28.0,9.2
+2010,EAV-070699-U,"Fats, soaps, lubricants, etc.: waste not otherwise specified",142.0,28.4
+2010,EAV-070701-G,"Fine chemicals: Aqueous detergents, mother liquors",191.0,64.2
+2010,EAV-070703-G,"Fine chemicals: halogen organic solvents, washing fl.",177.0,17.5
+2010,EAV-070704-G,"Fine chemicals: organ. Solvents, washing liquids.",610.0,55.4
+2010,EAV-070707-G,"Fine chemicals: halogen reaction, distillation residue.",34.0,8.0
+2010,EAV-070708-G,Fine chemicals: reaction and distillation residues.,69.0,98.4
+2010,EAV-070709-G,"Fine chemicals: halogen filter cake, absorption mat.",15.0,0.9
+2010,EAV-070710-G,"Fine chemicals: filter cakes, absorbent materials",42.0,2.5
+2010,EAV-070711-G,Fine chemicals: sludge (own waste water treatment),14.0,1.2
+2010,EAV-070712-U,Sludge from company-owned Waste water tank (oh.070711),7.0,1.1
+2010,EAV-070799-U,Fine chemicals: wastes not otherwise specified,14.0,0.8
+2010,EAV-08,"Waste from HZVA, including coatings, adhesives, etc.",,
+2010,EAV-080111-G,Paint and varnish waste with hazardous substances,3927.0,42.7
+2010,EAV-080112-U,Paint and varnish waste (without 080111),851.0,16.9
+2010,EAV-080113-G,Paint and varnish sludge with dangerous substances,688.0,22.3
+2010,EAV-080114-U,Paint and varnish sludge (without 080113),54.0,9.8
+2010,EAV-080115-G,"Paints, varnishes: Aqueous sludges with dangerous St.",198.0,13.6
+2010,EAV-080116-U,Aqueous sludge (without 080115),558.0,42.8
+2010,EAV-080117-G,Waste from paint or varnish removal,358.0,17.7
+2010,EAV-080118-U,Waste from paint or varnish removal (without 080117),170.0,8.5
+2010,EAV-080119-G,Aqueous suspensions containing paints or varnishes,41.0,8.2
+2010,EAV-080120-U,Aqueous suspensions (without 080119),122.0,5.1
+2010,EAV-080121-G,Paint or varnish remover waste,38.0,0.2
+2010,EAV-080199-U,"Paints, varnishes: waste not otherwise specified",20.0,0.3
+2010,EAV-080201-U,Waste coating powder,112.0,2.6
+2010,EAV-080202-U,Aqueous sludge containing ceramic materials,31.0,2.7
+2010,EAV-080203-U,"Aqueous suspensions, ceramic. materials containing",6.0,3.6
+2010,EAV-080299-U,Other coatings: wastes not otherwise specified,,
+2010,EAV-080307-U,Aqueous sludges containing printing inks,18.0,0.3
+2010,EAV-080308-U,"Aqueous liquid wastes, d. Inks included",59.0,6.6
+2010,EAV-080312-G,Waste printing ink containing hazardous substances,340.0,11.3
+2010,EAV-080313-U,Waste printing ink (without 080312),106.0,2.5
+2010,EAV-080314-G,Printing ink sludge with dangerous substances,120.0,4.0
+2010,EAV-080315-U,Printing ink sludge (without 080314),12.0,0.4
+2010,EAV-080316-G,Waste from etching solutions,,
+2010,EAV-080317-G,Waste toner containing hazardous substances,34.0,0.0
+2010,EAV-080318-U,Toner waste (without 080317),288.0,0.7
+2010,EAV-080319-G,Dispersion beer,,
+2010,EAV-080399-U,Printing inks: waste n.e.c.,10.0,0.3
+2010,EAV-080409-G,Adhesive and sealant waste with hazardous St.,1111.0,16.6
+2010,EAV-080410-U,Adhesive and sealant waste (excluding 080409),248.0,13.1
+2010,EAV-080411-G,Adhesive and sealant containing slurries,24.0,0.5
+2010,EAV-080412-U,Adhesive and sealant retention. Sludge(oh.080411),12.0,0.3
+2010,EAV-080413-G,"Adhesives, sealants: Aqueous sludges with dangerous substances.",25.0,0.4
+2010,EAV-080414-U,Aqueous sludge (without 080413),57.0,4.3
+2010,EAV-080415-G,"Adhesive, sealant: Aqueous liquid waste with hazardous st",15.0,0.5
+2010,EAV-080416-U,Aqueous liquid waste (excluding 080415),37.0,15.2
+2010,EAV-080417-G,"Adhesives, sealants: resin oils",,
+2010,EAV-080499-U,"Adhesives, sealants: waste not otherwise specified",14.0,0.8
+2010,EAV-080501-G,isocyanate waste,54.0,0.3
+2010,EAV-09,Waste from the photographic industry,,
+2010,EAV-090101-G,Water-based developers and activator solutions,671.0,6.5
+2010,EAV-090102-G,Offset Printing Plate Developer Solutions,366.0,10.3
+2010,EAV-090103-G,Solvent-based developer solutions,24.0,0.1
+2010,EAV-090104-G,fixing baths,581.0,2.5
+2010,EAV-090105-G,Bleaching solutions and bleach-fix baths,11.0,0.1
+2010,EAV-090106-G,Waste containing silver from containers photographer. waste,4.0,0.0
+2010,EAV-090107-U,Films and photographic papers with silver,268.0,1.6
+2010,EAV-090108-U,Films and photographic papers without silver,138.0,1.5
+2010,EAV-090110-U,Disposable cameras without batteries,,
+2010,EAV-090111-G,Disposable cameras with batteries (160601-160603),,
+2010,EAV-090112-U,Disposable cameras with batteries (without 090111),,
+2010,EAV-090113-G,Waste from silver recovery (excluding 090106),,
+2010,EAV-090199-U,Photographic industry: waste n.e.c.,16.0,0.1
+2010,EAV-10,Waste from thermal processes,,
+2010,EAV-100101-U,"rust and. Boiler ash, slag, boiler stone (oh.100104)",416.0,4610.5
+2010,EAV-100102-U,Filter dust from coal firing,51.0,1093.5
+2010,EAV-100103-U,Filter dust from peat firing and combustion,31.0,54.9
+2010,EAV-100104-G,Filter dust and boiler dust from oil firing,15.0,3.2
+2010,EAV-100105-U,Calcium-based reaction wastes in solid form,40.0,391.2
+2010,EAV-100107-U,Calcium-based reaction wastes (sludges),5.0,3.1
+2010,EAV-100109-G,sulfuric acid,3.0,0.0
+2010,EAV-100113-G,Filter dust from emulsified hydrocarbons,,
+2010,EAV-100114-G,"Rust and boiler ash, slag, boiler dust",11.0,28.9
+2010,EAV-100115-U,"rust and Boiler ash, slag, boiler stone (oh.100114)",30.0,332.8
+2010,EAV-100116-G,Fly ash from waste co-incineration,11.0,19.7
+2010,EAV-100117-U,Filter dust from co-incineration of waste (oh.100116),26.0,863.2
+2010,EAV-100118-G,Waste from exhaust gas treatment with hazardous St.,22.0,7.5
+2010,EAV-100119-U,"Waste a. Exhaust gas treatment (without 100105,100107,100118)",18.0,13.6
+2010,EAV-100120-G,"Power plants, among others: sludge (company wastewater tank)",6.0,1.4
+2010,EAV-100121-U,sludge a. operational waste water treatment (oh.100120),10.0,4.6
+2010,EAV-100122-G,"Power plants, etc.: Aqueous sludge a. Boiler cleaning.",,
+2010,EAV-100123-U,Aqueous sludge from boiler cleaning (oh.100122),8.0,0.5
+2010,EAV-100124-U,"Power plants, among others: sands from fluidized bed combustion",,
+2010,EAV-100125-U,Waste from storage and preparation of fuel.,3.0,4.8
+2010,EAV-100126-U,Waste from cooling water treatment,,
+2010,EAV-100199-U,Power plants and other incinerators: waste not otherwise specified,4.0,0.0
+2010,EAV-100201-U,Iron and steel industry: waste from slag processing,14.0,514.7
+2010,EAV-100202-U,Iron and steel ind.: Unprocessed slag,73.0,1851.9
+2010,EAV-100207-G,Iron and steel industry: Solid waste from exhaust gas treatment.,56.0,345.1
+2010,EAV-100208-U,Waste from exhaust gas treatment (excluding 100207),33.0,425.3
+2010,EAV-100210-U,"Iron, steel ind.: mill scale",81.0,483.8
+2010,EAV-100211-G,"Iron, steel ind.: oil hold. Drain from cooling water tank.",8.0,3.2
+2010,EAV-100212-U,Waste from cooling water treatment (without 100211),,
+2010,EAV-100213-G,"Iron and steel industry: sludges, filters. from exhaust gas tank",8.0,63.3
+2010,EAV-100214-U,muds and. Filter cake from flue gas tank. (oh.100213),6.0,159.8
+2010,EAV-100215-U,Iron and steel ind.: Other sludges and filter cakes,17.0,593.1
+2010,EAV-100299-U,Iron and steel industry: waste n.e.c.,23.0,66.0
+2010,EAV-100302-U,Aluminum metallurgy: anode scrap,5.0,0.6
+2010,EAV-100304-G,Aluminum metallurgy: slags from initial melting,,
+2010,EAV-100305-U,Aluminum metallurgy: alumina waste,12.0,11.3
+2010,EAV-100308-G,Aluminum metallurgy:Salt slags a.Zweitschmel.,7.0,194.3
+2010,EAV-100309-G,Aluminum metallurgy: Black dross a.Zweitsch.,3.0,1.5
+2010,EAV-100315-G,Aluminum Metallurgy: Scum (Flammable),35.0,17.9
+2010,EAV-100316-U,Scum (without 100315),38.0,58.5
+2010,EAV-100317-G,Aluminum Metallurgy:Tarh. Abf. from anode manufacturer.,,
+2010,EAV-100318-U,Waste from anode production (excluding 100317),,
+2010,EAV-100319-G,Aluminum metallurgy: filter dust with dangerous substances,10.0,3.8
+2010,EAV-100320-U,Filter dust (without 100319),3.0,0.0
+2010,EAV-100321-G,Aluminum Metallurgy: Other Particles and Dust,7.0,1.2
+2010,EAV-100322-U,Other particles and dust (without 100321),8.0,3.3
+2010,EAV-100323-G,Aluminum metallurgy: Solid waste a. Exhaust gas treatment,19.0,10.6
+2010,EAV-100324-U,Solid waste from flue gas treatment (excluding 100323),,
+2010,EAV-100325-G,"Aluminum metallurgy: sludge, filter k.a.",5.0,0.2
+2010,EAV-100326-U,sludges and. Filter cake from flue gas tank. (oh.100325),,
+2010,EAV-100327-G,Aluminum Metallurgy: Oil H.Abf. from cooling water tank.,,
+2010,EAV-100328-U,Waste from cooling water treatment (without 100327),,
+2010,EAV-100329-G,Aluminum Metallurgy: Abf.a. tank v.salt slag,,
+2010,EAV-100330-U,Waste from treatment of salt slags (oh.100329),,
+2010,EAV-100399-U,Aluminum metallurgy: wastes not otherwise specified,11.0,1.1
+2010,EAV-100401-G,Lead metallurgy: slags (primary and secondary smelting),3.0,66.9
+2010,EAV-100402-G,"Lead metal: dross, scum (first, second scum)",57.0,4.5
+2010,EAV-100403-G,Bleimetallurgie: Calciumarsenat,,
+2010,EAV-100404-G,Lead metallurgy: filter dust,3.0,0.9
+2010,EAV-100405-G,Lead Metallurgy: Other Particles and Dust,10.0,1.1
+2010,EAV-100406-G,Lead metallurgy: Solid waste from exhaust gas treatment,3.0,0.4
+2010,EAV-100407-G,"Lead Metallurgy: Slurries, Filterk. from exhaust gas tank",,
+2010,EAV-100409-G,Lead Metallurgy: Oilh. Waste from cooling water tank.,,
+2010,EAV-100410-U,Waste from cooling water treatment (excluding 100409),,
+2010,EAV-100499-U,Lead metallurgy: wastes n.e.c.,3.0,0.1
+2010,EAV-100501-U,"Zinc metallurgy: slags (first, second melting)",5.0,2.0
+2010,EAV-100503-G,Zinc Metallurgy: Filter Dust,5.0,0.2
+2010,EAV-100504-U,Zinc Metallurgy: Other Particles and Dust,13.0,2.1
+2010,EAV-100505-G,Zinc Metallurgy: Solid waste from waste gas treatment,6.0,0.1
+2010,EAV-100506-G,"Zinc Metallurgy: Slurries, Filterk. from exhaust gas tank.",,
+2010,EAV-100508-G,Zinc metallurgy: Ölh. Waste from cooling water tank.,,
+2010,EAV-100509-U,Waste from cooling water treatment (excluding 100508),,
+2010,EAV-100510-G,"Zinc metallurgy: dross, scum (flammable)",,
+2010,EAV-100511-U,"Scabies, scum (without 100510)",6.0,0.4
+2010,EAV-100599-U,Zinc metallurgy: wastes not otherwise specified,3.0,0.0
+2010,EAV-100601-U,"Copper metallurgy: slags (first, second melting)",4.0,17.3
+2010,EAV-100602-U,"Copper metal: dross, scum (first, second scum)",8.0,8.7
+2010,EAV-100603-G,Copper metallurgy: filter dust,6.0,1.6
+2010,EAV-100604-U,Copper Metallurgy: Other particles and dust,7.0,2.5
+2010,EAV-100606-G,Copper metallurgy: Solid waste a.Offgas treatment,4.0,2.4
+2010,EAV-100607-G,"Copper metallurgy: slurries, filter c. a. Exhaust gas tank",,
+2010,EAV-100609-G,Copper Metallurgy: Oil H.Abf. from cooling water tank.,,
+2010,EAV-100610-U,Waste from cooling water treatment (excluding 100609),,
+2010,EAV-100699-U,Copper metallurgy: wastes not otherwise specified,3.0,0.3
+2010,EAV-100701-U,"Silver metal etc.: slag (first, second melt)",,
+2010,EAV-100702-U,"Silver metal and others: dross, scum (first and second scum)",4.0,0.0
+2010,EAV-100703-U,Silbermet.a.a.: Solid waste from flue gas treatment,,
+2010,EAV-100704-U,Silver metal etc.: Other particles and dust,9.0,0.2
+2010,EAV-100705-U,"Silver metal, among other things: sludges, filter cakes in exhaust gas containers.",,
+2010,EAV-100707-G,"Silver metal, among other things: oil-containing waste from cooling water tanks.",,
+2010,EAV-100708-U,Waste from cooling water treatment (without 100707),,
+2010,EAV-100799-U,"Silver, gold, platinum metallurgy: wastes not otherwise specified",,
+2010,EAV-100804-U,Nonferrous Metallurgy: Particles and Dust,12.0,1.7
+2010,EAV-100808-G,"Non-ferrous metal: salt slags (first, second melting)",,
+2010,EAV-100809-U,Non-ferrous Metallurgy: Other slags,8.0,32.3
+2010,EAV-100810-G,"Non-ferrous metallurgy: dross, scum (flammable)",3.0,0.1
+2010,EAV-100811-U,"Scabies, scum (without 100810)",60.0,4.8
+2010,EAV-100812-G,non-ferrous metal: tar Waste from anode manufacture.,,
+2010,EAV-100813-U,Carbon-containing waste (excluding 100812),,
+2010,EAV-100814-U,Non-ferrous metallurgy: anode scrap,,
+2010,EAV-100815-G,Non-ferrous metallurgy: filter dust with hazardous level,23.0,3.3
+2010,EAV-100816-U,Filter dust (without 100815),9.0,0.2
+2010,EAV-100817-G,"Non-ferrous metallurgy: sludges, filters k.a.",,
+2010,EAV-100818-U,Sludge and filter cake from exhaust gas treatment (oh.100817),,
+2010,EAV-100819-G,Nonferrous Metallurgy: Oil H.Abf. from cooling water tank.,,
+2010,EAV-100820-U,Waste from cooling water treatment (without 100819),,
+2010,EAV-100899-U,Non-ferrous metallurgy: wastes not otherwise specified,4.0,0.0
+2010,EAV-100903-U,"Iron,steel: furnace slag",113.0,274.5
+2010,EAV-100905-G,"Iron, steel: casting molds and sand before casting",6.0,2.2
+2010,EAV-100906-U,Casting molds and sand before casting (oh.100905),42.0,128.8
+2010,EAV-100907-G,"Iron, steel: casting molds and sand after casting",4.0,2.4
+2010,EAV-100908-U,Casting molds and sand after casting (without 100907),170.0,1587.7
+2010,EAV-100909-G,"Iron, steel: filter dust containing dangerous substances",24.0,5.2
+2010,EAV-100910-U,Filter dust (without 100909),59.0,52.2
+2010,EAV-100911-G,"Iron, steel: Other particles with dangerous fabrics",4.0,0.1
+2010,EAV-100912-U,Other particles (without 100911),3.0,1.8
+2010,EAV-100913-G,"Iron,steel: abf. Binders with dangerous St.",,
+2010,EAV-100914-U,Binding agent waste (excluding 100913),,
+2010,EAV-100915-G,"Iron, steel: Removal of crack-indicating substances",,
+2010,EAV-100916-U,Waste from crack-indicating substances (oh.100915),,
+2010,EAV-100999-U,Casting of iron and steel: wastes n.e.c.,4.0,1.6
+2010,EAV-101003-U,Non-ferrous metals: furnace slag,30.0,8.0
+2010,EAV-101005-G,"Non-ferrous metals: casting moulds, casting sands before casting",,
+2010,EAV-101006-U,Casting molds and sand before casting (without 101005),13.0,11.3
+2010,EAV-101007-G,"Non-ferrous metal: casting molds, sand after casting",3.0,2.0
+2010,EAV-101008-U,Casting molds and sands after casting (without 101007),66.0,164.5
+2010,EAV-101009-G,Non-ferrous metals: filter dust with hazardous substances,7.0,2.5
+2010,EAV-101010-U,Filter dust (without 101009),17.0,2.3
+2010,EAV-101011-G,Non-ferrous metals: And. particles with dangerous fabrics,,
+2010,EAV-101012-U,Other particles (without 101011),4.0,0.4
+2010,EAV-101013-G,Non-ferrous metal: Abf.v. Binders with dangerous substances,,
+2010,EAV-101014-U,Waste binders (excluding 101013),,
+2010,EAV-101015-G,Non-ferrous metals: waste from crack-indicating subst.,,
+2010,EAV-101016-U,Waste from crack-indicating substances (oh.101015),,
+2010,EAV-101099-U,Casting of non-ferrous metals: wastes n.e.c.,9.0,0.1
+2010,EAV-101103-U,fiberglass waste,48.0,25.7
+2010,EAV-101105-U,Glass production: particles and dust,27.0,4.9
+2010,EAV-101109-G,Mixture waste with hazardous fabrics v. d. Melt,10.0,0.4
+2010,EAV-101110-U,Batch waste before melting (without 101109),24.0,4.6
+2010,EAV-101111-G,Glass waste in small particles and glass dust,13.0,1.3
+2010,EAV-101112-U,Glass waste (without 101111),229.0,214.3
+2010,EAV-101113-G,Glass polishing and glass grinding sludge,30.0,0.9
+2010,EAV-101114-U,Glass polishing and glass grinding slurry (without 101113),67.0,4.7
+2010,EAV-101115-G,Glass production: Solid waste from waste gas treatment,32.0,3.1
+2010,EAV-101116-U,Solid waste from flue gas treatment (excluding 101115),11.0,0.6
+2010,EAV-101117-G,"Glass production: sludges, filters. from exhaust gas tank",,
+2010,EAV-101118-U,Sludge and filter cake from exhaust gas treatment (oh.101117),,
+2010,EAV-101119-G,Glass manufacturer: Solid Abf. a. company-owned wastewater tank,7.0,0.4
+2010,EAV-101120-U,Solid waste a. operational. Waste water tank (oh.101119),11.0,1.2
+2010,EAV-101199-U,Glass production: waste n.e.c.,7.0,9.2
+2010,EAV-101201-U,Ceramic products: raw mixtures before firing,48.0,39.1
+2010,EAV-101203-U,Ceramic products: particles and dust,67.0,15.9
+2010,EAV-101205-U,"Ceramic products: slurries, filter c. a. Exhaust gas tank",,
+2010,EAV-101206-U,Ceramic Products: Discarded Forms,41.0,11.0
+2010,EAV-101208-U,"Waste from ceramic products, bricks, etc.",116.0,103.1
+2010,EAV-101209-G,Ceramic products: Solid waste a. Exhaust gas treatment,13.0,2.1
+2010,EAV-101210-U,Solid waste from exhaust gas treatment (oh. 101209),56.0,10.1
+2010,EAV-101211-G,Ceramic products: Glaze waste with heavy metals,5.0,0.5
+2010,EAV-101212-U,Glaze waste (without 101211),7.0,1.1
+2010,EAV-101213-U,Ceramic products: sludge (in-house waste water treatment),44.0,20.7
+2010,EAV-101299-U,"Ceramic products, ceramic building materials: waste not otherwise specified",18.0,2.0
+2010,EAV-101301-U,Cement etc.: Waste from raw batch before burning,,
+2010,EAV-101304-U,"Waste from calcination, hydration from quicklime",30.0,13.5
+2010,EAV-101306-U,"Cement and others: particles, dust (except 101312,101313)",42.0,134.2
+2010,EAV-101307-U,"Cement etc.: sludge, filter cake from waste gas treatment.",,
+2010,EAV-101309-G,Asbestos-containing waste a. Manufacture. v. asbestos cement,,
+2010,EAV-101310-U,Waste from manufacturing v. Asbestos cement (oh.101309),,
+2010,EAV-101311-U,"Composite waste (excluding 101309, 101310)",33.0,44.0
+2010,EAV-101312-G,Cement etc.: Solid waste from flue gas treatment,,
+2010,EAV-101313-U,Solid waste from exhaust gas treatment (oh. 101312),4.0,13.8
+2010,EAV-101314-U,Concrete waste and concrete slurry,111.0,215.6
+2010,EAV-101399-U,"Cement, gypsum, quicklime: waste n.e.s.",8.0,1.6
+2010,EAV-101401-G,Crematoriums:Mercury h. Waste from gas cleaning,7.0,0.0
+2010,EAV-11,Waste from chemical surface treatment,,
+2010,EAV-110105-G,Surface treatment: Acid pickling solutions,630.0,165.0
+2010,EAV-110106-G,Surface treat.: acids n.e.c.,203.0,11.4
+2010,EAV-110107-G,Surface treatment: Alkaline pickling solutions,608.0,40.1
+2010,EAV-110108-G,Surface treatment: phosphating sludge,210.0,7.9
+2010,EAV-110109-G,"Surface treatment: sludges, filter cakes w.f.st.",677.0,53.4
+2010,EAV-110110-U,Sludge and filter cake (without 110109),73.0,39.6
+2010,EAV-110111-G,Surface treatment: Aqueous flushing liquid. with tax,656.0,30.2
+2010,EAV-110112-U,Aqueous rinsing liquids (without 110111),54.0,2.9
+2010,EAV-110113-G,Surface treatment: Waste from degreasing with,103.0,5.2
+2010,EAV-110114-U,Waste from degreasing (excluding 110113),14.0,0.2
+2010,EAV-110115-G,"Surface treatment: eluates, sludges a. Membrane system",5.0,0.3
+2010,EAV-110116-G,Surface treatment: ion exchange resins,22.0,0.1
+2010,EAV-110198-G,Surface treatment: Other waste with hazardous St.,187.0,7.5
+2010,EAV-110199-U,Surface treatment: waste not otherwise specified,10.0,14.4
+2010,EAV-110202-G,Sludge from zinc hydrometallurgy,7.0,175.1
+2010,EAV-110203-U,Waste from the production of anodes,,
+2010,EAV-110205-G,Waste from copper hydrometallurgy processes,3.0,0.2
+2010,EAV-110206-U,Waste from process. d.Copper Hydromet.(oh.110205),3.0,0.1
+2010,EAV-110207-G,Non-ferrous hydrometallurgy: Other Abf. with dangerous tax,,
+2010,EAV-110299-U,Non-ferrous hydrometallurgy: wastes not otherwise specified,4.0,16.7
+2010,EAV-110301-G,"Slurries, solids from hardening processes: Cyanidh. waste",41.0,0.3
+2010,EAV-110302-G,"Sludges, solids from hardening processes: Other wastes",73.0,0.9
+2010,EAV-110501-U,Galvanization: Heart zinc,20.0,5.1
+2010,EAV-110502-U,Galvanizing: zinc ash,22.0,2.8
+2010,EAV-110503-G,Galvanizing: Solid waste from exhaust gas treatment,5.0,0.1
+2010,EAV-110504-G,Galvanizing: Used fluxes,3.0,0.2
+2010,EAV-110599-U,Galvanizing: waste n.e.c.,,
+2010,EAV-12,Waste from mechanical shaping processes,,
+2010,EAV-120101-U,Iron filings and turnings,2583.0,1462.6
+2010,EAV-120102-U,iron dust and particles,2313.0,2477.0
+2010,EAV-120103-U,Non-ferrous metal filings and turnings,1785.0,293.7
+2010,EAV-120104-U,Non-ferrous metal dust and particles,1221.0,262.2
+2010,EAV-120105-U,Plastic chips and turnings,588.0,63.5
+2010,EAV-120106-G,Halogen-containing mineral oil-based machining oils,33.0,0.3
+2010,EAV-120107-G,Halogen-free processing oils based on mineral oil,151.0,23.5
+2010,EAV-120108-G,Halogen-containing processing emulsions and. -solutions,51.0,1.8
+2010,EAV-120109-G,Halogen-free processing emulsions and solutions,4811.0,739.1
+2010,EAV-120110-G,Synthetic machining oils,55.0,1.8
+2010,EAV-120112-G,Used waxes and fats,650.0,8.7
+2010,EAV-120113-U,Welding waste,88.0,23.4
+2010,EAV-120114-G,Processing sludge with dangerous substances,360.0,14.0
+2010,EAV-120115-U,Processing sludge (without 120114),128.0,16.1
+2010,EAV-120116-G,Abrasive waste (with hazardous substances),153.0,10.2
+2010,EAV-120117-U,Abrasive waste (without 120116),722.0,55.1
+2010,EAV-120118-G,"Oily metal sludge (grinding sludge, etc.)",655.0,53.7
+2010,EAV-120119-G,Easily biodegradable machining oils,4.0,0.0
+2010,EAV-120120-G,Used honing and abrasives containing hazardous substances,91.0,6.1
+2010,EAV-120121-U,Used honing and grinding materials (without 120120),492.0,13.2
+2010,EAV-120199-U,"surface treatment Metals, plastics: waste not otherwise specified",208.0,106.1
+2010,EAV-120301-G,Aqueous washing liquids,416.0,19.8
+2010,EAV-120302-G,Vapor degreasing waste,19.0,2.0
+2010,EAV-13,waste oil and liquid fuel waste,,
+2010,EAV-130101-G,Hydraulic oils containing PCBs,12.0,0.0
+2010,EAV-130104-G,Hydraulic oils: Chlorinated emulsions,4.0,0.3
+2010,EAV-130105-G,Hydraulic oils: Non-chlorinated emulsions,174.0,57.7
+2010,EAV-130109-G,Chlorinated hydraulic oils based on mineral oil,4.0,0.0
+2010,EAV-130110-G,"Mineral oil-based, non-chlorinated hydraulic oils",322.0,3.2
+2010,EAV-130111-G,Synthetic hydraulic oils,28.0,0.6
+2010,EAV-130112-G,Easily biodegradable hydraulic oils,15.0,0.1
+2010,EAV-130113-G,Other hydraulic oils,58.0,0.6
+2010,EAV-130204-G,"Chlorinated engine, gear and lubricating oils",150.0,0.9
+2010,EAV-130205-G,"Non-chlorinated machines, gears and. lubricating oils",6294.0,96.0
+2010,EAV-130206-G,"Synthetic machine, gear and lubricating oils",103.0,0.4
+2010,EAV-130207-G,Easily biodegradable. Machine and gear oils,13.0,0.0
+2010,EAV-130208-G,"Other machine, gear and lubricating oils",609.0,6.5
+2010,EAV-130301-G,Insulating and heat transfer oils with PCB,56.0,0.7
+2010,EAV-130306-G,Chlorine. Insulating and heat transfer oils (oh.130301),,
+2010,EAV-130307-G,Non-chlorinated insulating and heat transfer oils,190.0,6.0
+2010,EAV-130308-G,Synthetic insulating and heat transfer oils,29.0,0.8
+2010,EAV-130309-G,biologist easily degradable. Insulation and Heat transfer oils,,
+2010,EAV-130310-G,Other insulating and heat transfer oils,38.0,0.2
+2010,EAV-130401-G,Bilge oils from inland shipping,,
+2010,EAV-130402-G,Bilge oils from pier drains,,
+2010,EAV-130403-G,Bilge oils from other shipping,23.0,5.4
+2010,EAV-130501-G,Solid waste from grit chambers and oil/water separators,311.0,14.5
+2010,EAV-130502-G,Sludges from oil/water separators,1982.0,56.3
+2010,EAV-130503-G,sludge from manholes,555.0,21.9
+2010,EAV-130506-G,Oils from oil/water separators,67.0,1.9
+2010,EAV-130507-G,Oily water from oil/water separators,374.0,16.4
+2010,EAV-130508-G,"Waste mixtures from sand traps, oil/water separation.",935.0,23.2
+2010,EAV-130701-G,Heating oil and diesel,136.0,1.0
+2010,EAV-130702-G,Petrol,65.0,0.9
+2010,EAV-130703-G,Other fuels (including mixtures),218.0,7.1
+2010,EAV-130801-G,Oil waste: sludges or emulsions from desalinators,,
+2010,EAV-130802-G,Waste oil: Other emulsions,441.0,14.0
+2010,EAV-130899-G,Oil waste: wastes not otherwise specified,386.0,14.6
+2010,EAV-14,"Waste from organic solvents, coolants",,
+2010,EAV-140601-G,"Chlorofluorocarbons, HCFCs, HFCs",81.0,0.1
+2010,EAV-140602-G,Other halogenated solvents and solvent mixtures.,469.0,3.8
+2010,EAV-140603-G,Other solvents and solvent mixtures,3358.0,45.9
+2010,EAV-140604-G,"Sludges, solid waste (halogenated solvents)",30.0,0.6
+2010,EAV-140605-G,"Sludge, solid waste (other solvents)",88.0,2.1
+2010,EAV-15,"Packaging waste, absorbents, wipes",,
+2010,EAV-150101-U,Paper and cardboard packaging,12275.0,1656.2
+2010,EAV-150102-U,Plastic packaging,8911.0,424.4
+2010,EAV-150103-U,Wooden packaging,6122.0,348.3
+2010,EAV-150104-U,packaging of metal,1035.0,48.4
+2010,EAV-150105-U,Composite packaging,417.0,68.7
+2010,EAV-15010600-U,Mixed packaging cannot be differentiated,6159.0,610.6
+2010,EAV-15010601-U,Lightweight packaging (LVP),1535.0,34.9
+2010,EAV-15010602-U,Mixed recyclables plus lightweight packaging,,
+2010,EAV-150107-U,Glass packaging,947.0,118.4
+2010,EAV-150109-U,Packaging made from textiles,30.0,0.9
+2010,EAV-150110-G,Packaging with residues of dangerous substances,3919.0,36.1
+2010,EAV-150111-G,packaging of metal,122.0,0.3
+2010,EAV-150202-G,"Absorbent and filter materials, wipes",8287.0,118.6
+2010,EAV-150203-U,Absorption and filter materials (without 150202),545.0,25.0
+2010,EAV-16,Waste not included elsewhere in the inventory,,
+2010,EAV-160103-U,scrap tires,685.0,60.9
+2010,EAV-160104-G,Old vehicles,26.0,12.8
+2010,EAV-160106-U,End-of-life vehicles without dangerous components,16.0,0.7
+2010,EAV-160107-G,Old vehicles: oil filters,434.0,1.4
+2010,EAV-160108-G,Old vehicles: components containing mercury,5.0,0.0
+2010,EAV-160109-G,End-of-life vehicles: components containing PCBs,6.0,0.1
+2010,EAV-160110-G,End-of-life vehicles: Explosive components (e.g. from airbags),38.0,0.4
+2010,EAV-160111-G,Old vehicles: brake pads containing asbestos,3.0,0.0
+2010,EAV-160112-U,Brake pads (without 160111),30.0,2.7
+2010,EAV-160113-G,End-of-life vehicles: brake fluids,173.0,0.7
+2010,EAV-160114-G,End-of-life vehicles: antifreeze is dangerous. fabrics,488.0,3.6
+2010,EAV-160115-U,Antifreeze (without 160114),24.0,0.1
+2010,EAV-160116-U,End-of-life vehicles: LPG containers,,
+2010,EAV-160117-U,End-of-life vehicles: ferrous metals,294.0,217.0
+2010,EAV-160118-U,End-of-life vehicles: non-ferrous metals,137.0,17.6
+2010,EAV-160119-U,Old vehicles: plastics,182.0,9.5
+2010,EAV-160120-U,End-of-life vehicles: glass,122.0,7.9
+2010,EAV-16012100-G,"Dangerous Components (without 160107-160111,160113-160114)",25.0,1.1
+2010,EAV-16012101-G,"Dangerous metallic components (without 160107-11,160113-14)",7.0,0.6
+2010,EAV-16012102-G,"Dangerous n.metal.components(oh.160107-11,160113-14)",,
+2010,EAV-16012200-U,Components not differentiable,16.0,3.2
+2010,EAV-16012201-U,Metallic components,32.0,0.7
+2010,EAV-16012202-U,Non-metallic components,6.0,0.1
+2010,EAV-160199-U,End-of-life vehicles: waste not otherwise specified,31.0,2.4
+2010,EAV-160209-G,transformers and Capacitors containing PCB.,277.0,0.5
+2010,EAV-160210-G,Used devices containing PCB (oh.160209),37.0,0.1
+2010,EAV-160211-G,used devices,725.0,1.1
+2010,EAV-160212-G,Used equipment containing free asbestos,50.0,0.3
+2010,EAV-160213-G,Used devices with dangerous Components (oh.160209-12),2305.0,23.8
+2010,EAV-160214-U,Used devices (without 160209 to 160213),1663.0,21.3
+2010,EAV-16021500-G,Hazardous components removed from used equipment,55.0,0.3
+2010,EAV-16021501-G,Waste containing mercury,10.0,0.0
+2010,EAV-16021502-G,circuit boards,57.0,0.4
+2010,EAV-16021503-G,toner cartridges,251.0,0.3
+2010,EAV-16021504-G,Plastics with brominated flame retardants,,
+2010,EAV-16021505-G,Components containing asbestos,4.0,0.1
+2010,EAV-16021506-G,cathode ray tubes,6.0,0.0
+2010,EAV-16021507-G,Gas discharge lamps,14.0,0.0
+2010,EAV-16021508-G,liquid crystal displays,,
+2010,EAV-16021509-G,External electrical lines,43.0,0.2
+2010,EAV-16021510-G,Components containing refractory ceramic fibers,,
+2010,EAV-16021511-G,Electrolytic - Capacitors,3.0,0.0
+2010,EAV-16021512-G,Photoconductor drums containing cadmium or selenium,,
+2010,EAV-16021600-U,Removed from used devices. Components (oh.160215),283.0,6.2
+2010,EAV-16021601-U,External electrical lines (including cables),181.0,0.7
+2010,EAV-160303-G,Bad batches: Inorganic waste with hazardous substances,44.0,1.3
+2010,EAV-160304-U,Inorganic waste (without 160303),86.0,5.4
+2010,EAV-160305-G,Bad batches: Organic waste with hazardous substances,94.0,3.1
+2010,EAV-160306-U,Organic waste (without 160305),116.0,14.5
+2010,EAV-160401-G,Ammunition waste,,
+2010,EAV-160402-G,Fireworks waste,4.0,0.1
+2010,EAV-160403-G,Other explosive waste,14.0,0.2
+2010,EAV-160504-G,Gases containing dangerous substances in pressure vessels.,1013.0,2.0
+2010,EAV-160505-U,Gases in pressure vessels (without 160504),46.0,0.0
+2010,EAV-160506-G,Laboratory chemicals from hazardous substances,898.0,2.9
+2010,EAV-160507-G,Used inorganic chemicals,1361.0,3.8
+2010,EAV-160508-G,Used organic chemicals,1262.0,4.7
+2010,EAV-160509-U,Used chemicals (excluding 160506-160508),116.0,0.6
+2010,EAV-160601-G,Lead batteries,1912.0,31.1
+2010,EAV-160602-G,Ni~Cd-Battery Garden,240.0,0.2
+2010,EAV-160603-G,Batteries containing mercury,14.0,0.1
+2010,EAV-160604-U,Alkaline batteries (except 160603),491.0,0.3
+2010,EAV-160605-U,Other batteries and accumulators,176.0,0.4
+2010,EAV-160606-G,"Separately collected electrolytes a. batteries, rechargeable battery.",26.0,1.4
+2010,EAV-160708-G,"Tanks, barrels: waste containing oil",877.0,54.9
+2010,EAV-160709-G,"Tanks, barrels: waste with other hazardous St.",113.0,10.1
+2010,EAV-160799-U,"Tanks, barrels: waste n.o.s.",13.0,2.2
+2010,EAV-160801-U,Used catalytic converters (without 160807),27.0,1.3
+2010,EAV-160802-G,Used catalyst. with dangerous transition metals,72.0,9.4
+2010,EAV-160803-U,Used catalysts with transition metals,19.0,1.1
+2010,EAV-160804-U,Used catalysts v. Cracking process (oh. 160807),10.0,3.8
+2010,EAV-160805-G,Used catalysts with phosphoric acid,4.0,0.2
+2010,EAV-160806-G,Used fluids (catalysts),7.0,0.8
+2010,EAV-160807-G,Used catalysts with hazardous substances,64.0,5.3
+2010,EAV-160901-G,"Permanganate, z.B. Potassium permanganate",,
+2010,EAV-160902-G,"Chromates (potassium chromate, potassium or sodium dichromate)",3.0,0.0
+2010,EAV-160903-G,"Peroxides, e.g. hydrogen peroxide",11.0,0.0
+2010,EAV-160904-G,Oxidizing substances n.e.c.,,
+2010,EAV-161001-G,Aqueous liquid waste containing hazardous substances,108.0,10.1
+2010,EAV-161002-U,Aqueous liquid waste (excluding 161001),144.0,35.0
+2010,EAV-161003-G,Aqueous concentrates with dangerous substances,76.0,7.0
+2010,EAV-161004-U,Aqueous concentrates (without 161003),13.0,13.4
+2010,EAV-161101-G,Metallurgical refractory materials. processes,17.0,4.8
+2010,EAV-161102-U,Refractory mat. from metallurg. percent (oh.161101),35.0,5.4
+2010,EAV-161103-G,Other linings and fireproof materials,40.0,9.9
+2010,EAV-161104-U,Refractory mat. from metallurg. percent (oh.161103),230.0,288.1
+2010,EAV-161105-G,Nonmetallurgical refractory materials. percent,55.0,13.3
+2010,EAV-161106-U,Refractory material a. non-metallurgical process (oh.161105),121.0,27.8
+2010,EAV-17,construction and demolition waste,,
+2010,EAV-170101-U,Concrete,884.0,909.7
+2010,EAV-170102-U,brick,350.0,47.5
+2010,EAV-170103-U,tiles and ceramics,270.0,17.6
+2010,EAV-170106-G,"Mixtures of o. separate fractions v. Concrete, etc.",299.0,125.1
+2010,EAV-170107-U,"Mixtures of concrete, bricks, etc. (oh.170106)",2269.0,819.7
+2010,EAV-170201-U,Holz,3471.0,192.2
+2010,EAV-170202-U,Glas,549.0,20.2
+2010,EAV-170203-U,plastic,669.0,21.6
+2010,EAV-170204-G,"Glass, plastic and wood containing dangerous substances",877.0,160.4
+2010,EAV-170301-G,Bitumen mixtures containing coal tar,230.0,100.7
+2010,EAV-170302-U,Bitumen mixtures (without 170301),376.0,161.9
+2010,EAV-170303-G,Coal tar and tarry products,220.0,9.4
+2010,EAV-170401-U,"copper, bronze, brass",774.0,19.6
+2010,EAV-170402-U,Aluminium,1329.0,56.0
+2010,EAV-170403-U,Nappy,66.0,0.2
+2010,EAV-170404-U,Zink,57.0,8.2
+2010,EAV-170405-U,iron and Steel,2991.0,1268.1
+2010,EAV-170406-U,Zinn,40.0,0.4
+2010,EAV-170407-U,mixed metals,1558.0,347.4
+2010,EAV-170409-G,Metal waste with hazardous substances,96.0,17.1
+2010,EAV-170410-G,"Cables hazardous to oil, coal tar, etc. Substances included",125.0,2.0
+2010,EAV-170411-U,Cable (without 170410),1396.0,186.7
+2010,EAV-170503-G,Soil and stones containing hazardous substances,335.0,535.8
+2010,EAV-170504-U,soil and stones (without 170503),688.0,2376.5
+2010,EAV-170505-G,Dredged material containing dangerous substances,8.0,0.7
+2010,EAV-170506-U,dredged material (without 170505),29.0,403.6
+2010,EAV-170507-G,Track ballast containing dangerous substances,21.0,416.2
+2010,EAV-170508-U,Track ballast (without 170507),45.0,2147.9
+2010,EAV-170601-G,Insulation material containing asbestos,47.0,0.5
+2010,EAV-170603-G,other insulation material,1162.0,17.9
+2010,EAV-170604-U,Insulating material (without 170601 and 170603),486.0,20.1
+2010,EAV-170605-G,Building materials containing asbestos,717.0,17.8
+2010,EAV-170801-G,Contaminated gypsum-based building materials,5.0,0.1
+2010,EAV-170802-U,Gypsum-based building materials (excluding 170801),449.0,55.6
+2010,EAV-170901-G,Construction and demolition waste containing mercury,9.0,0.4
+2010,EAV-170902-G,Construction and demolition waste containing PCBs,29.0,0.6
+2010,EAV-170903-G,Other construction and demolition waste,94.0,10.2
+2010,EAV-170904-U,Mixed construction and demolition work. (oh.170901-170903),2971.0,166.2
+2010,EAV-18,Waste from medical care,,
+2010,EAV-180101-U,Pointed or sharp objects (except 180103),92.0,1.2
+2010,EAV-180102-U,"Body parts, organs, blood supplies (except 180103)",518.0,2.9
+2010,EAV-180103-G,Waste (particular requirements from an infection prevention perspective),724.0,11.5
+2010,EAV-180104-U,"Wound, plaster bandages, laundry, disposable clothing, diapers",613.0,222.1
+2010,EAV-180106-G,Chemicals composed of hazardous substances,52.0,0.3
+2010,EAV-180107-U,Chemicals (excluding 180106),22.0,0.7
+2010,EAV-180108-G,cytotoxic. and cytostatic drugs for humans,493.0,2.7
+2010,EAV-180109-U,Medicines (without 180108),152.0,7.0
+2010,EAV-180110-G,Dental amalgam waste,12.0,0.0
+2010,EAV-180201-U,Pointed or sharp objects (without 180202),6.0,0.0
+2010,EAV-180202-G,Waste (particular requirements from an infection prevention perspective),43.0,0.5
+2010,EAV-180203-U,Waste (without special requirements from an infection prevention point of view),44.0,1.9
+2010,EAV-180205-G,Chemicals consisting of dangerous substances,5.0,0.0
+2010,EAV-180206-U,Chemicals (excluding 180205),5.0,0.0
+2010,EAV-180207-G,Cytotoxic and. cytostatic drugs for animals,3.0,0.0
+2010,EAV-180208-U,Medicines (without 180207),7.0,0.0
+2010,EAV-19,Waste from waste treatment plants e.g.,,
+2010,EAV-190102-U,"Combustion, pyrolysis: iron parts a. rust and. boiler ash",4.0,1.9
+2010,EAV-190105-G,"Combustion, pyrolysis: filter cake from exhaust gas treatment.",8.0,11.9
+2010,EAV-190106-G,"Combustion, pyrolysis: Aqueous liquid waste from exhaust gas tank.",8.0,15.2
+2010,EAV-190107-G,"Combustion, pyrolysis: solid waste a. Exhaust gas treatment",17.0,26.0
+2010,EAV-190110-G,"Combustion, pyrolysis: Used activated carbon a. flue gas treatment",5.0,0.0
+2010,EAV-190111-G,"Combustion, pyrolysis: rust, boiler ash, slag",22.0,56.9
+2010,EAV-190112-U,Grate and boiler ash as well as slag (oh.190111),48.0,363.7
+2010,EAV-190113-G,"Combustion, pyrolysis: filter dust with dangerous St.",18.0,29.8
+2010,EAV-190114-U,Filter dust (without 190113),5.0,26.2
+2010,EAV-190115-G,"Combustion, pyrolysis: boiler dust is dangerous. substances",3.0,1.5
+2010,EAV-190116-U,Boiler dust (without 190115),,
+2010,EAV-190117-G,Pyrolysis waste containing dangerous substances,4.0,0.2
+2010,EAV-190118-U,Pyrolysis waste (without 190117),3.0,0.1
+2010,EAV-190119-U,"Combustion, pyrolysis: sands from fluidized bed combustion",,
+2010,EAV-190199-U,"Incineration, pyrolysis of waste: wastes not otherwise specified",,
+2010,EAV-190203-U,Premixed waste from non-hazardous waste,4.0,0.2
+2010,EAV-190204-G,Premixed waste with at least one hazardous waste,7.0,0.0
+2010,EAV-190205-G,Sludge from physical and chemical treatment,243.0,32.4
+2010,EAV-190206-U,sludge a. physical-chemical treatment (oh.190205),32.0,1.4
+2010,EAV-190207-G,Oil and concentrates from separation processes,42.0,8.5
+2010,EAV-190208-G,Liquid combustible waste with hazardous substances,,
+2010,EAV-190209-G,Solid combustible waste containing hazardous substances,,
+2010,EAV-190210-U,Combustible waste (excluding 190208 and 190209),3.0,0.1
+2010,EAV-190211-G,Other wastes containing dangerous substances,22.0,0.3
+2010,EAV-19029900-U,physics.-chem. Treatment of waste: waste not otherwise specified,,
+2010,EAV-19029950-U,Products resulting from waste treatment,,
+2010,EAV-190304-G,as dangerous classified partially stabilized Abf.,,
+2010,EAV-190305-U,Stabilized waste (without 190304),4.0,1.9
+2010,EAV-190306-G,Solidified waste classified as hazardous,,
+2010,EAV-190307-U,Solidified waste (excluding 190306),,
+2010,EAV-190401-U,Vitrified waste,,
+2010,EAV-190402-G,Filter dust and other waste from exhaust gas treatment,,
+2010,EAV-190403-G,Non-vitrified solid phase,,
+2010,EAV-190404-U,Aqueous liquid waste from tempering,,
+2010,EAV-190501-U,Non-composted fraction of municipal waste,3.0,0.0
+2010,EAV-190502-U,Non-composted fraction v. animal and plant waste,,
+2010,EAV-190503-U,Out of specification compost,,
+2010,EAV-19059900-U,waste not otherwise specified not differentiable,,
+2010,EAV-19059901-U,Compost (to specification),8.0,1.0
+2010,EAV-190603-U,Liquids from treatment of municipal waste,,
+2010,EAV-190604-U,Digestate/sludge from tank v.municipal waste,,
+2010,EAV-190605-U,liquids from container v. animal and plant waste,,
+2010,EAV-190606-U,Digestate/sludge a. Container for animal and plant waste,,
+2010,EAV-190699-U,Anaerobic treatment of waste: waste n.e.c.,,
+2010,EAV-190702-G,"Landfill leachate, the hazardous contains substances",,
+2010,EAV-190703-U,Landfill leachate (without 190702),4.0,174.3
+2010,EAV-190801-U,Sieving and rake residues,129.0,15.9
+2010,EAV-190802-U,sand trap residues,134.0,19.5
+2010,EAV-190805-U,Sludge from the treatment of v. municipal wastewater,41.0,302.4
+2010,EAV-190806-G,Saturated or spent ion exchange resins,56.0,0.2
+2010,EAV-190807-G,Solutions and sludges from regeneration of ion exchange.,,
+2010,EAV-190808-G,Waste containing heavy metals from membrane systems,,
+2010,EAV-190809-U,Fat and oil mixtures from oil separators (edible oils),207.0,15.1
+2010,EAV-190810-G,Fat and oil mixtures from oil separators (oh.190809),27.0,0.6
+2010,EAV-190811-G,Sludge from biological treatment of industrial wastewater,19.0,310.5
+2010,EAV-190812-U,sludge a. biological treatment of industrial waste water (oh.190811),70.0,524.0
+2010,EAV-190813-G,Slurries with hazardous Substances from industrial waste water,122.0,117.9
+2010,EAV-190814-U,Sludge from industrial wastewater (excluding 190813),312.0,92.2
+2010,EAV-190899-U,Wastewater treatment plants: wastes n.e.c.,16.0,12.1
+2010,EAV-190901-U,Solid waste from first filtration and screenings,33.0,12.3
+2010,EAV-190902-U,sludge from water purification,151.0,165.1
+2010,EAV-190903-U,Slurries from decarbonization,41.0,168.7
+2010,EAV-190904-U,Used activated carbon,61.0,1.5
+2010,EAV-190905-U,Saturated or used ion exchange resins,114.0,1.8
+2010,EAV-190906-U,Solutions and sludges from regeneration of ion exchange.,6.0,11.5
+2010,EAV-190999-U,Industrial water: waste n.e.c.,7.0,2.0
+2010,EAV-191001-U,Iron and steel waste,44.0,7.1
+2010,EAV-191002-U,non-ferrous metal waste,15.0,2.5
+2010,EAV-191003-G,Shredder light fractions and dust,,
+2010,EAV-191004-U,Shredder light fractions and dust (without 191003),3.0,0.1
+2010,EAV-191005-G,Other factions that are dangerous contain substances,,
+2010,EAV-191006-U,Other factions (without 191005),5.0,4.5
+2010,EAV-191101-G,Waste oil treatment: Used filter clays,10.0,3.1
+2010,EAV-191102-G,Waste oil processing: acid tars,,
+2010,EAV-191103-G,Waste oil processing: Aqueous liquid waste,,
+2010,EAV-191104-G,Waste oil processing: Abf.a.d. Fuel cleaning with bases,,
+2010,EAV-191105-G,Waste oil treatment: sludge (in-house waste water treatment),13.0,0.7
+2010,EAV-191106-U,Sludge from operational. Waste water treatment (oh.191105),4.0,0.1
+2010,EAV-191107-G,Waste oil treatment: Waste from exhaust gas cleaning,,
+2010,EAV-19119900-U,waste not otherwise specified,3.0,0.0
+2010,EAV-19119950-U,"Base oil (starting material for lubricant), (SK)",6.0,0.0
+2010,EAV-19119951-U,"Lubricant, (SS)",6.0,0.0
+2010,EAV-19119952-U,middle distillate component,,
+2010,EAV-19119953-U,"Light heating oil (including diesel), (HL)",,
+2010,EAV-19119954-U,Fuel oil heavy component,,
+2010,EAV-19119955-U,Heavy fuel oil (HS),,
+2010,EAV-19120100-U,"Mechanical waste treatment: paper, cardboard not diff.",230.0,62.0
+2010,EAV-19120101-U,Mechanical waste treatment: lower grades (group I),66.0,55.8
+2010,EAV-19120102-U,Mechanical waste treatment: medium grades (group II),28.0,10.2
+2010,EAV-19120103-U,Mechanical Waste Treatment: Better Grades (Group III),30.0,7.7
+2010,EAV-19120104-U,Mech.waste treatment: Powerful varieties (Gr.IV),3.0,0.6
+2010,EAV-19120105-U,Mechanical waste treatment: special types (Group V),10.0,0.9
+2010,EAV-191202-U,Mechanical waste treatment: ferrous metals,135.0,40.8
+2010,EAV-191203-U,Mechanical waste treatment: non-ferrous metals,52.0,5.5
+2010,EAV-191204-U,Mechanical waste treatment: plastic and rubber,219.0,53.2
+2010,EAV-19120500-U,Mechanical waste treatment: Glass not differentiable,28.0,7.0
+2010,EAV-19120501-U,Mechanical waste treatment: white glass,37.0,7.6
+2010,EAV-19120502-U,Mechanical waste treatment: brown glass,16.0,1.9
+2010,EAV-19120503-U,Mechanical waste treatment: green glass,19.0,2.1
+2010,EAV-19120504-U,Mechanical waste treatment: stained glass,11.0,1.1
+2010,EAV-19120505-U,Mechanical waste treatment: mixed glass,29.0,3.1
+2010,EAV-191206-G,Mechanical waste treatment: wood with hazardous fabrics,10.0,1.9
+2010,EAV-191207-U,Wood (without 191206),70.0,7.2
+2010,EAV-191208-U,Mechanical waste treatment: textiles,8.0,2.8
+2010,EAV-19120900-U,"Mechanical waste treatment: minerals (sand, stones)",41.0,35.1
+2010,EAV-19120901-U,Products for use in road and road building,,
+2010,EAV-19120902-U,Products for use in other earthworks,,
+2010,EAV-19120903-U,Products f.d. Use in concrete mixing plants,,
+2010,EAV-19120904-U,products for use in asphalt mixing plants,,
+2010,EAV-19120905-U,products for other uses,,
+2010,EAV-19120906-U,Hot mix for road and path construction,,
+2010,EAV-191210-U,Combustible waste (fuel from waste),25.0,8.0
+2010,EAV-191211-G,Other waste (including material mixtures),19.0,2.5
+2010,EAV-191212-U,Other waste (without 191211),93.0,79.6
+2010,EAV-191301-G,Solid waste from soil remediation,4.0,0.0
+2010,EAV-191302-U,Solid waste from soil remediation (oh.191301),,
+2010,EAV-191303-G,Sludge from soil remediation,3.0,0.3
+2010,EAV-191304-U,Sludge from soil remediation (oh.191303),,
+2010,EAV-191305-G,Sludges from groundwater remediation,6.0,0.1
+2010,EAV-191306-U,Sludge from groundwater remediation (oh.191305),7.0,0.3
+2010,EAV-191307-G,Aqueous waste and concentrates from groundwater remediation.,,
+2010,EAV-191308-U,Aqueous waste and conc. a. groundwater sanitation (oh.191307),,
+2010,EAV-20,Municipal waste (household waste and similar waste),,
+2010,EAV-200101-U,paper and cardboard,8762.0,1363.7
+2010,EAV-200102-U,Glas,1368.0,101.4
+2010,EAV-200108-U,Biodegradable kitchen and canteen waste,3008.0,156.4
+2010,EAV-200110-U,clothing,,
+2010,EAV-200111-U,textiles,95.0,1.9
+2010,EAV-200113-G,Solvents,313.0,1.6
+2010,EAV-200114-G,acids,233.0,0.9
+2010,EAV-200115-G,Lye,193.0,0.4
+2010,EAV-200117-G,Photochemical,100.0,0.1
+2010,EAV-200119-G,pesticides,,
+2010,EAV-200121-G,Fluorescent tubes and other waste containing mercury,5252.0,8.1
+2010,EAV-200123-G,Used devices with chlorofluorocarbons,665.0,1.0
+2010,EAV-200125-U,edible oils and fats,539.0,38.8
+2010,EAV-200126-G,Oils and fats (without 200125),162.0,4.2
+2010,EAV-200127-G,"paints, inks, adhesives and synthetic resins",416.0,1.1
+2010,EAV-200128-U,"Paints, printing inks, adhesives, synthetic resins (oh.200127)",122.0,0.3
+2010,EAV-200129-G,Detergents containing dangerous substances,79.0,0.1
+2010,EAV-200130-U,Cleaning agent (without 200129),48.0,0.1
+2010,EAV-200131-G,Cytotoxic and cytostatic drugs,6.0,0.1
+2010,EAV-200132-U,Medicines (without 200131),103.0,4.1
+2010,EAV-200133-G,Batteries and accumulators (160601-160603),1044.0,1.5
+2010,EAV-200134-U,Batteries and accumulators (excluding 200133),246.0,0.1
+2010,EAV-200135-G,"Used electrical devices (oh.200121,200123)",3208.0,23.9
+2010,EAV-200136-U,"Used electronic devices (without 200121, 200123, 200135)",1509.0,14.3
+2010,EAV-200137-G,Wood containing dangerous substances,94.0,1.9
+2010,EAV-200138-U,Wood (without 200137),1303.0,63.0
+2010,EAV-200139-U,plastics,2641.0,115.6
+2010,EAV-200140-U,metals,3771.0,445.0
+2010,EAV-200141-U,waste from cleaning chimneys,7.0,0.2
+2010,EAV-200199-U,Other fractions n.e.c.,91.0,5.1
+2010,EAV-20019900-U,Other fractions n.e.c. not differentiable,,
+2010,EAV-20019901-U,Mixed recyclables without light packaging,,
+2010,EAV-200201-U,Biodegradable waste,3727.0,295.2
+2010,EAV-200202-U,soil and stones,69.0,13.7
+2010,EAV-200203-U,Other non-biodegradable waste,30.0,1.5
+2010,EAV-20030100-U,Mixed municipal waste cannot be differentiated,3841.0,275.6
+2010,EAV-20030101-U,"Household waste, commercial waste similar to household waste",4803.0,341.9
+2010,EAV-20030102-U,Commercial waste similar to domestic waste,10600.0,912.2
+2010,EAV-20030104-U,Waste from the bio bin,622.0,13.9
+2010,EAV-200302-U,Market waste,37.0,4.2
+2010,EAV-200303-U,street sweepings,509.0,40.4
+2010,EAV-200304-U,Faecal sludge,268.0,49.0
+2010,EAV-200306-U,Waste from sewer cleaning,163.0,13.4
+2010,EAV-200307-U,Bulky waste,1817.0,44.8
+2010,EAV-200399-U,Municipal waste n.e.c.,126.0,20.8
+2010,EAV-99,Hazardous waste,,
+2010,EAV-990000-G,Total hazardous waste,,
+2010,,In total,19582.0,65328.8
+2014,EAV-01,Waste from the extraction of mineral resources,,
+2014,EAV-010101-U,Waste from mining v. metal-containing mineral resources,7.0,2.0
+2014,EAV-010102-U,Waste from mining v. non-metal Mineral resources,5.0,4.9
+2014,EAV-010304-G,Acid-forming processing residues a. sul. ore,,
+2014,EAV-010305-G,Other processing residues with hazardous substances,,
+2014,EAV-010306-U,Processing residues (without 010304 and 010305),3.0,3.2
+2014,EAV-010307-G,Waste from processing metal-bearing mineral resources,,
+2014,EAV-010308-U,Dusty and powdery waste (without 010307),5.0,1761.3
+2014,EAV-010309-U,Red mud from aluminum oxide production (oh.010310),,
+2014,EAV-010399-U,processing from metallh. Mineral resources: waste n.e.c.,,
+2014,EAV-010407-G,Waste from further processing non-metal Mineral resources,,
+2014,EAV-010408-U,Waste from crushed gravel and rock (excluding 010407),11.0,27.3
+2014,EAV-010409-U,sand and clay waste,16.0,4.7
+2014,EAV-010410-U,Dusty and powdery waste (without 010407),19.0,2.3
+2014,EAV-010411-U,Waste from processing v.potash and rock salt (oh.010407),10.0,25.1
+2014,EAV-010412-U,"reprocessing including waste (oh.010407,010411)",,
+2014,EAV-010413-U,Waste from stonemasonry and sawing work (excluding 010407),20.0,99.1
+2014,EAV-010499-U,processing v. non-metal Soil waste: waste n.e.c.,5.0,0.3
+2014,EAV-010504-U,Sludge and waste from freshwater drilling,4.0,0.1
+2014,EAV-010505-G,Oily drilling muds and wastes,5.0,0.4
+2014,EAV-010506-G,Drilling muds and other drilling waste with hazardous fabrics,8.0,0.2
+2014,EAV-010507-U,"Barite-bearing drillings, waste (oh.010505,010506)",,
+2014,EAV-010508-U,"Chloride content. Drilling tubing waste (oh.010505,010506)",,
+2014,EAV-010599-U,drilling mud and. other construction waste: waste not otherwise specified,,
+2014,EAV-02,"Waste from agriculture, forestry, etc.",,
+2014,EAV-020101-U,"Agriculture, among other things: sludge from washing and cleaning processes.",20.0,16.5
+2014,EAV-020102-U,Agriculture i.a.: Waste from animal tissue,55.0,73.4
+2014,EAV-020103-U,"Agriculture, among other things: waste from plant tissue",109.0,180.1
+2014,EAV-020104-U,"Agricultural, etc.: plastic waste (without packaging)",102.0,5.1
+2014,EAV-020106-U,"Animal excretions, liquid manure/manure/stable manure",56.0,187.9
+2014,EAV-020107-U,Waste from forestry,6.0,0.0
+2014,EAV-020108-G,Agricultural chemical waste,43.0,0.7
+2014,EAV-020109-U,Waste v. Chemistry. f.d. Agriculture(oh.020108),5.0,0.1
+2014,EAV-020110-U,"Agriculture, among others: metal waste",65.0,2.5
+2014,EAV-020199-U,Agriculture and others: waste not otherwise specified,16.0,2.2
+2014,EAV-020201-U,Meat and others: sludge from washing and cleaning processes,43.0,11.5
+2014,EAV-020202-U,"Meat, among other things: waste from animal tissue",209.0,450.1
+2014,EAV-020203-U,Meat and others: For consumption/processing. unsuitable substances,243.0,329.1
+2014,EAV-020204-U,Meat and others: sludge (company waste water tank),1925.0,557.3
+2014,EAV-020299-U,"processing of meat, fish, etc.: waste not otherwise specified",34.0,150.4
+2014,EAV-020301-U,"Fruit and others: sludge from washing, cleaning proc. i.a.",50.0,134.3
+2014,EAV-020302-U,Fruit and others: waste from preservatives,,
+2014,EAV-020303-U,Fruit and others: Waste from extraction with solvents,5.0,1.4
+2014,EAV-020304-U,"Fruit, etc.: For consumption/processing unsuitable substances",378.0,307.0
+2014,EAV-020305-U,Fruit and others: sludge (in-house waste water treatment),59.0,119.4
+2014,EAV-020399-U,"Processing of fruit, vegetables, etc.: waste not otherwise specified",27.0,60.9
+2014,EAV-020401-U,Sugar production: beet soil,16.0,1315.3
+2014,EAV-020402-U,Sugar manufacturer: Not specific. Calcium carbonate sludge,,
+2014,EAV-020403-U,Sugar production: sludge (in-house waste water tank),,
+2014,EAV-020499-U,Sugar production: waste n.e.c.,5.0,40.6
+2014,EAV-020501-U,Milk processing: For consumption/processing. unsuitable,75.0,63.9
+2014,EAV-020502-U,Milk processing: sludge (in-house waste water treatment),37.0,127.4
+2014,EAV-020599-U,Milk processing: waste n.e.c.,4.0,10.2
+2014,EAV-020601-U,Bakery and confectionery: For consumption/processing. unsuitable. St.,274.0,149.5
+2014,EAV-020602-U,"Baked goods, confectionery: waste from preservatives",,
+2014,EAV-020603-U,"Baked goods, confectionery: sludge (own waste water treatment)",58.0,24.0
+2014,EAV-020699-U,Manufacture of baked goods and confectionery: waste not otherwise specified,33.0,6.4
+2014,EAV-020701-U,"Beverages: Waste from laundry, cleaning, etc.",33.0,33.0
+2014,EAV-020702-U,Beverages: Waste from alcohol distillation,7.0,51.3
+2014,EAV-020703-U,Beverages: Waste from chemical treatment,,
+2014,EAV-020704-U,Beverages: For consumption/processing. unsuitable substances,63.0,500.1
+2014,EAV-020705-U,Beverages: sludge (in-house waste water treatment),37.0,48.8
+2014,EAV-020799-U,Manufacture of beverages: waste n.e.c.,22.0,286.5
+2014,EAV-03,"Waste from wood processing, etc.",,
+2014,EAV-030101-U,Woodworking including: bark and cork waste,26.0,496.7
+2014,EAV-030104-G,"Sawdust, shavings, cuttings, wood, chipboard",39.0,6.1
+2014,EAV-030105-U,"Sawdust, chips, cuttings, wood, chipboard. (oh.030104)",709.0,2778.6
+2014,EAV-030199-U,"Wood processing, etc.: waste not otherwise specified",29.0,4.0
+2014,EAV-030201-G,Halogen-free organic wood preservatives,,
+2014,EAV-030202-G,Organochlorine wood preservatives,,
+2014,EAV-030203-G,Organometallic wood preservatives,,
+2014,EAV-030204-G,Inorganic wood preservatives,,
+2014,EAV-030205-G,Other wood preservatives with dangerous substances,,
+2014,EAV-030299-U,wood preservatives n.e.s.,,
+2014,EAV-030301-U,Paper production includes: bark and wood waste,35.0,339.5
+2014,EAV-030302-U,Sulphite sludge (from the recovery of cooking liquor),,
+2014,EAV-030305-U,Deinking sludge from paper recycling,14.0,732.7
+2014,EAV-030307-U,Mechanically separated waste (paper waste),94.0,805.5
+2014,EAV-030308-U,Waste from sorting v. Paper for recycling,257.0,678.2
+2014,EAV-030309-U,lime sludge waste,6.0,2.2
+2014,EAV-030310-U,"Fiber waste, fiber, filler and coating sludges",132.0,1568.7
+2014,EAV-030311-U,Sludge a. operational waste water treatment (oh.030310),46.0,121.2
+2014,EAV-030399-U,"Paper production, among others: waste not otherwise specified",21.0,702.5
+2014,EAV-04,"Waste from the leather, fur and textile industries",,
+2014,EAV-040101-U,Meat scrapings and hide waste,,
+2014,EAV-040102-U,Cremated glued leather,6.0,18.6
+2014,EAV-040103-G,"Degreasing waste, solvent-free, non-liquid phase",,
+2014,EAV-040104-U,Chromium-containing tannery broth,,
+2014,EAV-040105-U,Chromium-free tannery broth,,
+2014,EAV-040106-U,Slurries containing chromium,10.0,16.7
+2014,EAV-040107-U,Chromium-free sludges,,
+2014,EAV-040108-U,Chrome waste from tanned leather,25.0,4.9
+2014,EAV-040109-U,Waste from preparation and finishing,7.0,0.1
+2014,EAV-040199-U,Leather and fur industry: waste n.e.c.,8.0,2.5
+2014,EAV-040209-U,"Waste from composite materials (elastomer, etc.)",78.0,25.5
+2014,EAV-040210-U,Organic substances from natural materials (e.g. fats),11.0,1.5
+2014,EAV-040214-G,waste from the finish with organ. solvent,3.0,0.0
+2014,EAV-040215-U,Waste from the finish (without 040214),8.0,0.3
+2014,EAV-040216-G,Dyes and pigments containing dangerous substances,4.0,0.0
+2014,EAV-040217-U,Dyes and pigments (without 040216),9.0,0.2
+2014,EAV-040219-G,Textile industry: sludge (own waste water treatment),3.0,0.0
+2014,EAV-040220-U,sludge from on-site Sewage treatment (oh.040219),22.0,1.6
+2014,EAV-040221-U,Waste from untreated textile fibers,42.0,11.2
+2014,EAV-040222-U,Waste from processed textile fibers,244.0,58.6
+2014,EAV-040299-U,Textile industry: waste n.e.c.,13.0,0.6
+2014,EAV-05,"Waste from petroleum refining, natural gas purification",,
+2014,EAV-050102-G,Petroleum refining: desalination sludges,,
+2014,EAV-050103-G,Petroleum refining: bottom sludge from tanks,43.0,15.6
+2014,EAV-050104-G,Petroleum refining: Acid alkyl sludges,,
+2014,EAV-050105-G,Petroleum Refining: Oil Spills,,
+2014,EAV-050106-G,Petroleum refining: oil holding.sludges a.operation process.,38.0,12.6
+2014,EAV-050107-G,Petroleum refining: acid tars,,
+2014,EAV-050108-G,Petroleum refining: Other teas,5.0,0.2
+2014,EAV-050109-G,Petroleum refining: sludge (company wastewater tank),9.0,4.9
+2014,EAV-050110-U,Sludge a. operationally appropriate Waste water tank (oh.050109),7.0,3.7
+2014,EAV-050111-G,Petroleum refinery: Removal from pure fuel. with bases,,
+2014,EAV-050112-G,Petroleum refining: Acidic oils,,
+2014,EAV-050113-U,Petroleum refining: sludges from boiler feed water treatment.,,
+2014,EAV-050114-U,Petroleum refining: waste from cooling columns,3.0,0.1
+2014,EAV-050115-G,Petroleum Refining: Used filter clays,10.0,0.4
+2014,EAV-050116-U,Petroleum Ref.:Sulphur. Waste from oil desulfurization,8.0,0.2
+2014,EAV-050117-U,Petroleum refining: bitumen,6.0,0.2
+2014,EAV-050199-U,Petroleum refining: wastes not otherwise specified,,
+2014,EAV-050601-G,Coal pyrolysis: acid tars,,
+2014,EAV-050603-G,Kohlepyrolyse: Andere Teere,33.0,11.4
+2014,EAV-050604-U,Coal pyrolysis: Waste from cooling towers,,
+2014,EAV-050699-U,Coal pyrolysis: wastes n.e.c.,,
+2014,EAV-050701-G,"Natural gas cleaning, transport: mercury h. waste",,
+2014,EAV-050702-U,"Natural gas cleaning, transport:Sulphurous waste",11.0,0.1
+2014,EAV-050799-U,"Natural gas purification, transport: waste n.e.c.",3.0,0.0
+2014,EAV-06,Waste from inorganic chemical processes,,
+2014,EAV-060101-G,sulfuric acid and sulphurous acid,171.0,142.5
+2014,EAV-060102-G,hydrochloric acid,40.0,7.4
+2014,EAV-060103-G,Hydrofluoric acid,11.0,0.4
+2014,EAV-060104-G,Phosphoric acid and phosphorous acid,33.0,0.4
+2014,EAV-060105-G,Nitric acid and nitrous acid,28.0,0.9
+2014,EAV-060106-G,Other acids,723.0,8.0
+2014,EAV-060199-U,Acids: waste not otherwise specified,19.0,0.5
+2014,EAV-060201-G,Calciumhydroxid,9.0,0.4
+2014,EAV-060203-G,Ammoniumhydroxid,35.0,7.8
+2014,EAV-060204-G,Sodium and potassium hydroxide,54.0,6.5
+2014,EAV-060205-G,Other Bases,586.0,8.6
+2014,EAV-060299-U,Bases: waste n.e.c.,6.0,0.0
+2014,EAV-060311-G,Solid salts and solutions containing cyanide,18.0,0.2
+2014,EAV-060313-G,Solid salts and solutions containing heavy metals,113.0,7.3
+2014,EAV-060314-U,Solid salts and solutions (without 060311 and 060313),219.0,140.3
+2014,EAV-060315-G,Metal oxides containing heavy metals,24.0,3.7
+2014,EAV-060316-U,metal oxides (without 060315),52.0,42.5
+2014,EAV-060399-U,"Salts, saline solutions, metal oxides: wastes not otherwise specified",15.0,0.3
+2014,EAV-060403-G,Waste containing arsenic,8.0,0.4
+2014,EAV-060404-G,Waste containing mercury,568.0,4.1
+2014,EAV-060405-G,Waste containing other heavy metals,67.0,39.6
+2014,EAV-060499-U,Waste containing metal n.e.c.,6.0,1.0
+2014,EAV-060502-G,Sludge from on-site wastewater treatment,70.0,56.9
+2014,EAV-060503-U,Sludge from company-owned Waste water tank (oh.060502),119.0,102.2
+2014,EAV-060602-G,Waste containing dangerous sulfides,7.0,0.5
+2014,EAV-060603-U,Waste containing sulfide (without 060602),4.0,0.0
+2014,EAV-060699-U,Sulphur-containing chemicals: wastes n.e.s.,3.0,2.6
+2014,EAV-060701-G,Asbestos-containing waste from electrolysis,,
+2014,EAV-060702-G,Activated carbon from chlorine production,,
+2014,EAV-060703-G,Barium sulfate sludge containing mercury,,
+2014,EAV-060704-G,"Solutions and acids, e.g. contact acid",3.0,0.6
+2014,EAV-060799-U,Halogens: wastes n.e.c.,5.0,0.6
+2014,EAV-060802-G,Hazardous waste containing chlorosilanes,4.0,12.8
+2014,EAV-060899-U,"Silicon, silicon compounds: wastes not otherwise specified",15.0,20.9
+2014,EAV-060902-U,Phosphorous slag,,
+2014,EAV-060903-G,Calcium-based reaction wastes,,
+2014,EAV-060904-U,Calcium-based reaction waste (without 060903),,
+2014,EAV-060999-U,Chemicals containing phosphorus: wastes n.e.c.,,
+2014,EAV-061002-G,Nitrogen.Chemistry.: Waste with hazardous fabrics,9.0,0.1
+2014,EAV-061099-U,Nitrogen-containing chemicals: wastes n.e.c.,,
+2014,EAV-061101-U,Calcium-based reaction wastes a. titanium dioxide,,
+2014,EAV-061199-U,"Inorganic pigments, colourants: waste not otherwise specified",3.0,0.8
+2014,EAV-061301-G,"Inorganic pesticides, wood preservatives",11.0,0.0
+2014,EAV-061302-G,Used activated carbon (without 060702),96.0,2.3
+2014,EAV-061303-U,Carbon black,36.0,3.1
+2014,EAV-061304-G,Waste from asbestos processing,5.0,0.0
+2014,EAV-061305-G,Oven and chimney soot,,
+2014,EAV-061399-U,Inorganic chemical processes: wastes not otherwise specified,10.0,0.1
+2014,EAV-07,Waste from organic chemical processes,,
+2014,EAV-070101-G,"Organic basic chemicals: Aqueous wash bottles, mother liquors",211.0,32.0
+2014,EAV-070103-G,"Organic basic chemicals: halogen organic solvents, washing bottle",239.0,45.7
+2014,EAV-070104-G,"Org.Basic chemistry: solvents, washing liquids",909.0,130.6
+2014,EAV-070107-G,"Org.basic chemistry: halogen reaction, distillation residue.",38.0,62.2
+2014,EAV-070108-G,Org.Basic chemistry: reaction and distillation residues.,144.0,140.4
+2014,EAV-070109-G,"Org.Basic chemistry: Halog.filter cake, absorbent mat.",15.0,0.6
+2014,EAV-070110-G,"Org.Grundchemik.: And. Filter cake, absorbent mat.",47.0,4.6
+2014,EAV-070111-G,Org. basic chemistry: sludge (company waste water tank),41.0,6.5
+2014,EAV-070112-U,sludge from on-site Waste water tank (oh.070111),16.0,1.7
+2014,EAV-070199-U,Bulk organic chemicals: wastes not otherwise specified,24.0,1.8
+2014,EAV-070201-G,"Plastics: Aqueous washes, mother liquors",53.0,20.4
+2014,EAV-070203-G,"Plastics: halogen organic solvents, washing liquid.",37.0,2.6
+2014,EAV-070204-G,"Plastics: organ. Solvents, washing liquids",152.0,36.8
+2014,EAV-070207-G,Plastics: Halog. Reaction and distillation residues,37.0,6.4
+2014,EAV-070208-G,Plastics: reaction and distillation residues,822.0,114.1
+2014,EAV-070209-G,"Plastics: Halog. Filter cake, absorbent mat.",10.0,0.2
+2014,EAV-070210-G,"Plastics: And. filter cakes, absorbent materials",38.0,4.9
+2014,EAV-070211-G,Plastics: sludge (company wastewater tank),10.0,1.3
+2014,EAV-070212-U,sludge from on-site Sewage treatment (oh.070211),34.0,17.9
+2014,EAV-070213-U,Plastic waste,1414.0,360.6
+2014,EAV-070214-G,Plastics: waste from additives with hazardous substances.,60.0,3.7
+2014,EAV-070215-U,Waste additives (excluding 070214),32.0,0.9
+2014,EAV-070216-G,Plastics: Dangerous. Waste containing silicones,7.0,0.8
+2014,EAV-070217-U,Waste containing silicon (without 070216),16.0,1.4
+2014,EAV-070299-U,"Plastics, fibers, synthetic rubber: waste not otherwise specified",187.0,79.9
+2014,EAV-070301-G,"Organic dyes: Aqueous wash bottles, mother liquors",36.0,2.4
+2014,EAV-070303-G,"Organic dyes: halogen org. solvent, washbottle",35.0,0.7
+2014,EAV-070304-G,"Organic dyes: solvents, washing liquids",375.0,30.7
+2014,EAV-070307-G,"Organic dyes: Halog. Reaction, distillation residue",6.0,1.4
+2014,EAV-070308-G,Organic dyes: reaction and distillation residues,22.0,3.8
+2014,EAV-070309-G,"Organic dyes: Halog. Filter cake, absorbent mat.",5.0,0.3
+2014,EAV-070310-G,"Organic dyes: Other filter cakes, absorbent mat.",8.0,0.7
+2014,EAV-070311-G,Organic dyes: sludge (own waste water treatment),,
+2014,EAV-070312-U,Sludge from company-owned Waste water tank (oh.070311),8.0,0.6
+2014,EAV-070399-U,"Organic dyes, pigments: wastes not otherwise specified",3.0,0.3
+2014,EAV-070401-G,"Pesticides: Aqueous wash, mother liquor.",17.0,37.3
+2014,EAV-070403-G,"Plant protection agent.: halogen organic solvents, washing fl.",15.0,93.4
+2014,EAV-070404-G,"Pesticides: Organ. solvent, washbottle",17.0,30.7
+2014,EAV-070407-G,"Crop Protection With.: Halogen.Reaction, Distill.reset",13.0,37.2
+2014,EAV-070408-G,"Pesticides: reaction, distillation residue",10.0,9.1
+2014,EAV-070409-G,"Plant protection products: halogen filter cake, absorbent mat",5.0,0.3
+2014,EAV-070410-G,"Pesticides: filter cake, absorbent mat.",7.0,0.6
+2014,EAV-070411-G,Plant protection: sludge (company wastewater tank),3.0,0.4
+2014,EAV-070412-U,Sludge from company-owned Sewage treatment (oh.070411),3.0,0.3
+2014,EAV-070413-G,Pesticides: solid waste with dangerous goods,11.0,2.1
+2014,EAV-070499-U,"Pesticides, etc.: Waste not otherwise specified",4.0,0.2
+2014,EAV-070501-G,"Pharmaceuticals: Aqueous detergents, mother liquors",42.0,75.2
+2014,EAV-070503-G,"Pharmaceuticals: halogen organic solvents, wash fl.",50.0,19.7
+2014,EAV-070504-G,"Pharmaceuticals: organ. Solvents, washing liquids.",81.0,68.7
+2014,EAV-070507-G,"Pharmaceuticals: halogen reaction, distillation residue.",10.0,2.5
+2014,EAV-070508-G,Pharmaceuticals: reaction and distillation residues,47.0,4.1
+2014,EAV-070509-G,"Pharmaceuticals: halogen filter cake, absorbent mat.",9.0,0.5
+2014,EAV-070510-G,"Pharmaceuticals: filter cakes, absorbent materials",15.0,1.4
+2014,EAV-070511-G,Pharmaceuticals: Sludge (company wastewater tank),4.0,0.1
+2014,EAV-070512-U,sludge from on-site Sewage treatment (oh.070511),11.0,15.2
+2014,EAV-070513-G,Pharmaceuticals: Solid waste with hazardous substances,36.0,1.4
+2014,EAV-070514-U,Solid waste (excluding 070513),43.0,18.1
+2014,EAV-070599-U,Pharmaceuticals: wastes n.e.c.,80.0,22.1
+2014,EAV-070601-G,"Fats, soaps: Aqueous washing bottles, mother liquors",121.0,25.0
+2014,EAV-070603-G,"Fats, soaps: halogen organic solvents, washing fl.",40.0,0.2
+2014,EAV-070604-G,"Fats, soaps: organ. Solvents, washing liquids.",153.0,5.5
+2014,EAV-070607-G,"Fats, soaps: halogen reaction and distillation residue.",3.0,0.2
+2014,EAV-070608-G,"Fats, soaps: reaction, distillation residues",462.0,40.2
+2014,EAV-070609-G,"Fats, soaps: halogen filter cake, absorbent mat.",,
+2014,EAV-070610-G,"Fats, soaps: filter cakes, absorbent materials",24.0,1.8
+2014,EAV-070611-G,"Fats, soaps: sludge (in-house waste water treatment)",5.0,0.2
+2014,EAV-070612-U,sludge from on-site Waste water tank (oh.070611),26.0,9.0
+2014,EAV-070699-U,"Fats, soaps, lubricants, etc.: waste not otherwise specified",140.0,28.3
+2014,EAV-070701-G,"Fine Chemicals: Aqueous washes, mother liquors",241.0,70.1
+2014,EAV-070703-G,"Fine chemicals: halogen organic solvents, washing fl.",153.0,15.4
+2014,EAV-070704-G,"Fine chemicals: organ. Solvents, washing liquids.",630.0,63.1
+2014,EAV-070707-G,"Fine chemicals: halogen reaction, distillation residue.",27.0,11.2
+2014,EAV-070708-G,Fine chemicals: reaction and distillation residues.,68.0,93.3
+2014,EAV-070709-G,"Fine chemicals: halogen filter cake, absorption mat.",14.0,0.5
+2014,EAV-070710-G,"Fine chemicals: filter cake, absorbent materials",39.0,2.3
+2014,EAV-070711-G,Fine chemicals: sludge (own waste water treatment),15.0,1.2
+2014,EAV-070712-U,sludge from on-site Sewage treatment (oh.070711),8.0,1.1
+2014,EAV-070799-U,Fine chemicals: wastes not otherwise specified,10.0,1.1
+2014,EAV-08,"Waste from MFSU from coatings, adhesives, etc.",,
+2014,EAV-080111-G,Paint and varnish waste with hazardous substances,4006.0,43.7
+2014,EAV-080112-U,Paint and varnish waste (without 080111),806.0,14.6
+2014,EAV-080113-G,Paint and varnish sludge with dangerous substances,566.0,25.2
+2014,EAV-080114-U,Paint and varnish sludge (without 080113),48.0,2.5
+2014,EAV-080115-G,"Paints, varnishes: Aqueous sludges with dangerous St.",184.0,15.2
+2014,EAV-080116-U,Aqueous sludge (without 080115),497.0,42.0
+2014,EAV-080117-G,Waste from paint or varnish removal,291.0,18.4
+2014,EAV-080118-U,Waste from paint or varnish removal (without 080117),139.0,2.8
+2014,EAV-080119-G,Aqueous suspensions containing paints or varnishes,35.0,9.2
+2014,EAV-080120-U,Aqueous suspensions (without 080119),123.0,8.3
+2014,EAV-080121-G,Paint or varnish remover waste,21.0,2.2
+2014,EAV-080199-U,"Paints, varnishes: waste not otherwise specified",4.0,0.2
+2014,EAV-080201-U,Waste coating powder,116.0,4.0
+2014,EAV-080202-U,Aqueous sludge containing ceramic materials,26.0,5.0
+2014,EAV-080203-U,"Aqueous suspensions, ceramic. containing materials",8.0,0.8
+2014,EAV-080299-U,Other coatings: wastes n.e.c.,,
+2014,EAV-080307-U,Aqueous sludges containing printing inks,11.0,0.3
+2014,EAV-080308-U,"Aqueous liquid waste, i.e. Printing inks included",58.0,7.7
+2014,EAV-080312-G,Waste printing ink containing hazardous substances,297.0,6.5
+2014,EAV-080313-U,Waste printing ink (without 080312),77.0,2.7
+2014,EAV-080314-G,Printing ink sludge containing dangerous substances,91.0,4.1
+2014,EAV-080315-U,Printing ink sludge (without 080314),15.0,0.9
+2014,EAV-080316-G,Waste from etching solutions,,
+2014,EAV-080317-G,Waste toner containing hazardous substances,45.0,0.1
+2014,EAV-080318-U,Toner waste (without 080317),325.0,1.9
+2014,EAV-080319-G,Dispersion beer,5.0,0.1
+2014,EAV-080399-U,Printing inks: waste n.e.c.,5.0,0.1
+2014,EAV-080409-G,Adhesive and sealant waste with hazardous St.,1213.0,22.4
+2014,EAV-080410-U,Adhesive and sealant waste (without 080409),283.0,13.8
+2014,EAV-080411-G,Adhesive and sealant containing slurries,10.0,0.4
+2014,EAV-080412-U,Adhesive and sealant retention. Sludge(oh.080411),9.0,0.6
+2014,EAV-080413-G,"Adhesives, sealants: Aqueous sludges with dangerous substances.",16.0,0.3
+2014,EAV-080414-U,Aqueous sludge (without 080413),56.0,5.7
+2014,EAV-080415-G,"Adhesive, sealant: Aqueous liquid waste with hazardous st",13.0,1.1
+2014,EAV-080416-U,Aqueous liquid waste (excluding 080415),43.0,6.4
+2014,EAV-080417-G,"Adhesives, sealants: resin oils",3.0,0.0
+2014,EAV-080499-U,"Adhesives, sealants: wastes not otherwise specified",4.0,0.9
+2014,EAV-080501-G,isocyanate waste,64.0,0.3
+2014,EAV-09,Waste from the photographic industry,,
+2014,EAV-090101-G,Water-based developers and activator solutions,412.0,0.7
+2014,EAV-090102-G,Offset Printing Plate Developer Solutions,279.0,4.0
+2014,EAV-090103-G,Solvent-based developer solutions,14.0,0.0
+2014,EAV-090104-G,fixing baths,332.0,0.4
+2014,EAV-090105-G,bleach solutions and bleach-fix baths,8.0,0.1
+2014,EAV-090106-G,Waste containing silver from containers photographer. waste,3.0,0.0
+2014,EAV-090107-U,Films and photographic papers with silver,176.0,0.5
+2014,EAV-090108-U,Films and photographic papers without silver,119.0,2.4
+2014,EAV-090110-U,Disposable cameras without batteries,,
+2014,EAV-090111-G,Disposable cameras with batteries (160601-160603),,
+2014,EAV-090112-U,Disposable cameras with batteries (without 090111),,
+2014,EAV-090113-G,Waste from silver recovery (excluding 090106),,
+2014,EAV-090199-U,Photographic industry: waste n.e.c.,6.0,0.0
+2014,EAV-10,Waste from thermal processes,,
+2014,EAV-100101-U,"rust and. Boiler ash, slag, boiler stone (oh.100104)",447.0,5229.4
+2014,EAV-100102-U,Filter dust from coal firing,49.0,1519.8
+2014,EAV-100103-U,Filter dust from peat firing and combustion,36.0,105.0
+2014,EAV-100104-G,Filter dust and boiler dust from oil firing,8.0,2.9
+2014,EAV-100105-U,Calcium-based reaction wastes in solid form,52.0,784.6
+2014,EAV-100107-U,Calcium-based reaction wastes (sludges),13.0,18.5
+2014,EAV-100109-G,sulfuric acid,,
+2014,EAV-100113-G,Filter dust from emulsified hydrocarbons,,
+2014,EAV-100114-G,"Rust and boiler ash, slag, boiler dust",12.0,4.6
+2014,EAV-100115-U,"Rust and Boiler ash, slag, boiler stone (oh.100114)",42.0,1113.6
+2014,EAV-100116-G,Fly ash from waste co-incineration,12.0,9.3
+2014,EAV-100117-U,Filter dust from co-incineration of waste (oh.100116),28.0,3623.8
+2014,EAV-100118-G,Waste from exhaust gas treatment with hazardous St.,39.0,6.2
+2014,EAV-100119-U,"Waste a. Exhaust gas treatment (without 100105,100107,100118)",23.0,16.9
+2014,EAV-100120-G,"Power plants, among others: sludge (company wastewater tank)",6.0,1.6
+2014,EAV-100121-U,sludge a. operational waste water treatment (oh.100120),7.0,1.7
+2014,EAV-100122-G,"Power plants, etc.: Aqueous sludge a. boiler cleaning",,
+2014,EAV-100123-U,Aqueous sludge from boiler cleaning (oh.100122),6.0,0.1
+2014,EAV-100124-U,"Power plants, among others: sands from fluidized bed combustion",,
+2014,EAV-100125-U,Waste from storage and preparation of fuel.,8.0,11.7
+2014,EAV-100126-U,Waste from cooling water treatment,3.0,1.0
+2014,EAV-100199-U,Power plants and other incineration plants: waste not otherwise specified,4.0,0.1
+2014,EAV-100201-U,"Iron, steel ind.: Waste from slag processing",17.0,1096.8
+2014,EAV-100202-U,Iron and steel ind.: Unprocessed slag,62.0,1792.2
+2014,EAV-100207-G,Iron and steel industry: Solid waste from exhaust gas treatment.,66.0,265.2
+2014,EAV-100208-U,Waste from exhaust gas treatment (excluding 100207),30.0,366.1
+2014,EAV-100210-U,"Iron, steel ind.: mill scale",79.0,467.2
+2014,EAV-100211-G,"Iron, steel ind.: oil hold. Drain from cooling water tank.",6.0,2.9
+2014,EAV-100212-U,Waste from cooling water treatment (without 100211),3.0,9.1
+2014,EAV-100213-G,"Iron, steel ind.: sludge, filter c. from exhaust gas tank.",8.0,194.8
+2014,EAV-100214-U,muds and. Filter cake from flue gas tank. (oh.100213),5.0,63.4
+2014,EAV-100215-U,Iron and steel ind.: Other sludges and filter cakes,19.0,261.7
+2014,EAV-100299-U,Iron and steel industry: waste n.e.c.,13.0,3.9
+2014,EAV-100302-U,Aluminum metallurgy: anode scrap,3.0,0.4
+2014,EAV-100304-G,Aluminum metallurgy: slags from initial melting,,
+2014,EAV-100305-U,Aluminum metallurgy: alumina waste,12.0,1.8
+2014,EAV-100308-G,Aluminum metallurgy: salt slag a.Zzweischmel.,6.0,134.2
+2014,EAV-100309-G,Aluminum metallurgy: Black scabs a.Zweitsch.,3.0,1.5
+2014,EAV-100315-G,Aluminum Metallurgy: Scum (flammable),34.0,20.5
+2014,EAV-100316-U,Scum (without 100315),40.0,83.2
+2014,EAV-100317-G,Aluminum Metallurgy:Tarh. Abf. from anode manufacturer.,,
+2014,EAV-100318-U,Waste from anode production (excluding 100317),,
+2014,EAV-100319-G,Aluminum metallurgy: filter dust with hazardous St.,12.0,1.9
+2014,EAV-100320-U,Filter dust (without 100319),3.0,0.8
+2014,EAV-100321-G,Aluminum Metallurgy: Other Particles and Dust,9.0,0.6
+2014,EAV-100322-U,Other particles and dust (excluding 100321),4.0,1.5
+2014,EAV-100323-G,Aluminum metallurgy: Solid waste a. Exhaust gas treatment,17.0,10.7
+2014,EAV-100324-U,Solid waste from exhaust gas treatment (oh. 100323),,
+2014,EAV-100325-G,"Aluminum metallurgy: sludge, filter k.a.",4.0,0.3
+2014,EAV-100326-U,muds and. Filter cake from flue gas tank. (oh.100325),,
+2014,EAV-100327-G,Aluminum Metallurgy: Oil H.Abf. from cooling water tank.,,
+2014,EAV-100328-U,Waste from cooling water treatment (excluding 100327),,
+2014,EAV-100329-G,Aluminum Metallurgy: Abf.a. Beh. v.Salt slags,,
+2014,EAV-100330-U,Waste from treatment of salt slag (oh.100329),,
+2014,EAV-100399-U,Aluminum metallurgy: wastes n.e.c.,4.0,0.0
+2014,EAV-100401-G,Lead metallurgy: slags (primary and secondary smelting),5.0,89.4
+2014,EAV-100402-G,"Lead metal: dross, scum (first, second scum)",60.0,7.9
+2014,EAV-100403-G,Bleimetallurgie: Calciumarsenat,,
+2014,EAV-100404-G,Lead metallurgy: filter dust,4.0,3.3
+2014,EAV-100405-G,Lead Metallurgy: Other particles and dust,6.0,3.5
+2014,EAV-100406-G,Lead metallurgy: Solid waste from exhaust gas treatment,,
+2014,EAV-100407-G,"Lead Metallurgy: Slurries, Filterk. from exhaust gas tank",,
+2014,EAV-100409-G,Lead Metallurgy: Oilh. Waste from cooling water tank.,,
+2014,EAV-100410-U,Waste from cooling water treatment (excluding 100409),,
+2014,EAV-100499-U,Lead metallurgy: wastes not otherwise specified,,
+2014,EAV-100501-U,"Zinc metallurgy: slag (primary, secondary smelting)",,
+2014,EAV-100503-G,Zinc Metallurgy: Filter Dust,7.0,0.4
+2014,EAV-100504-U,Zinc Metallurgy: Other Particles and Dust,16.0,3.3
+2014,EAV-100505-G,Zinc Metallurgy: Solid waste from flue gas treatment,,
+2014,EAV-100506-G,"Zinc Metallurgy: Slurries, Filterk. from exhaust gas tank.",,
+2014,EAV-100508-G,Zinc metallurgy: Ölh. Waste from cooling water tanks,,
+2014,EAV-100509-U,Waste from cooling water treatment (excluding 100508),,
+2014,EAV-100510-G,"Zinc metallurgy: dross, scum (flammable)",,
+2014,EAV-100511-U,"Scabies, scum (without 100510)",8.0,2.7
+2014,EAV-100599-U,Zinc metallurgy: wastes not otherwise specified,,
+2014,EAV-100601-U,"Copper metallurgy: slags (primary, secondary smelting)",4.0,66.4
+2014,EAV-100602-U,"Copper metal: dross, scum (first, second scum)",7.0,9.7
+2014,EAV-100603-G,Copper metallurgy: filter dust,7.0,1.5
+2014,EAV-100604-U,Copper Metallurgy: Other particles and dust,7.0,2.9
+2014,EAV-100606-G,Copper Metallurgy: Solid Waste a.Flue Gas Treatment,,
+2014,EAV-100607-G,"Copper metallurgy: slurries, filter c. a. Exhaust gas tank",,
+2014,EAV-100609-G,Copper Metallurgy: Oil H.Abf. from cooling water tank.,,
+2014,EAV-100610-U,Waste from cooling water treatment (without 100609),,
+2014,EAV-100699-U,Copper metallurgy: wastes not otherwise specified,,
+2014,EAV-100701-U,"Silver metal etc.: slag (first, second melt)",3.0,0.2
+2014,EAV-100702-U,"Silbermet.u.a.: dross, scum (first, second smear)",4.0,0.0
+2014,EAV-100703-U,"Silver metal, among others: Solid waste from exhaust gas treatment",,
+2014,EAV-100704-U,Silver metal etc.: Other particles and dust,7.0,0.2
+2014,EAV-100705-U,"Silver metal, among other things: sludges, filter cakes in exhaust gas containers.",,
+2014,EAV-100707-G,"Silver metal, among other things: oil-containing waste from cooling water tanks.",,
+2014,EAV-100708-U,Waste from cooling water treatment (without 100707),,
+2014,EAV-100799-U,"Silver, gold, platinum metallurgy: wastes not otherwise specified",,
+2014,EAV-100804-U,Nonferrous Metallurgy: Particles and Dust,16.0,2.4
+2014,EAV-100808-G,"Non-ferrous metal: salt slags (first, second melting)",,
+2014,EAV-100809-U,Non-ferrous Metallurgy: Other slags,5.0,42.6
+2014,EAV-100810-G,"Non-ferrous metallurgy: dross, scum (flammable)",8.0,0.2
+2014,EAV-100811-U,"Scabies, scum (without 100810)",49.0,4.0
+2014,EAV-100812-G,non-ferrous metal: tar Waste from anode manufacture.,,
+2014,EAV-100813-U,Carbon-containing waste (excluding 100812),,
+2014,EAV-100814-U,Non-ferrous metallurgy: anode scrap,,
+2014,EAV-100815-G,Non-ferrous metallurgy: filter dust with hazardous level,27.0,5.5
+2014,EAV-100816-U,Filter dust (without 100815),6.0,0.3
+2014,EAV-100817-G,"Non-ferrous metallurgy: sludges, filters k.a.",3.0,0.1
+2014,EAV-100818-U,Sludge and filter cake from exhaust gas treatment (oh.100817),,
+2014,EAV-100819-G,Nonferrous Metallurgy: Oil H.Abf. from cooling water tank.,,
+2014,EAV-100820-U,Waste from cooling water treatment (excluding 100819),,
+2014,EAV-100899-U,Non-ferrous metallurgy: wastes not otherwise specified,3.0,0.0
+2014,EAV-100903-U,"Iron,steel: furnace slag",108.0,277.0
+2014,EAV-100905-G,"Iron, steel: casting molds and sand before casting",4.0,1.4
+2014,EAV-100906-U,Casting molds and sand before casting (oh.100905),43.0,113.5
+2014,EAV-100907-G,"Iron, steel: casting molds and sand after casting",6.0,1.0
+2014,EAV-100908-U,Casting molds and sand after casting (without 100907),161.0,1814.5
+2014,EAV-100909-G,"Iron, steel: filter dust with dangerous substances",34.0,9.4
+2014,EAV-100910-U,Filter dust (without 100909),50.0,44.7
+2014,EAV-100911-G,"Iron, steel: Other particles with dangerous substances",3.0,0.5
+2014,EAV-100912-U,Other particles (excluding 100911),5.0,0.9
+2014,EAV-100913-G,"Iron,steel: abf. Binders with dangerous St.",3.0,0.0
+2014,EAV-100914-U,Waste binding agents (excluding 100913),,
+2014,EAV-100915-G,"Iron, steel: Removal of crack-indicating substances",,
+2014,EAV-100916-U,Waste from crack-indicating substances (oh.100915),,
+2014,EAV-100999-U,Casting of iron and steel: wastes not otherwise specified,8.0,1.9
+2014,EAV-101003-U,Non-ferrous metals: furnace slag,32.0,8.5
+2014,EAV-101005-G,"Non-ferrous metals: casting moulds, casting sands before casting",,
+2014,EAV-101006-U,Casting molds and sand before casting (without 101005),14.0,38.5
+2014,EAV-101007-G,"Non-ferrous metals: casting moulds, casting sands after casting",5.0,2.3
+2014,EAV-101008-U,Casting molds and sands after casting (without 101007),59.0,318.4
+2014,EAV-101009-G,Non-ferrous metals: filter dust with hazardous substances,12.0,3.1
+2014,EAV-101010-U,Filter dust (without 101009),13.0,9.6
+2014,EAV-101011-G,Non-ferrous metals: And. particles with dangerous fabrics,,
+2014,EAV-101012-U,Other particles (excluding 101011),6.0,0.7
+2014,EAV-101013-G,Non-ferrous metal:Abf.v. Binding agents with hazardous St.,,
+2014,EAV-101014-U,Waste binders (excluding 101013),,
+2014,EAV-101015-G,Non-ferrous metals: waste from crack-indicating subst.,,
+2014,EAV-101016-U,Waste from crack-indicating substances (oh.101015),,
+2014,EAV-101099-U,Casting of non-ferrous metals: wastes not otherwise specified,7.0,0.3
+2014,EAV-101103-U,Fiberglass waste,50.0,32.4
+2014,EAV-101105-U,Glass production: particles and dust,32.0,8.6
+2014,EAV-101109-G,Mixture waste with hazardous fabrics v. d. Melt,11.0,0.6
+2014,EAV-101110-U,Batch waste before melting (without 101109),15.0,4.4
+2014,EAV-101111-G,Glass waste in small particles and glass dust,10.0,2.6
+2014,EAV-101112-U,Glass waste (without 101111),233.0,197.4
+2014,EAV-101113-G,Glass polishing and glass grinding sludge,27.0,1.0
+2014,EAV-101114-U,Glass polishing and glass grinding slurry (without 101113),51.0,4.1
+2014,EAV-101115-G,Glass production: Solid waste from waste gas treatment,24.0,3.4
+2014,EAV-101116-U,Solid waste from exhaust gas treatment (oh. 101115),15.0,3.1
+2014,EAV-101117-G,"Glass production: sludges, filters. from exhaust gas tank.",,
+2014,EAV-101118-U,Sludge and filter cake from exhaust gas treatment (oh.101117),4.0,0.1
+2014,EAV-101119-G,Glass manufacturer: Solid Abf. a. company-owned wastewater tank,6.0,0.3
+2014,EAV-101120-U,Solid waste a. operational. Waste water tank (oh.101119),6.0,0.4
+2014,EAV-101199-U,Glass production: waste n.e.c.,6.0,1.9
+2014,EAV-101201-U,Ceramic products: raw mixtures before firing,42.0,31.0
+2014,EAV-101203-U,Ceramic products: particles and dust,55.0,7.7
+2014,EAV-101205-U,"Ceramic products: slurries, filter c. a.Exhaust tank",,
+2014,EAV-101206-U,Pottery Products: Discarded Forms,33.0,7.2
+2014,EAV-101208-U,"Waste from ceramic products, bricks, etc.",99.0,103.4
+2014,EAV-101209-G,Ceramic products: Solid waste a. Exhaust gas treatment,16.0,3.5
+2014,EAV-101210-U,Solid waste from exhaust gas treatment (oh. 101209),57.0,12.1
+2014,EAV-101211-G,Ceramic products: Glaze waste with heavy metals,3.0,0.1
+2014,EAV-101212-U,Glaze waste (without 101211),6.0,0.3
+2014,EAV-101213-U,Ceramic products: sludge (in-house waste water treatment),39.0,182.0
+2014,EAV-101299-U,"Ceramic products, ceramic building materials: waste not otherwise specified",19.0,4.2
+2014,EAV-101301-U,Cement etc.: Waste from raw batch before burning,4.0,101.3
+2014,EAV-101304-U,"Waste from calcination, hydration from quicklime",29.0,124.3
+2014,EAV-101306-U,"Cement and others: particles, dust (except 101312,101313)",50.0,202.8
+2014,EAV-101307-U,"Cement among others: sludges, filter cakes from exhaust gas tanks.",,
+2014,EAV-101309-G,Asbestos-containing waste a. Manufacture. v. asbestos cement,,
+2014,EAV-101310-U,Waste from manufacturing v. Asbestos cement (oh.101309),,
+2014,EAV-101311-U,"Composite waste (excluding 101309, 101310)",30.0,42.0
+2014,EAV-101312-G,Cement etc.: Solid waste from flue gas treatment,4.0,5.3
+2014,EAV-101313-U,Solid waste from exhaust gas treatment (oh. 101312),4.0,0.1
+2014,EAV-101314-U,Concrete waste and concrete sludge,138.0,273.9
+2014,EAV-101399-U,"Cement, gypsum, quicklime: waste n.e.s.",14.0,6.8
+2014,EAV-101401-G,Crematoriums:Mercury h. Waste from gas cleaning,4.0,0.0
+2014,EAV-11,Waste from chemical surface treatment,,
+2014,EAV-110105-G,Surface treatment: Acid pickling solutions,617.0,155.7
+2014,EAV-110106-G,Surface treatment: Acids n.e.c.,201.0,7.6
+2014,EAV-110107-G,Surface treatment: Alkaline pickling solutions,572.0,40.9
+2014,EAV-110108-G,Surface treatment: phosphating sludge,183.0,7.4
+2014,EAV-110109-G,"Surface treatment: sludges, filter cakes w.f.st.",616.0,53.0
+2014,EAV-110110-U,Sludge and filter cake (without 110109),92.0,47.4
+2014,EAV-110111-G,Surface treatment: Aqueous rinsing liquid. m.f.st.,661.0,44.9
+2014,EAV-110112-U,Aqueous rinsing liquids (without 110111),77.0,6.1
+2014,EAV-110113-G,Surface treatment: Waste from degreasing with,116.0,7.9
+2014,EAV-110114-U,waste from degreasing (without 110113),12.0,0.3
+2014,EAV-110115-G,"Surface treatment: eluates, sludges a. Membrane system",3.0,0.4
+2014,EAV-110116-G,Surface treatment: ion exchange resins,23.0,0.1
+2014,EAV-110198-G,Surface treatment: Other waste with hazardous St.,208.0,8.2
+2014,EAV-110199-U,Surface treatment: waste n.e.c.,10.0,10.6
+2014,EAV-110202-G,Zinc hydrometallurgy sludges,7.0,157.1
+2014,EAV-110203-U,Waste from the production of anodes,,
+2014,EAV-110205-G,Waste from copper hydrometallurgy processes,,
+2014,EAV-110206-U,Waste from process. d.Copper Hydromet.(oh.110205),,
+2014,EAV-110207-G,Non-ferrous hydrometallurgy: Other Abf. m.dangerous.St.,,
+2014,EAV-110299-U,Non-ferrous hydrometallurgy: wastes not otherwise specified,5.0,13.9
+2014,EAV-110301-G,"Sludges, solids from hardening processes: cyanidh. waste",35.0,0.5
+2014,EAV-110302-G,"Sludges, solids from hardening processes: Other wastes",56.0,1.4
+2014,EAV-110501-U,Galvanization: Heart zinc,15.0,6.1
+2014,EAV-110502-U,Galvanizing: zinc ash,15.0,2.2
+2014,EAV-110503-G,Galvanizing: Solid waste from exhaust gas treatment,7.0,0.2
+2014,EAV-110504-G,Galvanizing: Used flux,,
+2014,EAV-110599-U,Galvanizing: waste n.e.c.,,
+2014,EAV-12,Waste from mechanical shaping processes,,
+2014,EAV-120101-U,Iron filings and turnings,2549.0,1548.7
+2014,EAV-120102-U,iron dust and particles,2492.0,3109.9
+2014,EAV-120103-U,Non-ferrous metal filings and turnings,1792.0,312.6
+2014,EAV-120104-U,Non-ferrous metal dust and particles,1385.0,201.1
+2014,EAV-120105-U,plastic shavings and turnings,490.0,58.0
+2014,EAV-120106-G,Halogen-containing mineral oil-based machining oils,21.0,0.3
+2014,EAV-120107-G,Halogen-free processing oils based on mineral oil,149.0,27.9
+2014,EAV-120108-G,Halogenated machining emulsions and. -solutions,30.0,3.6
+2014,EAV-120109-G,Halogen-free processing emulsions and solutions,4666.0,417.6
+2014,EAV-120110-G,Synthetic machining oils,34.0,0.8
+2014,EAV-120112-G,Used waxes and fats,622.0,9.7
+2014,EAV-120113-U,Welding waste,84.0,33.1
+2014,EAV-120114-G,Processing sludge containing dangerous substances,338.0,18.3
+2014,EAV-120115-U,Processing sludge (without 120114),117.0,10.7
+2014,EAV-120116-G,Abrasive waste (with hazardous substances),198.0,11.3
+2014,EAV-120117-U,Abrasive waste (without 120116),766.0,62.2
+2014,EAV-120118-G,"Oily metal sludge (grinding sludge, etc.)",670.0,47.5
+2014,EAV-120119-G,Easily biodegradable machining oils,,
+2014,EAV-120120-G,Used honing and abrasives with hazardous substances,79.0,3.5
+2014,EAV-120121-U,Used honing and grinding materials (without 120120),434.0,13.4
+2014,EAV-120199-U,"surface treatment Metals, plastics: waste not otherwise specified",187.0,128.0
+2014,EAV-120301-G,Aqueous washing liquids,424.0,25.5
+2014,EAV-120302-G,Waste from vapor degreasing,15.0,2.1
+2014,EAV-13,Oil waste and liquid fuel waste,,
+2014,EAV-130101-G,Hydraulic oils containing PCBs,6.0,0.0
+2014,EAV-130104-G,Hydraulic oils: Chlorinated emulsions,,
+2014,EAV-130105-G,Hydraulic oils: Non-chlorinated emulsions,136.0,5.8
+2014,EAV-130109-G,Chlorinated hydraulic oils based on mineral oil,4.0,0.0
+2014,EAV-130110-G,"Mineral oil-based, non-chlorinated hydraulic oils",229.0,2.5
+2014,EAV-130111-G,Synthetic hydraulic oils,20.0,0.1
+2014,EAV-130112-G,Easily biodegradable hydraulic oils,7.0,0.0
+2014,EAV-130113-G,Other hydraulic oils,29.0,0.1
+2014,EAV-130204-G,"Chlorinated engine, gear and lubricating oils",100.0,0.8
+2014,EAV-130205-G,"Non-chlorinated machines, gears and. lubricating oils",5817.0,75.4
+2014,EAV-130206-G,"Synthetic machine, gear and lubricating oils",64.0,0.2
+2014,EAV-130207-G,Easily biodegradable. Machine and gear oils,10.0,0.0
+2014,EAV-130208-G,"Other machine, gear and lubricating oils",474.0,7.9
+2014,EAV-130301-G,Insulating and heat transfer oils with PCB,28.0,0.2
+2014,EAV-130306-G,Chlorine. Insulating and heat transfer oils(oh.130301),4.0,0.0
+2014,EAV-130307-G,Non-chlorinated insulating and heat transfer oils,148.0,4.9
+2014,EAV-130308-G,Synthetic insulating and heat transfer oils,28.0,0.8
+2014,EAV-130309-G,biologist easily degradable. Insulation and Heat transfer oils,,
+2014,EAV-130310-G,Other insulating and heat transfer oils,26.0,0.1
+2014,EAV-130401-G,Bilge oils from inland shipping,,
+2014,EAV-130402-G,Bilge oils from pier drains,,
+2014,EAV-130403-G,Bilge oils from other shipping,17.0,2.7
+2014,EAV-130501-G,Solid waste from grit chambers and oil/water separators,237.0,17.5
+2014,EAV-130502-G,Sludge from oil/water separators,1690.0,60.9
+2014,EAV-130503-G,sludge from manholes,453.0,11.3
+2014,EAV-130506-G,Oils from oil/water separators,53.0,2.0
+2014,EAV-130507-G,Oily water from oil/water separators,356.0,21.5
+2014,EAV-130508-G,"Waste mixtures from sand traps, oil/water separation.",882.0,19.0
+2014,EAV-130701-G,Heating oil and diesel,128.0,0.9
+2014,EAV-130702-G,Petrol,57.0,0.5
+2014,EAV-130703-G,Other fuels (including mixtures),250.0,8.5
+2014,EAV-130801-G,Oil waste: sludges or emulsions from desalinators,,
+2014,EAV-130802-G,Waste oil: Other emulsions,462.0,11.8
+2014,EAV-130899-G,Oil waste: waste n.e.c.,342.0,18.1
+2014,EAV-14,"Waste from organic solvents, coolants",,
+2014,EAV-140601-G,"Chlorofluorocarbons, HCFC, HFC",109.0,0.1
+2014,EAV-140602-G,Other halogenated solvents and solvent mixtures.,367.0,2.4
+2014,EAV-140603-G,Other solvents and solvent mixtures,3114.0,36.5
+2014,EAV-140604-G,"Sludges, solid waste (halogenated solvents)",18.0,1.1
+2014,EAV-140605-G,"Sludge, solid waste (other solvents)",63.0,1.9
+2014,EAV-15,"Packaging waste, absorbent masses, wipes",,
+2014,EAV-150101-U,Paper and cardboard packaging,13499.0,1669.4
+2014,EAV-150102-U,Plastic packaging,9727.0,431.1
+2014,EAV-150103-U,Wooden packaging,6912.0,446.5
+2014,EAV-150104-U,packaging of metal,895.0,48.4
+2014,EAV-150105-U,composite packaging,374.0,64.0
+2014,EAV-15010600-U,Mixed packaging cannot be differentiated,7039.0,561.8
+2014,EAV-15010601-U,Lightweight packaging (LVP),1493.0,34.0
+2014,EAV-15010602-U,Mixed recyclables plus lightweight packaging,207.0,12.8
+2014,EAV-150107-U,Glass packaging,932.0,96.3
+2014,EAV-150109-U,Textile packaging,18.0,0.5
+2014,EAV-150110-G,Packaging with residues of dangerous substances,4450.0,39.7
+2014,EAV-150111-G,Metal packaging,87.0,0.6
+2014,EAV-150202-G,"Absorbent and filter materials, wipes",8431.0,100.1
+2014,EAV-150203-U,Absorbent and filter materials (without 150202),511.0,34.3
+2014,EAV-16,Waste not included elsewhere in the inventory,,
+2014,EAV-160103-U,scrap tires,685.0,57.9
+2014,EAV-160104-G,Old vehicles,31.0,5.7
+2014,EAV-160106-U,End-of-life vehicles without dangerous components,14.0,10.8
+2014,EAV-160107-G,Old vehicles: oil filters,390.0,0.6
+2014,EAV-160108-G,End-of-life vehicles: components containing mercury,10.0,0.1
+2014,EAV-160109-G,End-of-life vehicles: components containing PCBs,,
+2014,EAV-160110-G,End-of-life vehicles: Explosive components (e.g. from airbags),44.0,0.7
+2014,EAV-160111-G,End-of-life vehicles: Brake pads containing asbestos,5.0,0.0
+2014,EAV-160112-U,Brake pads (without 160111),35.0,1.8
+2014,EAV-160113-G,Old vehicles: brake fluids,160.0,0.3
+2014,EAV-160114-G,End-of-life vehicles: antifreeze is dangerous. fabrics,606.0,2.7
+2014,EAV-160115-U,Antifreeze (without 160114),25.0,0.1
+2014,EAV-160116-U,End-of-life vehicles: LPG containers,,
+2014,EAV-160117-U,End-of-life vehicles: ferrous metals,269.0,413.9
+2014,EAV-160118-U,End-of-life vehicles: non-ferrous metals,173.0,87.2
+2014,EAV-160119-U,Old vehicles: plastics,132.0,14.1
+2014,EAV-160120-U,Old vehicles: glass,121.0,3.6
+2014,EAV-16012100-G,"Dangerous Components (oh.160107-160111,160113-160114)",30.0,1.2
+2014,EAV-16012101-G,"Dangerous metallic components (without 160107-11,160113-14)",8.0,0.6
+2014,EAV-16012102-G,"Dangerous n.metal.components(oh.160107-11,160113-14)",,
+2014,EAV-16012200-U,Components not differentiable,25.0,2.4
+2014,EAV-16012201-U,metallic components,58.0,5.4
+2014,EAV-16012202-U,Non-metallic components,4.0,0.1
+2014,EAV-160199-U,End-of-life vehicles: waste n.e.c.,29.0,0.6
+2014,EAV-160209-G,transformers and Capacitors containing PCB.,254.0,0.3
+2014,EAV-160210-G,Used devices containing PCB (oh.160209),22.0,0.1
+2014,EAV-160211-G,Used equipment,777.0,1.5
+2014,EAV-160212-G,Used equipment containing free asbestos,45.0,0.1
+2014,EAV-160213-G,Used devices with dangerous Components (oh.160209-12),2047.0,19.6
+2014,EAV-160214-U,Used devices (without 160209 to 160213),1814.0,21.1
+2014,EAV-16021500-G,Hazardous components removed from used equipment,68.0,0.2
+2014,EAV-16021501-G,Waste containing mercury,,
+2014,EAV-16021502-G,circuit boards,30.0,0.3
+2014,EAV-16021503-G,Toner cartridges,184.0,0.2
+2014,EAV-16021504-G,Plastics with brominated flame retardants,,
+2014,EAV-16021505-G,Components containing asbestos,,
+2014,EAV-16021506-G,cathode ray tubes,5.0,0.0
+2014,EAV-16021507-G,Gas loading lamps,9.0,0.0
+2014,EAV-16021508-G,Liquid crystal displays,,
+2014,EAV-16021509-G,External electrical lines,20.0,0.1
+2014,EAV-16021510-G,Components containing refractory ceramic fibers,,
+2014,EAV-16021511-G,Electrolytic - Capacitors,,
+2014,EAV-16021512-G,Photoconductor drums containing cadmium or selenium,,
+2014,EAV-16021600-U,Removed from used devices. Components (oh.160215),442.0,5.3
+2014,EAV-16021601-U,External electrical lines (including cables),229.0,0.8
+2014,EAV-160303-G,Bad batches: Inorganic waste with hazardous substances,73.0,4.3
+2014,EAV-160304-U,Inorganic waste (excluding 160303),121.0,7.5
+2014,EAV-160305-G,Bad batches: Organic waste with hazardous substances,141.0,5.1
+2014,EAV-160306-U,Organic waste (without 160305),156.0,13.2
+2014,EAV-160401-G,Ammunition waste,,
+2014,EAV-160402-G,Fireworks waste,3.0,0.1
+2014,EAV-160403-G,Other explosive waste,18.0,0.1
+2014,EAV-160504-G,Gases containing dangerous substances in pressure vessels.,1389.0,1.6
+2014,EAV-160505-U,Gases in pressure vessels (without 160504),52.0,0.0
+2014,EAV-160506-G,Laboratory chemicals from hazardous substances,922.0,3.5
+2014,EAV-160507-G,Used inorganic chemicals,1367.0,3.1
+2014,EAV-160508-G,Used organic chemicals,1316.0,6.0
+2014,EAV-160509-U,Used chemicals (without 160506-160508),129.0,2.4
+2014,EAV-160601-G,lead-acid batteries,1888.0,19.1
+2014,EAV-160602-G,~Cd-Battery Garden,191.0,0.1
+2014,EAV-160603-G,Batteries containing mercury,6.0,0.0
+2014,EAV-160604-U,Alkaline batteries (except 160603),454.0,0.4
+2014,EAV-160605-U,Other batteries and accumulators,190.0,1.7
+2014,EAV-160606-G,"Separately collected electrolytes a. batteries, rechargeable battery.",16.0,1.0
+2014,EAV-160708-G,"Tanks, barrels: waste containing oil",870.0,45.7
+2014,EAV-160709-G,"Tanks, barrels: waste with other hazardous St.",131.0,8.1
+2014,EAV-160799-U,"Tanks, barrels: waste n.o.s.",8.0,1.7
+2014,EAV-160801-U,Used catalytic converters (without 160807),38.0,0.9
+2014,EAV-160802-G,Used catalyst. with dangerous transition metals,76.0,11.5
+2014,EAV-160803-U,Used catalysts with transition metals,15.0,2.0
+2014,EAV-160804-U,Used catalysts v. Cracking process (oh. 160807),8.0,8.5
+2014,EAV-160805-G,Used catalysts with phosphoric acid,4.0,0.3
+2014,EAV-160806-G,Used Fluids (Catalysts),6.0,0.7
+2014,EAV-160807-G,Used catalytic converters containing dangerous substances,78.0,9.5
+2014,EAV-160901-G,"Permanganate, z.B. Potassium permanganate",,
+2014,EAV-160902-G,"Chromates (potassium chromate, potassium or sodium dichromate)",,
+2014,EAV-160903-G,"Peroxides, e.g. hydrogen peroxide",11.0,0.0
+2014,EAV-160904-G,Oxidizing substances n.e.c.,7.0,0.1
+2014,EAV-161001-G,Aqueous liquid waste containing hazardous substances,190.0,20.9
+2014,EAV-161002-U,Aqueous liquid waste (excluding 161001),217.0,33.0
+2014,EAV-161003-G,Aqueous concentrates with dangerous substances,107.0,2.5
+2014,EAV-161004-U,Aqueous concentrates (without 161003),12.0,0.7
+2014,EAV-161101-G,Metallurgical refractory materials. processes,12.0,3.3
+2014,EAV-161102-U,Refractory mat. from metallurg. percent (oh.161101),31.0,1.6
+2014,EAV-161103-G,Other linings and fireproof materials,38.0,15.9
+2014,EAV-161104-U,Fireproof material made of metallurgical material. percent (oh.161103),217.0,363.1
+2014,EAV-161105-G,Nonmetallurgical refractory materials. percent,56.0,13.0
+2014,EAV-161106-U,Fireproof material a. non-metallurgical process (oh.161105),128.0,25.2
+2014,EAV-17,construction and demolition waste,,
+2014,EAV-170101-U,Concrete,812.0,372.8
+2014,EAV-170102-U,brick,291.0,51.8
+2014,EAV-170103-U,tiles and ceramics,252.0,25.9
+2014,EAV-170106-G,"Mixtures of o. separate fractions v. Concrete, etc.",276.0,101.5
+2014,EAV-170107-U,"Mixtures of concrete, bricks, etc. (oh.170106)",2313.0,902.4
+2014,EAV-170201-U,Holz,3507.0,172.6
+2014,EAV-170202-U,Glas,591.0,15.2
+2014,EAV-170203-U,plastic,659.0,25.9
+2014,EAV-170204-G,"Glass, plastic and wood containing dangerous substances",949.0,54.8
+2014,EAV-170301-G,Bitumen mixtures containing coal tar,253.0,205.4
+2014,EAV-170302-U,Bitumen mixtures (without 170301),457.0,400.7
+2014,EAV-170303-G,Coal tar and tar-containing products,208.0,4.0
+2014,EAV-170401-U,"copper, bronze, brass",978.0,15.7
+2014,EAV-170402-U,Aluminium,1605.0,62.7
+2014,EAV-170403-U,Nappy,82.0,0.6
+2014,EAV-170404-U,Zink,56.0,1.7
+2014,EAV-170405-U,iron and Steel,3539.0,1307.3
+2014,EAV-170406-U,Zinn,37.0,0.6
+2014,EAV-170407-U,Mixed metals,1736.0,163.9
+2014,EAV-170409-G,Metal waste with hazardous substances,93.0,18.3
+2014,EAV-170410-G,"Cables hazardous to oil, coal tar, etc. Substances included",123.0,3.1
+2014,EAV-170411-U,Cable (without 170410),1745.0,20.1
+2014,EAV-170503-G,Soil and stones containing hazardous substances,310.0,574.4
+2014,EAV-170504-U,soil and stones (without 170503),745.0,2992.4
+2014,EAV-170505-G,Dredged material containing dangerous substances,7.0,0.5
+2014,EAV-170506-U,dredged material (without 170505),17.0,105.4
+2014,EAV-170507-G,Track ballast containing dangerous substances,17.0,29.8
+2014,EAV-170508-U,Track ballast (without 170507),50.0,707.2
+2014,EAV-170601-G,Insulation material containing asbestos,40.0,0.9
+2014,EAV-170603-G,other insulation material,1461.0,20.7
+2014,EAV-170604-U,Insulating material (without 170601 and 170603),472.0,14.4
+2014,EAV-170605-G,Building materials containing asbestos,729.0,12.9
+2014,EAV-170801-G,Contaminated gypsum-based building materials,9.0,0.4
+2014,EAV-170802-U,Gypsum-based building materials (excluding 170801),475.0,30.5
+2014,EAV-170901-G,Construction and demolition waste containing mercury,4.0,0.1
+2014,EAV-170902-G,Construction and demolition waste containing PCBs,26.0,0.2
+2014,EAV-170903-G,Other construction and demolition waste,117.0,4.6
+2014,EAV-170904-U,Mixed construction and demolition waste (oh.170901-170903),3236.0,172.7
+2014,EAV-18,Waste from medical care,,
+2014,EAV-180101-U,Pointed or sharp objects (except 180103),72.0,0.9
+2014,EAV-180102-U,"Body parts, organs, blood supplies (except 180103)",519.0,7.9
+2014,EAV-180103-G,Waste (particular requirements from an infection prevention perspective),708.0,11.9
+2014,EAV-180104-U,"Wounds, plaster casts, laundry, disposable clothing, diapers",643.0,208.1
+2014,EAV-180106-G,Chemicals composed of hazardous substances,40.0,0.3
+2014,EAV-180107-U,Chemicals (without 180106),21.0,0.8
+2014,EAV-180108-G,cytotoxic. and cytostatic drugs for humans,501.0,5.2
+2014,EAV-180109-U,Medicines (without 180108),139.0,6.7
+2014,EAV-180110-G,Dental amalgam waste,,
+2014,EAV-180201-U,Pointed or sharp objects (without 180202),,
+2014,EAV-180202-G,Waste (particular requirements from an infection prevention perspective),57.0,1.0
+2014,EAV-180203-U,Waste (without special requirements from an infection prevention point of view),40.0,2.2
+2014,EAV-180205-G,Chemicals composed of hazardous substances,6.0,0.0
+2014,EAV-180206-U,Chemicals (without 180205),3.0,0.0
+2014,EAV-180207-G,Cytotoxic and. cytostatic drugs for animals,3.0,0.0
+2014,EAV-180208-U,Medicines (without 180207),4.0,0.0
+2014,EAV-19,"Waste from waste treatment plants, etc.",,
+2014,EAV-190102-U,"Combustion, pyrolysis: iron parts a. rust and. boiler ash",,
+2014,EAV-190105-G,"Combustion, pyrolysis: filter cake from exhaust gas treatment.",7.0,24.5
+2014,EAV-190106-G,"Combustion, pyrolysis: Aqueous liquid waste from exhaust gas tank.",9.0,16.6
+2014,EAV-190107-G,"Combustion, pyrolysis: solid waste a. Exhaust gas treatment",16.0,42.0
+2014,EAV-190110-G,"Combustion, pyrolysis: Used activated carbon a. Exhaust gas tank",12.0,0.9
+2014,EAV-190111-G,"Combustion, pyrolysis: grate, boiler ashes, slag",25.0,87.5
+2014,EAV-190112-U,Grate and boiler ash as well as slag (oh.190111),43.0,483.4
+2014,EAV-190113-G,"Combustion, pyrolysis: filter dust with dangerous St.",21.0,31.8
+2014,EAV-190114-U,Filter dust (without 190113),6.0,11.9
+2014,EAV-190115-G,"Combustion, pyrolysis: boiler dust is dangerous. fabrics",6.0,2.1
+2014,EAV-190116-U,boiler dust (without 190115),,
+2014,EAV-190117-G,Pyrolysis waste containing dangerous substances,4.0,1.1
+2014,EAV-190118-U,Pyrolysis waste (without 190117),,
+2014,EAV-190119-U,"Combustion, pyrolysis: sands from fluidized bed combustion",,
+2014,EAV-190199-U,"Incineration, pyrolysis of waste: waste n.e.c.",,
+2014,EAV-190203-U,Premixed waste from non-hazardous waste,6.0,0.9
+2014,EAV-190204-G,Premixed waste with at least one hazardous waste,7.0,2.0
+2014,EAV-190205-G,Sludges from physico-chemical treatment,209.0,33.2
+2014,EAV-190206-U,sludge a. physical-chemical treatment (oh.190205),23.0,2.3
+2014,EAV-190207-G,Oil and concentrates from separation processes,41.0,12.5
+2014,EAV-190208-G,Liquid combustible waste with hazardous fabrics,3.0,1.1
+2014,EAV-190209-G,Solid combustible waste containing hazardous substances,,
+2014,EAV-190210-U,Combustible waste (excluding 190208 and 190209),,
+2014,EAV-190211-G,Other waste containing dangerous substances,,
+2014,EAV-19029900-U,Physics-chem. Treatment of waste: waste not otherwise specified,,
+2014,EAV-19029950-U,Products resulting from waste treatment,,
+2014,EAV-190304-G,as dangerous classified partially stabilized Abf.,,
+2014,EAV-190305-U,Stabilized waste (excluding 190304),,
+2014,EAV-190306-G,Solidified waste classified as hazardous,,
+2014,EAV-190307-U,Solidified waste (excluding 190306),,
+2014,EAV-190401-U,Vitrified waste,,
+2014,EAV-190402-G,Filter dust and other waste from exhaust gas treatment,,
+2014,EAV-190403-G,Non-vitrified solid phase,,
+2014,EAV-190404-U,Aqueous liquid waste from tempering,,
+2014,EAV-190501-U,Non-composted fraction of municipal waste,4.0,0.0
+2014,EAV-190502-U,Non-composted fraction v. animal and plant waste,5.0,2.1
+2014,EAV-190503-U,Out of specification compost,3.0,39.5
+2014,EAV-19059900-U,waste not otherwise specified not differentiable,,
+2014,EAV-19059901-U,Compost (to specification),6.0,1.3
+2014,EAV-190603-U,Liquids from municipal waste treatment,,
+2014,EAV-190604-U,Digestate/sludge from tank v.municipal waste,,
+2014,EAV-190605-U,liquids from container v. animal and plant waste,,
+2014,EAV-190606-U,Digestate/sludge a. Container for animal and plant waste,,
+2014,EAV-190699-U,Anaerobic treatment of waste: waste n.e.c.,,
+2014,EAV-190702-G,"Landfill leachate, the hazardous contains substances",,
+2014,EAV-190703-U,Landfill leachate (without 190702),4.0,211.0
+2014,EAV-190801-U,Sieve and rake residues,134.0,20.4
+2014,EAV-190802-U,Sand trap residue,159.0,29.2
+2014,EAV-190805-U,Sludge from the treatment of v. municipal waste water,,
+2014,EAV-190806-G,Saturated or spent ion exchange resins,76.0,0.4
+2014,EAV-190807-G,Solutions and sludges from regeneration of ion exchange.,,
+2014,EAV-190808-G,Waste containing heavy metals from membrane systems,,
+2014,EAV-190809-U,Fat and oil mixtures from oil separators (edible oils),220.0,14.6
+2014,EAV-190810-G,Fat and oil mixtures from oil separators (oh.190809),21.0,0.4
+2014,EAV-190811-G,Sludge from biological treatment of industrial wastewater,19.0,313.0
+2014,EAV-190812-U,Sludge a. biological treatment of industrial waste water (oh.190811),62.0,220.6
+2014,EAV-190813-G,Slurries with hazardous Substances from industrial waste water,136.0,131.3
+2014,EAV-190814-U,Sludge from industrial wastewater (excluding 190813),313.0,82.0
+2014,EAV-190899-U,Wastewater treatment plants: wastes n.e.c.,13.0,8.1
+2014,EAV-190901-U,Solid waste from first filtration and screenings,38.0,13.9
+2014,EAV-190902-U,sludge from water purification,147.0,139.2
+2014,EAV-190903-U,Slurries from decarbonization,39.0,79.9
+2014,EAV-190904-U,Used activated carbon,56.0,2.9
+2014,EAV-190905-U,Saturated or used ion exchange resins,103.0,1.5
+2014,EAV-190906-U,Solutions and sludges from regeneration of ion exchange.,4.0,0.7
+2014,EAV-190999-U,Industrial water: waste n.e.c.,,
+2014,EAV-191001-U,iron and steel waste,52.0,19.0
+2014,EAV-191002-U,non-ferrous metal waste,22.0,2.4
+2014,EAV-191003-G,Shredder light fractions and dust,,
+2014,EAV-191004-U,Shredder light fractions and dust (without 191003),4.0,0.1
+2014,EAV-191005-G,Other factions that are dangerous. contain substances,,
+2014,EAV-191006-U,Other factions (excluding 191005),3.0,18.7
+2014,EAV-191101-G,Waste oil treatment: Used filter clays,10.0,2.5
+2014,EAV-191102-G,Waste oil processing: acid tars,,
+2014,EAV-191103-G,Waste oil processing: Aqueous liquid waste,3.0,0.1
+2014,EAV-191104-G,Waste oil processing: Abf.a.d. Fuel cleaning with bases,,
+2014,EAV-191105-G,Waste oil treatment: sludge (in-house waste water treatment),9.0,0.4
+2014,EAV-191106-U,Sludge from operational. Waste water treatment (oh.191105),8.0,1.2
+2014,EAV-191107-G,Waste oil treatment: Waste from exhaust gas cleaning,,
+2014,EAV-19119900-U,waste not otherwise specified,,
+2014,EAV-19119950-U,"Base oil (starting material for lubricant), (SK)",4.0,0.0
+2014,EAV-19119951-U,"Lubricant, (SS)",4.0,0.0
+2014,EAV-19119952-U,middle distillate component,,
+2014,EAV-19119953-U,"Light heating oil (including diesel), (HL)",,
+2014,EAV-19119954-U,Fuel oil heavy component,,
+2014,EAV-19119955-U,Heavy fuel oil (HS),,
+2014,EAV-19120100-U,"Mechanical waste treatment: paper, cardboard not diff.",167.0,66.6
+2014,EAV-19120101-U,Mechanical waste treatment: lower grades (group I),24.0,17.5
+2014,EAV-19120102-U,Mechanical waste treatment: Medium grades (Group II),20.0,8.6
+2014,EAV-19120103-U,Mechanical Waste Treatment: Better Grades (Group III),11.0,2.8
+2014,EAV-19120104-U,Mech.waste treatment: Powerful varieties (Gr.IV),4.0,1.6
+2014,EAV-19120105-U,Mechanical waste treatment: special types (Group V),7.0,0.2
+2014,EAV-191202-U,Mechanical waste treatment: ferrous metals,215.0,90.4
+2014,EAV-191203-U,Mechanical waste treatment: non-ferrous metals,97.0,9.0
+2014,EAV-191204-U,Mechanical waste treatment: plastic and rubber,232.0,62.9
+2014,EAV-19120500-U,Mechanical waste treatment: Glass cannot be differentiated,24.0,0.8
+2014,EAV-19120501-U,Mechanical waste treatment: white glass,25.0,5.4
+2014,EAV-19120502-U,Mechanical waste treatment: amber glass,13.0,2.2
+2014,EAV-19120503-U,Mechanical waste treatment: green glass,13.0,1.4
+2014,EAV-19120504-U,Mechanical waste treatment: stained glass,8.0,0.7
+2014,EAV-19120505-U,Mechanical waste treatment: mixed glass,24.0,6.8
+2014,EAV-191206-G,Mechanical waste treatment: wood with hazardous fabrics,9.0,3.4
+2014,EAV-191207-U,Wood (without 191206),59.0,5.9
+2014,EAV-191208-U,Mechanical waste treatment: textiles,12.0,2.4
+2014,EAV-19120900-U,"Mechanical waste treatment: minerals (sand, stones)",45.0,30.8
+2014,EAV-19120901-U,Products for use in road and road building,,
+2014,EAV-19120902-U,Products for use in other earthworks,3.0,0.2
+2014,EAV-19120903-U,products f.d. Use in concrete mixing plants,,
+2014,EAV-19120904-U,products for use in asphalt mixing plants,,
+2014,EAV-19120905-U,products for other uses,,
+2014,EAV-19120906-U,Hot mix for road and path construction,,
+2014,EAV-191210-U,Combustible waste (fuel from waste),24.0,22.1
+2014,EAV-191211-G,Other waste (including mixed materials),17.0,1.1
+2014,EAV-191212-U,Other waste (excluding 191211),125.0,138.9
+2014,EAV-191301-G,Solid waste from soil remediation,3.0,0.0
+2014,EAV-191302-U,Solid waste from soil remediation (oh.191301),,
+2014,EAV-191303-G,Sludges from soil remediation,,
+2014,EAV-191304-U,Sludge from soil remediation (oh.191303),,
+2014,EAV-191305-G,Sludge from groundwater remediation,7.0,0.1
+2014,EAV-191306-U,Sludge from groundwater remediation (oh.191305),4.0,2.2
+2014,EAV-191307-G,Aqueous waste and concentrates from groundwater remediation.,,
+2014,EAV-191308-U,Aqueous waste and conc. a. groundwater sanitation (oh.191307),,
+2014,EAV-20,Municipal waste (household waste and similar waste),,
+2014,EAV-200101-U,paper and cardboard,9373.0,1332.1
+2014,EAV-200102-U,Glas,1179.0,124.8
+2014,EAV-200108-U,Biodegradable kitchen and canteen waste,3419.0,215.6
+2014,EAV-200110-U,clothing,26.0,0.5
+2014,EAV-200111-U,textiles,70.0,3.0
+2014,EAV-200113-G,solvent,293.0,0.7
+2014,EAV-200114-G,acids,215.0,0.4
+2014,EAV-200115-G,Lye,197.0,1.2
+2014,EAV-200117-G,Photochemical,58.0,0.5
+2014,EAV-200119-G,pesticides,41.0,0.0
+2014,EAV-200121-G,Fluorescent tubes and other waste containing mercury,5583.0,11.0
+2014,EAV-200123-G,Used devices with chlorofluorocarbons,639.0,0.9
+2014,EAV-200125-U,Cooking oils and fats,629.0,9.7
+2014,EAV-200126-G,Oils and fats (without 200125),126.0,0.5
+2014,EAV-200127-G,"paints, inks, adhesives and synthetic resins",374.0,0.8
+2014,EAV-200128-U,"Paints, printing inks, adhesives, synthetic resins (oh.200127)",77.0,0.3
+2014,EAV-200129-G,Detergents containing dangerous substances,83.0,0.1
+2014,EAV-200130-U,Cleaning agent (without 200129),39.0,0.3
+2014,EAV-200131-G,Cytotoxic and cytostatic drugs,,
+2014,EAV-200132-U,Medicines (without 200131),93.0,5.7
+2014,EAV-200133-G,Batteries and accumulators (160601-160603),1176.0,0.9
+2014,EAV-200134-U,Batteries and accumulators (without 200133),270.0,0.2
+2014,EAV-200135-G,"Used electrical devices (oh.200121,200123)",3811.0,18.9
+2014,EAV-200136-U,"Used electrical devices (oh.200121,200123,200135)",1506.0,10.8
+2014,EAV-200137-G,Wood containing dangerous substances,54.0,0.9
+2014,EAV-200138-U,Wood (without 200137),1005.0,55.1
+2014,EAV-200139-U,plastics,2811.0,142.2
+2014,EAV-200140-U,metals,4445.0,607.5
+2014,EAV-200141-U,waste from cleaning chimneys,,
+2014,EAV-200199-U,Other fractions n.e.c.,,
+2014,EAV-20019900-U,Other fractions n.e.c. not differentiable,64.0,1.4
+2014,EAV-20019901-U,Mixed recyclables without lightweight packaging,16.0,1.9
+2014,EAV-200201-U,Biodegradable waste,4073.0,269.0
+2014,EAV-200202-U,soil and stones,60.0,9.7
+2014,EAV-200203-U,Other non-biodegradable waste,22.0,1.8
+2014,EAV-20030100-U,Mixed municipal waste cannot be differentiated,3078.0,279.1
+2014,EAV-20030101-U,"Household waste, commercial waste similar to household waste",3421.0,252.3
+2014,EAV-20030102-U,Commercial waste similar to domestic waste,11051.0,1026.6
+2014,EAV-20030104-U,Waste from the organic waste bin,469.0,20.3
+2014,EAV-200302-U,Market waste,30.0,3.8
+2014,EAV-200303-U,street sweepings,482.0,33.9
+2014,EAV-200304-U,Faecal sludge,259.0,45.5
+2014,EAV-200306-U,Waste from sewer cleaning,172.0,15.9
+2014,EAV-200307-U,Bulky waste,1863.0,50.2
+2014,EAV-200399-U,Municipal waste n.e.c.,116.0,14.6
+2014,EAV-99,Hazardous waste,,
+2014,EAV-990000-G,Total hazardous waste,,
+2014,,In total,19877.0,67871.3
+2018,EAV-01,Waste from the extraction of mineral resources,,
+2018,EAV-010101-U,Waste from mining v. metal-containing mineral resources,6.0,2.3
+2018,EAV-010102-U,Waste from mining v. non-metal Mineral resources,3.0,0.1
+2018,EAV-010304-G,Acid-forming processing residues a. sul. ore,,
+2018,EAV-010305-G,Other processing residues with hazardous substances,,
+2018,EAV-010306-U,Processing residues (without 010304 and 010305),,
+2018,EAV-010307-G,waste from processing metal-bearing mineral resources,,
+2018,EAV-010308-U,Dusty and powdery waste (without 010307),5.0,0.1
+2018,EAV-010309-U,Alumina Red Mud Manufacturing(oh.010310),,
+2018,EAV-010399-U,processing from metallh. Natural resources: waste n.e.c.,,
+2018,EAV-010407-G,Waste from further processing non-metal Mineral resources,,
+2018,EAV-010408-U,Gravel and rock quarry waste (without 010407),10.0,28.1
+2018,EAV-010409-U,sand and clay waste,11.0,5.8
+2018,EAV-010410-U,Dusty and powdery waste (without 010407),16.0,6.1
+2018,EAV-010411-U,waste from processing v.potash and rock salt (oh.010407),7.0,10.7
+2018,EAV-010412-U,"reprocessing including waste (oh.010407,010411)",,
+2018,EAV-010413-U,Waste from stonemasonry and sawing work (excluding 010407),13.0,40.8
+2018,EAV-010499-U,processing v. non-metal Soil waste: waste n.e.c.,4.0,0.4
+2018,EAV-010504-U,Muds and waste from freshwater wells,4.0,0.6
+2018,EAV-010505-G,Oily drilling muds and wastes,6.0,0.4
+2018,EAV-010506-G,Drilling muds and other drilling waste with hazardous fabrics,,
+2018,EAV-010507-U,"Barite-bearing drillings, waste (oh.010505,010506)",,
+2018,EAV-010508-U,"chloride content. Drilling cuttings, waste (oh.010505,010506)",,
+2018,EAV-010599-U,drilling mud and. other construction waste: waste not otherwise specified,,
+2018,EAV-02,"Waste from agriculture, forestry, etc.",,
+2018,EAV-020101-U,"Agriculture, among other things: sludge from washing and cleaning processes.",15.0,19.4
+2018,EAV-020102-U,Agriculture i.a.: Waste from animal tissue,80.0,159.5
+2018,EAV-020103-U,"Agriculture, among other things: waste from plant tissue",116.0,273.1
+2018,EAV-020104-U,"Agricultural, etc.: plastic waste (without packaging)",109.0,5.3
+2018,EAV-020106-U,"Animal excretions, liquid manure/manure/stable manure",63.0,283.5
+2018,EAV-020107-U,Forestry waste,15.0,2.6
+2018,EAV-020108-G,Agricultural chemical waste,41.0,0.4
+2018,EAV-020109-U,Waste v. Chemistry. f.d. Agriculture(oh.020108),4.0,0.3
+2018,EAV-020110-U,Agriculture e.g.: metal waste,77.0,5.7
+2018,EAV-020199-U,Agriculture and others: waste not otherwise specified,19.0,3.6
+2018,EAV-020201-U,Meat and others: sludges from washing and cleaning processes,35.0,29.3
+2018,EAV-020202-U,"Meat, among other things: waste from animal tissue",206.0,488.3
+2018,EAV-020203-U,Meat and others: For consumption/processing. unsuitable substances,249.0,177.9
+2018,EAV-020204-U,Meat and others: sludge (company waste water tank),1852.0,494.8
+2018,EAV-020299-U,"processing of meat, fish, etc.: waste not otherwise specified",31.0,57.0
+2018,EAV-020301-U,"Fruit and others: sludge from washing, cleaning proc. i.a.",59.0,143.9
+2018,EAV-020302-U,Fruit and others: waste from preservatives,,
+2018,EAV-020303-U,Fruit and others: Waste from extraction with solvents,4.0,1.0
+2018,EAV-020304-U,Fruit and others: For consumption/processing. unsuitable substances,421.0,452.0
+2018,EAV-020305-U,Fruit and others: sludge (in-house waste water treatment),64.0,117.4
+2018,EAV-020399-U,"Processing of fruit, vegetables, etc.: waste not otherwise specified",36.0,42.2
+2018,EAV-020401-U,Sugar production: beet soil,15.0,1491.8
+2018,EAV-020402-U,Sugar manufacturer: Not specific. Calcium carbonate sludge,,
+2018,EAV-020403-U,Sugar production: sludge (in-house waste water tank),,
+2018,EAV-020499-U,Sugar production: waste n.e.c.,8.0,45.7
+2018,EAV-020501-U,Milk processing: For consumption/processing. unsuitable,92.0,157.2
+2018,EAV-020502-U,Milk processing: sludge (in-house waste water treatment),43.0,161.4
+2018,EAV-020599-U,Milk processing: waste n.e.c.,6.0,20.0
+2018,EAV-020601-U,Bakery and confectionery: For consumption/processing. unsuitable St.,344.0,214.1
+2018,EAV-020602-U,"Baked goods, confectionery: waste from preservatives",,
+2018,EAV-020603-U,"Baked goods, confectionery: sludge (own waste water treatment)",72.0,29.2
+2018,EAV-020699-U,Manufacture of bakery and confectionery products: waste n.e.c.,24.0,30.9
+2018,EAV-020701-U,"Beverages: Waste from laundry, cleaning, etc.",26.0,147.9
+2018,EAV-020702-U,Beverages: Waste from alcohol distillation,6.0,300.8
+2018,EAV-020703-U,Beverages: Waste from chemical treatment,,
+2018,EAV-020704-U,Beverages: For consumption/processing. unsuitable substances,65.0,412.1
+2018,EAV-020705-U,Beverages: sludge (in-house waste water treatment),29.0,19.7
+2018,EAV-020799-U,Manufacture of beverages: waste n.e.c.,25.0,171.2
+2018,EAV-03,"Waste from wood processing, etc.",,
+2018,EAV-030101-U,Woodworking including: bark and cork waste,26.0,497.8
+2018,EAV-030104-G,"Sawdust, shavings, cuttings, wood, chipboard",34.0,5.3
+2018,EAV-030105-U,"Sawdust, chips, cuttings, wood, chipboard. (oh.030104)",702.0,2985.1
+2018,EAV-030199-U,"Wood processing, etc.: waste not otherwise specified",22.0,3.7
+2018,EAV-030201-G,Halogen-free organic wood preservatives,3.0,0.0
+2018,EAV-030202-G,Organochlorine wood preservatives,,
+2018,EAV-030203-G,Organometallic wood preservatives,,
+2018,EAV-030204-G,Inorganic wood preservatives,,
+2018,EAV-030205-G,Other wood preservatives with dangerous substances,,
+2018,EAV-030299-U,wood preservatives n.e.s.,3.0,0.0
+2018,EAV-030301-U,Paper production includes: bark and wood waste,26.0,192.8
+2018,EAV-030302-U,Sulphite sludge (from reclamation of cooking liquor),,
+2018,EAV-030305-U,Deinking sludge from paper recycling,12.0,582.9
+2018,EAV-030307-U,Mechanically separated waste (paper waste),79.0,786.2
+2018,EAV-030308-U,Waste from sorting v. Paper for recycling,170.0,385.0
+2018,EAV-030309-U,Lime sludge waste,3.0,1.9
+2018,EAV-030310-U,"Fiber waste, fiber, filler and coating sludge",122.0,1627.5
+2018,EAV-030311-U,Sludge a. operational waste water treatment (oh.030310),42.0,150.1
+2018,EAV-030399-U,"Paper production, among others: waste not otherwise specified",25.0,697.6
+2018,EAV-04,"Waste from the leather, fur and textile industries",,
+2018,EAV-040101-U,Flesh scrapings and skin scraps,3.0,0.0
+2018,EAV-040102-U,Cremated glued leather,5.0,18.2
+2018,EAV-040103-G,"Degreasing waste, solvent-free, non-liquid phase",,
+2018,EAV-040104-U,Tanning liquor containing chromium,,
+2018,EAV-040105-U,Chromium-free tannery broth,,
+2018,EAV-040106-U,Slurries containing chromium,9.0,19.0
+2018,EAV-040107-U,Chromium-free sludges,,
+2018,EAV-040108-U,Chrome waste from tanned leather,17.0,4.2
+2018,EAV-040109-U,Waste from preparation and finishing,8.0,0.2
+2018,EAV-040199-U,Leather and fur industry: waste n.e.c.,7.0,1.2
+2018,EAV-040209-U,"Waste from composite materials (elastomer, etc.)",69.0,24.8
+2018,EAV-040210-U,Organic substances from natural materials (e.g. fats),9.0,0.7
+2018,EAV-040214-G,Waste from the finish with organ. solvent,3.0,0.0
+2018,EAV-040215-U,Waste from the finish (without 040214),11.0,0.8
+2018,EAV-040216-G,Dyes and pigments containing dangerous substances,5.0,0.2
+2018,EAV-040217-U,Dyes and pigments (without 040216),6.0,0.3
+2018,EAV-040219-G,Textile industry: sludge (own waste water treatment),,
+2018,EAV-040220-U,Sludge from company-owned Waste water tank (oh.040219),19.0,3.1
+2018,EAV-040221-U,Waste from untreated textile fibers,35.0,4.1
+2018,EAV-040222-U,Waste from processed textile fibres,224.0,38.1
+2018,EAV-040299-U,Textile industry: waste n.e.c.,16.0,0.9
+2018,EAV-05,"Waste from petroleum refining, natural gas purification",,
+2018,EAV-050102-G,Petroleum refining: desalination sludges,,
+2018,EAV-050103-G,Petroleum refining: bottom sludge from tanks,35.0,22.1
+2018,EAV-050104-G,Petroleum refining: Acid alkyl sludges,,
+2018,EAV-050105-G,Petroleum Refining: Oil Spills,,
+2018,EAV-050106-G,Petroleum refining: oil holding.sludges a.operation process.,29.0,9.6
+2018,EAV-050107-G,Petroleum refining: acid tars,,
+2018,EAV-050108-G,Petroleum refining: Other teas,,
+2018,EAV-050109-G,Petroleum refining: sludge (company wastewater tank),5.0,2.6
+2018,EAV-050110-U,Sludge a. operationally appropriate Waste water tank (oh.050109),5.0,6.7
+2018,EAV-050111-G,Petroleum refinery: Removal from pure fuel. with bases,,
+2018,EAV-050112-G,Petroleum Refining: Acidic Oils,,
+2018,EAV-050113-U,Petroleum refining: sludges from boiler feed water treatment.,,
+2018,EAV-050114-U,Petroleum refining: Waste from cooling towers,,
+2018,EAV-050115-G,Petroleum Refining: Used filter clays,5.0,0.6
+2018,EAV-050116-U,Petroleum Ref.:Sulphur. Waste from oil desulfurization,5.0,0.2
+2018,EAV-050117-U,Petroleum refining: bitumen,7.0,0.1
+2018,EAV-050199-U,Petroleum refining: wastes n.e.c.,,
+2018,EAV-050601-G,Coal pyrolysis: acid tars,,
+2018,EAV-050603-G,Kohlepyrolyse: Andere Teere,32.0,17.5
+2018,EAV-050604-U,Coal pyrolysis: waste from cooling columns,,
+2018,EAV-050699-U,Coal pyrolysis: wastes n.e.c.,,
+2018,EAV-050701-G,"Natural gas cleaning, transport: mercury h. waste",,
+2018,EAV-050702-U,"Natural gas cleaning, transport:Sulphurous waste",5.0,0.5
+2018,EAV-050799-U,"Natural gas purification, transport: waste n.e.c.",,
+2018,EAV-06,Waste from inorganic chemical processes,,
+2018,EAV-060101-G,sulfuric acid and sulphurous acid,177.0,166.7
+2018,EAV-060102-G,hydrochloric acid,50.0,6.7
+2018,EAV-060103-G,Hydrofluoric acid,10.0,0.3
+2018,EAV-060104-G,Phosphoric acid and phosphorous acid,31.0,1.5
+2018,EAV-060105-G,Nitric acid and nitrous acid,32.0,0.8
+2018,EAV-060106-G,Other acids,742.0,11.8
+2018,EAV-060199-U,Acids: wastes n.e.c.,7.0,0.1
+2018,EAV-060201-G,Calciumhydroxid,9.0,0.9
+2018,EAV-060203-G,Ammoniumhydroxid,34.0,6.6
+2018,EAV-060204-G,Sodium and potassium hydroxide,50.0,3.7
+2018,EAV-060205-G,Other Bases,631.0,11.4
+2018,EAV-060299-U,Bases: wastes n.e.c.,,
+2018,EAV-060311-G,Solid salts and solutions containing cyanide,18.0,0.3
+2018,EAV-060313-G,Solid salts and solutions containing heavy metals,97.0,14.2
+2018,EAV-060314-U,Solid salts and solutions (without 060311 and 060313),184.0,115.4
+2018,EAV-060315-G,Metal oxides containing heavy metals,26.0,3.1
+2018,EAV-060316-U,Metal oxides (without 060315),47.0,38.3
+2018,EAV-060399-U,"Salts, saline solutions, metal oxides: wastes not otherwise specified",7.0,0.2
+2018,EAV-060403-G,Waste containing arsenic,8.0,0.4
+2018,EAV-060404-G,Waste containing mercury,450.0,1.6
+2018,EAV-060405-G,Waste containing other heavy metals,55.0,43.3
+2018,EAV-060499-U,Waste containing metal n.e.c.,3.0,0.4
+2018,EAV-060502-G,Sludge from on-site wastewater treatment,71.0,43.6
+2018,EAV-060503-U,sludge from on-site Waste water tank (oh.060502),104.0,90.8
+2018,EAV-060602-G,Waste containing dangerous sulfides,5.0,2.0
+2018,EAV-060603-U,Waste containing sulfide (without 060602),,
+2018,EAV-060699-U,Sulphur-containing chemicals: wastes n.e.s.,,
+2018,EAV-060701-G,Asbestos-containing waste from electrolysis,,
+2018,EAV-060702-G,Activated carbon from chlorine production,,
+2018,EAV-060703-G,Mercurial barium sulfate sludges,,
+2018,EAV-060704-G,"Solutions and acids, e.g. contact acid",,
+2018,EAV-060799-U,Halogens: wastes n.e.c.,3.0,1.8
+2018,EAV-060802-G,Hazardous waste containing chlorosilanes,4.0,10.8
+2018,EAV-060899-U,"Silicon, silicon compounds: wastes not otherwise specified",14.0,16.5
+2018,EAV-060902-U,Phosphorous slag,,
+2018,EAV-060903-G,Calcium-based reaction wastes,,
+2018,EAV-060904-U,Calcium-based reaction waste (without 060903),,
+2018,EAV-060999-U,Chemicals containing phosphorus: wastes not otherwise specified,,
+2018,EAV-061002-G,Nitrogen.Chemistry.: Waste with hazardous fabrics,6.0,0.3
+2018,EAV-061099-U,Nitrogenous chemicals: wastes n.e.c.,4.0,0.1
+2018,EAV-061101-U,Calcium-based reaction wastes a. titanium dioxide,,
+2018,EAV-061199-U,"Inorganic pigments, colourants: waste not otherwise specified",4.0,0.1
+2018,EAV-061301-G,"Inorganic pesticides, wood preservatives",12.0,0.1
+2018,EAV-061302-G,Used activated carbon (without 060702),103.0,2.4
+2018,EAV-061303-U,carbon black,31.0,2.8
+2018,EAV-061304-G,Waste from asbestos processing,,
+2018,EAV-061305-G,Oven and chimney soot,,
+2018,EAV-061399-U,Inorganic chemical processes: wastes not otherwise specified,14.0,0.1
+2018,EAV-07,Waste from organic chemical processes,,
+2018,EAV-070101-G,"Organic basic chemistry: aqueous washing liquid, mother liquors",234.0,37.2
+2018,EAV-070103-G,"Organic basic chemistry: halogen organic solvents, washing fl.",204.0,46.7
+2018,EAV-070104-G,"Org.Basic chemistry: solvents, washing liquids",879.0,146.4
+2018,EAV-070107-G,"Org.Basic chem.: Halogen.Reaction-, Distill.reset.",28.0,44.8
+2018,EAV-070108-G,Org.Basic chemistry: reaction and distillation residues.,137.0,129.7
+2018,EAV-070109-G,"Org.Basic chemistry: Halog.filter cake, absorbent mat.",12.0,0.4
+2018,EAV-070110-G,"Org.Grundchemik.: And. Filter cake, absorbent mat.",34.0,2.3
+2018,EAV-070111-G,Org. basic chemistry: sludge (company waste water tank),29.0,7.0
+2018,EAV-070112-U,sludge from on-site Waste water tank (oh.070111),14.0,0.7
+2018,EAV-070199-U,Bulk organic chemicals: wastes not otherwise specified,23.0,8.3
+2018,EAV-070201-G,"Plastics: Aqueous detergents, mother liquors",55.0,30.0
+2018,EAV-070203-G,"Plastics: halogen organic solvents, washing liquid.",31.0,3.0
+2018,EAV-070204-G,"Plastics: organic. Solvents, washing liquids",127.0,35.1
+2018,EAV-070207-G,"Plastics: Halog. Reaction, distillation residues",37.0,4.7
+2018,EAV-070208-G,Plastics: reaction and distillation residues,793.0,95.4
+2018,EAV-070209-G,"Plastics: Halog. Filter cake, absorbent mat.",4.0,0.1
+2018,EAV-070210-G,"Plastics: And. Filter cake, absorbent materials",33.0,6.2
+2018,EAV-070211-G,Plastics: sludge (in-house waste water treatment),10.0,0.7
+2018,EAV-070212-U,sludge from on-site Sewage treatment (oh.070211),32.0,15.9
+2018,EAV-070213-U,Plastic waste,1531.0,386.2
+2018,EAV-070214-G,Plastics: waste from additives with hazardous substances.,64.0,3.2
+2018,EAV-070215-U,Waste additives (excluding 070214),33.0,1.8
+2018,EAV-070216-G,Plastics: Dangerous. Waste containing silicones,6.0,1.1
+2018,EAV-070217-U,Waste containing silicon (without 070216),17.0,2.1
+2018,EAV-070299-U,"Plastics, fibers, synthetic rubber: waste not otherwise specified",170.0,61.5
+2018,EAV-070301-G,"Organic dyes: aqueous wash liquor, mother liquors",31.0,3.9
+2018,EAV-070303-G,"Organic dyes: halogen org. solvent, washbottle",31.0,1.0
+2018,EAV-070304-G,"Organic dyes: solvents, washing liquids",341.0,23.4
+2018,EAV-070307-G,"Organic dyes: Halog. Reaction, distillation residue",7.0,2.7
+2018,EAV-070308-G,Organic dyes: reaction and distillation residues,19.0,6.2
+2018,EAV-070309-G,"Organic dyes: halogen. Filter cake, absorbent mat.",6.0,0.3
+2018,EAV-070310-G,"Organic dyes: Other filter cakes, absorption mat.",6.0,0.3
+2018,EAV-070311-G,Org. dyes: sludge (in-house waste water tank),,
+2018,EAV-070312-U,sludge from on-site Sewage treatment (oh.070311),4.0,0.5
+2018,EAV-070399-U,"Organic dyes, pigments: wastes not otherwise specified",5.0,0.2
+2018,EAV-070401-G,"Pesticides: Aqueous wash, mother liquor.",16.0,17.2
+2018,EAV-070403-G,"Plant protection agent.: halogen organic solvents, washing fl.",8.0,45.2
+2018,EAV-070404-G,"Pesticides: Organ. solvent, washbottle",13.0,19.1
+2018,EAV-070407-G,Plant protection with: halogen reaction and distillation residue,8.0,12.0
+2018,EAV-070408-G,"Plant protection products: reaction, distillation residue.",8.0,3.4
+2018,EAV-070409-G,"Plant protection products: halogen filter cake, absorbent mat",3.0,0.2
+2018,EAV-070410-G,"Pesticides: filter cake, absorbent mat.",5.0,0.5
+2018,EAV-070411-G,Plant protection: sludge (company wastewater tank),5.0,0.4
+2018,EAV-070412-U,Sludge from company-owned Sewage treatment (oh.070411),,
+2018,EAV-070413-G,Pesticides: solid waste with dangerous goods,8.0,2.0
+2018,EAV-070499-U,"Pesticides, etc.: Waste not otherwise specified",3.0,0.2
+2018,EAV-070501-G,"Pharmaceuticals: Aqueous detergents, mother liquors",37.0,31.7
+2018,EAV-070503-G,"Pharmaceuticals: halogen organic solvents, wash fl.",42.0,29.1
+2018,EAV-070504-G,"Pharmaceuticals: organ. Solvents, washing liquids.",80.0,61.3
+2018,EAV-070507-G,"Pharmaceuticals: halogen reaction, distillation residue.",6.0,1.4
+2018,EAV-070508-G,Pharmaceuticals: reaction and distillation residues,36.0,4.9
+2018,EAV-070509-G,"Pharmaceuticals: Halogen filter cake, absorbent mat.",5.0,0.3
+2018,EAV-070510-G,"Pharmaceuticals: filter cakes, absorbent materials",13.0,1.4
+2018,EAV-070511-G,Pharmaceuticals: sludge (in-house waste water treatment),6.0,0.9
+2018,EAV-070512-U,sludge from on-site Sewage treatment (oh.070511),11.0,12.5
+2018,EAV-070513-G,Pharmaceuticals: Solid waste with hazardous fabrics,38.0,1.5
+2018,EAV-070514-U,Solid waste (excluding 070513),45.0,21.5
+2018,EAV-070599-U,Pharmaceuticals: wastes not otherwise specified,72.0,18.5
+2018,EAV-070601-G,"Fats, soaps: Aqueous washing bottles, mother liquors",165.0,26.4
+2018,EAV-070603-G,"Greases, soaps: halogen organic solvents, detergents.",37.0,0.3
+2018,EAV-070604-G,"Fats, soaps: organ. solvent, washing liquid",165.0,4.9
+2018,EAV-070607-G,"Fats, soaps: Halogen.reaction, distill.residue.",5.0,0.1
+2018,EAV-070608-G,"Fats, soaps: reaction and distillation residues",463.0,40.3
+2018,EAV-070609-G,"Fats, soaps: halogen filter cake, absorbent mat.",,
+2018,EAV-070610-G,"Fats, soaps: filter cakes, absorbent materials",19.0,3.1
+2018,EAV-070611-G,"Fats, soaps: sludge (in-house waste water treatment)",,
+2018,EAV-070612-U,sludge from on-site Waste water tank (oh.070611),22.0,15.6
+2018,EAV-070699-U,"Fats, soaps, lubricants, etc.: waste not otherwise specified",145.0,34.0
+2018,EAV-070701-G,"Fine Chemicals: Aqueous washes, mother liquors",234.0,94.6
+2018,EAV-070703-G,"Fine chemicals: halogen organic solvents, washing fl.",141.0,12.9
+2018,EAV-070704-G,"Fine chemicals: organ. Solvents, washing liquids.",538.0,55.7
+2018,EAV-070707-G,"Fine chemicals: halogen reaction, distillation residue.",24.0,17.4
+2018,EAV-070708-G,Fine chemicals: reaction and distillation residues.,79.0,116.5
+2018,EAV-070709-G,"Fine chemicals: halogen filter cake, absorbent mat.",16.0,0.5
+2018,EAV-070710-G,"Fine chemicals: filter cakes, absorbent materials",35.0,2.9
+2018,EAV-070711-G,Fine chemicals: sludge (own waste water treatment),19.0,2.9
+2018,EAV-070712-U,sludge from on-site Sewage treatment (oh.070711),9.0,3.0
+2018,EAV-070799-U,Fine chemicals: wastes not otherwise specified,16.0,1.6
+2018,EAV-08,"Waste from MFSU from coatings, adhesives, etc.",,
+2018,EAV-080111-G,Paint and varnish waste with hazardous substances,4118.0,158.6
+2018,EAV-080112-U,Paint and varnish waste (without 080111),758.0,16.2
+2018,EAV-080113-G,Paint and varnish sludge with dangerous substances,483.0,28.3
+2018,EAV-080114-U,Paint and varnish sludge (without 080113),45.0,3.1
+2018,EAV-080115-G,"Paints, varnishes: Aqueous sludges with dangerous St.",163.0,14.1
+2018,EAV-080116-U,Aqueous sludge (without 080115),448.0,28.9
+2018,EAV-080117-G,Waste from paint or varnish removal,264.0,19.1
+2018,EAV-080118-U,Waste from paint or varnish removal (oh. 080117),102.0,3.6
+2018,EAV-080119-G,Aqueous suspensions containing paints or varnishes,59.0,10.9
+2018,EAV-080120-U,Aqueous suspensions (without 080119),131.0,9.2
+2018,EAV-080121-G,Paint or varnish remover waste,14.0,0.3
+2018,EAV-080199-U,"Paints, varnishes: waste not otherwise specified",7.0,0.3
+2018,EAV-080201-U,Waste coating powder,145.0,4.7
+2018,EAV-080202-U,Aqueous sludge containing ceramic materials,20.0,6.9
+2018,EAV-080203-U,"Aqueous suspensions, ceramic. materials containing",10.0,2.0
+2018,EAV-080299-U,Other coatings: wastes n.e.c.,4.0,0.7
+2018,EAV-080307-U,Aqueous sludges containing printing inks,6.0,0.4
+2018,EAV-080308-U,"Aqueous liquid wastes, d. Inks included",71.0,7.1
+2018,EAV-080312-G,Waste printing ink containing hazardous substances,287.0,16.2
+2018,EAV-080313-U,Waste printing ink (without 080312),99.0,2.6
+2018,EAV-080314-G,Printing ink sludge containing dangerous substances,93.0,13.4
+2018,EAV-080315-U,Printing ink sludge (without 080314),9.0,0.3
+2018,EAV-080316-G,Waste from etching solutions,,
+2018,EAV-080317-G,Waste toner containing hazardous substances,53.0,0.0
+2018,EAV-080318-U,Toner waste (without 080317),322.0,1.3
+2018,EAV-080319-G,Dispersion beer,14.0,0.1
+2018,EAV-080399-U,Printing inks: waste n.e.c.,3.0,0.0
+2018,EAV-080409-G,Adhesive and sealant waste with hazardous St.,1351.0,36.7
+2018,EAV-080410-U,Adhesive and sealant waste (excluding 080409),294.0,75.7
+2018,EAV-080411-G,Adhesive and sealant containing slurries,10.0,0.2
+2018,EAV-080412-U,Adhesive and sealant retention. Sludge(oh.080411),8.0,0.9
+2018,EAV-080413-G,"Adhesives, sealants: Aqueous sludges with dangerous substances.",15.0,0.5
+2018,EAV-080414-U,Aqueous sludge (without 080413),40.0,4.3
+2018,EAV-080415-G,"Adhesive, sealant: Aqueous liquid waste with hazardous st",9.0,0.3
+2018,EAV-080416-U,Aqueous liquid waste (excluding 080415),41.0,7.3
+2018,EAV-080417-G,"Adhesives, sealants: resin oils",,
+2018,EAV-080499-U,"Adhesives, sealants: wastes not otherwise specified",5.0,0.3
+2018,EAV-080501-G,isocyanate waste,109.0,0.6
+2018,EAV-09,Waste from the photographic industry,,
+2018,EAV-090101-G,Water-based developers and activator solutions,245.0,0.5
+2018,EAV-090102-G,Offset Printing Plate Developer Solutions,238.0,17.9
+2018,EAV-090103-G,Solvent-based developer solutions,8.0,0.1
+2018,EAV-090104-G,fixing baths,188.0,0.5
+2018,EAV-090105-G,bleach solutions and bleach-fix baths,3.0,0.2
+2018,EAV-090106-G,Waste containing silver from tank photographer. waste,,
+2018,EAV-090107-U,Films and photographic papers with silver,109.0,1.1
+2018,EAV-090108-U,Films and photographic papers without silver,76.0,1.2
+2018,EAV-090110-U,Disposable cameras without batteries,,
+2018,EAV-090111-G,Disposable cameras with batteries (160601-160603),,
+2018,EAV-090112-U,Disposable cameras with batteries (without 090111),,
+2018,EAV-090113-G,Waste from silver recovery (excluding 090106),,
+2018,EAV-090199-U,Photographic industry: waste n.e.c.,7.0,0.4
+2018,EAV-10,Waste from thermal processes,,
+2018,EAV-100101-U,"rust and. Boiler ash, slag, boiler stone (oh.100104)",378.0,5384.9
+2018,EAV-100102-U,Filter dust from coal firing,53.0,1520.2
+2018,EAV-100103-U,Filter dust from peat firing and firing,38.0,21.3
+2018,EAV-100104-G,Filter dust and boiler dust from oil firing,15.0,2.8
+2018,EAV-100105-U,Calcium-based reaction wastes in solid form,43.0,532.9
+2018,EAV-100107-U,Calcium-based reaction wastes (sludges),13.0,30.7
+2018,EAV-100109-G,sulfuric acid,,
+2018,EAV-100113-G,Filter dust from emulsified hydrocarbons,,
+2018,EAV-100114-G,"Rust and boiler ash, slag, boiler dust",20.0,8.3
+2018,EAV-100115-U,"Rust and Boiler ash, slag, boiler stone (oh.100114)",38.0,1139.9
+2018,EAV-100116-G,Fly ash from waste co-incineration,17.0,21.1
+2018,EAV-100117-U,Filter dust from co-incineration of waste (oh.100116),20.0,3552.6
+2018,EAV-100118-G,Waste from exhaust gas treatment with hazardous St.,44.0,47.8
+2018,EAV-100119-U,"Waste a. Exhaust gas treatment (without 100105,100107,100118)",21.0,10.3
+2018,EAV-100120-G,"Power plants, among others: sludge (company wastewater tank)",4.0,2.1
+2018,EAV-100121-U,sludge a. operational waste water treatment (oh.100120),5.0,0.8
+2018,EAV-100122-G,"Power plants, etc.: Aqueous sludge a. boiler cleaning",3.0,1.1
+2018,EAV-100123-U,Aqueous sludge from boiler cleaning (oh.100122),5.0,0.2
+2018,EAV-100124-U,"Power plants, among others: sands from fluidized bed combustion",,
+2018,EAV-100125-U,Waste from storage and preparation of fuel.,6.0,9.4
+2018,EAV-100126-U,Waste from cooling water treatment,7.0,3.4
+2018,EAV-100199-U,Power plants and other incineration plants: waste not otherwise specified,,
+2018,EAV-100201-U,Iron and steel industry: waste from slag processing,15.0,851.9
+2018,EAV-100202-U,Iron and steel ind.: Unprocessed slag,53.0,1443.0
+2018,EAV-100207-G,Iron and steel industry: Solid waste from exhaust gas treatment.,59.0,263.1
+2018,EAV-100208-U,Waste from exhaust gas treatment (excluding 100207),26.0,413.8
+2018,EAV-100210-U,"Iron, steel ind.: mill scale",81.0,417.8
+2018,EAV-100211-G,"Iron, steel ind.: oil hold. Drain from cooling water tank.",13.0,4.8
+2018,EAV-100212-U,Waste from cooling water treatment (without 100211),3.0,0.1
+2018,EAV-100213-G,"Iron, steel ind.: sludge, filter c. from exhaust gas tank.",10.0,155.6
+2018,EAV-100214-U,muds and. Filter cake from flue gas tank. (oh.100213),4.0,134.8
+2018,EAV-100215-U,Iron and steel ind.: Other sludges and filter cakes,18.0,251.3
+2018,EAV-100299-U,Iron and steel industry: waste n.e.c.,11.0,2.7
+2018,EAV-100302-U,Aluminum metallurgy: anode scrap,5.0,1.1
+2018,EAV-100304-G,Aluminum metallurgy: slags from initial melting,,
+2018,EAV-100305-U,Aluminum metallurgy: alumina waste,11.0,1.7
+2018,EAV-100308-G,Aluminum metallurgy:Salt slags a.Zweitschmel.,5.0,192.8
+2018,EAV-100309-G,Aluminum metallurgy: Black dross a.Zweitsch.,,
+2018,EAV-100315-G,Aluminum Metallurgy: Scum (Flammable),31.0,26.7
+2018,EAV-100316-U,Scum (without 100315),61.0,111.4
+2018,EAV-100317-G,Aluminum Metallurgy:Tarh. Abf. from anode manufacturer.,3.0,0.5
+2018,EAV-100318-U,Waste from anode production (without 100317),,
+2018,EAV-100319-G,Aluminum metallurgy: filter dust with hazardous St.,14.0,1.0
+2018,EAV-100320-U,Filter dust (without 100319),,
+2018,EAV-100321-G,Aluminum Metallurgy: Other Particles and Dust,10.0,0.4
+2018,EAV-100322-U,Other particles and dust (without 100321),4.0,0.1
+2018,EAV-100323-G,Aluminum metallurgy: Solid waste a. Exhaust gas treatment,15.0,12.0
+2018,EAV-100324-U,Solid waste from exhaust gas treatment (oh. 100323),,
+2018,EAV-100325-G,"Aluminum metallurgy: sludge, filter k.a.",3.0,4.7
+2018,EAV-100326-U,sludges and. Filter cake from flue gas tank. (oh.100325),4.0,0.1
+2018,EAV-100327-G,Aluminum Metallurgy: Oil H.Abf. from cooling water tank.,,
+2018,EAV-100328-U,Waste from cooling water treatment (excluding 100327),,
+2018,EAV-100329-G,Aluminum Metallurgy: Abf.a. Beh. v.Salt slags,,
+2018,EAV-100330-U,Waste from treatment of salt slags (oh.100329),,
+2018,EAV-100399-U,Aluminum metallurgy: wastes n.e.c.,,
+2018,EAV-100401-G,Lead metallurgy: slags (primary and secondary smelting),6.0,97.0
+2018,EAV-100402-G,"Lead metal: dross, scum (first, second scum)",52.0,5.7
+2018,EAV-100403-G,Bleimetallurgie: Calciumarsenat,,
+2018,EAV-100404-G,Lead metallurgy: filter dust,3.0,4.1
+2018,EAV-100405-G,Lead Metallurgy: Other particles and dust,10.0,3.7
+2018,EAV-100406-G,Lead metallurgy: Solid waste from exhaust gas treatment,,
+2018,EAV-100407-G,"Lead Metallurgy: Slurries, Filterk. from exhaust gas tank",,
+2018,EAV-100409-G,Lead Metallurgy: Oilh. Waste from cooling water tanks,,
+2018,EAV-100410-U,Waste from cooling water treatment (excluding 100409),,
+2018,EAV-100499-U,Lead metallurgy: wastes not otherwise specified,,
+2018,EAV-100501-U,"Zinc metallurgy: slags (first, second melting)",6.0,2.0
+2018,EAV-100503-G,Zinc Metallurgy: Filter Dust,7.0,0.2
+2018,EAV-100504-U,Zinc Metallurgy: Other Particles and Dust,14.0,1.7
+2018,EAV-100505-G,Zinc Metallurgy: Solid waste from flue gas treatment,,
+2018,EAV-100506-G,"Zinc Metallurgy: Slurries, Filterk. from exhaust gas tank.",,
+2018,EAV-100508-G,Zinc metallurgy: Ölh. Waste from cooling water tanks,,
+2018,EAV-100509-U,Waste from cooling water treatment (excluding 100508),,
+2018,EAV-100510-G,"Zinc metallurgy: dross, scum (flammable)",,
+2018,EAV-100511-U,"Scabies, scum (without 100510)",9.0,2.3
+2018,EAV-100599-U,Zinc metallurgy: wastes not otherwise specified,3.0,0.1
+2018,EAV-100601-U,"Copper metallurgy: slags (primary, secondary smelting)",5.0,69.6
+2018,EAV-100602-U,"Copper metal: dross, scum (first, second scum)",8.0,7.9
+2018,EAV-100603-G,Copper metallurgy: filter dust,6.0,1.3
+2018,EAV-100604-U,Copper Metallurgy: Other Particles and Dust,5.0,2.1
+2018,EAV-100606-G,Copper Metallurgy: Solid Waste a.Flue Gas Treatment,,
+2018,EAV-100607-G,"Copper metallurgy: sludges, filters. a.Exhaust tank",,
+2018,EAV-100609-G,Copper Metallurgy: Oil H.Abf. from cooling water tank.,,
+2018,EAV-100610-U,Waste from cooling water treatment (without 100609),,
+2018,EAV-100699-U,Copper metallurgy: wastes not otherwise specified,,
+2018,EAV-100701-U,"Silver metal etc.: slag (first, second melt)",,
+2018,EAV-100702-U,"Silver metal and others: dross, scum (first and second scum)",3.0,0.0
+2018,EAV-100703-U,Silbermet.a.a.: Solid waste from flue gas treatment,,
+2018,EAV-100704-U,Silver metal among others: Other particles and dust,6.0,0.1
+2018,EAV-100705-U,"Silver metal, among other things: sludges, filter cakes in exhaust gas containers.",,
+2018,EAV-100707-G,Silbermet.ua.: Waste containing oil from a.Cooling water tank.,,
+2018,EAV-100708-U,Waste from cooling water treatment (without 100707),,
+2018,EAV-100799-U,"Silver, gold, platinum metallurgy: wastes n.e.c",,
+2018,EAV-100804-U,Nonferrous Metallurgy: Particles and Dust,11.0,0.9
+2018,EAV-100808-G,"Non-ferrous metals: salt slag (first, second smelting)",,
+2018,EAV-100809-U,Non-ferrous Metallurgy: Other slags,11.0,59.5
+2018,EAV-100810-G,"Nonferrous metallurgy:dross,scum (flammable)",6.0,0.3
+2018,EAV-100811-U,"Scabies, scum (without 100810)",56.0,4.4
+2018,EAV-100812-G,non-ferrous metal: tar Waste from anode manufacture.,,
+2018,EAV-100813-U,Carbon-containing waste (excluding 100812),,
+2018,EAV-100814-U,Non-ferrous metallurgy: anode scrap,,
+2018,EAV-100815-G,Non-ferrous metallurgy: filter dust with hazardous level,31.0,4.2
+2018,EAV-100816-U,Filter dust (without 100815),6.0,0.1
+2018,EAV-100817-G,"Non-ferrous metallurgy: sludges, filters k.a.",,
+2018,EAV-100818-U,Sludge and filter cake from exhaust gas treatment (oh.100817),,
+2018,EAV-100819-G,Nonferrous Metallurgy: Oil H.Abf. from cooling water tank.,,
+2018,EAV-100820-U,Waste from cooling water treatment (excluding 100819),,
+2018,EAV-100899-U,Non-ferrous metallurgy: wastes not otherwise specified,3.0,0.0
+2018,EAV-100903-U,"Iron,steel: furnace slag",103.0,259.6
+2018,EAV-100905-G,"Iron, steel: casting molds and sand before casting",4.0,0.7
+2018,EAV-100906-U,Casting molds and sand before casting (oh.100905),44.0,106.3
+2018,EAV-100907-G,"Iron, steel: casting molds and sand after casting",8.0,3.3
+2018,EAV-100908-U,Casting molds and sand after casting (without 100907),142.0,1854.2
+2018,EAV-100909-G,"Iron, steel: filter dust with dangerous substances",35.0,11.0
+2018,EAV-100910-U,Filter dust (without 100909),50.0,56.4
+2018,EAV-100911-G,"Iron, steel: Other particles with dangerous fabrics",,
+2018,EAV-100912-U,Other particles (excluding 100911),,
+2018,EAV-100913-G,"Iron,steel: abf. Binders with dangerous St.",,
+2018,EAV-100914-U,Waste binding agents (excluding 100913),,
+2018,EAV-100915-G,"Iron, steel: Removal of crack-indicating substances",,
+2018,EAV-100916-U,Waste from crack-indicating substances (oh.100915),,
+2018,EAV-100999-U,Casting of iron and steel: wastes not otherwise specified,8.0,3.1
+2018,EAV-101003-U,Non-ferrous metals: furnace slag,24.0,7.8
+2018,EAV-101005-G,"Non-ferrous metals: casting moulds, casting sands before casting",,
+2018,EAV-101006-U,Casting molds and sand before casting (without 101005),12.0,26.9
+2018,EAV-101007-G,"Non-ferrous metal: casting molds, sand after casting",3.0,0.6
+2018,EAV-101008-U,Casting molds and sands after casting (without 101007),44.0,246.3
+2018,EAV-101009-G,Non-ferrous metals: filter dust with hazardous substances,15.0,4.3
+2018,EAV-101010-U,Filter dust (without 101009),12.0,1.0
+2018,EAV-101011-G,Non-ferrous metals: And. particles with dangerous substances,,
+2018,EAV-101012-U,Other particles (excluding 101011),4.0,1.0
+2018,EAV-101013-G,Non-ferrous metal: Abf.v. Binders with dangerous substances,,
+2018,EAV-101014-U,Waste binders (excluding 101013),,
+2018,EAV-101015-G,Non-ferrous metals: waste from crack-indicating subst.,,
+2018,EAV-101016-U,Waste from crack-indicating substances (oh.101015),,
+2018,EAV-101099-U,Casting of non-ferrous metals: wastes not otherwise specified,6.0,2.0
+2018,EAV-101103-U,fiberglass waste,60.0,47.5
+2018,EAV-101105-U,Glass production: particles and dust,19.0,0.5
+2018,EAV-101109-G,Batch waste with hazardous fabrics v. i.e. Melt,9.0,0.6
+2018,EAV-101110-U,Batch waste before melting (without 101109),14.0,5.9
+2018,EAV-101111-G,Glass waste in small particles and glass dust,9.0,2.1
+2018,EAV-101112-U,Glass waste (without 101111),232.0,223.8
+2018,EAV-101113-G,Glass polishing and glass grinding sludge,23.0,1.6
+2018,EAV-101114-U,Glass polishing and glass grinding slurry (without 101113),53.0,3.4
+2018,EAV-101115-G,Glass production: Solid waste from waste gas treatment,36.0,2.7
+2018,EAV-101116-U,Solid waste from flue gas treatment (excluding 101115),12.0,2.2
+2018,EAV-101117-G,"Glass production: sludges, filters. from exhaust gas tank.",,
+2018,EAV-101118-U,Sludge and filter cake from exhaust gas treatment (oh.101117),,
+2018,EAV-101119-G,Glass manufacturer: Solid Abf. a. company-owned wastewater tank,9.0,1.3
+2018,EAV-101120-U,solid waste a. operational Sewage treatment (oh.101119),10.0,0.5
+2018,EAV-101199-U,Glass production: waste n.e.c.,3.0,0.1
+2018,EAV-101201-U,Ceramic products: raw mixtures before firing,37.0,36.3
+2018,EAV-101203-U,Ceramic products: particles and dust,54.0,6.5
+2018,EAV-101205-U,"Ceramic products: slurries, filter c. a. Exhaust gas tank",,
+2018,EAV-101206-U,Ceramic Products: Discarded Forms,39.0,9.5
+2018,EAV-101208-U,"Waste from ceramic products, bricks, etc.",97.0,108.2
+2018,EAV-101209-G,Ceramic products: Solid waste a. Exhaust gas treatment,19.0,3.8
+2018,EAV-101210-U,Solid waste from exhaust gas treatment (oh. 101209),54.0,13.2
+2018,EAV-101211-G,Ceramic products: Glaze waste with heavy metals,,
+2018,EAV-101212-U,Glaze waste (without 101211),4.0,0.3
+2018,EAV-101213-U,Ceramic products: sludge (in-house waste water treatment),46.0,54.9
+2018,EAV-101299-U,"Ceramic products, ceramic building materials: waste not otherwise specified",14.0,1.9
+2018,EAV-101301-U,Cement etc.: Waste from raw batch before burning,,
+2018,EAV-101304-U,"Waste from calcination, hydration from quicklime",15.0,100.5
+2018,EAV-101306-U,"Cement and others: particles, dust (except 101312,101313)",44.0,72.6
+2018,EAV-101307-U,"Cement etc.: sludge, filter cake from waste gas treatment.",,
+2018,EAV-101309-G,Asbestos-containing waste a. Manufacture. v. asbestos cement,,
+2018,EAV-101310-U,Waste from manufacturing v. Asbestos cement (oh.101309),,
+2018,EAV-101311-U,"Waste from composite materials (excluding 101309, 101310)",31.0,1932.3
+2018,EAV-101312-G,Cement etc.: Solid waste from flue gas treatment,5.0,1.9
+2018,EAV-101313-U,Solid waste from exhaust gas treatment (oh. 101312),,
+2018,EAV-101314-U,Concrete waste and concrete slurry,135.0,311.4
+2018,EAV-101399-U,"Cement, gypsum, quicklime: waste n.e.s.",8.0,1.1
+2018,EAV-101401-G,Crematoriums:Mercury h. Waste from gas cleaning,3.0,0.0
+2018,EAV-11,Waste from chemical surface treatment,,
+2018,EAV-110105-G,Surface treatment: Acid pickling solutions,576.0,153.7
+2018,EAV-110106-G,Surface treat.: acids n.e.c.,192.0,6.6
+2018,EAV-110107-G,Surface treatment: Alkaline pickling solutions,617.0,48.8
+2018,EAV-110108-G,Surface treatment: phosphating sludge,165.0,6.4
+2018,EAV-110109-G,"Surface treatment: sludges, filter cakes w.f.st.",565.0,51.3
+2018,EAV-110110-U,Sludge and filter cake (without 110109),95.0,51.3
+2018,EAV-110111-G,Surface treatment: Aqueous flushing liquid. with tax,733.0,58.0
+2018,EAV-110112-U,Aqueous rinsing liquids (without 110111),97.0,8.1
+2018,EAV-110113-G,Surface treatment: Waste from degreasing with,143.0,9.3
+2018,EAV-110114-U,waste from degreasing (without 110113),14.0,0.2
+2018,EAV-110115-G,"Surface treatment: eluates, sludges a. Membrane system",3.0,0.4
+2018,EAV-110116-G,Surface treatment: ion exchange resins,23.0,0.0
+2018,EAV-110198-G,Surface treatment: Other waste with hazardous St.,198.0,9.6
+2018,EAV-110199-U,Surface treatment: waste not otherwise specified,13.0,13.5
+2018,EAV-110202-G,Sludge from zinc hydrometallurgy,6.0,171.0
+2018,EAV-110203-U,Waste from the production of anodes,,
+2018,EAV-110205-G,Waste from copper hydrometallurgy processes,,
+2018,EAV-110206-U,Waste from process. d.Copper Hydromet.(oh.110205),,
+2018,EAV-110207-G,Non-ferrous hydrometallurgy: Other Abf. m.dangerous.St.,3.0,14.1
+2018,EAV-110299-U,Non-ferrous hydrometallurgy: wastes n.e.c.,6.0,1.6
+2018,EAV-110301-G,"Sludges, solids from hardening processes: cyanidh. waste",26.0,0.4
+2018,EAV-110302-G,"Sludges, solids from hardening processes: Other wastes",47.0,1.2
+2018,EAV-110501-U,Galvanization: Heart zinc,13.0,5.6
+2018,EAV-110502-U,Galvanizing: zinc ash,13.0,1.7
+2018,EAV-110503-G,Galvanizing: Solid waste from exhaust gas treatment,6.0,0.1
+2018,EAV-110504-G,Galvanizing: Used fluxes,,
+2018,EAV-110599-U,Galvanizing: waste n.e.c.,,
+2018,EAV-12,Waste from mechanical shaping processes,,
+2018,EAV-120101-U,Iron filings and turnings,2711.0,1562.3
+2018,EAV-120102-U,iron dust and particles,2370.0,2958.5
+2018,EAV-120103-U,Non-ferrous metal filings and turnings,2084.0,319.2
+2018,EAV-120104-U,Non-ferrous metal dust and particles,1473.0,245.4
+2018,EAV-120105-U,Plastic chips and turnings,407.0,58.5
+2018,EAV-120106-G,Halogen-containing mineral oil-based machining oils,19.0,10.9
+2018,EAV-120107-G,Halogen-free processing oils based on mineral oil,137.0,24.7
+2018,EAV-120108-G,Halogenated machining emulsions and. -solutions,33.0,0.9
+2018,EAV-120109-G,Halogen-free processing emulsions and solutions,4694.0,432.3
+2018,EAV-120110-G,Synthetic machining oils,28.0,0.2
+2018,EAV-120112-G,Used waxes and fats,568.0,11.7
+2018,EAV-120113-U,Welding waste,102.0,34.0
+2018,EAV-120114-G,Processing sludge with dangerous substances,323.0,15.7
+2018,EAV-120115-U,Processing sludge (without 120114),129.0,7.5
+2018,EAV-120116-G,Abrasive waste (with hazardous substances),205.0,7.4
+2018,EAV-120117-U,Abrasive waste (without 120116),767.0,64.5
+2018,EAV-120118-G,"Oily metal sludge (grinding sludge, etc.)",690.0,52.2
+2018,EAV-120119-G,Easily biodegradable machining oils,,
+2018,EAV-120120-G,Used honing and abrasives with hazardous substances,85.0,5.6
+2018,EAV-120121-U,Used honing and grinding materials (without 120120),416.0,11.1
+2018,EAV-120199-U,"Surface treatment Metals, plastics: wastes n.e.c.",161.0,147.8
+2018,EAV-120301-G,Aqueous washing liquids,473.0,22.6
+2018,EAV-120302-G,Vapor degreasing waste,13.0,0.7
+2018,EAV-13,waste oil and liquid fuel waste,,
+2018,EAV-130101-G,Hydraulic oils containing PCBs,,
+2018,EAV-130104-G,Hydraulic oils: Chlorinated emulsions,,
+2018,EAV-130105-G,Hydraulic oils: Non-chlorinated emulsions,79.0,4.9
+2018,EAV-130109-G,Chlorinated hydraulic oils based on mineral oil,3.0,0.0
+2018,EAV-130110-G,"Mineral oil-based, non-chlorinated hydraulic oils",153.0,1.9
+2018,EAV-130111-G,Synthetic hydraulic oils,15.0,0.1
+2018,EAV-130112-G,Easily biodegradable hydraulic oils,3.0,0.0
+2018,EAV-130113-G,Other hydraulic oils,24.0,0.1
+2018,EAV-130204-G,"Chlorinated engine, gear and lubricating oils",90.0,0.7
+2018,EAV-130205-G,"Non-chlorinated machines, gears and. lubricating oils",5968.0,72.6
+2018,EAV-130206-G,"Synthetic machine, gear and lubricating oils",44.0,0.1
+2018,EAV-130207-G,Easily biodegradable. Machine and gear oils,4.0,0.0
+2018,EAV-130208-G,"Other machine, gear and lubricating oils",494.0,5.8
+2018,EAV-130301-G,Insulating and heat transfer oils with PCB,17.0,0.2
+2018,EAV-130306-G,Chlorine. Insulating and heat transfer oils (oh.130301),4.0,0.0
+2018,EAV-130307-G,Non-chlorinated insulating and heat transfer oils,119.0,3.1
+2018,EAV-130308-G,Synthetic insulating and heat transfer oils,31.0,1.1
+2018,EAV-130309-G,Biologist easily degradable. Insulation and Heat transfer oils,,
+2018,EAV-130310-G,Other insulating and heat transfer oils,20.0,0.1
+2018,EAV-130401-G,Bilge oils from inland shipping,,
+2018,EAV-130402-G,Bilge oils from pier drains,,
+2018,EAV-130403-G,Bilge oils from other shipping,20.0,4.3
+2018,EAV-130501-G,Solid waste from grit chambers and oil/water separators,195.0,4.6
+2018,EAV-130502-G,Sludge from oil/water separators,1441.0,58.6
+2018,EAV-130503-G,sludge from manholes,366.0,9.2
+2018,EAV-130506-G,Oils from oil/water separators,37.0,2.2
+2018,EAV-130507-G,Oily water from oil/water separators,356.0,20.2
+2018,EAV-130508-G,"Waste mixtures from sand traps, oil/water separators.",882.0,19.5
+2018,EAV-130701-G,Heating oil and diesel,107.0,1.8
+2018,EAV-130702-G,Petrol,53.0,0.5
+2018,EAV-130703-G,Other fuels (including mixtures),276.0,18.0
+2018,EAV-130801-G,Oil waste: sludges or emulsions from desalinators,,
+2018,EAV-130802-G,Oil waste: Other emulsions,471.0,14.9
+2018,EAV-130899-G,Oil waste: waste n.e.c.,330.0,15.5
+2018,EAV-14,"Waste from organic solvents, coolants",,
+2018,EAV-140601-G,"Chlorofluorocarbons, HCFCs, HFCs",75.0,0.1
+2018,EAV-140602-G,Other halogenated solvents and solvent-based,319.0,3.7
+2018,EAV-140603-G,Other solvents and solvent mixtures,3152.0,44.9
+2018,EAV-140604-G,"Sludges, solid waste (halogenated solvents)",12.0,0.8
+2018,EAV-140605-G,"Sludge, solid waste (other solvents)",51.0,0.9
+2018,EAV-15,"Packaging waste, absorbent masses, wipes",,
+2018,EAV-150101-U,Paper and cardboard packaging,13961.0,1904.0
+2018,EAV-150102-U,Plastic packaging,10430.0,459.3
+2018,EAV-150103-U,wooden packaging,7668.0,541.3
+2018,EAV-150104-U,packaging of metal,792.0,52.5
+2018,EAV-150105-U,Composite packaging,347.0,67.1
+2018,EAV-15010600-U,Mixed packaging cannot be differentiated,7725.0,593.3
+2018,EAV-15010601-U,Lightweight packaging (LVP),1807.0,33.9
+2018,EAV-15010602-U,Mixed recyclables plus lightweight packaging,93.0,3.8
+2018,EAV-150107-U,Glass packaging,1074.0,92.4
+2018,EAV-150109-U,Packaging made from textiles,29.0,0.7
+2018,EAV-150110-G,Packaging with residues of dangerous substances,4721.0,42.1
+2018,EAV-150111-G,packaging of metal,79.0,1.2
+2018,EAV-150202-G,"Absorbent and filter materials, wipes",8465.0,94.6
+2018,EAV-150203-U,Absorbent and filter materials (without 150202),558.0,29.6
+2018,EAV-16,Waste not included elsewhere in the inventory,,
+2018,EAV-160103-U,scrap tires,715.0,57.7
+2018,EAV-160104-G,Old vehicles,30.0,6.7
+2018,EAV-160106-U,End-of-life vehicles without dangerous components,17.0,10.6
+2018,EAV-160107-G,Old vehicles: oil filters,310.0,0.3
+2018,EAV-160108-G,Old vehicles: components containing mercury,7.0,0.0
+2018,EAV-160109-G,End-of-life vehicles: components containing PCBs,,
+2018,EAV-160110-G,End-of-life vehicles: Explosive components (e.g. from airbags),44.0,1.0
+2018,EAV-160111-G,Old vehicles: brake pads containing asbestos,,
+2018,EAV-160112-U,Brake pads (without 160111),27.0,2.6
+2018,EAV-160113-G,End-of-life vehicles: brake fluids,135.0,0.5
+2018,EAV-160114-G,End-of-life vehicles: antifreeze is dangerous. fabrics,692.0,4.2
+2018,EAV-160115-U,Antifreeze (without 160114),20.0,0.1
+2018,EAV-160116-U,End-of-life vehicles: LPG containers,3.0,0.0
+2018,EAV-160117-U,End-of-life vehicles: ferrous metals,279.0,172.1
+2018,EAV-160118-U,End-of-life vehicles: non-ferrous metals,184.0,104.5
+2018,EAV-160119-U,Old vehicles: plastics,156.0,14.6
+2018,EAV-160120-U,Old vehicles: glass,131.0,4.3
+2018,EAV-16012100-G,"Dangerous Components (without 160107-160111,160113-160114)",42.0,2.1
+2018,EAV-16012101-G,"Dangerous metallic components (without 160107-11,160113-14)",4.0,1.3
+2018,EAV-16012102-G,"Dangerous n.metal.components(oh.160107-11,160113-14)",,
+2018,EAV-16012200-U,Components cannot be differentiated,34.0,4.0
+2018,EAV-16012201-U,metallic components,18.0,2.9
+2018,EAV-16012202-U,Non-metallic components,,
+2018,EAV-160199-U,End-of-life vehicles: waste not otherwise specified,24.0,0.4
+2018,EAV-160209-G,transformers and Capacitors containing PCB.,222.0,1.0
+2018,EAV-160210-G,Used devices containing PCB (oh.160209),8.0,0.0
+2018,EAV-160211-G,used devices,793.0,1.7
+2018,EAV-160212-G,Used equipment containing free asbestos,29.0,0.1
+2018,EAV-160213-G,Used devices with dangerous Components (oh.160209-12),2096.0,18.8
+2018,EAV-160214-U,Used devices (without 160209 to 160213),2093.0,21.6
+2018,EAV-16021500-G,Hazardous components removed from used equipment,58.0,0.2
+2018,EAV-16021501-G,Waste containing mercury,,
+2018,EAV-16021502-G,circuit boards,23.0,0.2
+2018,EAV-16021503-G,toner cartridges,149.0,0.0
+2018,EAV-16021504-G,Plastics with brominated flame retardants,,
+2018,EAV-16021505-G,Components containing asbestos,,
+2018,EAV-16021506-G,cathode ray tubes,,
+2018,EAV-16021507-G,Gas discharge lamps,3.0,0.0
+2018,EAV-16021508-G,Liquid crystal displays,,
+2018,EAV-16021509-G,External electrical lines,11.0,0.0
+2018,EAV-16021510-G,Components containing refractory ceramic fibers,,
+2018,EAV-16021511-G,Electrolytic - Capacitors,,
+2018,EAV-16021512-G,Photoconductor drums containing cadmium or selenium,,
+2018,EAV-16021600-U,Removed from used devices. Components (oh.160215),707.0,13.5
+2018,EAV-16021601-U,External electrical lines (including cables),288.0,1.2
+2018,EAV-160303-G,Bad batches: inorganic waste with hazardous substances,113.0,5.0
+2018,EAV-160304-U,Inorganic waste (excluding 160303),124.0,8.3
+2018,EAV-160305-G,Bad batches: Organic waste with hazardous fabrics,222.0,10.4
+2018,EAV-160306-U,Organic waste (excluding 160305),175.0,15.1
+2018,EAV-160401-G,Ammunition waste,,
+2018,EAV-160402-G,Fireworks waste,5.0,0.1
+2018,EAV-160403-G,Other explosive waste,29.0,0.3
+2018,EAV-160504-G,Gases containing dangerous substances in pressure vessels.,2155.0,2.8
+2018,EAV-160505-U,Gases in pressure vessels (without 160504),66.0,0.1
+2018,EAV-160506-G,Laboratory chemicals from hazardous substances,1043.0,3.4
+2018,EAV-160507-G,Used inorganic chemicals,1330.0,9.6
+2018,EAV-160508-G,Used organic chemicals,1332.0,31.2
+2018,EAV-160509-U,Used chemicals (excluding 160506-160508),118.0,3.2
+2018,EAV-160601-G,Lead batteries,2039.0,26.0
+2018,EAV-160602-G,Ni~Cd-Battery Garden,155.0,0.1
+2018,EAV-160603-G,Batteries containing mercury,11.0,0.0
+2018,EAV-160604-U,Alkaline batteries (except 160603),514.0,0.7
+2018,EAV-160605-U,Other batteries and accumulators,256.0,1.8
+2018,EAV-160606-G,"Separately collected electrolytes a. batteries, rechargeable battery.",15.0,2.3
+2018,EAV-160708-G,"Tanks, barrels: waste containing oil",937.0,35.5
+2018,EAV-160709-G,"Tanks, barrels: waste with other hazardous St.",137.0,13.9
+2018,EAV-160799-U,"Tanks, barrels: waste n.o.s.",14.0,1.4
+2018,EAV-160801-U,Used catalytic converters (without 160807),33.0,1.0
+2018,EAV-160802-G,Used catalyst. with.dangerous.transition metals,68.0,10.8
+2018,EAV-160803-U,Used catalysts with transition metals,15.0,1.2
+2018,EAV-160804-U,Used catalysts v. Cracking process (oh. 160807),5.0,4.4
+2018,EAV-160805-G,Used catalysts with phosphoric acid,3.0,0.2
+2018,EAV-160806-G,Used Fluids (Catalysts),5.0,0.3
+2018,EAV-160807-G,Used catalytic converters containing dangerous substances,84.0,3.7
+2018,EAV-160901-G,"Permanganate, z.B. Potassium permanganate",,
+2018,EAV-160902-G,"Chromates (potassium chromate, potassium or sodium dichromate)",3.0,0.0
+2018,EAV-160903-G,"Peroxides, e.g. hydrogen peroxide",13.0,0.1
+2018,EAV-160904-G,Oxidizing substances n.e.c.,4.0,0.1
+2018,EAV-161001-G,Aqueous liquid waste containing hazardous substances,299.0,22.0
+2018,EAV-161002-U,Aqueous liquid waste (excluding 161001),291.0,65.3
+2018,EAV-161003-G,Aqueous concentrates with dangerous substances,91.0,1.7
+2018,EAV-161004-U,Aqueous concentrates (without 161003),12.0,0.8
+2018,EAV-161101-G,Refractory materials from metallurgy. processes,13.0,5.5
+2018,EAV-161102-U,Fireproof material made of metallurgical material. percent (oh.161101),27.0,1.4
+2018,EAV-161103-G,Other linings and fireproof materials,44.0,29.2
+2018,EAV-161104-U,Fireproof material made of metallurgical material. percent (oh.161103),220.0,446.4
+2018,EAV-161105-G,Nonmetallurgical refractory materials. percent,58.0,9.5
+2018,EAV-161106-U,Fireproof material a. non-metallurgical process (oh.161105),131.0,36.5
+2018,EAV-17,Construction and demolition waste,,
+2018,EAV-170101-U,Concrete,809.0,343.1
+2018,EAV-170102-U,brick,231.0,30.7
+2018,EAV-170103-U,tiles and ceramics,215.0,21.2
+2018,EAV-170106-G,"Mixtures of o. separate fractions v. Concrete, etc.",257.0,76.9
+2018,EAV-170107-U,"Mixtures of concrete, bricks, etc. (oh.170106)",2577.0,626.3
+2018,EAV-170201-U,Holz,4372.0,208.6
+2018,EAV-170202-U,Glas,711.0,12.7
+2018,EAV-170203-U,plastic,804.0,25.6
+2018,EAV-170204-G,"Glass, plastic and wood with hazardous substances",964.0,49.7
+2018,EAV-170301-G,Bitumen mixtures containing coal tar,227.0,93.7
+2018,EAV-170302-U,Bitumen mixtures (without 170301),483.0,187.5
+2018,EAV-170303-G,Coal tar and tar-containing products,218.0,3.6
+2018,EAV-170401-U,"copper, bronze, brass",1264.0,21.5
+2018,EAV-170402-U,Aluminium,2148.0,82.7
+2018,EAV-170403-U,Nappy,115.0,1.5
+2018,EAV-170404-U,Zink,74.0,1.1
+2018,EAV-170405-U,iron and Steel,4700.0,1243.0
+2018,EAV-170406-U,Zinn,47.0,0.3
+2018,EAV-170407-U,Mixed metals,2176.0,210.2
+2018,EAV-170409-G,Metal waste with hazardous substances,112.0,4.3
+2018,EAV-170410-G,"Cables hazardous to oil, coal tar, etc. Substances included",141.0,4.1
+2018,EAV-170411-U,Cable (without 170410),2210.0,32.6
+2018,EAV-170503-G,Soil and stones containing hazardous substances,234.0,432.3
+2018,EAV-170504-U,Soil and stones (without 170503),760.0,2687.2
+2018,EAV-170505-G,Dredged material containing dangerous substances,5.0,0.5
+2018,EAV-170506-U,dredged material (without 170505),26.0,13.3
+2018,EAV-170507-G,Track ballast containing dangerous substances,17.0,77.5
+2018,EAV-170508-U,Track ballast (without 170507),46.0,367.7
+2018,EAV-170601-G,Insulation material containing asbestos,32.0,0.9
+2018,EAV-170603-G,Other insulation material,1936.0,26.2
+2018,EAV-170604-U,Insulating material (without 170601 and 170603),649.0,14.2
+2018,EAV-170605-G,Building materials containing asbestos,693.0,17.8
+2018,EAV-170801-G,Contaminated gypsum-based building materials,13.0,0.4
+2018,EAV-170802-U,Gypsum-based building materials (excluding 170801),617.0,43.2
+2018,EAV-170901-G,Construction and demolition waste containing mercury,8.0,2.6
+2018,EAV-170902-G,Construction and demolition waste containing PCBs,26.0,0.9
+2018,EAV-170903-G,Other construction and demolition waste,131.0,5.9
+2018,EAV-170904-U,Mixed construction and demolition waste (oh.170901-170903),3661.0,129.1
+2018,EAV-18,Waste from medical supplies,,
+2018,EAV-180101-U,Pointed or sharp objects (except 180103),76.0,0.7
+2018,EAV-180102-U,"Body parts, organs, blood products (except 180103)",530.0,3.4
+2018,EAV-180103-G,Waste (particular requirements from an infection prevention perspective),734.0,6.3
+2018,EAV-180104-U,"Wound, plaster bandages, laundry, disposable clothing, diapers",728.0,253.7
+2018,EAV-180106-G,Chemicals consisting of dangerous substances,75.0,1.9
+2018,EAV-180107-U,Chemicals (without 180106),21.0,2.3
+2018,EAV-180108-G,cytotoxic. and cytostatic drugs for humans,495.0,1.5
+2018,EAV-180109-U,Medicines (without 180108),142.0,8.0
+2018,EAV-180110-G,Dental amalgam waste,8.0,0.0
+2018,EAV-180201-U,Pointed or sharp objects (without 180202),,
+2018,EAV-180202-G,Waste (particular requirements from an infection prevention perspective),54.0,0.5
+2018,EAV-180203-U,Waste (without special requirement for an infection prevention view),38.0,1.8
+2018,EAV-180205-G,Chemicals composed of hazardous substances,5.0,0.0
+2018,EAV-180206-U,Chemicals (excluding 180205),,
+2018,EAV-180207-G,Cytotoxic and. cytostatic drugs for animals,,
+2018,EAV-180208-U,Medicines (without 180207),5.0,0.1
+2018,EAV-19,Waste from waste treatment plants e.g.,,
+2018,EAV-190102-U,"Combustion, pyrolysis: iron parts a. rust and. boiler ash",4.0,1.2
+2018,EAV-190105-G,"Combustion, pyrolysis: filter cake from exhaust gas treatment.",6.0,24.6
+2018,EAV-190106-G,"Combustion, pyrolysis: Aqueous liquid waste from flue gas tank",12.0,18.3
+2018,EAV-190107-G,"Incineration, pyrolysis: solid waste a. Exhaust gas treatment",16.0,34.3
+2018,EAV-190110-G,"Combustion, pyrolysis: Used activated carbon a. flue gas treatment",7.0,0.8
+2018,EAV-190111-G,"Combustion, pyrolysis: rust, boiler ash, slag",27.0,118.6
+2018,EAV-190112-U,Grate and boiler ash as well as slag (oh.190111),31.0,348.7
+2018,EAV-190113-G,"Combustion.,Pyrolysis: Filter dust with haz. St.",20.0,68.2
+2018,EAV-190114-U,Filter dust (without 190113),5.0,0.0
+2018,EAV-190115-G,"Combustion, pyrolysis: boiler dust is dangerous. fabrics",3.0,1.5
+2018,EAV-190116-U,Boiler dust (without 190115),,
+2018,EAV-190117-G,Pyrolysis waste containing dangerous substances,3.0,0.4
+2018,EAV-190118-U,Pyrolysis waste (without 190117),,
+2018,EAV-190119-U,"Combustion, pyrolysis: sands from fluidized bed combustion",,
+2018,EAV-190199-U,"Incineration, pyrolysis of waste: wastes not otherwise specified",,
+2018,EAV-190203-U,Premixed waste from non-hazardous waste,3.0,0.1
+2018,EAV-190204-G,Premixed waste with at least one hazardous waste,11.0,1.6
+2018,EAV-190205-G,Sludges from physico-chemical treatment,157.0,26.3
+2018,EAV-190206-U,Sludge a. physical-chemical treatment (oh.190205),25.0,3.5
+2018,EAV-190207-G,Oil and concentrates from separation processes,67.0,16.4
+2018,EAV-190208-G,Liquid combustible waste with hazardous fabrics,4.0,3.5
+2018,EAV-190209-G,Solid combustible waste containing hazardous substances,,
+2018,EAV-190210-U,Combustible waste (excluding 190208 and 190209),,
+2018,EAV-190211-G,Other wastes containing dangerous substances,4.0,0.0
+2018,EAV-19029900-U,physics.-chem. Treatment of waste: waste not otherwise specified,,
+2018,EAV-19029950-U,Products resulting from waste treatment,,
+2018,EAV-190304-G,as dangerous classified partially stabilized Abf.,,
+2018,EAV-190305-U,Stabilized waste (without 190304),,
+2018,EAV-190306-G,Solidified waste classified as hazardous,,
+2018,EAV-190307-U,Solidified waste (excluding 190306),5.0,0.7
+2018,EAV-190401-U,Vitrified waste,4.0,0.0
+2018,EAV-190402-G,Filter dust and other waste from exhaust gas treatment,,
+2018,EAV-190403-G,Non-vitrified solid phase,,
+2018,EAV-190404-U,Aqueous liquid waste from tempering,,
+2018,EAV-190501-U,Non-composted fraction of municipal waste,,
+2018,EAV-190502-U,Non-composted fraction v. animal and plant waste,,
+2018,EAV-190503-U,Out of specification compost,,
+2018,EAV-19059900-U,Waste n.e.c. not differentiable,,
+2018,EAV-19059901-U,Compost (to specification),,
+2018,EAV-190603-U,Liquids from treatment of municipal waste,,
+2018,EAV-190604-U,Digestate/sludge from tank v.municipal waste,,
+2018,EAV-190605-U,liquids from container v. animal and plant waste,,
+2018,EAV-190606-U,Fermentation residue/sludge a. Storage of animal and plant waste,,
+2018,EAV-190699-U,Anaerobic treatment of waste: waste n.e.c.,,
+2018,EAV-190702-G,"Landfill leachate, the hazardous contains substances",,
+2018,EAV-190703-U,Landfill leachate (without 190702),7.0,190.0
+2018,EAV-190801-U,Sieving and rake residues,116.0,14.9
+2018,EAV-190802-U,Sand trap residue,151.0,28.2
+2018,EAV-190805-U,Sludge from the treatment of v. municipal waste water,,
+2018,EAV-190806-G,Saturated or spent ion exchange resins,62.0,0.4
+2018,EAV-190807-G,Solutions and sludges from regeneration of ion exchange.,,
+2018,EAV-190808-G,Waste containing heavy metals from membrane systems,,
+2018,EAV-190809-U,Fat and oil mixtures from oil separators (edible oils),262.0,19.7
+2018,EAV-190810-G,Fat and oil mixtures from oil separators (oh.190809),16.0,0.7
+2018,EAV-190811-G,Sludge from biological treatment of industrial wastewater,23.0,350.1
+2018,EAV-190812-U,Sludge a. biological treatment of industrial waste water (oh.190811),66.0,213.2
+2018,EAV-190813-G,Sludge with dangerous Substances from industrial wastewater,139.0,164.9
+2018,EAV-190814-U,Sludge from industrial wastewater (excluding 190813),291.0,89.4
+2018,EAV-190899-U,Wastewater treatment plants: wastes n.e.c.,13.0,4.9
+2018,EAV-190901-U,Solid waste from first filtration and screenings,41.0,2.7
+2018,EAV-190902-U,sludge from water purification,143.0,100.6
+2018,EAV-190903-U,Slurries from decarbonization,36.0,83.2
+2018,EAV-190904-U,Used activated carbon,75.0,5.6
+2018,EAV-190905-U,Saturated or used ion exchange resins,100.0,1.5
+2018,EAV-190906-U,Solutions and sludges from regeneration of ion exchange.,5.0,18.7
+2018,EAV-190999-U,Industrial water: waste n.e.c.,8.0,5.6
+2018,EAV-191001-U,iron and steel waste,63.0,13.6
+2018,EAV-191002-U,non-ferrous metal waste,29.0,3.5
+2018,EAV-191003-G,Shredder light fractions and dust,,
+2018,EAV-191004-U,Shredder light fractions and dust (without 191003),10.0,0.7
+2018,EAV-191005-G,Other factions that are dangerous. contain substances,,
+2018,EAV-191006-U,Other factions (without 191005),3.0,3.1
+2018,EAV-191101-G,Waste oil treatment: used filter clay,11.0,1.6
+2018,EAV-191102-G,Waste oil processing: acid tars,,
+2018,EAV-191103-G,Waste oil processing: Aqueous liquid waste,,
+2018,EAV-191104-G,Waste oil processing: Abf.a.d. Fuel cleaning with bases,,
+2018,EAV-191105-G,Waste oil treatment: sludge (in-house waste water treatment),6.0,0.1
+2018,EAV-191106-U,Sludge from operational. Waste water treatment (oh.191105),7.0,0.3
+2018,EAV-191107-G,Waste oil treatment: Waste from exhaust gas cleaning,,
+2018,EAV-19119900-U,waste not otherwise specified,3.0,0.1
+2018,EAV-19119950-U,"Base oil (starting material for lubricant), (SK)",,
+2018,EAV-19119951-U,"Lubricant, (SS)",3.0,0.0
+2018,EAV-19119952-U,middle distillate component,,
+2018,EAV-19119953-U,"Light heating oil (including diesel), (HL)",,
+2018,EAV-19119954-U,Fuel oil heavy component,,
+2018,EAV-19119955-U,Heavy fuel oil (HS),,
+2018,EAV-19120100-U,"Mechanical waste treatment: paper, cardboard not different.",199.0,48.8
+2018,EAV-19120101-U,Mechanical waste treatment: lower grades (group I),12.0,5.2
+2018,EAV-19120102-U,Mechanical waste treatment: Medium grades (Group II),10.0,5.7
+2018,EAV-19120103-U,Mechanical Waste Treatment: Better Grades (Group III),4.0,1.0
+2018,EAV-19120104-U,Mech.waste treatment: Powerful varieties (Gr.IV),,
+2018,EAV-19120105-U,Mechanical waste treatment: special types (Group V),3.0,0.1
+2018,EAV-191202-U,Mechanical waste treatment: ferrous metals,359.0,107.5
+2018,EAV-191203-U,Mechanical waste treatment: non-ferrous metals,134.0,11.3
+2018,EAV-191204-U,Mechanical waste treatment: plastic and rubber,312.0,37.5
+2018,EAV-19120500-U,Mechanical waste treatment: Glass cannot be differentiated,20.0,76.8
+2018,EAV-19120501-U,Mechanical waste treatment: white glass,20.0,7.0
+2018,EAV-19120502-U,Mechanical waste treatment: brown glass,10.0,0.9
+2018,EAV-19120503-U,Mechanical waste treatment: green glass,16.0,0.8
+2018,EAV-19120504-U,Mechanical waste treatment: stained glass,3.0,0.1
+2018,EAV-19120505-U,Mechanical waste treatment: mixed glass,15.0,3.8
+2018,EAV-191206-G,Mechanical waste treatment: wood with hazardous fabrics,6.0,4.2
+2018,EAV-191207-U,Wood (without 191206),66.0,24.3
+2018,EAV-191208-U,Mechanical waste treatment: textiles,14.0,0.7
+2018,EAV-19120900-U,"Mechanical waste treatment: minerals (sand, stones)",50.0,23.6
+2018,EAV-19120901-U,Products for use in road and road building,,
+2018,EAV-19120902-U,Products for use in other earthworks,,
+2018,EAV-19120903-U,products f.d. Use in concrete mixing plants,,
+2018,EAV-19120904-U,products for use in asphalt mixing plants,,
+2018,EAV-19120905-U,products for other uses,,
+2018,EAV-19120906-U,Hot mix for road and path construction,,
+2018,EAV-191210-U,Combustible waste (fuel from waste),40.0,28.5
+2018,EAV-191211-G,Other waste (including material mixtures),16.0,5.6
+2018,EAV-191212-U,Other waste (without 191211),168.0,120.2
+2018,EAV-191301-G,Solid waste from soil remediation,3.0,0.1
+2018,EAV-191302-U,Solid waste from soil remediation (oh.191301),3.0,7.3
+2018,EAV-191303-G,Sludge from soil remediation,,
+2018,EAV-191304-U,Sludge from soil remediation (oh.191303),,
+2018,EAV-191305-G,Sludges from groundwater remediation,8.0,0.3
+2018,EAV-191306-U,Sludge from groundwater remediation (oh.191305),3.0,0.1
+2018,EAV-191307-G,Aqueous waste and concentrates from groundwater remediation.,,
+2018,EAV-191308-U,Aqueous waste and conc. a. groundwater sanitation (oh.191307),,
+2018,EAV-20,Municipal waste (household waste and similar waste),,
+2018,EAV-200101-U,paper and cardboard,10042.0,1488.6
+2018,EAV-200102-U,Glas,1195.0,93.5
+2018,EAV-200108-U,Biodegradable kitchen and canteen waste,3959.0,214.7
+2018,EAV-200110-U,clothing,21.0,0.1
+2018,EAV-200111-U,textiles,71.0,2.5
+2018,EAV-200113-G,Solvents,252.0,0.4
+2018,EAV-200114-G,acids,222.0,0.2
+2018,EAV-200115-G,Lye,183.0,0.5
+2018,EAV-200117-G,Photochemical,50.0,0.1
+2018,EAV-200119-G,Pesticides,54.0,0.0
+2018,EAV-200121-G,Fluorescent tubes and other waste containing mercury,5401.0,10.3
+2018,EAV-200123-G,Used equipment with chlorofluorocarbons,651.0,1.3
+2018,EAV-200125-U,Cooking oils and fats,736.0,12.6
+2018,EAV-200126-G,Oils and fats (without 200125),106.0,0.6
+2018,EAV-200127-G,"Paints, printing inks, adhesives and synthetic resins",335.0,1.9
+2018,EAV-200128-U,"Paints, printing inks, adhesives, synthetic resins (oh.200127)",93.0,0.4
+2018,EAV-200129-G,Detergents containing dangerous substances,113.0,0.3
+2018,EAV-200130-U,Cleaning agent (without 200129),44.0,0.1
+2018,EAV-200131-G,Cytotoxic and cytostatic drugs,5.0,0.0
+2018,EAV-200132-U,Medicines (excluding 200131),90.0,4.3
+2018,EAV-200133-G,Batteries and accumulators (160601-160603),1234.0,0.9
+2018,EAV-200134-U,Batteries and accumulators (excluding 200133),306.0,0.4
+2018,EAV-200135-G,"Used electrical devices (oh.200121,200123)",4052.0,25.4
+2018,EAV-200136-U,"Used electronic devices (without 200121, 200123, 200135)",1544.0,10.3
+2018,EAV-200137-G,Wood containing dangerous substances,38.0,1.8
+2018,EAV-200138-U,Wood (without 200137),1101.0,79.8
+2018,EAV-200139-U,plastics,3197.0,197.8
+2018,EAV-200140-U,metals,4992.0,1088.5
+2018,EAV-200141-U,waste from cleaning chimneys,,
+2018,EAV-200199-U,Other fractions n.e.c.,,
+2018,EAV-20019900-U,Other fractions n.e.c. not differentiable,58.0,5.2
+2018,EAV-20019901-U,Mixed recyclables without light packaging,30.0,0.6
+2018,EAV-200201-U,Biodegradable waste,4546.0,187.9
+2018,EAV-200202-U,Soil and stones,72.0,8.7
+2018,EAV-200203-U,Other non-biodegradable waste,19.0,0.6
+2018,EAV-20030100-U,Mixed municipal waste cannot be differentiated,3832.0,345.2
+2018,EAV-20030101-U,"Household waste, commercial waste similar to household waste",3487.0,207.1
+2018,EAV-20030102-U,Commercial waste similar to domestic waste,10391.0,1030.9
+2018,EAV-20030104-U,Waste from the organic waste bin,578.0,19.8
+2018,EAV-200302-U,market waste,38.0,4.8
+2018,EAV-200303-U,street sweepings,485.0,32.2
+2018,EAV-200304-U,Faecal sludge,239.0,31.6
+2018,EAV-200306-U,Waste from sewer cleaning,151.0,8.7
+2018,EAV-200307-U,Bulky waste,2296.0,51.1
+2018,EAV-200399-U,Municipal waste n.e.c.,91.0,4.5
+2018,EAV-99,Hazardous waste,,
+2018,EAV-990000-G,Total hazardous waste,,
+2018,,In total,19945.0,67916.3

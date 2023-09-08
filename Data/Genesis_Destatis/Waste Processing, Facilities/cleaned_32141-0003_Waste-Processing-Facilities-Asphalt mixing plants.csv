@@ -1,0 +1,161 @@
+Year,EAV Code,Waste Source,Number Of Asphalt Mixing Plants,Input Of Asphalt Mixing Plants (1000t)
+2006,EAV-05,"Waste from petroleum refining, natural gas purification",,
+2006,EAV-050117-U,Petroleum refining: bitumen,,
+2006,EAV-10,Waste from thermal processes,,
+2006,EAV-100908-U,Casting molds and sand after casting (without 100907),,
+2006,EAV-17,construction and demolition waste,386.0,6107.5
+2006,EAV-170101-U,Concrete,4.0,14.3
+2006,EAV-170106-G,"Mixtures of o. separate fractions v. Concrete, etc.",,
+2006,EAV-170107-U,"Mixtures of concrete, bricks, etc. (oh.170106)",,
+2006,EAV-170301-G,Bitumen mixtures containing coal tar,33.0,340.6
+2006,EAV-170302-U,Bitumen mixtures (without 170301),372.0,5588.2
+2006,EAV-170303-G,Coal tar and tar-containing products,,
+2006,EAV-170504-U,soil and stones (without 170503),,
+2006,EAV-170507-G,Track ballast containing dangerous substances,,
+2006,EAV-19,Waste from waste treatment plants e.g.,181.0,3663.6
+2006,EAV-19120901-U,Products for use in road and road building,,
+2006,EAV-19120904-U,Products for use in asphalt mixing plants,175.0,3617.6
+2006,EAV-19120905-U,products for other uses,,
+2006,EAV-19120906-U,Hot mix for road and path construction,6.0,46.0
+2006,EAV-99,Hazardous waste,35.0,480.0
+2006,EAV-990000-G,Total hazardous waste,35.0,480.0
+2008,EAV-05,"Waste from petroleum refining, natural gas purification",4.0,14.9
+2008,EAV-050117-U,Petroleum refining: bitumen,4.0,14.9
+2008,EAV-10,Waste from thermal processes,,
+2008,EAV-100908-U,Casting molds and sand after casting (without 100907),,
+2008,EAV-17,construction and demolition waste,273.0,4599.5
+2008,EAV-170101-U,Concrete,4.0,7.5
+2008,EAV-170106-G,"Mixtures of o. separate fractions v. Concrete, etc.",,
+2008,EAV-170107-U,"Mixtures of concrete, bricks, etc. (oh.170106)",,
+2008,EAV-170301-G,Bitumen mixtures containing coal tar,21.0,263.7
+2008,EAV-170302-U,Bitumen mixtures (without 170301),259.0,4284.0
+2008,EAV-170303-G,Coal tar and tar-containing products,3.0,4.6
+2008,EAV-170504-U,Soil and stones (without 170503),,
+2008,EAV-170507-G,Track ballast containing dangerous substances,,
+2008,EAV-19,Waste from waste treatment plants e.g.,335.0,5957.0
+2008,EAV-19120901-U,Products for use in road and road building,,
+2008,EAV-19120904-U,Products for use in asphalt mixing plants,335.0,5955.8
+2008,EAV-19120905-U,products for other uses,,
+2008,EAV-19120906-U,Hot mix for road and path construction,,
+2008,EAV-99,Hazardous waste,25.0,271.1
+2008,EAV-990000-G,Total hazardous waste,25.0,271.1
+2010,EAV-05,"Waste from petroleum refining, natural gas purification",,
+2010,EAV-050117-U,Petroleum refining: bitumen,,
+2010,EAV-10,Waste from thermal processes,,
+2010,EAV-100908-U,Casting molds and sand after casting (without 100907),,
+2010,EAV-17,Construction and demolition waste,263.0,4362.6
+2010,EAV-170101-U,Concrete,3.0,6.3
+2010,EAV-170106-G,"Mixtures of o. separate fractions v. Concrete, etc.",,
+2010,EAV-170107-U,"Mixtures of concrete, bricks, etc. (oh.170106)",,
+2010,EAV-170301-G,Bitumen mixtures containing coal tar,12.0,72.2
+2010,EAV-170302-U,Bitumen mixtures (without 170301),257.0,4281.6
+2010,EAV-170303-G,Coal tar and tarry products,,
+2010,EAV-170504-U,Soil and stones (without 170503),,
+2010,EAV-170507-G,Track ballast containing dangerous substances,,
+2010,EAV-19,Waste from waste treatment plants e.g.,357.0,6087.5
+2010,EAV-19120901-U,Products for use in road and road building,,
+2010,EAV-19120904-U,products for use in asphalt mixing plants,357.0,6076.0
+2010,EAV-19120905-U,products for other uses,,
+2010,EAV-19120906-U,Hot mix for road and path construction,,
+2010,EAV-99,Hazardous waste,13.0,74.7
+2010,EAV-990000-G,Total hazardous waste,13.0,74.7
+2012,EAV-05,"Waste from petroleum refining, natural gas purification",,
+2012,EAV-050117-U,Petroleum refining: bitumen,,
+2012,EAV-10,Waste from thermal processes,,
+2012,EAV-100908-U,Casting molds and sand after casting (without 100907),,
+2012,EAV-17,Construction and demolition waste,224.0,4602.0
+2012,EAV-170101-U,Concrete,3.0,4.0
+2012,EAV-170106-G,"Mixtures of o. separate fractions v. Concrete, etc.",,
+2012,EAV-170107-U,"Mixtures of concrete, bricks, etc. (oh.170106)",,
+2012,EAV-170301-G,Bitumen mixtures containing coal tar,4.0,31.2
+2012,EAV-170302-U,Bitumen mixtures (without 170301),219.0,4566.8
+2012,EAV-170303-G,Coal tar and tar-containing products,,
+2012,EAV-170504-U,soil and stones (without 170503),,
+2012,EAV-170507-G,Track ballast containing dangerous substances,,
+2012,EAV-19,Waste from waste treatment plants e.g.,361.0,7462.9
+2012,EAV-19120901-U,Products for use in road and road building,,
+2012,EAV-19120904-U,products for use in asphalt mixing plants,361.0,7462.9
+2012,EAV-19120905-U,products for other uses,,
+2012,EAV-19120906-U,Hot mix for road and path construction,,
+2012,EAV-99,Hazardous waste,4.0,31.2
+2012,EAV-990000-G,Total hazardous waste,4.0,31.2
+2014,EAV-05,"Waste from petroleum refining, natural gas purification",,
+2014,EAV-050117-U,Petroleum refining: bitumen,,
+2014,EAV-10,Waste from thermal processes,,
+2014,EAV-100908-U,Casting molds and sand after casting (without 100907),,
+2014,EAV-17,construction and demolition waste,197.0,3859.3
+2014,EAV-170101-U,Concrete,8.0,12.6
+2014,EAV-170106-G,"Mixtures of o. separate fractions v. Concrete, etc.",,
+2014,EAV-170107-U,"Mixtures of concrete, bricks, etc. (oh.170106)",,
+2014,EAV-170301-G,Bitumen mixtures containing coal tar,,
+2014,EAV-170302-U,Bitumen mixtures (without 170301),191.0,3841.5
+2014,EAV-170303-G,Coal tar and tarry products,,
+2014,EAV-170504-U,soil and stones (without 170503),,
+2014,EAV-170507-G,Track ballast containing dangerous substances,,
+2014,EAV-19,Waste from waste treatment plants e.g.,366.0,9828.5
+2014,EAV-19120901-U,Products for use in road and road building,,
+2014,EAV-19120904-U,products for use in asphalt mixing plants,366.0,9808.7
+2014,EAV-19120905-U,products for other uses,,
+2014,EAV-19120906-U,Hot mix for road and path construction,,
+2014,EAV-99,Hazardous waste,,
+2014,EAV-990000-G,Total hazardous waste,,
+2016,EAV-05,"Waste from petroleum refining, natural gas purification",,
+2016,EAV-050117-U,Petroleum refining: bitumen,,
+2016,EAV-10,Waste from thermal processes,,
+2016,EAV-100908-U,Casting molds and sand after casting (without 100907),,
+2016,EAV-17,construction and demolition waste,181.0,4441.2
+2016,EAV-170101-U,Concrete,3.0,2.2
+2016,EAV-170106-G,"Mixtures of o. separate fractions v. Concrete, etc.",,
+2016,EAV-170107-U,"Mixtures of concrete, bricks, etc. (oh.170106)",,
+2016,EAV-170301-G,Bitumen mixtures containing coal tar,,
+2016,EAV-170302-U,Bitumen mixtures (without 170301),180.0,4428.6
+2016,EAV-170303-G,Coal tar and tarry products,,
+2016,EAV-170504-U,Soil and stones (without 170503),,
+2016,EAV-170507-G,Track ballast containing dangerous substances,,
+2016,EAV-19,"Waste from waste treatment plants, etc.",361.0,10341.5
+2016,EAV-19120901-U,Products for use in road and road building,,
+2016,EAV-19120904-U,products for use in asphalt mixing plants,361.0,10341.5
+2016,EAV-19120905-U,products for other uses,,
+2016,EAV-19120906-U,Hot mix for road and path construction,,
+2016,EAV-99,Hazardous waste,,
+2016,EAV-990000-G,Total hazardous waste,,
+2018,EAV-05,"Waste from petroleum refining, natural gas purification",,
+2018,EAV-050117-U,Petroleum refining: bitumen,,
+2018,EAV-10,Waste from thermal processes,,
+2018,EAV-100908-U,Casting molds and sand after casting (without 100907),,
+2018,EAV-17,construction and demolition waste,177.0,4685.4
+2018,EAV-170101-U,Concrete,,
+2018,EAV-170106-G,"Mixtures of o. separate fractions v. Concrete, etc.",,
+2018,EAV-170107-U,"Mixtures of concrete, bricks, etc. (oh.170106)",,
+2018,EAV-170301-G,Bitumen mixtures containing coal tar,,
+2018,EAV-170302-U,Bitumen mixtures (without 170301),176.0,4682.3
+2018,EAV-170303-G,Coal tar and tar-containing products,,
+2018,EAV-170504-U,Soil and stones (without 170503),,
+2018,EAV-170507-G,Track ballast containing dangerous substances,,
+2018,EAV-19,"Waste from waste treatment plants, etc.",349.0,10635.2
+2018,EAV-19120901-U,Products for use in road and road building,,
+2018,EAV-19120904-U,Products for use in asphalt mixing plants,349.0,10635.2
+2018,EAV-19120905-U,products for other uses,,
+2018,EAV-19120906-U,Hot mix for road and path construction,,
+2018,EAV-99,Hazardous waste,,
+2018,EAV-990000-G,Total hazardous waste,,
+2020,EAV-05,"Waste from petroleum refining, natural gas purification",,
+2020,EAV-050117-U,Petroleum refining: bitumen,,
+2020,EAV-10,Waste from thermal processes,,
+2020,EAV-100908-U,Casting molds and sand after casting (without 100907),,
+2020,EAV-17,Construction and demolition waste,164.0,4163.9
+2020,EAV-170101-U,Concrete,,
+2020,EAV-170106-G,"Mixtures of o. separate fractions v. Concrete, etc.",,
+2020,EAV-170107-U,"Mixtures of concrete, bricks, etc. (oh.170106)",,
+2020,EAV-170301-G,Bitumen mixtures containing coal tar,,
+2020,EAV-170302-U,Bitumen mixtures (without 170301),163.0,4161.0
+2020,EAV-170303-G,Coal tar and tarry products,,
+2020,EAV-170504-U,Soil and stones (without 170503),,
+2020,EAV-170507-G,Track ballast containing dangerous substances,,
+2020,EAV-19,Waste from waste treatment plants e.g.,331.0,9951.5
+2020,EAV-19120901-U,Products for use in road and road building,,
+2020,EAV-19120904-U,products for use in asphalt mixing plants,331.0,9951.5
+2020,EAV-19120905-U,products for other uses,,
+2020,EAV-19120906-U,Hot mix for road and path construction,,
+2020,EAV-99,Hazardous waste,,
+2020,EAV-990000-G,Total hazardous waste,,

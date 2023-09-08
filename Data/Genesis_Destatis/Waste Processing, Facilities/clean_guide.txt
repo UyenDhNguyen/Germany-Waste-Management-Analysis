@@ -1,0 +1,33 @@
+Waste-Processing-Asphalt mixing plants.csv
+Table: 32141-0003
+Columns: Year, EAV Code, Waste Source, Number Of Asphalt Mixing Plants, Input Of Asphalt Mixing Plants (1000t)
+Read Lines: 7 - 166
+To Translate: Waste Source
+NA: -
+
+Waste-Processing-Building-rubble-processing-plants.csv
+Table: 32141-0002
+Columns: Year, EAV Code, Waste Source, Number Of Construction Rubble Processing Plants, Input Of Construction Rubble Processing Plants (1000t), Number Of Construction Rubble Processing Plants With Output, Output Of Construction Rubble Processing Plants (1000t)
+Read Lines: 8 - 1047
+To Translate: Waste Source
+NA: -
+
+Waste-Processing-Rubble and asphalt mixing plants by federal states.csv
+Table: 32141-0004
+Columns: Year, State, Number Of Rubbish Processing Plants, Input Of Rubble Processing Plants (1000t), Capacity Of Rubble Processing Plants (1000t), Number Of Rubbish Processing Plants With Output, Output Of Rubble Processing Plants (1000t), Number Of Asphalt Mixing Plants, Input Of Asphalt Mixing Plants (1000t)
+Read Lines: 7 - 142
+To Translate: None
+NA: .,x
+
+Waste-Processing-Rubble processing plants, asphalt mixing plants.csv
+Table: 32141-0001
+Columns: Year, Plant System, 
+Number Of Rubbish Processing Plants,
+Input Of Rubble Processing Plants (1000t),
+Capacity Of Rubble Processing Plants (1000t),
+Number Of Rubbish Processing Plants With Output, 
+Output Of Rubble Processing Plants (1000t),
+Number Of Asphalt Mixing Plants,
+Input Of Asphalt Mixing Plants (1000t)
+Read Lines: 8 - 31
+NA: .,.
