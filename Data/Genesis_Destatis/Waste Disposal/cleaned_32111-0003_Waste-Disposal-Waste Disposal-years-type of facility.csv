@@ -1,0 +1,721 @@
+Year,Facility Type,Waste disposal facilities,Input from waste disposal facilities (1000t),Waste produced on-site (1000t),Waste supplied from home (1000t),Waste supplied from abroad (1000t),Waste disposal facilities with output,Output from waste disposal facilities (1000t),Waste for disposal (1000t),Waste for recycling (1000t),Waste all procedures to be prepared (1000t),Handover to others (1000t)
+2006,landfills,1740.0,38727.1,9636.7,28635.8,454.6,,3752.6,2784.2,683.8,,284.5
+2006,Class 0 landfills,1222.0,13337.2,1664.5,11672.7,,,394.0,146.5,183.7,,63.8
+2006,Class I landfills,272.0,15811.9,6612.5,9149.1,50.3,,1258.8,995.7,133.2,,129.9
+2006,Class II landfills,196.0,6691.2,394.1,6097.3,199.8,,1608.4,1240.9,362.3,,5.2
+2006,Class III landfills,40.0,2715.2,965.2,1618.6,131.4,,481.4,401.1,0.0,,80.2
+2006,Class IV landfills,5.0,118.3,0.3,44.9,73.1,,6.6,,1.2,,5.4
+2006,Long-term storage,5.0,53.3,,53.3,,,,,,,
+2006,Thermal waste treatment plants,153.0,21345.0,1570.4,19405.1,369.5,,5999.5,583.3,5283.8,,132.5
+2006,Waste incineration plants,90.0,18142.1,361.6,17652.9,127.6,,5345.4,282.2,4936.4,,126.8
+2006,Sewage sludge incineration plants,19.0,1669.2,833.0,777.7,58.5,,246.0,38.8,205.9,,1.3
+2006,Hazardous waste incineration plants,31.0,1055.8,347.3,559.6,148.9,,299.3,259.6,39.6,,
+2006,Other systems for thermal waste treatment,13.0,477.8,28.5,414.8,34.5,,108.9,2.6,101.8,,4.4
+2006,combustion plants,595.0,12330.5,3007.9,8790.3,532.3,,1382.5,217.0,744.6,,420.9
+2006,Power plants/thermal power plants,206.0,7395.8,1685.9,5388.9,321.0,,1122.1,133.9,667.1,,321.1
+2006,Other combustion systems,389.0,4934.8,1322.0,3401.4,211.3,,260.4,83.1,77.5,,99.8
+2006,Alternative fuel power plants,,,,,,,,,,,
+2006,Biomass power plants,,,,,,,,,,,
+2006,Other power plants,,,,,,,,,,,
+2006,Heating plants,,,,,,,,,,,
+2006,Equipment for other production purposes,,,,,,,,,,,
+2006,Chemical-physical treatment plants,599.0,9787.7,5239.4,4282.3,266.1,,3458.1,945.1,1567.0,,946.0
+2006,"Regeneration of acids and bases, solvents",65.0,943.6,766.0,161.6,16.0,,156.0,10.8,59.5,,85.6
+2006,"Recovery of metals, solvents, etc.",85.0,816.5,125.4,571.7,119.5,,579.3,27.2,128.8,,423.3
+2006,Volume reduction and water separation,184.0,3999.0,2566.8,1425.0,7.3,,1056.7,525.8,514.3,,16.6
+2006,Other facilities,265.0,4028.6,1781.2,2124.0,123.3,,1666.1,381.3,864.4,,420.5
+2006,Soil treatment plants,121.0,4180.9,2.5,3719.4,459.1,,4044.9,554.6,3013.1,,477.1
+2006,Biological treatment plants,1742.0,12382.4,537.9,11693.4,151.1,,8302.4,230.0,770.9,,7301.5
+2006,Biowaste composting plants (probably biowaste),325.0,4948.5,38.9,4895.3,14.3,,2611.9,97.4,261.5,,2253.0
+2006,Green waste composting plants (mainly green waste),633.0,2628.3,80.4,2546.1,1.7,,1633.0,14.1,147.7,,1471.2
+2006,Combined composting and fermentation plants,661.0,3422.8,406.5,2909.7,106.6,,3117.2,111.6,223.1,,2782.6
+2006,Sewage sludge composting plants,107.0,1009.9,11.0,972.1,26.9,,730.4,6.5,75.9,,648.0
+2006,Other biological treatment facilities,16.0,372.9,1.1,370.3,1.6,,209.8,0.5,62.7,,146.6
+2006,Biogas and fermentation plants,,,,,,,,,,,
+2006,Mechanical-biological waste treatment plants,45.0,3706.6,16.1,3690.0,0.5,,2990.8,1430.0,1391.4,,169.4
+2006,Dismantling companies for end-of-life vehicles,1237.0,488.5,,484.4,4.1,,479.9,1.9,431.8,,46.2
+2006,Shredder systems and scrap shears,478.0,9728.2,60.4,9066.3,601.5,,9545.8,375.9,4733.9,,4435.9
+2006,Sorting systems,905.0,23212.8,28.0,22878.0,306.8,,23072.7,1539.1,11427.5,,10106.1
+2006,Disassembly facilities,312.0,580.6,0.5,548.3,31.8,,552.3,19.5,401.0,,131.7
+2006,Other treatment plants,471.0,18196.3,878.6,16429.8,887.9,,16973.4,1167.1,5015.1,,10791.2
+2006,Other treatment plants,464.0,17782.7,878.4,16087.5,816.9,,16641.7,1164.0,4974.5,,10503.2
+2006,Plants for recycling waste oil,7.0,413.6,0.2,342.3,71.0,,331.7,3.1,40.6,,288.0
+2006,Sewage sludge digester with CO fermentation,,,,,,,,,,,
+2006,Natural materials in mining,24.0,41953.5,41953.5,,,,,,,,
+2006,Waste in underground mining sites,26.0,2473.1,,2152.3,320.8,,,,,,
+2006,Waste in surface mining sites,3084.0,87506.6,,86619.6,887.0,,,,,,
+2007,landfills,1706.0,43161.2,11361.6,31042.6,756.9,,3847.3,2621.8,599.5,,626.0
+2007,Class 0 landfills,1200.0,14478.4,2315.2,12163.2,,,280.4,161.5,21.6,,97.2
+2007,Class I landfills,264.0,17456.2,7721.6,9612.9,121.6,,1049.4,663.3,115.3,,270.8
+2007,Class II landfills,192.0,7953.5,393.0,7210.5,350.0,,2022.4,1490.5,444.8,,87.2
+2007,Class III landfills,40.0,3141.7,931.4,1998.3,212.0,,478.9,306.5,1.6,,170.8
+2007,Class IV landfills,5.0,112.9,0.4,39.2,73.3,,,,,,
+2007,Long-term storage,5.0,18.5,,18.5,,,16.2,,16.2,,
+2007,Thermal waste treatment plants,157.0,22118.4,1719.4,19942.7,456.2,,5977.5,598.9,5200.9,,177.7
+2007,Waste incineration plants,91.0,18624.0,381.4,18011.8,230.9,,5325.3,289.4,4865.9,,170.1
+2007,Sewage sludge incineration plants,20.0,1888.9,834.0,1026.7,28.2,,269.7,76.1,193.6,,
+2007,Hazardous waste incineration plants,32.0,1206.1,490.0,546.2,169.9,,291.4,216.7,74.7,,0.0
+2007,Other systems for thermal waste treatment,14.0,399.4,14.0,358.1,27.3,,91.1,16.8,66.7,,7.6
+2007,combustion plants,589.0,13607.1,2912.4,9942.7,752.0,,1296.9,239.9,739.0,,318.0
+2007,Power plants/thermal power plants,214.0,8236.3,1630.4,6079.7,526.2,,1069.8,189.5,645.3,,235.1
+2007,Other combustion systems,375.0,5370.8,1282.0,3863.0,225.8,,227.0,50.4,93.7,,82.9
+2007,Alternative fuel power plants,,,,,,,,,,,
+2007,Biomass power plants,,,,,,,,,,,
+2007,Other power plants,,,,,,,,,,,
+2007,Heating plants,,,,,,,,,,,
+2007,Equipment for other production purposes,,,,,,,,,,,
+2007,Chemical-physical treatment plants,577.0,10434.2,5515.6,4664.0,254.7,,3702.9,805.9,1957.2,,939.7
+2007,"Regeneration of acids and bases, solvents",60.0,921.8,767.2,151.4,3.2,,132.0,13.2,59.4,,59.3
+2007,"Recovery of metals, solvents, etc.",87.0,727.7,41.1,618.9,67.7,,583.4,24.0,227.1,,332.3
+2007,Volume reduction and water separation,157.0,4338.5,2917.0,1417.9,3.6,,1076.5,253.7,809.1,,13.8
+2007,Other facilities,273.0,4446.2,1790.2,2475.8,180.2,,1911.1,515.1,861.7,,534.3
+2007,Soil treatment plants,120.0,4091.8,1.9,3653.8,436.1,,4058.3,613.5,2934.6,,510.2
+2007,Biological treatment plants,1793.0,13233.9,601.2,12428.6,204.2,,9105.2,148.0,938.7,,8018.5
+2007,Biowaste composting plants (probably biowaste),316.0,4862.4,27.1,4831.2,4.1,314.0,2626.2,81.4,357.2,,2187.6
+2007,Green waste composting plants (mainly green waste),663.0,3079.1,77.2,2987.4,14.5,657.0,2010.4,21.3,211.3,,1777.8
+2007,Combined composting and fermentation plants,698.0,3904.9,462.7,3289.1,153.1,697.0,3526.1,39.8,261.4,,3224.8
+2007,Sewage sludge composting plants,102.0,1052.7,34.1,987.1,31.4,102.0,757.1,5.0,52.8,,699.3
+2007,Other biological treatment facilities,14.0,334.8,,333.7,1.1,14.0,185.3,0.4,56.1,,128.9
+2007,Biogas and fermentation plants,,,,,,,,,,,
+2007,Mechanical-biological waste treatment plants,50.0,3748.1,29.0,3653.8,65.3,,3097.7,1508.0,1475.1,,114.7
+2007,Dismantling companies for end-of-life vehicles,1263.0,454.3,,452.1,2.2,,437.1,2.9,395.4,,38.9
+2007,Shredder systems and scrap shears,558.0,13124.9,150.5,12281.8,692.6,,12835.0,390.3,4858.5,,7586.2
+2007,Sorting systems,958.0,25325.9,72.3,24838.0,415.6,,24610.0,1615.8,13088.5,,9905.7
+2007,Disassembly facilities,301.0,682.7,16.0,618.2,48.5,,667.1,20.7,515.1,,131.3
+2007,Other treatment plants,478.0,19431.7,601.2,17531.1,1299.4,,18339.8,1595.2,7055.6,,9689.0
+2007,Other treatment plants,471.0,19025.1,601.0,17209.3,1214.9,,17971.3,1592.1,6991.8,,9387.3
+2007,Plants for recycling waste oil,7.0,406.6,0.2,321.8,84.5,,368.5,3.1,63.8,,301.7
+2007,Sewage sludge digester with CO fermentation,,,,,,,,,,,
+2007,Natural materials in mining,22.0,42890.6,42890.6,,,,,,,,
+2007,Waste in underground mining sites,25.0,2415.5,,2070.8,344.7,,,,,,
+2007,Waste in surface mining sites,2981.0,90842.1,,89681.4,1160.7,,,,,,
+2008,landfills,1645.0,41598.6,10435.3,30101.5,1061.7,,3450.2,2674.6,436.8,,338.8
+2008,Class 0 landfills,818.0,13373.1,2578.2,10776.2,18.8,,210.6,175.4,3.5,,31.7
+2008,Class I landfills,164.0,11028.0,5113.5,5618.8,295.8,,723.8,548.3,56.1,,119.4
+2008,Class II landfills,165.0,7205.3,525.7,6330.0,349.6,,2165.3,1770.5,344.8,,50.0
+2008,Class III landfills,32.0,2319.2,761.9,1368.3,189.0,,128.6,103.4,10.5,,14.7
+2008,Class IV landfills,4.0,111.9,0.1,59.6,52.1,,,,,,
+2008,Long-term storage,3.0,,,,,,16.2,,16.2,,
+2008,Thermal waste treatment plants,158.0,23116.6,1424.4,20935.2,757.0,,6342.5,635.9,5297.8,,408.8
+2008,Waste incineration plants,94.0,20558.4,243.8,19723.7,590.9,,6168.3,298.3,5715.2,,154.8
+2008,Sewage sludge incineration plants,21.0,1963.4,898.8,1017.3,47.3,,222.8,23.6,198.5,,0.7
+2008,Hazardous waste incineration plants,35.0,1399.2,470.3,667.4,261.5,,320.8,248.5,71.8,,0.5
+2008,Other systems for thermal waste treatment,14.0,420.5,21.3,346.7,52.6,,102.5,29.8,62.3,,10.4
+2008,combustion plants,632.0,14044.8,3313.4,10079.5,651.8,,1288.2,259.9,797.9,,230.5
+2008,Power plants/thermal power plants,338.0,12649.6,2216.9,9724.6,708.1,,2149.3,395.4,1620.1,,133.7
+2008,Other combustion systems,317.0,4748.6,1198.9,3442.0,107.7,,141.3,21.2,89.4,,30.8
+2008,Alternative fuel power plants,,,,,,,,,,,
+2008,Biomass power plants,,,,,,,,,,,
+2008,Other power plants,,,,,,,,,,,
+2008,Heating plants,,,,,,,,,,,
+2008,Equipment for other production purposes,,,,,,,,,,,
+2008,Chemical-physical treatment plants,564.0,9198.1,4429.9,4522.1,246.1,,3642.7,772.3,2100.3,,770.1
+2008,"Regeneration of acids and bases, solvents",60.0,537.1,312.8,184.1,40.3,,129.8,22.5,54.7,,52.6
+2008,"Recovery of metals, solvents, etc.",74.0,507.1,52.4,394.1,60.7,,355.4,29.6,87.4,,238.5
+2008,Volume reduction and water separation,160.0,3328.0,2663.3,658.1,6.7,,868.5,173.1,688.5,,7.0
+2008,Other facilities,248.0,4593.7,1672.9,2653.6,267.2,,2201.3,413.6,1388.0,,399.7
+2008,Soil treatment plants,120.0,4400.2,76.5,3845.6,478.1,,4371.5,572.1,3082.7,,716.8
+2008,Biological treatment plants,2041.0,13043.9,822.9,12021.5,199.5,,9129.3,152.4,885.8,,8091.1
+2008,Biowaste composting plants (probably biowaste),252.0,4105.8,26.9,4074.5,4.4,,2264.2,79.0,297.7,,1887.4
+2008,Green waste composting plants (mainly green waste),672.0,3317.0,136.9,3130.2,49.9,,2205.3,19.6,232.5,,1953.3
+2008,Combined composting and fermentation plants,992.0,4307.8,457.0,3723.0,127.8,,3728.3,48.7,152.1,,3527.6
+2008,Sewage sludge composting plants,98.0,975.7,41.8,918.8,15.1,,624.3,15.6,42.2,,566.4
+2008,Other biological treatment facilities,22.0,301.0,7.9,284.5,8.5,,221.0,61.7,72.9,,86.3
+2008,Biogas and fermentation plants,,,,,,,,,,,
+2008,Mechanical-biological waste treatment plants,51.0,3957.8,28.0,3846.5,83.3,,3117.0,1313.3,1601.7,,202.0
+2008,Dismantling companies for end-of-life vehicles,1249.0,412.8,,410.3,2.5,,391.8,5.6,358.3,,27.9
+2008,Shredder systems and scrap shears,595.0,13476.7,124.7,12674.8,677.3,,13659.8,396.2,6005.6,,7258.0
+2008,Sorting systems,995.0,25857.8,71.6,25252.5,533.7,,24862.0,1349.9,13834.9,,9677.2
+2008,Disassembly facilities,307.0,695.7,16.5,632.7,46.5,,670.2,48.9,519.7,,101.7
+2008,Other treatment plants,489.0,18710.1,721.4,16584.0,1404.7,,18233.8,1508.4,7933.3,,8792.1
+2008,Other treatment plants,608.0,20840.6,821.2,18707.1,1312.1,,19774.1,1583.7,8959.8,,9230.6
+2008,Plants for recycling waste oil,7.0,482.6,0.2,363.8,118.7,,499.0,11.9,18.2,,468.9
+2008,Sewage sludge digester with CO fermentation,,,,,,,,,,,
+2008,Natural materials in mining,22.0,39294.6,39294.6,,,,,,,,
+2008,Waste in underground mining sites,30.0,2622.7,,2227.2,395.5,,,,,,
+2008,Waste in surface mining sites,3055.0,86716.4,,85579.7,1136.7,,,,,,
+2009,landfills,1553.0,35441.8,8851.9,25676.7,913.2,,4227.1,3522.2,442.3,,262.6
+2009,Class 0 landfills,1111.0,13763.0,1942.3,11787.4,33.3,,577.7,446.4,49.2,,82.1
+2009,Class I landfills,219.0,13019.9,5999.7,6850.6,169.6,,1433.0,1280.6,51.3,,101.1
+2009,Class II landfills,183.0,6301.8,314.6,5667.7,319.6,,1845.6,1634.4,157.8,,53.4
+2009,Class III landfills,33.0,2247.9,595.3,1334.8,317.9,,341.0,160.9,154.2,,25.9
+2009,Class IV landfills,4.0,107.1,0.1,34.1,72.8,,,,,,
+2009,Long-term storage,3.0,2.0,,2.0,,,29.9,0.0,29.9,,0.0
+2009,Thermal waste treatment plants,160.0,23512.8,1258.5,21356.8,897.5,,6545.1,771.4,5409.1,,364.7
+2009,Waste incineration plants,91.0,19833.3,210.4,19009.9,613.0,,5854.3,412.9,5085.6,,355.7
+2009,Sewage sludge incineration plants,20.0,1887.2,623.9,1221.5,41.9,,273.9,83.5,190.4,,
+2009,Hazardous waste incineration plants,34.0,1227.0,419.6,606.2,201.3,,299.6,243.5,55.9,,0.2
+2009,Other systems for thermal waste treatment,15.0,565.2,4.7,519.3,41.2,,117.4,31.5,77.2,,8.8
+2009,combustion plants,633.0,14872.4,2837.9,11265.3,769.3,,1722.7,296.7,1216.7,,209.3
+2009,Power plants/thermal power plants,297.0,10668.6,1724.9,8264.7,679.0,,1623.7,274.6,1151.3,,197.7
+2009,Other combustion systems,336.0,4203.8,1113.0,3000.5,90.3,,99.0,22.1,65.4,,11.5
+2009,Alternative fuel power plants,,,,,,,,,,,
+2009,Biomass power plants,,,,,,,,,,,
+2009,Other power plants,,,,,,,,,,,
+2009,Heating plants,,,,,,,,,,,
+2009,Equipment for other production purposes,,,,,,,,,,,
+2009,Chemical-physical treatment plants,550.0,8021.6,3904.4,3888.1,229.1,,3532.9,897.1,2020.4,,615.4
+2009,"Regeneration of acids and bases, solvents",52.0,384.3,256.6,125.8,1.9,,98.6,10.8,41.6,,46.1
+2009,"Recovery of metals, solvents, etc.",75.0,413.0,41.5,313.8,57.7,,317.3,17.0,92.4,,207.8
+2009,Volume reduction and water separation,165.0,3238.4,2097.9,1136.0,4.5,,973.3,507.5,457.3,,8.5
+2009,Other facilities,258.0,3985.9,1508.4,2312.5,165.0,,2143.8,361.8,1429.0,,353.0
+2009,Soil treatment plants,120.0,3518.7,11.7,3387.8,119.2,,3611.3,470.5,2431.9,,708.9
+2009,Biological treatment plants,2047.0,13198.1,645.7,12351.4,200.9,,9137.8,184.3,845.5,,8108.0
+2009,Biowaste composting plants (probably biowaste),277.0,4671.4,30.6,4631.9,8.8,,2573.5,108.6,360.8,,2104.1
+2009,Green waste composting plants (mainly green waste),672.0,3073.6,72.7,2984.1,16.7,,2046.6,16.2,184.0,,1846.4
+2009,Combined composting and fermentation plants,987.0,4338.6,503.2,3684.3,151.2,,3759.2,40.4,206.1,,3512.7
+2009,Sewage sludge composting plants,93.0,851.9,36.2,803.4,12.3,,555.8,1.5,23.1,,531.2
+2009,Other biological treatment facilities,18.0,262.6,3.0,247.6,12.0,,202.7,17.6,71.5,,113.6
+2009,Biogas and fermentation plants,,,,,,,,,,,
+2009,Mechanical-biological waste treatment plants,55.0,4042.7,24.9,4015.4,2.4,,3295.9,1260.9,1946.6,,88.4
+2009,Dismantling companies for end-of-life vehicles,1321.0,1641.0,,1635.9,5.1,,1104.7,5.7,1030.2,,68.8
+2009,Shredder systems and scrap shears,609.0,12946.6,115.5,12234.0,597.1,,13007.6,291.7,6177.6,,6538.3
+2009,Sorting systems,996.0,24316.6,30.4,23828.5,457.7,,24079.4,1269.3,13049.2,,9761.7
+2009,Disassembly facilities,304.0,807.2,0.9,775.4,30.9,,804.1,14.1,658.3,,131.8
+2009,Other treatment plants,528.0,18728.4,690.0,16686.9,1351.4,,18000.5,1320.3,8748.8,,7931.4
+2009,Other treatment plants,521.0,18288.1,689.8,16355.3,1243.0,,17543.9,1313.7,8719.1,,7511.1
+2009,Plants for recycling waste oil,7.0,440.3,0.1,331.7,108.4,,456.6,6.6,29.7,,420.3
+2009,Sewage sludge digester with CO fermentation,,,,,,,,,,,
+2009,Natural materials in mining,19.0,25963.6,25963.6,,,,,,,,
+2009,Waste in underground mining sites,30.0,2522.0,,2105.9,416.2,,,,,,
+2009,Waste in surface mining sites,2965.0,85264.6,,83944.5,1320.1,,,,,,
+2010,landfills,1186.0,34037.5,8979.4,24152.8,905.2,,3244.5,2597.6,431.0,,215.8
+2010,Class 0 landfills,818.0,13373.1,2578.2,10776.2,18.8,,210.6,175.4,3.5,,31.7
+2010,Class I landfills,164.0,11028.0,5113.5,5618.8,295.8,,723.8,548.3,56.1,,119.4
+2010,Class II landfills,165.0,7205.3,525.7,6330.0,349.6,,2165.3,1770.5,344.8,,50.0
+2010,Class III landfills,32.0,2319.2,761.9,1368.3,189.0,,121.7,103.4,10.5,,7.8
+2010,Class IV landfills,4.0,111.9,0.1,59.6,52.1,,,,,,
+2010,Long-term storage,3.0,,,,,,,,,,
+2010,Thermal waste treatment plants,164.0,24341.6,1634.1,21755.1,952.3,,6814.5,600.3,6047.8,,166.4
+2010,Waste incineration plants,94.0,20558.4,243.8,19723.7,590.9,,6168.3,298.3,5715.2,,154.8
+2010,Sewage sludge incineration plants,21.0,1963.4,898.8,1017.3,47.3,,222.8,23.6,198.5,,0.7
+2010,Hazardous waste incineration plants,35.0,1399.2,470.3,667.4,261.5,,320.8,248.5,71.8,,0.5
+2010,Other systems for thermal waste treatment,14.0,420.5,21.3,346.7,52.6,,102.5,29.8,62.3,,10.4
+2010,combustion plants,655.0,17398.2,3415.8,13166.6,815.8,,2290.7,416.6,1709.5,,164.5
+2010,Power plants/thermal power plants,338.0,12649.6,2216.9,9724.6,708.1,,2149.3,395.4,1620.1,,133.7
+2010,Other combustion systems,317.0,4748.6,1198.9,3442.0,107.7,,141.3,21.2,89.4,,30.8
+2010,Alternative fuel power plants,,,,,,,,,,,
+2010,Biomass power plants,,,,,,,,,,,
+2010,Other power plants,,,,,,,,,,,
+2010,Heating plants,,,,,,,,,,,
+2010,Equipment for other production purposes,,,,,,,,,,,
+2010,Chemical-physical treatment plants,542.0,8966.0,4701.3,3889.9,374.8,,3555.1,638.7,2218.7,,697.7
+2010,"Regeneration of acids and bases, solvents",60.0,537.1,312.8,184.1,40.3,,129.8,22.5,54.7,,52.6
+2010,"Recovery of metals, solvents, etc.",74.0,507.1,52.4,394.1,60.7,,355.4,29.6,87.4,,238.5
+2010,Volume reduction and water separation,160.0,3328.0,2663.3,658.1,6.7,,868.5,173.1,688.5,,7.0
+2010,Other facilities,248.0,4593.7,1672.9,2653.6,267.2,,2201.3,413.6,1388.0,,399.7
+2010,Soil treatment plants,122.0,3496.6,14.6,3406.1,75.8,,3611.0,301.7,2687.1,,622.3
+2010,Biological treatment plants,2036.0,13007.2,670.5,12131.0,205.7,,9043.0,224.7,797.4,,8021.0
+2010,Biowaste composting plants (probably biowaste),252.0,4105.8,26.9,4074.5,4.4,,2264.2,79.0,297.7,,1887.4
+2010,Green waste composting plants (mainly green waste),672.0,3317.0,136.9,3130.2,49.9,,2205.3,19.6,232.5,,1953.3
+2010,Combined composting and fermentation plants,992.0,4307.8,457.0,3723.0,127.8,,3728.3,48.7,152.1,,3527.6
+2010,Sewage sludge composting plants,98.0,975.7,41.8,918.8,15.1,,624.3,15.6,42.2,,566.4
+2010,Other biological treatment facilities,22.0,301.0,7.9,284.5,8.5,,221.0,61.7,72.9,,86.3
+2010,Biogas and fermentation plants,,,,,,,,,,,
+2010,Mechanical-biological waste treatment plants,56.0,4153.8,124.7,4023.7,5.5,,3396.9,1182.7,2128.1,,86.1
+2010,Dismantling companies for end-of-life vehicles,1344.0,527.6,,524.5,3.1,,697.3,3.4,649.3,,44.6
+2010,Shredder systems and scrap shears,646.0,14255.9,284.9,13119.1,851.9,,14502.3,297.4,6896.5,,7308.4
+2010,Sorting systems,1040.0,24058.6,398.3,23195.3,465.1,,23815.2,1125.2,13228.2,,9461.9
+2010,Disassembly facilities,322.0,816.7,6.3,797.4,13.0,,780.4,20.7,651.1,,108.5
+2010,Other treatment plants,615.0,21323.2,821.4,19070.9,1430.8,,20273.1,1595.6,8978.0,,9699.5
+2010,Other treatment plants,608.0,20840.6,821.2,18707.1,1312.1,,19774.1,1583.7,8959.8,,9230.6
+2010,Plants for recycling waste oil,7.0,482.6,0.2,363.8,118.7,,499.0,11.9,18.2,,468.9
+2010,Sewage sludge digester with CO fermentation,,,,,,,,,,,
+2010,Natural materials in mining,20.0,34984.8,34984.8,,,,,,,,
+2010,Waste in underground mining sites,30.0,2703.7,,2232.5,471.2,,,,,,
+2010,Waste in surface mining sites,2972.0,88551.1,,87228.1,1322.9,,,,,,
+2011,landfills,1180.0,36898.7,10978.0,25055.0,865.8,,2974.7,2307.5,436.7,,230.6
+2011,Class 0 landfills,818.0,14045.5,3076.6,10968.9,,,156.3,108.8,8.0,,39.6
+2011,Class I landfills,166.0,12451.4,6494.1,5716.8,240.5,,780.0,553.7,101.3,,125.0
+2011,Class II landfills,158.0,7579.0,577.9,6652.2,348.8,,1849.9,1468.7,325.9,,55.4
+2011,Class III landfills,31.0,2651.7,829.1,1605.5,217.1,,183.5,176.4,0.0,,7.1
+2011,Class IV landfills,4.0,171.1,0.1,111.6,59.3,,,,,,
+2011,Long-term storage,3.0,,,,,,,,,,
+2011,Thermal waste treatment plants,167.0,24479.0,1751.8,21788.8,938.4,,6971.5,756.3,6064.0,,151.2
+2011,Waste incineration plants,94.0,20187.3,248.8,19336.4,602.1,,6218.4,476.9,5607.4,,134.1
+2011,Sewage sludge incineration plants,22.0,2103.6,1021.3,1034.2,48.1,,285.9,64.0,217.3,,4.7
+2011,Hazardous waste incineration plants,36.0,1770.8,463.3,1075.8,231.7,,355.8,186.0,168.4,,1.4
+2011,Other systems for thermal waste treatment,15.0,417.3,18.4,342.4,56.5,,111.4,29.4,71.0,,11.0
+2011,combustion plants,668.0,20276.6,3767.7,15452.3,1056.6,,2795.3,597.8,1947.2,,250.2
+2011,Power plants/thermal power plants,,,,,,,,,,,
+2011,Other combustion systems,,,,,,,,,,,
+2011,Alternative fuel power plants,53.0,5135.9,364.7,4535.5,235.7,,1278.2,285.7,930.5,,62.0
+2011,Biomass power plants,124.0,8223.2,2172.8,5455.0,595.4,,937.4,230.4,683.1,,23.9
+2011,Other power plants,29.0,2041.1,399.8,1583.2,58.1,,360.8,27.1,195.9,,137.8
+2011,Heating plants,371.0,1356.7,714.8,634.3,7.6,,177.3,53.8,118.3,,5.3
+2011,Equipment for other production purposes,91.0,3519.7,115.6,3244.3,159.8,,41.6,0.8,19.5,,21.3
+2011,Chemical-physical treatment plants,536.0,8828.6,4512.4,3948.3,367.9,,3480.0,892.4,1834.1,,753.5
+2011,"Regeneration of acids and bases, solvents",57.0,313.3,175.2,131.0,7.0,,98.4,6.2,49.5,,42.8
+2011,"Recovery of metals, solvents, etc.",82.0,537.7,59.2,423.4,55.1,,385.7,24.0,95.6,,266.1
+2011,Volume reduction and water separation,158.0,3494.1,2854.7,631.3,8.2,,842.4,373.2,467.7,,1.5
+2011,Other facilities,239.0,4483.5,1423.3,2762.6,297.6,,2153.4,489.1,1221.2,,443.1
+2011,Soil treatment plants,118.0,3896.3,68.7,3703.8,123.8,,3828.4,465.8,2758.7,,603.9
+2011,Biological treatment plants,2029.0,14162.5,1271.6,12739.5,151.3,,10376.3,199.9,1749.0,,8427.4
+2011,Biowaste composting plants (probably biowaste),251.0,4235.2,45.7,4188.7,0.8,,2394.9,88.6,320.3,,1986.0
+2011,Green waste composting plants (mainly green waste),668.0,3287.3,118.3,3132.0,37.0,,2254.3,16.0,276.1,,1962.2
+2011,Combined composting and fermentation plants,984.0,4630.5,456.0,4064.2,110.3,,4094.6,24.3,385.8,,3684.4
+2011,Sewage sludge composting plants,106.0,1032.4,6.3,1024.0,2.2,,707.8,9.7,74.5,,623.7
+2011,Other biological treatment facilities,20.0,977.1,645.4,330.6,1.0,,924.8,61.3,692.2,,171.2
+2011,Biogas and fermentation plants,,,,,,,,,,,
+2011,Mechanical-biological waste treatment plants,61.0,4474.1,97.2,4323.2,53.7,,3809.5,1258.2,2403.8,,147.5
+2011,Dismantling companies for end-of-life vehicles,1349.0,479.3,,476.7,2.6,,561.1,0.6,525.0,,35.5
+2011,Shredder systems and scrap shears,662.0,14581.5,339.4,13357.4,884.8,,14684.6,279.7,7128.5,,7276.4
+2011,Sorting systems,1031.0,24623.6,343.9,23771.8,508.0,,24449.3,934.3,14237.7,,9277.3
+2011,Disassembly facilities,298.0,818.2,0.8,786.7,30.8,,780.9,19.5,652.4,,109.0
+2011,Other treatment plants,616.0,24509.8,2291.8,20604.5,1613.5,,21943.3,1966.4,10331.0,,9645.9
+2011,Other treatment plants,609.0,23973.1,2291.7,20197.6,1483.8,,21448.9,1960.6,10309.7,,9178.6
+2011,Plants for recycling waste oil,7.0,536.7,0.1,406.9,129.7,,494.4,5.8,21.3,,467.3
+2011,Sewage sludge digester with CO fermentation,,,,,,,,,,,
+2011,Natural materials in mining,16.0,32615.9,32615.9,,,,,,,,
+2011,Waste in underground mining sites,27.0,2744.7,,2313.7,431.0,,,,,,
+2011,Waste in surface mining sites,3007.0,91697.5,,90408.4,1289.1,,,,,,
+2012,landfills,1146.0,36962.8,10929.2,25288.8,744.8,,2083.0,1598.2,292.4,,192.4
+2012,Class 0 landfills,794.0,14439.5,2796.2,11643.3,,,207.5,156.9,33.7,,16.9
+2012,Class I landfills,158.0,12705.4,6642.4,5800.3,262.6,,539.4,300.1,119.9,,119.4
+2012,Class II landfills,158.0,6879.5,618.3,5947.3,313.8,,1163.0,986.6,138.8,,37.6
+2012,Class III landfills,32.0,2768.6,872.2,1780.1,116.3,,173.1,154.6,0.0,,18.5
+2012,Class IV landfills,4.0,169.9,0.0,117.8,52.1,,,,,,
+2012,Long-term storage,,,,,,,,,,,
+2012,Thermal waste treatment plants,170.0,24187.3,1765.4,21421.5,1000.3,,6939.6,751.8,6024.1,,163.7
+2012,Waste incineration plants,94.0,20223.6,267.1,19303.0,653.6,,6238.1,386.7,5716.0,,135.4
+2012,Sewage sludge incineration plants,22.0,2024.4,992.1,979.3,53.0,,268.2,74.6,181.4,,12.2
+2012,Hazardous waste incineration plants,34.0,1317.5,476.6,632.6,208.4,,287.6,231.9,49.6,,6.0
+2012,Other systems for thermal waste treatment,20.0,621.7,29.7,506.6,85.3,,145.7,58.5,77.1,,10.1
+2012,combustion plants,696.0,20773.2,3527.2,16150.4,1095.6,,2838.7,701.6,1791.2,,346.0
+2012,Power plants/thermal power plants,,,,,,,,,,,
+2012,Other combustion systems,,,,,,,,,,,
+2012,Alternative fuel power plants,60.0,5351.2,270.5,4848.7,232.1,,1212.3,378.5,804.4,,29.4
+2012,Biomass power plants,133.0,8265.9,2002.6,5756.8,506.5,,922.6,213.5,614.5,,94.6
+2012,Other power plants,35.0,2095.0,393.2,1606.1,95.7,,484.2,57.1,235.8,,191.2
+2012,Heating plants,375.0,1258.2,673.2,558.2,26.8,,172.3,49.7,116.8,,5.8
+2012,Equipment for other production purposes,93.0,3802.8,187.7,3380.6,234.5,,47.5,2.7,19.7,,25.0
+2012,Chemical-physical treatment plants,551.0,9275.0,4418.4,4447.9,408.6,,3551.0,1045.2,1648.7,,857.1
+2012,"Regeneration of acids and bases, solvents",60.0,394.1,167.1,222.6,4.4,,105.8,7.7,53.5,,44.6
+2012,"Recovery of metals, solvents, etc.",83.0,512.5,45.3,412.7,54.5,,426.1,29.7,103.4,,293.0
+2012,Volume reduction and water separation,157.0,4100.1,3096.4,993.2,10.4,,882.1,446.8,368.3,,66.9
+2012,Other facilities,251.0,4268.3,1109.7,2819.4,339.3,,2137.0,560.9,1123.5,,452.6
+2012,Soil treatment plants,114.0,3582.4,70.6,3462.5,49.2,,3756.5,408.0,2679.8,,668.6
+2012,Biological treatment plants,2000.0,14979.8,1709.6,13156.3,113.9,,11179.8,210.8,1815.5,,9153.5
+2012,Biowaste composting plants (probably biowaste),245.0,4094.3,15.8,4078.0,0.5,,2279.0,66.1,309.3,,1903.7
+2012,Green waste composting plants (mainly green waste),675.0,3519.3,147.8,3335.3,36.2,,2434.2,33.5,314.1,,2086.6
+2012,Combined composting and fermentation plants,962.0,5394.5,875.4,4442.0,77.1,,4874.3,42.0,395.4,,4436.9
+2012,Sewage sludge composting plants,100.0,948.9,25.3,923.6,,,623.6,5.5,92.1,,526.1
+2012,Other biological treatment facilities,18.0,1022.8,645.4,377.4,,,968.7,63.8,704.5,,200.3
+2012,Biogas and fermentation plants,,,,,,,,,,,
+2012,Mechanical-biological waste treatment plants,60.0,4265.1,80.9,4159.7,24.5,,3604.3,1128.3,2408.8,,67.2
+2012,Dismantling companies for end-of-life vehicles,1368.0,489.8,,487.2,2.7,,525.1,1.0,493.8,,30.3
+2012,Shredder systems and scrap shears,728.0,14466.2,405.4,13235.8,825.0,,14478.6,240.0,7436.5,,6802.1
+2012,Sorting systems,1134.0,24698.4,466.3,23659.4,572.7,,24485.1,1211.5,14673.6,,8599.9
+2012,Disassembly facilities,315.0,850.6,16.3,804.0,30.3,,842.0,16.2,752.4,,73.4
+2012,Other treatment plants,756.0,22679.9,2424.9,18171.3,2083.8,,20200.2,1701.8,10577.2,,7921.1
+2012,Other treatment plants,749.0,22239.6,2424.9,17785.3,2029.4,,19823.8,1701.7,10555.6,,7566.5
+2012,Plants for recycling waste oil,7.0,440.4,,386.0,54.4,,376.4,0.1,21.7,,354.6
+2012,Sewage sludge digester with CO fermentation,,,,,,,,,,,
+2012,Natural materials in mining,12.0,27941.0,27941.0,,,,,,,,
+2012,Waste in underground mining sites,24.0,2571.8,,2254.4,317.4,,,,,,
+2012,Waste in surface mining sites,2952.0,89079.3,,88003.1,1076.2,,,,,,
+2013,landfills,1131.0,45010.9,13043.5,31535.3,432.0,,1779.6,1201.1,270.5,,308.0
+2013,Class 0 landfills,794.0,16604.4,3141.5,13462.9,,,141.6,75.5,4.0,,62.1
+2013,Class I landfills,158.0,16665.0,7355.1,9110.2,199.6,,684.5,460.8,102.1,,121.6
+2013,Class II landfills,157.0,6278.0,491.9,5491.6,294.5,,1060.4,837.9,179.9,,42.6
+2013,Class III landfills,29.0,2357.8,1013.7,1267.7,76.4,,141.4,139.1,1.2,,1.0
+2013,Class IV landfills,4.0,149.1,0.1,98.9,50.0,,,,,,
+2013,Long-term storage,,,,,,,,,,,
+2013,Thermal waste treatment plants,161.0,25303.3,1684.4,22056.4,1562.5,,7194.5,559.7,6508.4,,126.3
+2013,Waste incineration plants,89.0,20817.6,209.0,19686.6,921.9,,6518.6,203.8,6183.8,,131.1
+2013,Sewage sludge incineration plants,21.0,2078.9,1027.2,1012.7,38.9,,289.4,97.8,178.4,,13.2
+2013,Hazardous waste incineration plants,33.0,1246.3,483.2,583.6,179.6,,253.1,199.7,51.7,,1.7
+2013,Other systems for thermal waste treatment,24.0,665.1,23.7,537.2,104.2,,147.3,72.1,65.9,,9.3
+2013,combustion plants,687.0,21510.4,3586.9,16452.8,1470.8,,2980.8,815.9,2002.9,,162.1
+2013,Power plants/thermal power plants,,,,,,,,,,,
+2013,Other combustion systems,,,,,,,,,,,
+2013,Alternative fuel power plants,45.0,4740.6,246.5,4296.8,197.4,,1373.5,360.3,959.8,,53.4
+2013,Biomass power plants,123.0,8323.1,2209.2,5522.1,591.8,,921.5,204.9,623.0,,93.5
+2013,Other power plants,41.0,3052.6,446.6,2471.5,134.5,,412.7,35.6,231.7,,145.4
+2013,Heating plants,406.0,1367.7,748.8,597.5,21.5,,167.5,43.5,120.3,,3.7
+2013,Equipment for other production purposes,90.0,3812.0,215.3,3328.7,268.0,,76.4,16.0,13.6,,46.8
+2013,Chemical-physical treatment plants,541.0,9357.0,4436.7,4542.1,378.2,,3800.8,1361.1,1557.4,,882.2
+2013,"Regeneration of acids and bases, solvents",56.0,403.3,168.0,219.1,16.3,,95.7,23.3,41.5,,30.9
+2013,"Recovery of metals, solvents, etc.",76.0,528.4,67.7,407.0,53.6,,480.7,30.9,96.9,,352.9
+2013,Volume reduction and water separation,157.0,3977.9,3304.3,668.0,5.7,,952.6,311.2,640.7,,0.8
+2013,Other facilities,263.0,4343.9,1161.8,2921.4,260.7,,2264.2,641.4,1179.0,,443.8
+2013,Soil treatment plants,116.0,3852.7,206.5,3593.7,52.5,,3743.1,592.8,2493.7,,656.6
+2013,Biological treatment plants,2387.0,15435.4,1607.6,13737.9,89.9,,11374.2,169.1,1756.7,,9448.4
+2013,Biowaste composting plants (probably biowaste),241.0,3971.1,6.9,3962.2,1.9,,2152.6,80.4,332.2,,1740.0
+2013,Green waste composting plants (mainly green waste),671.0,3395.6,163.3,3215.9,16.4,,2278.9,51.9,340.2,,1886.9
+2013,Combined composting and fermentation plants,1439.0,5500.4,724.1,4697.7,78.7,,4734.6,30.4,426.8,,4277.3
+2013,Sewage sludge composting plants,88.0,874.0,15.8,858.2,,,590.8,3.8,81.3,,505.7
+2013,Other biological treatment facilities,23.0,917.0,545.2,371.8,,,765.1,14.3,622.9,,127.9
+2013,Biogas and fermentation plants,,,,,,,,,,,
+2013,Mechanical-biological waste treatment plants,55.0,4207.3,64.4,4106.3,36.5,,3552.3,1103.8,2421.7,,26.7
+2013,Dismantling companies for end-of-life vehicles,1325.0,524.4,,520.5,3.9,,527.9,1.7,503.3,,22.9
+2013,Shredder systems and scrap shears,736.0,15491.3,519.7,14065.3,906.2,,15614.4,535.3,9200.9,,5878.2
+2013,Sorting systems,1126.0,25891.3,334.9,24927.5,629.0,,25422.4,1307.2,16400.5,,7714.7
+2013,Disassembly facilities,305.0,839.1,9.8,781.6,47.6,,820.4,14.5,753.0,,52.9
+2013,Other treatment plants,917.0,25661.4,2778.3,20836.9,2046.1,,22697.0,3019.5,11783.6,,7893.9
+2013,Other treatment plants,775.0,23095.2,2909.8,18173.4,2012.0,,20540.5,2393.8,10879.1,,7267.6
+2013,Plants for recycling waste oil,7.0,510.2,0.1,381.6,128.5,,430.3,1.4,23.4,,405.5
+2013,Sewage sludge digester with CO fermentation,,,,,,,,,,,
+2013,Natural materials in mining,18.0,27407.3,27407.3,,,,,,,,
+2013,Waste in underground mining sites,22.0,2582.6,9.8,2276.4,296.4,,,,,,
+2013,Waste in surface mining sites,2873.0,91766.5,1796.7,88814.6,1155.2,,,,,,
+2014,landfills,1131.0,45010.9,13043.5,31535.3,432.0,,1779.6,1201.1,270.5,,308.0
+2014,Class 0 landfills,802.0,18876.8,3913.7,14963.1,,,67.7,33.8,28.9,,5.0
+2014,Class I landfills,142.0,16780.1,7720.6,8928.1,131.5,,683.6,387.6,42.4,,253.6
+2014,Class II landfills,156.0,7037.8,634.2,6192.9,210.6,,892.5,708.7,134.4,,49.5
+2014,Class III landfills,27.0,2178.0,774.9,1353.8,49.3,,135.8,71.0,64.8,,
+2014,Class IV landfills,4.0,138.2,0.1,97.4,40.7,,,,,,
+2014,Long-term storage,,,,,,,,,,,
+2014,Thermal waste treatment plants,161.0,25303.3,1684.4,22056.4,1562.5,,7194.5,559.7,6508.4,,126.3
+2014,Waste incineration plants,89.0,21540.2,177.8,20133.5,1228.9,,6549.2,155.0,6283.0,,111.3
+2014,Sewage sludge incineration plants,19.0,1944.5,945.8,951.8,46.9,,281.9,139.4,138.6,,3.9
+2014,Hazardous waste incineration plants,31.0,1303.8,537.3,584.2,182.3,,261.4,217.3,42.2,,1.9
+2014,Other systems for thermal waste treatment,22.0,514.9,23.5,386.9,104.5,,102.1,48.1,44.6,,9.3
+2014,combustion plants,687.0,21510.4,3586.9,16452.8,1470.8,,2980.8,815.9,2002.9,,162.1
+2014,Power plants/thermal power plants,,,,,,,,,,,
+2014,Other combustion systems,,,,,,,,,,,
+2014,Alternative fuel power plants,39.0,4456.8,240.3,3911.5,305.0,,1334.9,363.3,971.1,,0.5
+2014,Biomass power plants,121.0,8428.2,2067.5,5697.1,663.6,,990.6,243.5,674.4,,72.6
+2014,Other power plants,45.0,3140.1,345.3,2636.4,158.4,,403.0,144.6,214.7,,43.8
+2014,Heating plants,401.0,1446.6,800.3,610.8,35.6,,174.7,49.8,120.2,,4.7
+2014,Equipment for other production purposes,81.0,4038.6,133.4,3597.0,308.2,,77.7,14.7,22.4,,40.5
+2014,Chemical-physical treatment plants,541.0,9357.0,4436.7,4542.1,378.2,,3800.8,1361.1,1557.4,,882.2
+2014,"Regeneration of acids and bases, solvents",50.0,222.0,11.2,197.0,13.7,,97.6,24.5,38.1,,35.0
+2014,"Recovery of metals, solvents, etc.",77.0,625.3,200.3,331.0,93.9,,539.6,26.3,151.2,,362.1
+2014,Volume reduction and water separation,151.0,3984.5,3109.6,868.3,6.5,,697.0,596.9,99.5,,0.7
+2014,Other facilities,263.0,4525.3,1115.5,3145.8,264.0,,2466.6,713.5,1268.6,,484.5
+2014,Soil treatment plants,116.0,3852.7,206.5,3593.7,52.5,,3743.1,592.8,2493.7,,656.6
+2014,Biological treatment plants,2387.0,15435.4,1607.6,13737.9,89.9,,11374.2,169.1,1756.7,,9448.4
+2014,Biowaste composting plants (probably biowaste),236.0,3880.1,67.9,3811.0,1.1,,2135.1,64.5,346.6,,1724.0
+2014,Green waste composting plants (mainly green waste),648.0,3577.4,167.7,3397.5,12.2,,2551.2,31.2,285.0,,2235.0
+2014,Combined composting and fermentation plants,1386.0,6135.8,809.6,5249.5,76.6,,5294.8,60.9,417.5,,4816.3
+2014,Sewage sludge composting plants,84.0,876.3,25.6,850.7,,,549.4,5.5,52.8,,491.1
+2014,Other biological treatment facilities,33.0,965.9,536.8,429.1,,,843.6,6.9,654.8,,182.0
+2014,Biogas and fermentation plants,,,,,,,,,,,
+2014,Mechanical-biological waste treatment plants,55.0,4207.3,64.4,4106.3,36.5,,3552.3,1103.8,2421.7,,26.7
+2014,Dismantling companies for end-of-life vehicles,1325.0,524.4,,520.5,3.9,,527.9,1.7,503.3,,22.9
+2014,Shredder systems and scrap shears,736.0,15491.3,519.7,14065.3,906.2,,15614.4,535.3,9200.9,,5878.2
+2014,Sorting systems,1126.0,25891.3,334.9,24927.5,629.0,,25422.4,1307.2,16400.5,,7714.7
+2014,Disassembly facilities,305.0,839.1,9.8,781.6,47.6,,820.4,14.5,753.0,,52.9
+2014,Other treatment plants,917.0,25661.4,2778.3,20836.9,2046.1,,22697.0,3019.5,11783.6,,7893.9
+2014,Other treatment plants,910.0,25135.1,2778.3,20449.1,1907.6,,22283.8,3018.7,11764.0,,7501.1
+2014,Plants for recycling waste oil,7.0,526.3,,387.8,138.5,,413.1,0.7,19.6,,392.8
+2014,Sewage sludge digester with CO fermentation,,,,,,,,,,,
+2014,Natural materials in mining,18.0,27407.3,27407.3,,,,,,,,
+2014,Waste in underground mining sites,22.0,2582.6,9.8,2276.4,296.4,,,,,,
+2014,Waste in surface mining sites,2873.0,91766.5,1796.7,88814.6,1155.2,,,,,,
+2015,landfills,1110.0,44449.1,12812.3,31092.1,544.8,,1873.5,1232.7,229.1,,411.7
+2015,Class 0 landfills,787.0,18519.2,3784.9,14734.3,,,223.5,62.4,8.0,,153.2
+2015,Class I landfills,138.0,16176.4,7535.0,8418.1,223.3,,605.6,351.2,47.7,,206.6
+2015,Class II landfills,154.0,6961.9,820.0,5925.4,216.6,,901.0,763.6,86.1,,51.3
+2015,Class III landfills,27.0,2671.1,672.3,1950.3,48.5,,,,,,
+2015,Class IV landfills,4.0,120.5,0.1,64.1,56.3,,,,,,
+2015,Long-term storage,,,,,,,,,,,
+2015,Thermal waste treatment plants,161.0,25506.1,1673.6,22120.6,1711.9,,7334.0,658.4,6477.4,,198.2
+2015,Waste incineration plants,90.0,21755.8,308.7,20069.8,1377.4,,6676.4,276.8,6222.3,,177.3
+2015,Sewage sludge incineration plants,20.0,2047.5,943.5,1060.3,43.8,,297.5,131.5,156.8,,9.2
+2015,Hazardous waste incineration plants,33.0,1276.0,421.3,666.3,188.4,,270.3,219.6,48.5,,2.1
+2015,Other systems for thermal waste treatment,18.0,426.8,0.2,324.2,102.4,,89.8,30.4,49.8,,9.6
+2015,combustion plants,668.0,22009.9,3537.7,17118.7,1353.5,,2790.2,647.6,1954.3,,188.3
+2015,Power plants/thermal power plants,,,,,,,,,,,
+2015,Other combustion systems,,,,,,,,,,,
+2015,Alternative fuel power plants,31.0,4343.0,172.8,3885.6,284.6,,1270.4,337.5,884.4,,48.5
+2015,Biomass power plants,117.0,8682.1,1946.8,6081.3,653.9,,937.6,187.6,695.7,,54.3
+2015,Other power plants,45.0,3378.5,453.9,2781.4,143.2,,341.4,79.9,220.0,,41.5
+2015,Heating plants,423.0,1491.7,842.5,617.2,32.0,,162.6,28.0,131.2,,3.5
+2015,Equipment for other production purposes,52.0,4114.7,121.7,3753.2,239.8,,78.2,14.5,23.0,,40.6
+2015,Chemical-physical treatment plants,534.0,9364.6,3931.9,5021.5,411.2,,4474.9,1194.7,2083.3,,1196.8
+2015,"Regeneration of acids and bases, solvents",43.0,210.2,54.4,138.6,17.3,,111.3,23.0,36.2,,52.1
+2015,"Recovery of metals, solvents, etc.",77.0,633.1,228.3,330.1,74.7,,460.7,18.8,139.9,,302.0
+2015,Volume reduction and water separation,147.0,3734.2,2476.6,1250.8,6.8,,1190.5,437.7,408.7,,344.2
+2015,Other facilities,267.0,4787.0,1172.6,3302.0,312.4,,2712.3,715.2,1498.6,,498.6
+2015,Soil treatment plants,111.0,3668.3,197.7,3370.9,99.7,,3723.1,725.5,2331.4,,666.1
+2015,Biological treatment plants,2362.0,15536.5,1645.6,13781.6,109.3,,11381.0,155.1,1747.7,,9478.1
+2015,Biowaste composting plants (probably biowaste),223.0,3604.3,86.5,3517.7,0.2,,2032.5,69.8,357.9,,1604.8
+2015,Green waste composting plants (mainly green waste),645.0,3767.7,154.9,3595.8,16.9,,2604.4,30.7,326.8,,2247.0
+2015,Combined composting and fermentation plants,1392.0,6481.2,879.9,5509.1,92.2,,5608.4,45.5,430.3,,5132.6
+2015,Sewage sludge composting plants,78.0,777.7,28.2,749.4,,,484.4,0.8,72.7,,411.0
+2015,Other biological treatment facilities,24.0,905.7,496.1,409.5,,,651.2,8.4,560.1,,82.7
+2015,Biogas and fermentation plants,,,,,,,,,,,
+2015,Mechanical-biological waste treatment plants,55.0,4097.8,69.5,3981.7,46.6,,3399.2,1028.4,2341.9,,28.9
+2015,Dismantling companies for end-of-life vehicles,1296.0,482.7,,479.6,3.1,,452.7,0.9,431.8,,20.0
+2015,Shredder systems and scrap shears,729.0,15117.7,664.2,13789.5,663.9,,15149.6,330.3,8377.3,,6442.1
+2015,Sorting systems,1121.0,25840.8,305.8,24957.8,577.2,,25494.6,1191.6,16933.2,,7369.7
+2015,Disassembly facilities,325.0,951.4,17.9,855.7,77.8,,938.7,15.2,862.2,,61.4
+2015,Other treatment plants,945.0,26289.3,3141.9,21106.9,2040.5,,22472.9,2756.5,12007.4,,7709.0
+2015,Other treatment plants,938.0,25789.1,3141.6,20732.0,1915.5,,21968.8,2752.2,11984.3,,7232.3
+2015,Plants for recycling waste oil,7.0,500.2,0.2,374.9,125.0,,504.1,4.2,23.1,,476.7
+2015,Sewage sludge digester with CO fermentation,,,,,,,,,,,
+2015,Natural materials in mining,18.0,27893.7,27893.7,,,,,,,,
+2015,Waste in underground mining sites,22.0,2767.7,169.1,2253.8,344.8,,,,,,
+2015,Waste in surface mining sites,2834.0,92891.7,2836.4,89085.8,969.5,,,,,,
+2016,landfills,1108.0,46613.1,12169.6,33802.5,640.9,,1690.2,892.1,422.6,,375.5
+2016,Class 0 landfills,798.0,20076.5,3657.8,16418.7,,,97.6,1.7,10.6,,85.4
+2016,Class I landfills,131.0,16382.4,7167.9,8975.0,239.5,,513.5,189.9,86.5,,237.1
+2016,Class II landfills,147.0,7119.9,670.4,6138.6,310.8,,915.1,641.3,220.9,,52.9
+2016,Class III landfills,28.0,2913.4,673.2,2202.3,37.8,,,,,,
+2016,Class IV landfills,4.0,120.9,0.3,67.9,52.7,,,,,,
+2016,Long-term storage,,,,,,,,,,,
+2016,Thermal waste treatment plants,157.0,25294.8,1751.1,21919.6,1624.1,,7169.0,758.0,6283.8,,127.1
+2016,Waste incineration plants,85.0,21738.3,282.2,20094.0,1362.1,,6574.5,429.5,6040.8,,104.1
+2016,Sewage sludge incineration plants,23.0,2046.3,954.7,1054.6,37.0,,288.6,106.9,171.2,,10.5
+2016,Hazardous waste incineration plants,33.0,1394.6,513.5,698.4,182.7,,283.6,213.9,68.5,,1.2
+2016,Other systems for thermal waste treatment,16.0,115.7,0.7,72.5,42.4,,22.2,7.7,3.3,,11.2
+2016,combustion plants,601.0,22442.0,3916.1,17188.4,1337.6,,3099.3,845.7,2033.9,,219.7
+2016,Power plants/thermal power plants,,,,,,,,,,,
+2016,Other combustion systems,,,,,,,,,,,
+2016,Alternative fuel power plants,32.0,4533.8,166.3,4101.0,266.5,,1288.7,255.2,1021.8,,11.6
+2016,Biomass power plants,112.0,8619.8,2379.5,5569.6,670.8,,866.0,182.0,620.0,,63.9
+2016,Other power plants,46.0,3277.1,390.3,2765.6,121.1,,716.7,372.0,236.3,,108.4
+2016,Heating plants,350.0,1476.9,828.4,623.3,25.3,,156.7,23.0,132.9,,0.8
+2016,Equipment for other production purposes,61.0,4534.5,151.7,4128.9,253.9,,71.3,13.5,22.9,,34.9
+2016,Chemical-physical treatment plants,495.0,6958.8,2099.3,4407.8,451.7,,3421.0,785.8,1726.1,,909.0
+2016,"Regeneration of acids and bases, solvents",44.0,233.2,68.1,152.9,12.3,,97.5,26.9,40.9,,29.8
+2016,"Recovery of metals, solvents, etc.",77.0,622.4,276.5,300.4,45.5,,411.2,10.7,150.9,,249.7
+2016,Volume reduction and water separation,134.0,1478.7,325.3,1149.8,3.5,,633.6,194.9,426.1,,12.6
+2016,Other facilities,240.0,4624.5,1429.5,2804.7,390.4,,2278.6,553.4,1108.3,,616.9
+2016,Soil treatment plants,113.0,3766.3,214.4,3518.7,33.2,,3545.5,799.4,2236.5,,509.6
+2016,Biological treatment plants,1256.0,15612.8,2010.8,13499.9,102.1,,10938.5,152.4,1706.1,,9079.9
+2016,Biowaste composting plants (probably biowaste),214.0,3567.3,113.3,3453.7,0.3,,2004.3,65.8,284.3,,1654.3
+2016,Green waste composting plants (mainly green waste),635.0,3938.6,241.6,3678.0,19.0,,2742.8,23.9,406.9,,2312.0
+2016,Combined composting and fermentation plants,49.0,1453.6,50.5,1402.5,0.5,,1043.4,23.9,165.2,,854.2
+2016,Sewage sludge composting plants,82.0,728.2,4.8,723.3,,,536.5,0.7,72.5,,463.3
+2016,Other biological treatment facilities,30.0,780.6,398.9,380.5,1.2,,550.4,0.6,457.1,,92.7
+2016,Biogas and fermentation plants,246.0,5144.6,1201.6,3861.9,81.0,,4061.0,37.5,320.1,,3703.4
+2016,Mechanical-biological waste treatment plants,55.0,3947.9,52.1,3820.1,75.6,,3294.0,790.4,2466.8,,36.9
+2016,Dismantling companies for end-of-life vehicles,1274.0,429.4,,424.9,4.5,,426.1,1.4,407.3,,17.4
+2016,Shredder systems and scrap shears,734.0,14806.5,605.6,13602.8,598.1,,14812.1,314.4,8705.3,,5792.4
+2016,Sorting systems,1113.0,26170.8,386.6,25181.0,603.2,,25763.7,1113.1,16710.1,,7940.5
+2016,Disassembly facilities,338.0,1020.9,15.6,943.9,61.4,,1004.8,8.5,951.4,,45.0
+2016,Other treatment plants,957.0,27673.7,2729.5,23004.6,1939.6,,24179.3,3491.3,12884.0,,7804.0
+2016,Other treatment plants,809.0,26618.0,2714.1,22099.2,1804.7,0.0,23820.2,3488.0,12870.6,,7461.7
+2016,Plants for recycling waste oil,7.0,464.1,,342.0,122.1,,359.1,3.3,13.4,,342.3
+2016,Sewage sludge digester with CO fermentation,141.0,591.6,15.4,563.4,12.8,,,,,,
+2016,Natural materials in mining,17.0,24346.9,24346.9,,,,,,,,
+2016,Waste in underground mining sites,22.0,2928.8,193.2,2433.5,302.1,,,,,,
+2016,Waste in surface mining sites,2813.0,99147.1,2843.9,95397.3,905.8,,,,,,
+2017,landfills,1082.0,46094.3,11579.6,33879.6,635.2,,1384.6,853.7,422.0,,108.9
+2017,Class 0 landfills,777.0,19364.8,3605.9,15758.9,,,39.2,1.3,,,37.9
+2017,Class I landfills,131.0,16506.9,6804.1,9427.6,275.2,,380.0,112.1,237.2,,30.7
+2017,Class II landfills,144.0,7212.8,656.8,6304.5,251.6,,924.1,699.0,184.8,,40.2
+2017,Class III landfills,26.0,2899.9,512.7,2327.1,60.2,,41.3,41.3,0.0,,
+2017,Class IV landfills,4.0,109.9,0.2,61.5,48.2,,,,,,
+2017,Long-term storage,,,,,,,,,,,
+2017,Thermal waste treatment plants,156.0,25119.4,1623.7,22019.1,1476.6,,6992.1,458.3,6412.9,,120.9
+2017,Waste incineration plants,84.0,21585.0,158.9,20174.2,1251.9,0.0,6450.5,157.8,6194.3,,98.4
+2017,Sewage sludge incineration plants,23.0,2068.9,956.1,1064.7,48.2,,268.7,97.9,150.5,,20.3
+2017,Hazardous waste incineration plants,33.0,1352.6,508.8,704.7,139.1,,253.5,196.9,54.8,,1.8
+2017,Other systems for thermal waste treatment,16.0,112.9,0.0,75.5,37.4,,19.4,5.7,13.3,,0.4
+2017,combustion plants,551.0,22747.9,3917.2,17449.7,1381.0,,3122.9,1003.4,1937.9,,181.6
+2017,Power plants/thermal power plants,,,,,,,,,,,
+2017,Other combustion systems,,,,,,,,,,,
+2017,Alternative fuel power plants,33.0,4716.0,193.4,4249.8,272.8,,1326.6,400.4,911.6,,14.6
+2017,Biomass power plants,110.0,8710.4,2322.9,5621.9,765.6,,844.6,200.4,628.6,,15.6
+2017,Other power plants,42.0,3104.1,462.0,2552.9,89.2,,722.5,365.8,241.2,,115.5
+2017,Heating plants,305.0,1442.0,781.7,634.9,25.4,,155.8,22.6,132.6,,0.6
+2017,Equipment for other production purposes,61.0,4775.4,157.2,4390.2,228.1,,73.3,14.1,23.9,,35.3
+2017,Chemical-physical treatment plants,466.0,6611.7,2194.9,3977.1,439.7,,3281.4,815.6,1543.4,,922.3
+2017,"Regeneration of acids and bases, solvents",44.0,373.5,216.5,145.0,12.0,,97.9,26.5,40.3,,31.2
+2017,"Recovery of metals, solvents, etc.",74.0,581.8,240.6,284.3,57.0,,414.3,10.1,140.7,,263.6
+2017,Volume reduction and water separation,124.0,1350.9,640.5,706.7,3.7,,546.7,158.0,382.6,,6.1
+2017,Other facilities,224.0,4305.5,1097.3,2841.2,367.0,,2222.4,621.0,979.9,,621.5
+2017,Soil treatment plants,110.0,3823.2,224.4,3578.6,20.1,,3698.7,779.6,2479.1,,440.0
+2017,Biological treatment plants,1242.0,15819.3,2239.2,13522.9,57.1,,10808.2,211.9,1981.8,,8614.5
+2017,Biowaste composting plants (probably biowaste),213.0,3639.3,122.1,3516.6,0.6,,1903.4,77.3,323.6,,1502.4
+2017,Green waste composting plants (mainly green waste),631.0,3912.4,211.3,3693.8,7.3,,2774.5,55.0,395.1,,2324.4
+2017,Combined composting and fermentation plants,49.0,1521.4,71.1,1449.2,1.1,,959.6,32.0,165.0,,762.5
+2017,Sewage sludge composting plants,76.0,639.5,3.9,635.7,,,426.2,0.6,46.9,,378.7
+2017,Other biological treatment facilities,25.0,992.6,622.6,369.6,0.4,,792.7,1.5,706.5,,84.7
+2017,Biogas and fermentation plants,248.0,5113.9,1208.2,3858.0,47.8,,3951.9,45.5,344.6,,3561.8
+2017,Mechanical-biological waste treatment plants,52.0,3823.0,43.8,3749.7,29.5,,3242.0,747.6,2423.2,,71.2
+2017,Dismantling companies for end-of-life vehicles,1257.0,540.5,,536.5,4.0,,516.8,0.8,496.1,,19.8
+2017,Shredder systems and scrap shears,744.0,15579.5,462.2,14557.0,560.3,,15347.1,226.8,8651.1,,6469.1
+2017,Sorting systems,1103.0,26108.7,303.1,25074.3,731.4,,25555.3,1107.9,16604.5,,7842.8
+2017,Disassembly facilities,337.0,1033.2,8.8,952.7,71.7,,1003.0,10.3,929.2,,63.5
+2017,Other treatment plants,975.0,28203.9,3211.3,22885.7,2106.9,,24245.6,3430.2,12863.0,,7952.4
+2017,Other treatment plants,821.0,27032.2,3155.5,21917.3,1959.4,,23882.3,3428.0,12847.9,,7606.5
+2017,Plants for recycling waste oil,7.0,495.2,,363.1,132.1,,363.3,2.2,15.1,,346.0
+2017,Sewage sludge digester with CO fermentation,147.0,676.5,55.8,605.3,15.4,,,,,,
+2017,Natural materials in mining,17.0,27445.5,27445.5,,,,,,,,
+2017,Waste in underground mining sites,22.0,3031.8,177.9,2576.2,277.7,,,,,,
+2017,Waste in surface mining sites,2737.0,95363.2,3299.1,91147.7,916.4,,,,,,
+2018,landfills,1052.0,45708.2,10455.7,34646.2,606.2,,1403.4,563.0,712.3,,128.1
+2018,Class 0 landfills,756.0,18856.3,2484.6,16371.7,,,295.1,0.0,243.1,,51.9
+2018,Class I landfills,122.0,16503.6,6922.9,9361.0,219.6,,449.3,122.5,274.9,,51.9
+2018,Class II landfills,144.0,7401.8,622.7,6538.1,241.0,,623.9,405.3,194.3,,24.3
+2018,Class III landfills,26.0,2824.0,425.2,2305.7,93.0,,35.2,35.1,0.0,,
+2018,Class IV landfills,4.0,122.5,0.3,69.7,52.5,,,,,,
+2018,Long-term storage,,,,,,,,,,,
+2018,Thermal waste treatment plants,157.0,24986.9,1559.8,22106.8,1320.3,,6841.1,511.6,6115.7,,213.7
+2018,Waste incineration plants,85.0,21499.8,157.1,20202.7,1140.0,,6270.1,217.1,5861.2,,191.9
+2018,Sewage sludge incineration plants,23.0,2104.5,918.8,1130.5,55.2,,272.8,83.0,169.1,,20.7
+2018,Hazardous waste incineration plants,31.0,1299.5,483.5,706.5,109.5,,277.4,204.5,72.9,,0.1
+2018,Other systems for thermal waste treatment,18.0,83.1,0.4,67.1,15.6,,20.7,7.0,12.6,,1.1
+2018,combustion plants,504.0,22805.4,4024.4,17420.6,1360.4,,3105.4,941.2,2039.0,,125.1
+2018,Power plants/thermal power plants,,,,,,,,,,,
+2018,Other combustion systems,,,,,,,,,,,
+2018,Alternative fuel power plants,34.0,4783.3,266.6,4277.7,239.1,,1336.5,315.7,1008.1,,12.7
+2018,Biomass power plants,103.0,8568.8,2339.0,5424.3,805.5,,789.4,191.3,576.9,,21.1
+2018,Other power plants,40.0,3260.6,444.4,2735.7,80.5,,745.4,377.0,317.2,,51.3
+2018,Heating plants,265.0,1342.0,730.5,598.0,13.5,,145.7,24.7,120.5,,0.5
+2018,Equipment for other production purposes,62.0,4850.6,243.8,4385.0,221.8,,88.3,32.5,16.4,,39.5
+2018,Chemical-physical treatment plants,395.0,6404.1,1675.9,4254.1,474.2,,3245.1,702.1,1651.8,,891.2
+2018,"Regeneration of acids and bases, solvents",39.0,388.9,225.8,149.6,13.6,,79.8,27.3,40.8,,11.7
+2018,"Recovery of metals, solvents, etc.",67.0,591.6,216.9,304.8,69.8,,353.2,10.5,120.6,,222.1
+2018,Volume reduction and water separation,92.0,1167.4,442.6,721.0,3.8,,606.0,173.6,427.0,,5.4
+2018,Other facilities,197.0,4256.2,790.5,3078.7,387.0,,2206.1,490.7,1063.4,,652.0
+2018,Soil treatment plants,113.0,3875.2,155.2,3687.5,32.5,,3839.3,653.2,2693.5,,492.6
+2018,Biological treatment plants,1209.0,15060.8,2087.1,12912.1,61.7,,10505.9,157.5,2213.1,,8135.4
+2018,Biowaste composting plants (probably biowaste),213.0,3297.0,120.1,3176.5,0.4,,1895.6,53.5,371.6,,1470.5
+2018,Green waste composting plants (mainly green waste),615.0,3801.0,103.2,3693.4,4.4,,2709.2,39.1,485.3,,2184.7
+2018,Combined composting and fermentation plants,51.0,1591.9,16.3,1570.3,5.3,,1012.6,36.9,198.9,,776.8
+2018,Sewage sludge composting plants,70.0,614.5,1.8,612.7,,,412.4,2.0,40.9,,369.5
+2018,Other biological treatment facilities,23.0,1094.7,718.4,376.0,0.2,,895.3,0.1,804.8,,90.3
+2018,Biogas and fermentation plants,237.0,4661.7,1127.2,3483.2,51.3,,3580.9,25.8,311.5,,3243.6
+2018,Mechanical-biological waste treatment plants,53.0,3770.8,37.4,3707.8,25.6,,3195.8,694.2,2418.4,,83.3
+2018,Dismantling companies for end-of-life vehicles,1240.0,608.9,,604.0,4.9,,565.8,1.0,542.7,,22.2
+2018,Shredder systems and scrap shears,739.0,15717.5,484.5,14586.7,646.2,,15626.9,202.1,9289.3,,6135.5
+2018,Sorting systems,1039.0,25262.9,379.1,24146.5,737.2,,24761.9,1335.3,16447.9,,6978.7
+2018,Disassembly facilities,336.0,1063.7,10.2,975.8,77.7,,1022.9,10.0,966.4,,46.5
+2018,Other treatment plants,1027.0,29115.6,3075.2,23960.3,2080.1,,24820.4,3077.5,13991.3,,7751.5
+2018,Other treatment plants,846.0,27808.0,3016.0,22883.9,1908.1,,24428.5,3077.3,13971.7,,7379.5
+2018,Plants for recycling waste oil,7.0,517.7,,378.4,139.3,,391.9,0.2,19.6,,372.0
+2018,Sewage sludge digester with CO fermentation,174.0,789.9,59.2,698.0,32.7,,,,,,
+2018,Natural materials in mining,17.0,26621.9,26621.9,,,,,,,,
+2018,Waste in underground mining sites,23.0,3011.8,191.7,2590.5,229.6,,,,,,
+2018,Waste in surface mining sites,2877.0,99385.2,3279.9,95551.6,553.7,,,,,,
+2019,landfills,1027.0,43751.9,8490.3,34766.3,495.4,,1179.9,667.8,393.7,,118.4
+2019,Class 0 landfills,728.0,18033.4,1903.3,16130.1,,,93.1,,45.0,,48.1
+2019,Class I landfills,121.0,15107.7,5561.1,9369.4,177.3,,488.2,172.3,280.8,,35.0
+2019,Class II landfills,148.0,7601.6,623.5,6784.7,193.4,,496.0,395.7,65.0,,35.3
+2019,Class III landfills,26.0,2888.7,402.2,2412.0,74.5,,102.7,99.8,2.8,,
+2019,Class IV landfills,4.0,120.5,0.3,70.1,50.1,,,,,,
+2019,Long-term storage,,,,,,,,,,,
+2019,Thermal waste treatment plants,156.0,25023.4,1538.5,22265.9,1218.9,,6865.8,446.5,6222.1,,197.2
+2019,Waste incineration plants,84.0,21460.3,163.1,20255.4,1041.8,,6285.5,150.0,5940.1,,195.4
+2019,Sewage sludge incineration plants,22.0,2159.8,1038.7,1081.5,39.6,,267.1,73.8,192.7,,0.6
+2019,Hazardous waste incineration plants,29.0,1333.1,331.9,867.2,133.9,,292.2,215.7,76.6,,
+2019,Other systems for thermal waste treatment,21.0,70.2,4.8,61.8,3.6,,21.0,7.1,12.7,,1.2
+2019,combustion plants,488.0,21750.1,2891.6,17663.8,1194.7,,2959.5,919.8,1849.5,,190.2
+2019,Power plants/thermal power plants,,,,,,,,,,,
+2019,Other combustion systems,,,,,,,,,,,
+2019,Alternative fuel power plants,34.0,4685.0,256.9,4222.6,205.5,,1298.4,258.3,1012.7,,27.4
+2019,Biomass power plants,103.0,7724.9,1387.4,5652.4,685.1,,746.0,177.7,472.9,,95.5
+2019,Other power plants,38.0,3010.5,400.3,2547.2,62.9,,678.2,428.4,219.0,,30.8
+2019,Heating plants,257.0,1313.6,692.3,601.8,19.5,,148.9,23.5,125.0,,0.4
+2019,Equipment for other production purposes,56.0,5016.2,154.7,4639.8,221.6,,88.0,32.0,19.9,,36.1
+2019,Chemical-physical treatment plants,386.0,7082.6,2295.3,4317.6,469.8,,3509.0,918.7,1622.7,,967.6
+2019,"Regeneration of acids and bases, solvents",37.0,345.8,194.6,139.1,12.1,,73.7,23.8,39.3,,10.6
+2019,"Recovery of metals, solvents, etc.",65.0,573.4,161.0,347.1,65.3,,432.0,7.8,129.9,,294.4
+2019,Volume reduction and water separation,89.0,1971.8,1233.1,734.7,4.0,,614.1,298.0,316.0,,0.1
+2019,Other facilities,195.0,4191.6,706.6,3096.6,388.4,,2389.2,589.2,1137.5,,662.5
+2019,Soil treatment plants,109.0,3993.4,27.1,3940.0,26.3,,3868.6,813.1,2646.8,,408.6
+2019,Biological treatment plants,1200.0,15263.3,2002.8,13217.4,43.1,,10448.2,155.3,2090.0,,8202.9
+2019,Biowaste composting plants (probably biowaste),212.0,3318.4,134.2,3183.9,0.3,,1843.5,58.3,289.7,,1495.6
+2019,Green waste composting plants (mainly green waste),602.0,3864.1,70.8,3790.1,3.2,,2816.8,20.9,426.1,,2369.8
+2019,Combined composting and fermentation plants,57.0,1845.8,82.8,1758.1,4.9,,1096.7,43.3,227.4,,826.0
+2019,Sewage sludge composting plants,73.0,604.4,4.1,600.4,,,379.2,0.9,31.8,,346.5
+2019,Other biological treatment facilities,22.0,1062.5,687.6,372.8,2.2,,867.2,0.1,777.8,,89.3
+2019,Biogas and fermentation plants,234.0,4568.1,1023.4,3512.2,32.6,,3444.7,31.8,337.2,,3075.7
+2019,Mechanical-biological waste treatment plants,52.0,3744.4,21.1,3691.5,31.9,,3252.9,690.3,2450.6,,111.9
+2019,Dismantling companies for end-of-life vehicles,1200.0,514.4,,510.7,3.7,,483.3,0.4,463.5,,19.4
+2019,Shredder systems and scrap shears,728.0,15884.4,530.4,14846.7,507.2,,15857.6,236.7,9812.2,,5808.8
+2019,Sorting systems,987.0,25120.7,219.6,24067.9,833.2,,24803.2,974.1,16730.8,,7098.3
+2019,Disassembly facilities,320.0,1041.0,10.6,956.1,74.2,,985.2,23.5,869.5,,92.3
+2019,Other treatment plants,1008.0,29198.0,2961.7,24202.1,2034.2,,25822.4,3118.9,14988.8,,7714.7
+2019,Other treatment plants,833.0,27961.9,2905.4,23156.8,1899.8,,25428.9,3114.3,14972.6,,7342.0
+2019,Plants for recycling waste oil,7.0,509.6,,387.6,122.1,,393.5,4.6,16.1,,372.7
+2019,Sewage sludge digester with CO fermentation,168.0,726.4,56.4,657.7,12.3,,,,,,
+2019,Natural materials in mining,16.0,26249.8,26249.8,,,,,,,,
+2019,Waste in underground mining sites,22.0,2902.6,170.7,2485.1,246.7,,,,,,
+2019,Waste in surface mining sites,2781.0,101383.4,2851.5,97812.9,718.9,,,,,,
+2020,landfills,1005.0,41434.4,6869.4,34185.2,379.8,,1432.0,1083.9,256.8,36.6,54.6
+2020,Class 0 landfills,707.0,17585.3,1767.1,15817.6,0.6,,3.1,0.1,1.1,0.0,1.9
+2020,Class I landfills,123.0,14383.4,4462.9,9708.0,212.6,,477.9,195.4,218.8,12.2,51.6
+2020,Class II landfills,148.0,6866.1,447.4,6335.7,83.0,,816.3,753.9,36.8,24.5,1.1
+2020,Class III landfills,23.0,2463.1,173.9,2241.6,47.5,,134.7,134.6,0.0,,
+2020,Class IV landfills,4.0,136.6,18.0,82.4,36.1,,,,,,
+2020,Long-term storage,,,,,,,,,,,
+2020,Thermal waste treatment plants,154.0,25275.2,1540.9,22646.1,1088.2,,7099.5,532.6,5570.7,963.3,32.9
+2020,Waste incineration plants,84.0,21734.5,122.9,20772.2,839.4,,6523.3,179.3,5381.3,952.7,9.9
+2020,Sewage sludge incineration plants,22.0,2154.8,1079.7,1039.1,36.0,,282.5,130.4,132.7,5.7,13.6
+2020,Hazardous waste incineration plants,29.0,1334.6,333.3,788.9,212.4,,273.9,214.0,55.0,4.9,
+2020,Other systems for thermal waste treatment,19.0,51.2,5.1,45.8,0.3,,19.8,8.9,1.6,,9.3
+2020,combustion plants,483.0,21847.4,3325.2,17430.8,1091.4,,2965.9,810.6,1906.3,97.0,152.1
+2020,Power plants/thermal power plants,,,,,,,,,,,
+2020,Other combustion systems,,,,,,,,,,,
+2020,Alternative fuel power plants,35.0,4933.5,378.2,4462.8,92.5,,1372.7,241.0,1063.8,68.0,
+2020,Biomass power plants,102.0,7557.8,1438.7,5395.8,723.4,,739.8,173.8,471.0,18.9,76.1
+2020,Other power plants,38.0,3100.7,581.7,2457.2,61.9,,636.1,369.6,184.6,6.5,75.4
+2020,Heating plants,253.0,1321.8,716.3,591.1,14.5,,150.5,13.8,132.6,3.6,0.5
+2020,Equipment for other production purposes,55.0,4933.5,210.4,4523.9,199.2,,66.9,12.3,54.4,,0.1
+2020,Chemical-physical treatment plants,380.0,7243.0,2515.4,4289.9,437.7,,3394.8,821.6,1588.7,139.4,845.2
+2020,"Regeneration of acids and bases, solvents",35.0,291.4,152.0,128.2,11.2,,85.4,23.1,35.8,2.9,23.7
+2020,"Recovery of metals, solvents, etc.",61.0,473.1,157.0,268.8,47.3,,363.4,7.6,70.2,1.1,284.5
+2020,Volume reduction and water separation,90.0,2314.1,1511.9,796.3,6.0,,578.2,299.0,256.9,20.9,1.4
+2020,Other facilities,194.0,4164.4,694.6,3096.6,373.2,,2367.8,491.8,1225.9,114.4,535.7
+2020,Soil treatment plants,106.0,3775.3,13.1,3747.8,14.4,,3811.6,771.2,2725.4,68.2,246.9
+2020,Biological treatment plants,1192.0,15370.3,1855.4,13443.7,71.2,,10995.4,262.1,2087.9,120.6,8524.8
+2020,Biowaste composting plants (probably biowaste),218.0,3411.1,170.2,3240.4,0.6,,2001.7,130.2,246.6,43.6,1581.3
+2020,Green waste composting plants (mainly green waste),599.0,3997.8,111.9,3884.3,1.6,,2977.5,27.6,535.4,13.5,2401.0
+2020,Combined composting and fermentation plants,58.0,2142.3,2.4,2132.5,7.4,,1339.2,68.7,180.5,23.4,1066.6
+2020,Sewage sludge composting plants,69.0,562.2,1.7,560.5,,,405.5,0.0,90.8,,314.7
+2020,Other biological treatment facilities,21.0,1162.4,747.7,414.7,0.1,,976.9,6.2,809.7,0.9,160.1
+2020,Biogas and fermentation plants,227.0,4094.5,821.5,3211.4,61.6,,3294.6,29.4,224.9,39.3,3001.1
+2020,Mechanical-biological waste treatment plants,49.0,3679.5,25.7,3609.6,44.2,,3234.8,723.7,2367.9,108.0,35.3
+2020,Dismantling companies for end-of-life vehicles,1167.0,464.3,,459.9,4.3,,466.7,0.5,267.6,183.2,15.4
+2020,Shredder systems and scrap shears,739.0,15859.5,548.3,14801.3,510.0,,15879.1,270.6,9890.3,589.5,5128.6
+2020,Sorting systems,970.0,24556.5,363.5,23408.6,784.4,,24286.4,1025.6,17495.5,1154.7,4610.6
+2020,Disassembly facilities,312.0,1038.4,35.5,940.7,62.2,,1006.8,16.2,788.9,146.7,55.0
+2020,Other treatment plants,1009.0,29129.5,2886.8,24043.6,2199.1,,25103.7,2941.3,15212.2,712.6,6237.6
+2020,Other treatment plants,834.0,27965.9,2828.1,23054.7,2083.1,,24743.3,2939.2,15200.3,711.2,5892.7
+2020,Plants for recycling waste oil,7.0,490.8,,380.0,110.8,,360.4,2.1,12.0,1.3,345.0
+2020,Sewage sludge digester with CO fermentation,168.0,672.8,58.7,608.9,5.2,,,,,,
+2020,Natural materials in mining,14.0,27110.3,27110.3,,,,,,,,
+2020,Waste in underground mining sites,21.0,3017.4,220.1,2569.9,227.4,,,,,,
+2020,Waste in surface mining sites,2703.0,96613.6,2232.2,93782.3,599.1,,,,,,
+2021,landfills,999.0,39756.4,7406.0,31796.6,553.8,,1717.7,1299.1,298.5,70.8,49.3
+2021,Class 0 landfills,702.0,15594.0,1792.5,13801.5,0.0,,277.4,226.4,50.8,0.2,
+2021,Class I landfills,124.0,15131.2,5021.6,9719.2,390.4,,516.5,233.4,189.7,44.6,48.9
+2021,Class II landfills,147.0,6561.8,399.5,6098.0,64.4,,799.3,716.9,55.9,26.1,0.4
+2021,Class III landfills,22.0,2342.3,178.1,2100.8,63.4,,124.5,122.4,2.1,,
+2021,Class IV landfills,4.0,127.1,14.4,77.1,35.6,,,,,,
+2021,Long-term storage,,,,,,,,,,,
+2021,Thermal waste treatment plants,155.0,25493.6,1583.0,22974.0,936.5,,7272.3,609.0,5725.5,882.1,55.7
+2021,Waste incineration plants,85.0,21994.5,115.3,21121.2,758.1,,6663.8,298.8,5504.0,850.4,10.7
+2021,Sewage sludge incineration plants,22.0,2104.5,1085.9,977.2,41.4,,293.4,62.3,190.6,25.6,14.9
+2021,Hazardous waste incineration plants,29.0,1282.8,377.1,773.9,131.8,,255.0,218.4,29.1,6.1,1.4
+2021,Other systems for thermal waste treatment,19.0,111.7,4.6,101.8,5.3,,60.2,29.6,1.8,0.0,28.7
+2021,combustion plants,481.0,22088.9,3091.8,17874.8,1122.4,,3471.4,857.7,1907.6,99.9,606.1
+2021,Power plants/thermal power plants,,,,,,,,,,,
+2021,Other combustion systems,,,,,,,,,,,
+2021,Alternative fuel power plants,35.0,5019.0,381.5,4519.6,118.0,,1408.9,279.3,1060.5,61.8,7.4
+2021,Biomass power plants,102.0,7472.0,1398.8,5370.9,702.3,,763.1,191.9,463.5,34.1,73.5
+2021,Other power plants,35.0,2974.6,376.4,2555.2,43.0,,633.5,359.7,201.2,0.5,72.1
+2021,Heating plants,253.0,1430.2,709.9,703.1,17.3,,163.4,14.7,145.2,3.4,0.1
+2021,Equipment for other production purposes,56.0,5193.0,225.2,4726.0,241.8,,502.5,12.1,37.4,,453.0
+2021,Chemical-physical treatment plants,390.0,7711.6,2558.2,4709.5,444.0,,3685.5,878.6,1807.9,99.0,900.1
+2021,"Regeneration of acids and bases, solvents",34.0,318.4,166.1,139.2,13.2,,112.6,22.0,41.8,0.7,48.1
+2021,"Recovery of metals, solvents, etc.",63.0,541.2,191.7,294.9,54.5,,389.8,9.4,88.6,3.9,287.9
+2021,Volume reduction and water separation,89.0,2300.0,1464.4,831.9,3.7,,670.9,357.3,276.1,35.9,1.6
+2021,Other facilities,204.0,4552.0,736.0,3443.5,372.5,,2512.2,489.8,1401.4,58.5,562.5
+2021,Soil treatment plants,103.0,3897.5,28.9,3861.1,7.6,,3789.8,847.2,2545.8,95.8,301.0
+2021,Biological treatment plants,1190.0,16132.0,2239.2,13829.5,63.2,,10976.4,238.8,1954.9,184.0,8598.7
+2021,Biowaste composting plants (probably biowaste),211.0,3332.8,152.6,3179.8,0.4,,1792.3,114.7,244.6,53.5,1379.5
+2021,Green waste composting plants (mainly green waste),609.0,4181.3,98.9,4078.7,3.6,,2964.4,20.1,476.2,65.3,2402.8
+2021,Combined composting and fermentation plants,59.0,2417.9,1.4,2407.7,8.8,,1532.1,66.2,206.1,44.0,1215.8
+2021,Sewage sludge composting plants,65.0,494.9,5.2,489.7,,,326.8,6.2,33.4,,287.3
+2021,Other biological treatment facilities,20.0,1012.0,592.3,419.7,0.1,,838.4,6.5,673.1,6.7,152.1
+2021,Biogas and fermentation plants,226.0,4693.0,1388.9,3253.8,50.3,,3522.4,25.2,321.5,14.4,3161.3
+2021,Mechanical-biological waste treatment plants,50.0,3591.2,26.9,3531.2,33.1,,3106.2,649.5,2286.7,140.8,29.2
+2021,Dismantling companies for end-of-life vehicles,1125.0,452.7,,448.8,3.9,,487.7,0.5,282.6,193.1,11.5
+2021,Shredder systems and scrap shears,758.0,16303.5,646.7,14983.1,673.7,,16585.7,243.3,10511.5,537.3,5293.5
+2021,Sorting systems,957.0,24973.6,476.0,23668.8,828.8,,24519.4,1253.8,17764.3,1106.0,4395.3
+2021,Disassembly facilities,306.0,987.6,13.7,912.0,61.9,,965.2,11.3,719.5,165.8,68.5
+2021,Other treatment plants,1017.0,29236.2,3103.1,24067.0,2066.1,,25316.2,3375.1,14720.1,682.7,6538.3
+2021,Other treatment plants,846.0,28067.8,3037.3,23093.1,1937.3,,24936.1,3372.3,14709.9,681.4,6172.5
+2021,Plants for recycling waste oil,7.0,496.9,0.0,374.7,122.2,,380.2,2.8,10.2,1.3,365.8
+2021,Sewage sludge digester with CO fermentation,164.0,671.4,65.7,599.2,6.6,,,,,,
+2021,Natural materials in mining,14.0,27728.2,27728.2,,,,,,,,
+2021,Waste in underground mining sites,20.0,3173.8,214.2,2728.5,231.1,,,,,,
+2021,Waste in surface mining sites,2663.0,93675.9,1737.0,91187.6,751.2,,,,,,
